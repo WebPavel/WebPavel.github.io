@@ -1,10 +1,28 @@
-<!DOCTYPE html>
-<html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<meta charset="UTF-8">
-<title>welcome</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>首页</title>
+<script type="text/javascript"> 
+window.onload=counter;
+function counter(){
+alert(document.cookie);
+
+if(isNaN(document.cookie.split("=")[1])){
+  document.cookie="count=1";
+  document.getElementById("count").innerHTML=你是第1位访问者;
+}
+else{
+  var a=parseInt(document.cookie.split("=")[1]);
+  alert(document.cookie.split("=")[1]);
+  a++;
+  document.cookie="count="+a;
+  document.getElementById("count").innerHTML="你是第"+a+"位访问者";
+}
+}
+</script>
 </head>
 <body>
-<p>hello,my friend</p>
+ <div id="count"></div>
 </body>
 </html>
