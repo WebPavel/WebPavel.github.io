@@ -36,7 +36,7 @@ hello-0.0.1-SNAPSHOT.tar.gz
 
 #### more and detail
 
-1. pom.xml  
+- pom.xml  
 
 ```xml
 <repositories>
@@ -165,7 +165,7 @@ hello-0.0.1-SNAPSHOT.tar.gz
 </build>
 ```
 
-2. assembly.xml  
+- assembly.xml  
 
 ```xml
 <?xml version='1.0' encoding='UTF-8'?>
@@ -223,7 +223,7 @@ hello-0.0.1-SNAPSHOT.tar.gz
 </assembly>
 ```
 
-3. startup.sh  
+- startup.sh  
 
 ```shell
 #!/bin/sh
@@ -260,7 +260,7 @@ java -Xmx1024m -XX:-HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=./ -jar ${JAVA_O
 
 ```
 
-4.shutdown.sh  
+- shutdown.sh  
 
 ```shell
 #!/bin/sh
@@ -290,7 +290,7 @@ fi
 
 ```
 
-5.restart.sh  
+- restart.sh  
 
 ```shell
 #!/bin/sh
