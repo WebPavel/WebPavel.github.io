@@ -27,6 +27,8 @@ kramdown:
   syntax_highlighter:        rouge
   transliterated_header_ids: true
   parse_block_html:          true
+  parse_span_html:           true
+  html_to_native:            true
   footnote_backlink:         "&#8617;&#xfe0e;"
 mathjax:            true
 sass:
