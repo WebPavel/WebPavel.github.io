@@ -84,3 +84,35 @@ jekyll-mentions:
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
+
+collections:
+  posts:
+    output          : true
+# Handling Reading
+safe                : false
+keep_files          : [".git", ".svn"]
+encoding            : "utf-8"
+markdown_ext        : "markdown,mkdown,mkdn,mkd,md"
+strict_front_matter : false
+
+# Filtering Content
+show_drafts         : null
+limit_posts         : 0
+future              : false
+unpublished         : false
+
+lsi                 : false
+excerpt_separator   : "\n\n"
+incremental         : false
+
+paginate_path       : /page:num
+timezone            : null
+
+quiet               : false
+verbose             : false
+defaults            : []
+
+liquid:
+  error_mode        : warn
+  strict_filters    : false
+  strict_variables  : false
