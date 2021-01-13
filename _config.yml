@@ -26,6 +26,7 @@ kramdown:
   hard_wrap:                 false
   syntax_highlighter:        rouge
   transliterated_header_ids: true
+  parse_block_html:          true
   footnote_backlink:         "&#8617;&#xfe0e;"
 mathjax:            true
 sass:
