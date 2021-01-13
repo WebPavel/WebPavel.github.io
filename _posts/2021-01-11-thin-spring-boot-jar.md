@@ -37,7 +37,7 @@ hello-0.0.1-SNAPSHOT.tar.gz
 #### more and detail
 
 1. pom.xml  
-```xml  
+```xml
 <repositories>
     <!-- 阿里云仓库 -->
     <repository>
@@ -165,7 +165,7 @@ hello-0.0.1-SNAPSHOT.tar.gz
 ```
 
 2. assembly.xml  
-```xml  
+```xml
 <?xml version='1.0' encoding='UTF-8'?>
 <assembly xmlns="http://maven.apache.org/ASSEMBLY/2.0.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/ASSEMBLY/2.0.0 http://maven.apache.org/xsd/assembly-2.0.0.xsd">
@@ -222,7 +222,7 @@ hello-0.0.1-SNAPSHOT.tar.gz
 ```
 
 3. startup.sh  
-```shell  
+```shell
 #!/bin/sh
 # startup.sh
 
@@ -258,7 +258,7 @@ java -Xmx1024m -XX:-HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=./ -jar ${JAVA_O
 ```
 
 4.shutdown.sh  
-```shell  
+```shell
 #!/bin/sh
 # shutdown.sh
 
@@ -287,7 +287,7 @@ fi
 ```
 
 5.restart.sh  
-```shell  
+```shell
 #!/bin/sh
 # restart.sh
 
