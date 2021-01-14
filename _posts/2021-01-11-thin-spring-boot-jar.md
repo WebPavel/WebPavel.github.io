@@ -2,7 +2,7 @@
 layout: post
 title: "thin spring-boot jar for packaging"
 date: 2021-01-11
-excerpt: "spring-boot."
+excerpt: "spring-boot package."
 tags: [spring-boot, thin, deploy]
 comments: true
 ---
