@@ -460,6 +460,7 @@ public class P12GenParam {
 #### 技术难点 -- 关键字定位和解决方案
 
 - 拦截类TextPositionStripper.java
+
 ```java
 package cn.com.ava.sign.util.signature;
 
