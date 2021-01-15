@@ -83,9 +83,6 @@ comments: false
 - 根据关键字签名类SigUtils.java
 
 ```java
-import cn.com.ava.sign.constant.FileConstants;
-import org.apache.commons.exec.CommandLine;
-import org.apache.commons.exec.DefaultExecutor;
 import org.apache.pdfbox.examples.signature.CreateVisibleSignature;
 import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.text.TextPosition;
@@ -94,36 +91,29 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
-import java.security.KeyStore;
 import java.util.List;
 
-public class SigUtils {
+public class PdfBoxSignUtils {
 
-    public static String sign(String password, String p12Path, String imgPath, File documentFile,
-                              String signerName, String location, String reason,
-                              String keyword, int kwIndex, int page) {
+    public static String sign(SignatureBuildParam signatureBuildParam, PrepareSig prepareSig,
+                              String signerName, String location, String reason, int page) {
         try {
             String tsaUrl = null;
             boolean externalSig = false;
-            File ksFile = new File(p12Path);
-            KeyStore keystore = KeyStore.getInstance("PKCS12");
-            char[] pin = password.toCharArray();
-            keystore.load(new FileInputStream(ksFile), pin);
 
-            CreateVisibleSignature signing = new CreateVisibleSignature(keystore, pin.clone());
+            CreateVisibleSignature signing = new CreateVisibleSignature(signatureBuildParam.getKeyStore(), signatureBuildParam.getPin());
 
-            String name = documentFile.getName();
-            String substring = name.substring(0, name.lastIndexOf('.'));
-            File signedDocumentFile = new File(documentFile.getParent(), substring + "_signed.pdf");
+            File documentFile = prepareSig.getPdfFile();
+            File signedDocumentFile = new File(documentFile.getParent(), System.currentTimeMillis() + "_signed.pdf");
 
-            float[] coordinate = getCoordinate(documentFile.getAbsolutePath(), keyword, page, kwIndex);
+            float[] coordinate = getCoordinate(documentFile, prepareSig.getKeyword(), page, prepareSig.getKwIndex());
             if (coordinate != null) {
                 int x = Float.valueOf(coordinate[0]).intValue();
                 int y = Float.valueOf(coordinate[1]).intValue();
 
-                InputStream imageStream = new FileInputStream(imgPath);
+                InputStream imageStream = new FileInputStream(prepareSig.getImgPath());
 
-                signing.setVisibleSignDesigner(documentFile.getAbsolutePath(), x, y, -20, imageStream, page);
+                signing.setVisibleSignDesigner(prepareSig.getPdfPath(), x, y, prepareSig.getZoomPercent(), imageStream, page);
                 signing.setVisibleSignatureProperties(signerName, location, reason, 0, page, true);
                 signing.setExternalSigning(externalSig);
                 signing.signPDF(documentFile, signedDocumentFile, tsaUrl);
@@ -137,22 +127,20 @@ public class SigUtils {
         return null;
     }
 
-    public static void signV2(String password, String p12Path, String imgPath, String pdfPath,
-                              String signerName, String location, String reason,
-                              String keyword, int kwIndex, int page) {
-        File documentFile = new File(pdfPath);
-        if (!documentFile.exists()) {
-            throw new RuntimeException("not found file");
-        }
+    public static void signV2(SignatureBuildParam signatureBuildParam, PrepareSig prepareSig,
+                              String signerName, String location, String reason, int page) {
         if (page != -1) {
-            sign(password, p12Path, imgPath, documentFile, signerName, location, reason, keyword, kwIndex, page);
+            sign(signatureBuildParam, prepareSig, signerName, location, reason, page);
         } else {
-            try (PDDocument document = PDDocument.load(new File(pdfPath));) {
-                String signedPdfPath = pdfPath;
+            try (PDDocument document = PDDocument.load(prepareSig.getPdfFile());) {
+                String signedPdfPath = prepareSig.getPdfPath();
                 int pages = document.getNumberOfPages();
                 for (int i = 1; i <= pages; i++) {
-                    File signedFile = new File(signedPdfPath);
-                    signedPdfPath = sign(password, p12Path, imgPath, signedFile, signerName, location, reason, keyword, kwIndex, i);
+                    prepareSig.setPdfPath(signedPdfPath);
+                    String tmpFilePath = signedPdfPath;
+                    signedPdfPath = sign(signatureBuildParam, prepareSig, signerName, location, reason, i);
+                    // 删除中间文件
+                    new File(tmpFilePath).delete();
                 }
             } catch (IOException e) {
                 e.printStackTrace();
@@ -160,8 +148,8 @@ public class SigUtils {
         }
     }
 
-    public static float[] getCoordinate(String pdfPath, String keyword, int page, int kwIndex) {
-        try (PDDocument document = PDDocument.load(new File(pdfPath));) {
+    public static float[] getCoordinate(File documentFile, String keyword, int page, int kwIndex) {
+        try (PDDocument document = PDDocument.load(documentFile);) {
             TextPositionStripper stripper = new TextPositionStripper(keyword);
             stripper.setSortByPosition(true);
             stripper.setStartPage(page);
@@ -189,17 +177,112 @@ public class SigUtils {
          * validity  证书有效天数
          */
         String storepass = "123456";
-        String certPath = "D:/ava_app/platform" + FileConstants.UPLOAD_PATH + File.separator + "new_cert.cer";
-        File certFile = new File(certPath);
-        if (certFile.exists()) {
-            certFile.delete();
+        String certPath = "D:/upload" + File.separator + "new_cert.cer";
+        SignatureBuildParam signatureBuildParam = new SignatureBuildParam();
+        signatureBuildParam.setP12Path(certPath);
+        signatureBuildParam.setPassword(storepass);
+        signatureBuildParam.buildP12();
+        String imgPath = "D:/upload/dvLl3k8LwjNU4nA8-ff8080817032f2960170523980200005_0021711_1.png";
+        String pdfPath = "D:/upload/br_EE9B31F28FB84DA6947D5AB33F88D015.pdf";
+        String signerName = "TestSign";
+        String reason = "sign for proxy";
+        String location = "gz, China";
+        String keyword = "当事人签名：";
+        int kwIndex = 0;
+        // page is 1-based here
+//        int page = 1;
+        int page = -1;
+        int zoomPercent = -20;
+
+        PrepareSig prepareSig = new PrepareSig();
+        prepareSig.setPdfPath(pdfPath);
+        prepareSig.setImgPath(imgPath);
+        prepareSig.setKeyword(keyword);
+        prepareSig.setKwIndex(kwIndex);
+        prepareSig.setZoomPercent(zoomPercent);
+        signV2(signatureBuildParam, prepareSig, signerName, reason, location, page);
+    }
+}
+
+```
+
+- 证书构建类SignatureBuildParam.java
+
+```java
+
+import org.apache.commons.exec.CommandLine;
+import org.apache.commons.exec.DefaultExecutor;
+
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.security.KeyStore;
+import java.util.Objects;
+
+public class SignatureBuildParam {
+    private P12GenParam param;
+    private String p12Path;
+    private String password;
+
+    public P12GenParam getParam() {
+        return param;
+    }
+
+    public void setParam(P12GenParam param) {
+        this.param = param;
+    }
+
+    public String getP12Path() {
+        return p12Path;
+    }
+
+    public void setP12Path(String p12Path) {
+        this.p12Path = p12Path;
+    }
+
+    public String getPassword() {
+        return password;
+    }
+
+    public void setPassword(String password) {
+        this.password = password;
+    }
+
+    public KeyStore getKeyStore() {
+        Objects.requireNonNull(p12Path);
+        File ksFile = new File(p12Path);
+        if (!ksFile.exists()) {
+            throw new RuntimeException("due to p12 file not found, get keystore failed");
         }
-        P12GenParam param = new P12GenParam();
-        param.setKeyalg(P12GenParam.ALG_RSA);
-        param.setKeysize(P12GenParam.PUBKEYLENGTH_2048);
-        param.setValidity("365");
-        param.setKeystore(certPath);
-        param.setStorepass(storepass);
+        try {
+            KeyStore keystore = KeyStore.getInstance("PKCS12");
+            char[] pin = password.toCharArray();
+            keystore.load(new FileInputStream(ksFile), pin);
+            return keystore;
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        return null;
+    }
+
+    public char[] getPin() {
+        char[] pin = password.toCharArray();
+        return pin.clone();
+    }
+
+    public void buildP12() {
+        File ksFile = new File(p12Path);
+        if (ksFile.exists()) {
+            ksFile.delete();
+        }
+        if (param == null) {
+            param = new P12GenParam();
+            param.setKeyalg(P12GenParam.ALG_RSA);
+            param.setKeysize(P12GenParam.PUBKEYLENGTH_2048);
+            param.setValidity("365");
+        }
+        param.setKeystore(p12Path);
+        param.setStorepass(password);
         String cmd = param.build();
         CommandLine cl = CommandLine.parse(cmd);
         DefaultExecutor executor = new DefaultExecutor();
@@ -209,28 +292,78 @@ public class SigUtils {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        String password = storepass;
-        String imgPath = "C:/Users/LiuBao/Desktop/dvLl3k8LwjNU4nA8-ff8080817032f2960170523980200005_0021711_1.png";
-//        String pdfPath = "D:/ava_app/platform/upload/new_word1610587428293.pdf";
-        String pdfPath = "D:/ava_app/platform/upload/br_EE9B31F28FB84DA6947D5AB33F88D015.pdf";
-        String signerName = "TestSign";
-        String reason = "sign for proxy";
-        String location = "广州奥威亚";
-//        String keyword = "保 证 人：";
-        String keyword = "当事人签名：";
-        int kwIndex = 0;
-        // page is 1-based here
-//        int page = 1;
-        int page = -1;
-        signV2(password, certFile.getAbsolutePath(), imgPath, pdfPath, signerName, reason, location, keyword, kwIndex, page);
     }
 }
+
+```
+
+- 签名控制类PrepareSig.java
+
+```java
+
+import java.io.File;
+
+public class PrepareSig {
+    private String pdfPath;
+    private String imgPath;
+    private String keyword;
+    private int kwIndex;
+    private int zoomPercent;
+
+    public String getPdfPath() {
+        return pdfPath;
+    }
+
+    public void setPdfPath(String pdfPath) {
+        this.pdfPath = pdfPath;
+    }
+
+    public String getImgPath() {
+        return imgPath;
+    }
+
+    public void setImgPath(String imgPath) {
+        this.imgPath = imgPath;
+    }
+
+    public String getKeyword() {
+        return keyword;
+    }
+
+    public void setKeyword(String keyword) {
+        this.keyword = keyword;
+    }
+
+    public int getKwIndex() {
+        return kwIndex;
+    }
+
+    public void setKwIndex(int kwIndex) {
+        this.kwIndex = kwIndex;
+    }
+
+    public int getZoomPercent() {
+        return zoomPercent;
+    }
+
+    public void setZoomPercent(int zoomPercent) {
+        this.zoomPercent = zoomPercent;
+    }
+
+    public File getPdfFile() {
+        File documentFile = new File(pdfPath);
+        if (!documentFile.exists()) {
+            throw new RuntimeException("not found file");
+        }
+        return documentFile;
+    }
+}
+
 ```
 
 - 生成证书参数类P12GenParam.java
 
 ```java
-package cn.com.ava.sign.util.signature;
 
 import org.apache.commons.lang3.StringUtils;
 
