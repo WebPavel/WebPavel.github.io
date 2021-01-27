@@ -30,7 +30,5 @@ comments: false
 *   Grep Console
 *   Translation
 *   PojoToJson
-*   CheckStyle-IDEA
-*   ~~Dracula Theme~~
 *   leetcode editor
 *   EnvFile
