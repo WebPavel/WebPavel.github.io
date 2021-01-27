@@ -128,28 +128,33 @@ public class SpringBeanUtils implements ApplicationContextAware {
 
 ```java
 
-public static String[] allowedUploadExtension(String uploadExtension) {
-    if (StringUtils.isNotEmpty(uploadExtension)) {
-        return uploadExtension.split(StringUtils.escapeRegExpString(","));
+public class FileUtils {
+    
+    public static String[] allowedUploadExtension(String uploadExtension) {
+        if (StringUtils.isNotEmpty(uploadExtension)) {
+            return uploadExtension.split(StringUtils.escapeRegExpString(","));
+        }
+        return null;
     }
-    return null;
-}
 
-public static boolean isAllowedUploadExtension(String filename) {
-    Assert.notNull(filename, "file name must not be null");
-    String fileExtension = FileUtils.getFileExtension(filename);
-    String[] allowedUploadExtension = allowedUploadExtension();
-    if (allowedUploadExtension != null) {
-        if (fileExtension != null) {
-            for (String ext : allowedUploadExtension) {
-                if (fileExtension.equalsIgnoreCase(ext)) {
-                    return true;
+    public static boolean isAllowedUploadExtension(String filename) {
+        Assert.notNull(filename, "file name must not be null");
+        String fileExtension = FileUtils.getFileExtension(filename);
+        String[] allowedUploadExtension = allowedUploadExtension();
+        if (allowedUploadExtension != null) {
+            if (fileExtension != null) {
+                for (String ext : allowedUploadExtension) {
+                    if (fileExtension.equalsIgnoreCase(ext)) {
+                        return true;
+                    }
                 }
             }
+            return false;
         }
-        return false;
+        return true;
     }
-    return true;
+    
 }
+
 ```
 
