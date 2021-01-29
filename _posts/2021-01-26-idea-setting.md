@@ -26,6 +26,7 @@ comments: false
 
 *   .ignore
 *   Maven Helper
+*   Spring Assistant
 *   Rainbow Brackets
 *   Grep Console
 *   Translation
