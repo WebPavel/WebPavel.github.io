@@ -35,3 +35,4 @@ comments: false
 *   ~~Dracula Theme~~
 *   EnvFile
 *   Lombok
+*   CheckStyle-IDEA
