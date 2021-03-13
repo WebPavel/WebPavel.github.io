@@ -7,32 +7,33 @@ tag: idea
 comments: false
 ---
 
-#### IDEA设置
+#### IDEA Settings
 
-*   System Settings -> Reopen last...【x】, Open project in new window【√】
-*   System Settings -> Updates -> Automatically check updates...【x】
-*   Editor -> General -> Show quick documentation...【√】
+*   A&B -> System Settings -> Reopen last...【x】, Open project in new window【√】
+*   A&B -> System Settings -> Updates -> Automatically check updates...【x】
 *   Editor -> General -> Auto Import -> Insert【All】, Add【√】, Optimize【√】
-*   Editor -> General -> Code Completion -> Case【None】
+*   Editor -> General -> Code Completion -> Match case【x】
+*   Editor -> General -> Code Completion -> Show quick documentation...【√】
 *   Editor -> General -> Editor Tabs -> Show tabs in single row【x】
 *   Editor -> Font -> Size【16】
 *   Editor -> Code Style -> Java -> Imports -> 50, 30
+*   Editor -> Code Style -> Java -> Code Generation -> Line comment【x】
 *   Editor -> File Encodings -> UTF-8, UTF-8
-*   Build, Execution, Deployment -> Build Tools -> Maven
-*   View -> Toolbar【√】, Tool Buttons【√】
-*   Double Shift -> Set Background Image
+*   Version Control -> Show Directories 【x】
 
-#### Plugins推荐
+#### Plugins recommend
 
 *   .ignore
-*   Maven Helper
-*   Spring Assistant
-*   Rainbow Brackets
-*   Grep Console
-*   Translation
-*   PojoToJson
-*   leetcode editor
 *   ~~Dracula Theme~~
 *   EnvFile
+*   leetcode editor
+*   Maven Helper
+*   PojoToJson
+*   Rainbow Brackets
+*   Spring Assistant
+*   Translation
 *   Lombok
+*   SonarLint
+*   Save Actions
 *   CheckStyle-IDEA
+*   Grep Console
