@@ -19,21 +19,20 @@ comments: false
 *   Editor -> Code Style -> Java -> Imports -> 50, 30
 *   Editor -> Code Style -> Java -> Code Generation -> Line comment【x】
 *   Editor -> File Encodings -> UTF-8, UTF-8
-*   Version Control -> Show Directories 【x】
+*   Version Control -> Show directories 【x】
 
 #### Plugins recommend
 
 *   .ignore
 *   ~~Dracula Theme~~
-*   EnvFile
-*   leetcode editor
-*   Maven Helper
-*   PojoToJson
 *   Rainbow Brackets
+*   CheckStyle-IDEA
+*   Key Promoter X
+*   Grep Console
+*   Maven Helper
+*   EnvFile
 *   Spring Assistant
-*   Translation
-*   Lombok
+*   leetcode editor
 *   SonarLint
 *   Save Actions
-*   CheckStyle-IDEA
-*   Grep Console
+*   RESTKit
