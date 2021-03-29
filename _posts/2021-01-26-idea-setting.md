@@ -23,16 +23,22 @@ comments: false
 
 #### Plugins recommend
 
-*   .ignore
 *   ~~Dracula Theme~~
+*   Lombok
+*   .ignore
 *   Rainbow Brackets
 *   CheckStyle-IDEA
+*   SonarLint
+*   Database Navigator
 *   Key Promoter X
+*   Translation
+*   Alibaba Java Coding Guidelines
 *   Grep Console
 *   Maven Helper
+*   CodeGlance
+*   Save Actions
 *   EnvFile
 *   Spring Assistant
 *   leetcode editor
-*   SonarLint
-*   Save Actions
-*   RESTKit
+*   RestfulTool
+*   redis simple
