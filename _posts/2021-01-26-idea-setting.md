@@ -17,9 +17,9 @@ comments: false
 *   Editor -> General -> Editor Tabs -> Show tabs in single row【x】
 *   Editor -> Font -> Size【16】
 *   Editor -> Code Style -> Java -> Imports -> 50, 30
-*   Editor -> Code Style -> Java -> Code Generation -> Line comment【x】
+*   Editor -> Code Style -> Java -> Code Generation -> Line comment【x】, Add 【√】
 *   Editor -> File Encodings -> UTF-8, UTF-8
-*   Version Control -> Show directories 【x】
+*   Version Control -> Show directories 【√】
 
 #### Plugins recommend
 
@@ -32,7 +32,6 @@ comments: false
 *   Database Navigator
 *   Key Promoter X
 *   Translation
-*   Alibaba Java Coding Guidelines
 *   Grep Console
 *   Maven Helper
 *   CodeGlance
@@ -41,4 +40,3 @@ comments: false
 *   Spring Assistant
 *   leetcode editor
 *   RestfulTool
-*   redis simple
