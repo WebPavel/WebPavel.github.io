@@ -29,14 +29,11 @@ comments: false
 *   Rainbow Brackets
 *   CheckStyle-IDEA
 *   SonarLint
-*   Database Navigator
 *   Key Promoter X
 *   Translation
 *   Grep Console
 *   Maven Helper
 *   CodeGlance
-*   Save Actions
-*   EnvFile
 *   Spring Assistant
 *   leetcode editor
 *   RestfulTool
