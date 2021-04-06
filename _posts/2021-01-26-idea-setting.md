@@ -24,7 +24,6 @@ comments: false
 #### Plugins recommend
 
 *   ~~Dracula Theme~~
-*   Lombok
 *   .ignore
 *   Rainbow Brackets
 *   CheckStyle-IDEA
