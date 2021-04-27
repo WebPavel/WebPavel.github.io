@@ -34,7 +34,14 @@ java -version
 
 ##### ubuntu20.04无法播放bilibili等网站视频
 
-```she
+```shell
+# 下载flash_player_npapi_linux.x86_64.tar.gz
+cd flash_player_npapi_linux.x86_64/
+ls -la
+sudo cp libflashplayer.so /usr/lib/firefox-addons/plugins/
+sudo cp -r ./usr/* /usr/
+sudo apt update
+sudo apt-get install -y flashplugin-installer
 sudo apt install ffmpeg
 ```
 
@@ -85,5 +92,20 @@ use mysql;
 alter user 'root'@'%' identified with mysql_native_password by '123456';
 flush privileges;
 select host,user,plugin from mysql.user;
+```
+
+##### ubuntu20.04安装完，啥都不干，第一件事换源
+
+```shell
+sudo rm -rf /etc/apt/sources.list
+sudo vi /etc/apt/sources.list
+sudo apt update
+sudo apt upgrade
+# 遇到错误的话
+sudo apt upgrade --fix-missing
+sudo apt install -y gdebi
+sudo apt install -y git
+git --version
+sudo apt install -y net-tools
 ```
 
