@@ -36,3 +36,6 @@ comments: false
 *   Spring Assistant
 *   leetcode editor
 *   RestfulTool
+*   Docker
+*   Database Navigator
+*   String Manipulation
