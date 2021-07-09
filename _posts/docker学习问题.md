@@ -18,7 +18,7 @@ date
 ##### ubuntu20.04安装docker
 
 ```shell
-sudo apt install -y docker.io
+sudo apt install docker.io -y
 sudo docker version
 sudo systemctl enable docker
 sudo systemctl start docker
@@ -28,35 +28,34 @@ sudo docker info
 ##### ubuntu20.04安装jdk
 
 ```shell
-sudo apt install -y openjdk-11-jdk
+sudo apt install openjdk-11-jdk -y
 java -version
 ```
 
 ##### ubuntu20.04无法播放bilibili等网站视频
 
 ```shell
-# 下载flash_player_npapi_linux.x86_64.tar.gz
-cd flash_player_npapi_linux.x86_64/
-ls -la
-sudo cp libflashplayer.so /usr/lib/firefox-addons/plugins/
-sudo cp -r ./usr/* /usr/
-sudo apt update
-sudo apt-get install -y flashplugin-installer
-sudo apt install ffmpeg
+# # 下载flash_player_npapi_linux.x86_64.tar.gz
+# cd flash_player_npapi_linux.x86_64/
+# ls -la
+# sudo cp libflashplayer.so /usr/lib/firefox-addons/plugins/
+# sudo cp -r ./usr/* /usr/
+# sudo apt update
+# sudo apt-get install flashplugin-installer -y
+sudo apt install ffmpeg -y
 ```
 
 ##### vscode无法连接本地docker,报错EACCES
 
 ​    原因是docker使用unix socket通讯，但unix socket属于root用户
-
 ```shell
-# 添加docker用户组
-sudo groupadd docker
-# 将当前用户添加到docker用户组
-sudo gpasswd -a $USER docker
-# 更新docker用户组
-newgrp docker
+sudo chmod o=rw /var/run/docker.sock
+ls -la /var/run/docker.sock
+systemctl restart docker
+systemctl status docker
 ```
+
+##### docker开启远程连接
 
 ```shell
 sudo vim /usr/lib/systemd/system/docker.service
@@ -65,13 +64,23 @@ sudo vim /usr/lib/systemd/system/docker.service
 systemctl daemon-reload
 systemctl restart docker
 # 安装防火墙
-sudo apt install firewalld
+sudo apt install firewalld -y
 firewall-cmd --zone=public --add-port=2375/tcp --permanent
+# firewall-cmd --zone=public --remove-port=2375/tcp --permanent
 firewall-cmd --reload
-sudo chmod o=rw /var/run/docker.sock
-ls -la /var/run/docker.sock
-systemctl restart docker
-systemctl status docker
+```
+
+##### 当前用户不用每次都输入sudo docker，直接输入docker
+
+```shell
+# # 添加docker用户组
+# sudo groupadd docker
+# # 将当前用户添加到docker用户组
+# sudo gpasswd -a $USER docker
+# # 将当前用户从docker用户组删除
+# # sudo gpasswd -d $USER docker
+# # 更新docker用户组
+# newgrp docker
 ```
 
 ##### docker指定阿里云镜像加速
@@ -103,9 +112,26 @@ sudo apt update
 sudo apt upgrade
 # 遇到错误的话
 sudo apt upgrade --fix-missing
-sudo apt install -y gdebi
-sudo apt install -y git
+sudo apt install gdebi -y
+sudo apt install git -y
 git --version
 sudo apt install -y net-tools
 ```
 
+sources.list示例
+```
+deb http://mirrors.aliyun.com/ubuntu/ focal main restricted universe multiverse
+deb-src http://mirrors.aliyun.com/ubuntu/ focal main restricted universe multiverse
+
+deb http://mirrors.aliyun.com/ubuntu/ focal-security main restricted universe multiverse
+deb-src http://mirrors.aliyun.com/ubuntu/ focal-security main restricted universe multiverse
+
+deb http://mirrors.aliyun.com/ubuntu/ focal-updates main restricted universe multiverse
+deb-src http://mirrors.aliyun.com/ubuntu/ focal-updates main restricted universe multiverse
+
+deb http://mirrors.aliyun.com/ubuntu/ focal-proposed main restricted universe multiverse
+deb-src http://mirrors.aliyun.com/ubuntu/ focal-proposed main restricted universe multiverse
+
+deb http://mirrors.aliyun.com/ubuntu/ focal-backports main restricted universe multiverse
+deb-src http://mirrors.aliyun.com/ubuntu/ focal-backports main restricted universe multiverse
+```
