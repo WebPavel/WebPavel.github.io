@@ -1,0 +1,53 @@
+### Linux Mint shell配置
+
+#### 安装git、zsh
+
+```shell
+sudo apt install git-core zsh -y
+```
+
+#### 安装oh-my-zsh
+
+```shell
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
+#### 安装插件
+
+```shell
+cd /home/pl/.oh-my-zsh/custom/plugins
+git clone https://github.com/zsh-users/zsh-syntax-highlighting
+git clone https://github.com/zsh-users/zsh-autosuggestions
+```
+
+#### 启用插件
+
+```shell
+vim ~/.zshrc
+# 定位到plugins
+plugins=(git zsh-syntax-highlighting zsh-autosuggestions)
+source ~/.zshrc
+```
+
+#### 其他配置
+
+##### 安装powerline字体
+
+```shell
+sudo apt install fonts-powerline
+```
+
+##### 修改主题
+
+```shell
+sudo vim ~/.zshrc
+# 修改主题robbyrussell为agnoster
+source ~/.zshrc
+```
+
+#### 切换shell
+
+```shell
+chsh -s $(which zsh)
+```
+
