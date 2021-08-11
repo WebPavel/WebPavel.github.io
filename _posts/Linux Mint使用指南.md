@@ -35,6 +35,8 @@ sudo apt-get update && sudo apt-get install typora
 - vscode编辑器
 - RDM
 - JetBrains Toolbox
+- 思维导图xmind8
+- 文件同步FreeFileSync
 
 ##### Linux上打开Windows上txt乱码
 
