@@ -19,7 +19,7 @@ sudo /etc/init.d/bluetooth restart
 
 ```shell
 sudo add-apt-repository ppa:peek-developers/stable
-sudo apt update && sudo apt-get install peek -y
+sudo apt-get update && sudo apt-get install -fy peek
 ```
 
 ##### Typora编辑器
@@ -27,7 +27,7 @@ sudo apt update && sudo apt-get install peek -y
 ```shell
 wget -qO - https://typora.io/linux/public-key.asc | sudo apt-key add -
 sudo add-apt-repository 'deb https://typora.io/linux ./'
-sudo apt-get update && sudo apt-get install typora
+sudo apt-get update && sudo apt-get install -fy typora
 ```
 
 ##### 推荐应用
@@ -59,7 +59,7 @@ iconv -f gbk -t utf8 shujujiegou.txt > shujujiegou.txt.utf8
 
 ```shell
 sudo vim /etc/apt/preferences.d/nosnap.pref
-sudo apt install snapd -y
+sudo apt-get install -fy snapd
 # 证书问题 --dangerous
 sudo snap install zy_2.8.5_amd64.snap --dangerous
 # 运行snap程序

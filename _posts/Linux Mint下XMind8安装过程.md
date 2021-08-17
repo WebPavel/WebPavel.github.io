@@ -27,7 +27,7 @@ unzip xmind-8-update9-linux.zip [-d] dir
 
 ```shell
 java --version
-sudo apt install openjdk-8-jdk -y
+sudo apt-get install -fy openjdk-8-jdk
 # 安装目录/home/pl/下载/xmind-8-update9-linux
 sudo ./setup.sh
 ```
@@ -42,7 +42,7 @@ https://packages.ubuntu.com/
 
 ```shell
 # 安装libwebkitgtk-1.0-0，而其依赖libjavascriptcoregtk-1.0-0，而后者依赖libicu60
-sudo apt install libicu60_60.2-3ubuntu3.1_amd64.deb libjavascriptcoregtk-1.0-0_2.4.11-3ubuntu3_amd64.deb libwebkitgtk-1.0-0_2.4.11-3ubuntu3_amd64.deb -y
+sudo apt-get install -fy libicu60_60.2-3ubuntu3.1_amd64.deb libjavascriptcoregtk-1.0-0_2.4.11-3ubuntu3_amd64.deb libwebkitgtk-1.0-0_2.4.11-3ubuntu3_amd64.deb
 ```
 
 ##### 5. 配置并创建快捷方式
