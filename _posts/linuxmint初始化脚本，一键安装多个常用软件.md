@@ -82,7 +82,7 @@ wget https://download.fastgit.org/peazip/PeaZip/releases/download/8.1.0/peazip_8
 
 wget https://dn3.freedownloadmanager.org/6/latest/freedownloadmanager.deb && sudo apt-get install -fy $(dirname $0)/freedownloadmanager.deb
 
-sudo apt-get install -fy git vim net-tools firewalld docker.io openjdk-11-jdk maven gdebi zip unzip p7zip-full p7zip-rar vlc openjdk-8-jdk xclip fcitx-rime
+sudo apt-get install -fy git vim net-tools firewalld docker.io openjdk-11-jdk maven gdebi zip unzip p7zip-full p7zip-rar vlc openjdk-8-jdk xclip fcitx-rime zeal
 
 # Typora
 wget -qO - https://typora.io/linux/public-key.asc | sudo apt-key add -
