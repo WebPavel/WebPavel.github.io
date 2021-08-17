@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "xmind8安装和配置"
+date:   2021-08-17
+excerpt: "XMind8安装及过程中一些问题解决"
+tag: Linux
+comments: false
+---
+
 #### Linux Mint下XMind8安装过程
 
 

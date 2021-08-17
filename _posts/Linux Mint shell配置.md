@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "oh-my-zsh配置"
+date:   2021-08-17
+excerpt: "Linux Mint shell配置"
+tag: Linux
+comments: false
+---
+
 ### Linux Mint shell配置
 
 #### 安装git、zsh

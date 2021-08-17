@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "Linux Mint使用指南"
+date:   2021-08-17
+excerpt: "Linux Mint 使用指南，安装常用软件，满足日常使用"
+tag: Linux
+comments: false
+---
+
 #### Linux Mint使用指南
 
 ##### 重启蓝牙服务
