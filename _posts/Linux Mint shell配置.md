@@ -1,9 +1,18 @@
+---
+layout: post
+title:  "oh-my-zsh配置"
+date:   2021-08-17
+excerpt: "Linux Mint shell配置"
+tag: Linux
+comments: false
+---
+
 ### Linux Mint shell配置
 
 #### 安装git、zsh
 
 ```shell
-sudo apt install git-core zsh -y
+sudo apt-get install -fy git zsh
 ```
 
 #### 安装oh-my-zsh
@@ -34,7 +43,7 @@ source ~/.zshrc
 ##### 安装powerline字体
 
 ```shell
-sudo apt install fonts-powerline
+sudo apt-get install -fy fonts-powerline
 ```
 
 ##### 修改主题

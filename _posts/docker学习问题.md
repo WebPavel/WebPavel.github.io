@@ -18,18 +18,14 @@ date
 ##### ubuntu20.04安装docker
 
 ```shell
-sudo apt install docker.io -y
-sudo docker version
-sudo systemctl enable docker
-sudo systemctl start docker
-sudo docker info
+sudo apt-get install -fy docker.io && sudo docker version
+sudo systemctl enable docker && sudo systemctl start docker && sudo docker info
 ```
 
 ##### ubuntu20.04安装jdk
 
 ```shell
-sudo apt install openjdk-11-jdk -y
-java -version
+sudo apt-get install -fy openjdk-11-jdk && java -version
 ```
 
 ##### ubuntu20.04无法播放bilibili等网站视频
@@ -41,8 +37,8 @@ java -version
 # sudo cp libflashplayer.so /usr/lib/firefox-addons/plugins/
 # sudo cp -r ./usr/* /usr/
 # sudo apt update
-# sudo apt-get install flashplugin-installer -y
-sudo apt install ffmpeg -y
+# sudo apt-get install -fy flashplugin-installer
+sudo apt-get install -fy ffmpeg
 ```
 
 ##### vscode无法连接本地docker,报错EACCES
@@ -51,8 +47,7 @@ sudo apt install ffmpeg -y
 ```shell
 sudo chmod o=rw /var/run/docker.sock
 ls -la /var/run/docker.sock
-systemctl restart docker
-systemctl status docker
+systemctl restart docker && systemctl status docker
 ```
 
 ##### docker开启远程连接
@@ -61,10 +56,9 @@ systemctl status docker
 sudo vim /usr/lib/systemd/system/docker.service
 # ExecStart 最后加 -H tcp://0.0.0.0:2375
 #重启docker
-systemctl daemon-reload
-systemctl restart docker
+systemctl daemon-reload && systemctl restart docker
 # 安装防火墙
-sudo apt install firewalld -y
+sudo apt-get install -fy firewalld
 firewall-cmd --zone=public --add-port=2375/tcp --permanent
 # firewall-cmd --zone=public --remove-port=2375/tcp --permanent
 firewall-cmd --reload
@@ -93,7 +87,7 @@ sudo vim /etc/docker/daemon.json
 ##### docker mysql8.0连接问题
 
 ```shell
-docker run -d -p 3306:3306 -e MYSQL_ROOT_PASSWORD=123456  mysql:8.0
+docker run --restart always -d -p 3306:3306 -e MYSQL_ROOT_PASSWORD=123456  mysql:8.0
 docker exec -it 6cd43a3f579f bash
 mysql -u root -p
 # 进入mysql
@@ -108,14 +102,11 @@ select host,user,plugin from mysql.user;
 ```shell
 sudo rm -rf /etc/apt/sources.list
 sudo vi /etc/apt/sources.list
-sudo apt update
-sudo apt upgrade
+sudo apt-get update && sudo apt-get upgrade
 # 遇到错误的话
-sudo apt upgrade --fix-missing
-sudo apt install gdebi -y
-sudo apt install git -y
+sudo apt-get upgrade --fix-missing
+sudo apt-get install -fy gdebi git net-tools
 git --version
-sudo apt install -y net-tools
 ```
 
 sources.list示例
