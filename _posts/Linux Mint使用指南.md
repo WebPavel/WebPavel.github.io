@@ -4,6 +4,10 @@
 
 ```shell
 sudo /etc/init.d/bluetooth restart
+sudo hciconfig hci0 up
+# bluetoothctl 后devices查看蓝牙IP
+sudo rfcomm bind /dev/rfcomm5 60:83:73:A2:FA:B4 1
+sudo rfcomm connect 1 60:83:73:A2:FA:B4
 ```
 
 ##### 录制GIF
