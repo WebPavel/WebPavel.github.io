@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "docker ubuntu20.04"
+title:  "docker practice"
 date:   2021-04-28
 excerpt: "docker DevOps"
 tag: docker

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "linux mint一键安装常用软件脚本"
+title:  "Linux Mint一键脚本"
 date:   2021-08-17
-excerpt: "Linux Mint 配置"
+excerpt: "linux mint一键安装常用软件脚本"
 tag: Linux
 comments: false
 ---
