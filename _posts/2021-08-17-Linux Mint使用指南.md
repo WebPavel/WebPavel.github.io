@@ -37,19 +37,24 @@ sudo apt-get update && sudo apt-get install -fy typora
 ##### 推荐应用
 
 - 科学上网Qv2ray
-- 截图flameshot
-- 复制粘贴历史记录copyQ
+- 截图Flameshot
+- 复制粘贴历史记录CopyQ
 - 下载free download manager
-- 视频播放vlc
+- 视频播放器VLC
 - WPS
 - Typora
+- 邮箱Thunderbird
+- Firefox浏览器
 - edge浏览器
+- 解压缩7-Zip
 - 解压缩PeaZip
 - vscode编辑器
 - RDM
 - JetBrains Toolbox
-- 思维导图xmind8
+- 思维导图XMind8
 - 文件同步FreeFileSync
+- 图片查看器XnViewMP
+- 文件上传下载FileZilla
 
 ##### Linux上打开Windows上txt乱码
 
