@@ -14,24 +14,28 @@ MANIFEST.MF,如果想加载外部依赖jar，可以设置环境变量LOADER_PATH
 
 #### project structure
 
-hello  
+sms  
 |---bin  
+|------restart.sh  
+|------start.sh  
+|------stop.sh  
 |---src  
 |------main  
 |---------java  
 |---------resources  
 |------test  
 |---assembly.xml  
+|---.gitignore  
 |---pom.xml  
 
 #### package structure
 
-hello-0.0.1-SNAPSHOT.tar.gz  
+sms.tar.gz  
 |---lib  
 |---resources  
-|---hello-0.0.1-SNAPSHOT.jar  
-|---startup.sh  
-|---shutdown.sh  
+|---sms-CANARY.jar  
+|---start.sh  
+|---stop.sh  
 |---restart.sh  
 
 #### more and detail
@@ -98,16 +102,17 @@ hello-0.0.1-SNAPSHOT.tar.gz
 </profiles>
 
 <build>
+    <finalName>${project.artifactId}</finalName>
     <plugins>
         <plugin>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-maven-plugin</artifactId>
             <configuration>
-                <layout>ZIP</layout>
+                <!--<layout>ZIP</layout>-->
                 <includes>
                     <include>
-                        <groupId>non-exists</groupId>
-                        <artifactId>non-exists</artifactId>
+                        <groupId>null</groupId>
+                        <artifactId>null</artifactId>
                     </include>
                 </includes>
             </configuration>
@@ -171,7 +176,7 @@ hello-0.0.1-SNAPSHOT.tar.gz
 <?xml version='1.0' encoding='UTF-8'?>
 <assembly xmlns="http://maven.apache.org/ASSEMBLY/2.0.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/ASSEMBLY/2.0.0 http://maven.apache.org/xsd/assembly-2.0.0.xsd">
-    <id>distribution</id>
+    <id>dist</id>
 
     <formats>
         <format>tar.gz</format>
@@ -182,7 +187,7 @@ hello-0.0.1-SNAPSHOT.tar.gz
     <fileSets>
         <fileSet>
             <directory>${project.basedir}/bin</directory>
-            <outputDirectory>/</outputDirectory>
+            <outputDirectory>${file.separator}</outputDirectory>
             <lineEnding>unix</lineEnding>
             <fileMode>0755</fileMode>
             <includes>
@@ -214,7 +219,7 @@ hello-0.0.1-SNAPSHOT.tar.gz
             </excludes>
         </dependencySet>
         <dependencySet>
-            <outputDirectory>/</outputDirectory>
+            <outputDirectory>${file.separator}</outputDirectory>
             <includes>
                 <include>${project.groupId}:${project.artifactId}</include>
             </includes>
@@ -223,53 +228,29 @@ hello-0.0.1-SNAPSHOT.tar.gz
 </assembly>
 ```
 
-- startup.sh  
+- start.sh  
 
 ```shell
 #!/bin/sh
-# startup.sh
+# start.sh
 
-APPLICATION="sign-0.0.1-SNAPSHOT"
-APPLICATION_JAR="${APPLICATION}.jar"
+APP_NAME="sms-CANARY"
+JAR_NAME="${APP_NAME}.jar"
 
-LOG_DIR=logs
-LOG_BACKUP_DIR=logs/backup/
-LOG_PATH=logs/catalina.out
-JAVA_OPT='-Dspring.profiles.active=prod'
-
-# 当前时间
-NOW=`date +'%Y%m%d%H%M%S'`
-NOW_PRETTY=`date +'%Y-%m-%d %H:%M:%S'`
-
-# 如果logs文件夹不存在,则创建文件夹
-if [ ! -d "${LOG_DIR}" ]; then
-  mkdir "${LOG_DIR}"
-fi
-
-# 如果logs/backup文件夹不存在,则创建文件夹
-if [ ! -d "${LOG_BACKUP_DIR}" ]; then
-  mkdir "${LOG_BACKUP_DIR}"
-fi
-
-# 如果项目运行日志存在,则重命名备份
-if [ -f "${LOG_PATH}" ]; then
-	mv ${LOG_PATH} "${LOG_BACKUP_DIR}/${APPLICATION}_back_${NOW}.log"
-fi
-
-java -Xmx1024m -XX:-HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=./ -jar ${JAVA_OPT} ${APPLICATION_JAR} >${LOG_PATH} 2>&1 &
+java -Xmx1024m -XX:-HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=./ -jar ${JAR_NAME}>/dev/null 2>&1 &
 
 ```
 
-- shutdown.sh  
+- stop.sh  
 
 ```shell
 #!/bin/sh
-# shutdown.sh
+# stop.sh
 
-APPLICATION="sign-0.0.1-SNAPSHOT"
-APPLICATION_JAR="${APPLICATION}.jar"
+APP_NAME="sms-CANARY"
+JAR_NAME="${APP_NAME}.jar"
 
-PID_LIST=`jps -l | grep ${APPLICATION_JAR} | awk '{print $1}'`
+PID_LIST=`jps -l | grep ${JAR_NAME} | awk '{print $1}'`
 if [ -n ${PID_LIST} ]; then
   for PID in ${PID_LIST}; do
       echo "kill -15 ${PID}"
@@ -277,14 +258,14 @@ if [ -n ${PID_LIST} ]; then
   done
 fi
 
-PID_LIST=`ps -ef | grep ${APPLICATION_JAR} | awk '{print $2}'`
+PID_LIST=`ps -ef | grep ${JAR_NAME} | awk '{print $2}'`
 if [ -z PID_LIST ]; then
-  echo "${APPLICATION} is already stopped"
+  echo "${APP_NAME} is already stopped"
 else
   for PID in ${PID_LIST}; do
       echo "kill -9 ${PID}"
       kill -9 ${PID}
-      echo "${APPLICATION} stopped successfully"
+      echo "${APP_NAME} stopped successfully"
   done
 fi
 
@@ -296,13 +277,13 @@ fi
 #!/bin/sh
 # restart.sh
 
-APPLICATION="sign-0.0.1-SNAPSHOT"
+APP_NAME="sms-CANARY"
 
-echo "stop ${APPLICATION} Application..."
-sh shutdown.sh
+echo "stop ${APP_NAME} Application..."
+sh stop.sh
 sleep 5
-echo "start ${APPLICATION} Application..."
-sh startup.sh
+echo "start ${APP_NAME} Application..."
+sh start.sh
 
 ```
 
