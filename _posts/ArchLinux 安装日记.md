@@ -1,3 +1,12 @@
+---
+layout: post
+title: "ArchLinux 安装日记"
+date: 2022-04-30
+excerpt: "how to install archlinux on a new computer."
+tags: [archlinux, arch, os]
+comments: true
+---
+
 ## ArchLinux 安装日记
 
 ### 检查uefi引导
@@ -38,8 +47,8 @@ fdisk -l /dev/nvme0n1
 
 ```shell
 mkfs.fat -F 32 /dev/nvme0n1p1
-mkfs.ext4 /dev/nvme0n1p2
-mount /dev/nvme0n1p2 /mnt
+mkfs.ext4 -b 4096 /dev/nvme0n1p2
+mount -t ext4 -o discard,noatime /dev/nvme0n1p2 /mnt
 mkdir /mnt/boot
 mount /dev/nvme0n1p1 /mnt/boot
 df
@@ -77,7 +86,7 @@ echo jelly > /etc/hostname
 vim /etc/hosts
 127.0.0.1        localhost
 ::1              localhost
-127.0.0.1        jelly.localdomain jelly
+127.0.1.1        jelly.localdomain jelly
 mkinitcpio -P
 passwd
 useradd -m -G wheel -s /bin/bash karga
@@ -178,6 +187,8 @@ yay -S microsoft-edge-dev-bin
 sudo blkid
 sudo vim /etc/fstab
 UUID=8137BFAA1E822A59 /mnt ntfs3 defaults 0 0
+# 或
+echo "$(blkid -o export /dev/sda1|grep '^UUID') /mnt ntfs3 defaults 0 0" >> /mnt/etc/fstab
 mkdir Pictures
 cp /mnt/Share/Pictures/'_Konachan.com - 329324 2girls brown_hair building city close hatsune_miku long_hair megurine_luka signed spencer_sais stairs train vocaloid watermark.jpg' ~/Pictures/
 # 安装Java开发环境
