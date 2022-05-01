@@ -25,7 +25,7 @@ ping -c 5 archlinux.org
 ### 时间同步
 
 ```shell
-timedatectl set-up true
+timedatectl set-ntp true
 timedatectl status
 ```
 
