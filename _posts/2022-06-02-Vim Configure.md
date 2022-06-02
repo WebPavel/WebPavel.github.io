@@ -81,5 +81,5 @@ vmap <C-c> "+y
 
 
 # Reference Link
-[Vundle.vim](https://github.com/VundleVim/Vundle.vim)
+[Vundle.vim](https://github.com/VundleVim/Vundle.vim)  
 [vim-colors-solarized](https://github.com/altercation/vim-colors-solarized)
