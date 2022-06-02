@@ -1,3 +1,13 @@
+---
+layout: post
+title: "Vim Configure"
+date: 2022-06-02
+excerpt: "how to configure vim."
+tags: [vim]
+comments: false
+---
+
+
 # _vimrc configure file
 
 ```
