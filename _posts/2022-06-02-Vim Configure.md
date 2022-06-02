@@ -8,6 +8,22 @@ comments: false
 ---
 
 
+# set color scheme
+
+```
+cd ~/.vim/bundle
+git clone git://github.com/altercation/vim-colors-solarized.git
+mv vim-colors-solarized ~/.vim/bundle/
+```
+
+# vim plugin manager
+
+## Vundle Installation
+
+```
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+```
+
 # _vimrc configure file
 
 ```
@@ -61,3 +77,9 @@ set guifont=Consolas:h12
 " 设置vim下和外部的复制
 vmap <C-c> "+y
 ```
+
+
+
+# Reference Link
+[Vundle.vim](https://github.com/VundleVim/Vundle.vim)
+[vim-colors-solarized](https://github.com/altercation/vim-colors-solarized)
