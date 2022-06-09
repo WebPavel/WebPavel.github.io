@@ -11,9 +11,7 @@ comments: false
 # set color scheme
 
 ```
-cd ~/.vim/bundle
-git clone git://github.com/altercation/vim-colors-solarized.git
-mv vim-colors-solarized ~/.vim/bundle/
+git clone https://hub.fastgit.xyz/altercation/vim-colors-solarized.git /tmp/vim-colors-solarized
 ```
 
 # vim plugin manager
@@ -21,7 +19,7 @@ mv vim-colors-solarized ~/.vim/bundle/
 ## Vundle Installation
 
 ```
-git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+git clone https://hub.fastgit.xyz/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 ```
 
 # _vimrc configure file
@@ -33,9 +31,8 @@ filetype off
 " 设置包括vundle和初始化相关的runtime path
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
-" 让vundle管理插件版本
-Plugin 'VundleVim/Vundle.vim'
-Plugin 'iamcco/markdown-preview.nvim'
+" 让vundle管理Vundle
+Plugin 'https://hub.fastgit.xyz/VundleVim/Vundle.vim.git'
 call vundle#end()
 " 加载vim自带的和插件相应的语法和文件类型相关脚本
 filetype plugin indent on
