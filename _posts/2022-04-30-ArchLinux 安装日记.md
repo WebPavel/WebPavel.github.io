@@ -90,9 +90,9 @@ vim /etc/hosts
 mkinitcpio -P
 passwd
 useradd -m -G wheel -s /bin/bash karga
-passwd karga
+passwd kargah
 EDITOR=vim visudo
-karga ALL=(ALL) ALL
+kargah ALL=(ALL) ALL
 ```
 
 ### 安装引导程序
@@ -165,7 +165,7 @@ INPUT_METHOD=fcitx
 SDL_IM_MODULE=fcitx
 exec --no-startup-id fcitx5 -d
 # 安装lantern
-sudo pacman -S lantern-bin
+yay -S lantern-bin
 cd /usr/lib
 sudo ln -sf libpcap.so.1 libpcap.so.0.8
 export https_proxy=127.0.0.1:33759
@@ -192,7 +192,8 @@ echo "$(blkid -o export /dev/sda1|grep '^UUID') /mnt ntfs3 defaults 0 0" >> /mnt
 mkdir Pictures
 cp /mnt/Share/Pictures/'_Konachan.com - 329324 2girls brown_hair building city close hatsune_miku long_hair megurine_luka signed spencer_sais stairs train vocaloid watermark.jpg' ~/Pictures/
 # 安装Java开发环境
-sudo pacman -S git code jdk8-openjdk jdk11-openjdk maven
+# sudo pacman -S code
+sudo pacman -S git jdk8-openjdk jdk11-openjdk maven
 sudo pacman -S intellij-idea-ultimate-edition
 # 安装字体
 sudo pacman -S nerd-fonts-complete
@@ -210,10 +211,10 @@ vim .bashrc
 export LANG=zh_CN.UTF-8
 export LC_ALL=zh_CN.UTF-8
 # 安装portx
-yay -S portx-bin
-cd .cache/yay/portx-bin/
-vim PKGBUILD
-makepkg -si
+# yay -S portx-bin
+# cd .cache/yay/portx-bin/
+# vim PKGBUILD
+# makepkg -si
 ```
 
 
