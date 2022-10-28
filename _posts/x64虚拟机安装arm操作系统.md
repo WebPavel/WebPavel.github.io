@@ -1,0 +1,163 @@
+# VMware 安装 Ubuntu16.04 虚拟机
+
+1. 下载 desktop 操作系统并安装
+
+https://releases.ubuntu.com/16.04/ubuntu-16.04.7-desktop-amd64.iso
+
+```shell
+# 设置静态 IP
+sudo vi /etc/network/interfaces
+auto ens33
+iface ens33 inet static
+address 192.168.1.102
+netmask 255.255.255.0
+gateway 192.168.1.1
+dns-nameservers 192.168.1.1
+# 刷新 IP
+sudo ip addr flush ens33
+sudo systemctl restart networking
+```
+
+2. 安装 qemu-system-aarch64
+
+```shell
+sudo apt install -fy openssh-server
+sudo ufw allow ssh
+sudo apt install -fy screenfetch
+screenfetch
+sudo apt-get install -fy qemu-system-arm
+```
+
+3. 下载 UEFI 固件
+
+下载地址：http://releases.linaro.org/components/kernel/uefi-linaro/16.02/release/qemu64/QEMU_EFI.fd
+
+4. 下载 arm 操作系统
+
+http://cdimage.ubuntu.com/releases/16.04/release/ubuntu-16.04.7-server-arm64.iso
+
+5. 创建虚拟机工作目录，将虚拟机启动需要的文件都放在该目录下
+
+```shell
+mkdir qemu_system
+```
+
+6. 创建虚拟硬盘
+
+```shell
+qemu-img create -f qcow2 ubuntu16.04-arm64.qcow2 80G
+```
+
+7. 虚拟机创建
+
+```shell
+qemu-system-aarch64 -m 2048 -cpu cortex-a57 -smp 2 -M virt -bios QEMU_EFI.fd -nographic -drive if=none,file=ubuntu-16.04.7-server-arm64.iso,id=cdrom,media=cdrom -device virtio-scsi-device -device scsi-cd,drive=cdrom -drive if=none,file=ubuntu16.04-arm64.qcow2,id=hd0 -device virtio-blk-device,drive=hd0
+```
+
+8. 设置桥接网络
+
+```shell
+sudo apt-get install -fy bridge-utils
+sudo apt-get install -fy uml-utilities
+sudo apt-get install -fy vim net-tools 
+sudo vim /etc/network/interfaces
+
+auto lo
+iface lo inet loopback
+auto br0
+iface br0 inet static
+address 192.168.1.102
+netmask 255.255.255.0
+gateway 192.168.1.1
+bridge_ports ens33 tap0     # 为网桥添加两个接口，分别是 ens33（之前默认的上网网口）和 tap0
+bridge_stp off
+bridge_fd 0
+bridge_maxwait 0
+# 添加接口 ens33，上网方式采用自动
+auto ens33
+iface ens33 inet manual
+dns-nameservers 192.168.1.1
+
+# 配置网桥
+sudo tunctl -t tap0 -u root       # 创建一个 tap0 接口，只允许指定用户访问
+sudo brctl addif br0 tap0                # 在虚拟网桥中增加一个 tap0 接口
+sudo ifconfig tap0 0.0.0.0 promisc up    # 打开 tap0 接口
+sudo brctl showstp br0
+
+sudo mv /etc/qemu-ifup /etc/qemu-ifup.bak
+sudo vim /etc/qemu-ifup
+
+sudo mv /etc/qemu-ifdown /etc/qemu-ifdown.bak
+sudo vim /etc/qemu-ifdown
+
+sudo chmod +x /etc/qemu-ifup
+sudo chmod +x /etc/qemu-ifdown
+```
+
+- /etc/qemu-ifup
+
+```
+#! /bin/sh
+switch=br0
+ifconfig $1 up
+brctl addif ${switch} $1
+```
+
+- /etc/qemu-ifdown
+
+```
+#! /bin/sh
+switch=br0
+brctl delif ${switch} $1
+ifconfig $1 down
+```
+
+9. 创建启动脚本
+
+在 qemu_system 目录下新建 run.sh 文件
+
+```shell
+qemu-system-aarch64 -m 2048 -cpu cortex-a57 -smp 2 -M virt -bios QEMU_EFI.fd -nographic -device virtio-scsi-device -drive if=none,file=ubuntu16.04-arm64.qcow2,id=hd0 -device virtio-blk-device,drive=hd0 -netdev type=tap,id=net0 -device virtio-net-device,netdev=net0
+```
+
+10. exit 手动指定 EFI 文件
+
+11. 设置 arm 系统静态 IP
+
+```shell
+# 设置静态 IP
+sudo vi /etc/network/interfaces
+auto eth0
+iface eth0 inet static
+address 192.168.1.103
+netmask 255.255.255.0
+gateway 192.168.1.1
+dns-nameservers 192.168.1.1
+# 刷新 IP
+sudo ip addr flush eth0
+sudo systemctl restart networking
+ifconfig -a
+sudo apt update
+sudo apt install -fy openssh-server
+sudo ufw allow ssh
+sudo apt install -fy screenfetch
+screenfetch
+```
+
+
+## 附上推荐配置
+
+内存 8GB  
+处理器 16（8*2）虚拟化引擎  
+磁盘 200GB  
+网络适配器 桥接模式（自动）  
+
+3:02 2022/10/29
+
+
+---
+
+- ref
+
+https://blog.csdn.net/weixin_51760563/article/details/119935101
+https://blog.csdn.net/whb19881207/article/details/102456179
