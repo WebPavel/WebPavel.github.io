@@ -23,6 +23,7 @@ sudo systemctl enable --now docker
 sudo gpasswd -a $USER docker
 newgrp docker
 docker run -d --name mysql --restart always -p 3306:3306 -e MYSQL_ROOT_PASSWORD=masterA@#1 mysql:5.7
+docker run -d --name redis --restart always -p 6379:6379 redis:5.0
 docker run -d --name nginx-rtmp --restart always -p 1935:1935 tiangolo/nginx-rtmp
 ```
 
