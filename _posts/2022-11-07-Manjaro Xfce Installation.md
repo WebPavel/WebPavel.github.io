@@ -98,7 +98,7 @@ sudo pacman -U *.pkg.tar.zst
 ### MSYS2
 
 ```shell
-pacman -S git python vim p7zip curl wget tmux neofetch mingw-w64-x86_64-aria2 zsh winpty unrar zip unzip
+pacman -S git zsh vim curl wget tmux neofetch python
 pacman -S mingw-w64-x86_64-ffmpeg
 git config --global core.autocrlf true
 ```
