@@ -137,4 +137,33 @@ Windows Registry Editor Version 5.00
 
 [HKEY_CLASSES_ROOT\LibraryFolder\background\shell\msys2\command]
 @="C:\\msys64\\msys2_shell.cmd -here"
+
+
+[HKEY_CLASSES_ROOT\Directory\shell\mingw64]
+@="MSYS2 MINGW64"
+"Icon"="C:\\msys64\\mingw64.ico"
+
+[HKEY_CLASSES_ROOT\Directory\shell\mingw64\command]
+@="C:\\msys64\\msys2_shell.cmd -mingw64 -here"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\mingw64]
+@="MSYS2 MINGW64"
+"Icon"="C:\\msys64\\mingw64.ico"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\mingw64\command]
+@="C:\\msys64\\msys2_shell.cmd -mingw64 -here"
+
+[HKEY_CLASSES_ROOT\Drive\shell\mingw64]
+@="MSYS2 MINGW64"
+"Icon"="C:\\msys64\\mingw64.ico"
+
+[HKEY_CLASSES_ROOT\Drive\shell\mingw64\command]
+@="C:\\msys64\\msys2_shell.cmd -mingw64 -here"
+
+[HKEY_CLASSES_ROOT\LibraryFolder\background\shell\mingw64]
+@="MSYS2 MINGW64"
+"Icon"="C:\\msys64\\mingw64.ico"
+
+[HKEY_CLASSES_ROOT\LibraryFolder\background\shell\mingw64\command]
+@="C:\\msys64\\msys2_shell.cmd -mingw64 -here"
 ```
