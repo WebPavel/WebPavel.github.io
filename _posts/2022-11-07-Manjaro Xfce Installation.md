@@ -102,3 +102,39 @@ pacman -S git zsh vim curl wget tmux neofetch python
 pacman -S mingw-w64-x86_64-ffmpeg
 git config --global core.autocrlf true
 ```
+
+### MSYS2 配置
+
+- msys2.reg
+
+```
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\shell\msys2]
+@="MSYS2"
+"Icon"="C:\\msys64\\msys2.ico"
+
+[HKEY_CLASSES_ROOT\Directory\shell\msys2\command]
+@="C:\\msys64\\msys2_shell.cmd -here"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\msys2]
+@="MSYS2"
+"Icon"="C:\\msys64\\msys2.ico"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\msys2\command]
+@="C:\\msys64\\msys2_shell.cmd -here"
+
+[HKEY_CLASSES_ROOT\Drive\shell\msys2]
+@="MSYS2"
+"Icon"="C:\\msys64\\msys2.ico"
+
+[HKEY_CLASSES_ROOT\Drive\shell\msys2\command]
+@="C:\\msys64\\msys2_shell.cmd -here"
+
+[HKEY_CLASSES_ROOT\LibraryFolder\background\shell\msys2]
+@="MSYS2"
+"Icon"="C:\\msys64\\msys2.ico"
+
+[HKEY_CLASSES_ROOT\LibraryFolder\background\shell\msys2\command]
+@="C:\\msys64\\msys2_shell.cmd -here"
+```
