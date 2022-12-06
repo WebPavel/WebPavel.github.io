@@ -22,9 +22,6 @@ comments: false
 *   View -> Appearance -> Toolbar【√】, Memory Indicator【√】
 
 ### Plugins
-*   Maven Helper
 *   .ignore
 *   CheckStyle-IDEA
 *   ~~Dracula Theme~~
-*   Rainbow Brackets
-*   Translation
