@@ -20,11 +20,8 @@ sudo pacman -Sy git jdk8-openjdk maven docker
 sudo pacman -Sy obs-studio neofetch
 sudo vim /usr/lib/systemd/system/docker.service
 sudo systemctl enable --now docker
-sudo gpasswd -a $USER docker
+sudo usermod -aG docker $USER
 newgrp docker
-docker run -d --name mysql --restart always -p 3306:3306 -e MYSQL_ROOT_PASSWORD=masterA@#1 mysql:5.7
-docker run -d --name redis --restart always -p 6379:6379 redis:5.0
-docker run -d --name nginx-rtmp --restart always -p 1935:1935 tiangolo/nginx-rtmp
 ```
 
 ### 软件源设置
@@ -93,77 +90,4 @@ vim PKGBUILD
 sha256sums=('SKIP'
             '83af2ba8f9f14275a6684e79d6d4bd9b48cd852c047dacfc81324588fa2ff92b')
 sudo pacman -U *.pkg.tar.zst
-```
-
-### MSYS2
-
-```shell
-pacman -S git zsh vim curl wget tmux neofetch python
-pacman -S mingw-w64-x86_64-ffmpeg
-git config --global core.autocrlf true
-```
-
-### MSYS2 配置
-
-- msys2.reg
-
-```
-Windows Registry Editor Version 5.00
-
-[HKEY_CLASSES_ROOT\Directory\shell\msys2]
-@="MSYS2"
-"Icon"="C:\\msys64\\msys2.ico"
-
-[HKEY_CLASSES_ROOT\Directory\shell\msys2\command]
-@="C:\\msys64\\msys2_shell.cmd -here"
-
-[HKEY_CLASSES_ROOT\Directory\Background\shell\msys2]
-@="MSYS2"
-"Icon"="C:\\msys64\\msys2.ico"
-
-[HKEY_CLASSES_ROOT\Directory\Background\shell\msys2\command]
-@="C:\\msys64\\msys2_shell.cmd -here"
-
-[HKEY_CLASSES_ROOT\Drive\shell\msys2]
-@="MSYS2"
-"Icon"="C:\\msys64\\msys2.ico"
-
-[HKEY_CLASSES_ROOT\Drive\shell\msys2\command]
-@="C:\\msys64\\msys2_shell.cmd -here"
-
-[HKEY_CLASSES_ROOT\LibraryFolder\background\shell\msys2]
-@="MSYS2"
-"Icon"="C:\\msys64\\msys2.ico"
-
-[HKEY_CLASSES_ROOT\LibraryFolder\background\shell\msys2\command]
-@="C:\\msys64\\msys2_shell.cmd -here"
-
-
-[HKEY_CLASSES_ROOT\Directory\shell\mingw64]
-@="MSYS2 MINGW64"
-"Icon"="C:\\msys64\\mingw64.ico"
-
-[HKEY_CLASSES_ROOT\Directory\shell\mingw64\command]
-@="C:\\msys64\\msys2_shell.cmd -mingw64 -here"
-
-[HKEY_CLASSES_ROOT\Directory\Background\shell\mingw64]
-@="MSYS2 MINGW64"
-"Icon"="C:\\msys64\\mingw64.ico"
-
-[HKEY_CLASSES_ROOT\Directory\Background\shell\mingw64\command]
-@="C:\\msys64\\msys2_shell.cmd -mingw64 -here"
-
-[HKEY_CLASSES_ROOT\Drive\shell\mingw64]
-@="MSYS2 MINGW64"
-"Icon"="C:\\msys64\\mingw64.ico"
-
-[HKEY_CLASSES_ROOT\Drive\shell\mingw64\command]
-@="C:\\msys64\\msys2_shell.cmd -mingw64 -here"
-
-[HKEY_CLASSES_ROOT\LibraryFolder\background\shell\mingw64]
-@="MSYS2 MINGW64"
-"Icon"="C:\\msys64\\mingw64.ico"
-
-[HKEY_CLASSES_ROOT\LibraryFolder\background\shell\mingw64\command]
-@="C:\\msys64\\msys2_shell.cmd -mingw64 -here"
 ```

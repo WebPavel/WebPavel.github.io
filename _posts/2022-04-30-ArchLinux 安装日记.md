@@ -125,7 +125,7 @@ sudo ln -sf /run/systemd/resolve/stub-resolv.conf /etc/resolv.conf
 sudo systemctl enable fstrim.timer
 sudo vim /etc/pacman.conf
 [archlinuxcn]
-Server = https://mirrors.aliyun.com/archlinuxcn/$arch
+Server = https://mirrors.ustc.edu.cn/archlinuxcn/$arch
 sudo pacman -Sy archlinuxcn-keyring
 sudo pacman -S xorg xorg-xinit i3 dmenu
 cp /etc/X11/xinit/xinitrc ~/.xinitrc
@@ -192,16 +192,12 @@ echo "$(blkid -o export /dev/sda1|grep '^UUID') /mnt ntfs3 defaults 0 0" >> /mnt
 mkdir Pictures
 cp /mnt/Share/Pictures/'_Konachan.com - 329324 2girls brown_hair building city close hatsune_miku long_hair megurine_luka signed spencer_sais stairs train vocaloid watermark.jpg' ~/Pictures/
 # 安装Java开发环境
-# sudo pacman -S code
 sudo pacman -S git jdk8-openjdk jdk11-openjdk maven
-sudo pacman -S intellij-idea-ultimate-edition
 # 安装字体
 sudo pacman -S nerd-fonts-complete
 sudo archlinux-java set java-11-openjdk
 sudo pacman -S docker
 sudo systemctl enable --now docker
-sudo docker run -d --restart always -p 3306:3306 -e MYSQL_ROOT_PASSWORD=masterA@#1 mysql:5.7
-sudo docker run -d --restart always -p 6379:6379 redis:5
 # 安装fastgithub
 yay -S fastgithub-bin
 sudo cp /opt/fastgithub-bin/cacert/fastgithub.crt /etc/ca-certificates/trust-source/anchors/
@@ -210,11 +206,6 @@ sudo update-ca-trust
 vim .bashrc
 export LANG=zh_CN.UTF-8
 export LC_ALL=zh_CN.UTF-8
-# 安装portx
-# yay -S portx-bin
-# cd .cache/yay/portx-bin/
-# vim PKGBUILD
-# makepkg -si
 ```
 
 
