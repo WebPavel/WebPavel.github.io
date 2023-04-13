@@ -1,3 +1,15 @@
+---
+layout: post
+title: "WinGet usage"
+date: 2023-04-14
+excerpt: "winget install apps."
+tags: [WinGet, Windows 10]
+comments: false
+---
+
+- application_backup.json
+
+```json
 {
 	"$schema": "https://aka.ms/winget-packages.schema.2.0.json",
 	"CreationDate": "2023-04-13T23:52:07.808-00:00",
@@ -77,3 +89,4 @@
 	}],
 	"WinGetVersion": "1.4.10173"
 }
+```
