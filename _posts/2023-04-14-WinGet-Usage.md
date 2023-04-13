@@ -7,7 +7,7 @@ tags: [WinGet, Windows 10]
 comments: false
 ---
 
-- application_backup.json
+- winget_export.json
 
 ```json
 {
