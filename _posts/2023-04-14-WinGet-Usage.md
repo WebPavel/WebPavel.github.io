@@ -52,6 +52,9 @@ comments: false
 			{
 				"PackageIdentifier": "Microsoft.WindowsTerminal.Preview"
 			},
+            {
+                "PackageIdentifier": "Canonical.Ubuntu.2004"
+            },
 			{
 				"PackageIdentifier": "OBSProject.OBSStudio"
 			},
@@ -101,5 +104,16 @@ comments: false
 	}],
 	"WinGetVersion": "1.4.10173"
 }
+
+```
+
+- install msstore appx
+
+```powershell
+
+winget install 9NBLGGH5Q5FV -s msstore
+winget install 9WZDNCRFJ3Q2 -s msstore
+winget install 9P9TQF7MRM4R -s msstore
+winget install 9WZDNCRFJBH4 -s msstore
 
 ```
