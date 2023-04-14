@@ -7,9 +7,12 @@ tags: [WinGet, Windows 10]
 comments: false
 ---
 
+
+
 - winget_export.json
 
 ```json
+
 {
 	"$schema": "https://aka.ms/winget-packages.schema.2.0.json",
 	"CreationDate": "2023-04-13T23:52:07.808-00:00",
@@ -76,8 +79,17 @@ comments: false
 				"PackageIdentifier": "Microsoft.VisualStudioCode"
 			},
 			{
+				"PackageIdentifier": "JohnMacFarlane.Pandoc"
+			},
+			{
 				"PackageIdentifier": "Python.Python.3.8",
 				"Version": "3.8.8"
+			},
+			{
+				"PackageIdentifier": "VideoLAN.VLC"
+			},
+			{
+				"PackageIdentifier": "WiresharkFoundation.Wireshark"
 			}
 		],
 		"SourceDetails": {
@@ -89,4 +101,5 @@ comments: false
 	}],
 	"WinGetVersion": "1.4.10173"
 }
+
 ```
