@@ -17,6 +17,9 @@ usermod -G sudo dev
 
 sudo apt install -y vim vlc ffmpeg docker.io nodejs obs-studio telnet p7zip-full p7zip-rar flameshot git pandoc net-tools wireshark thunderbird smplayer ibus-rime
 
+# remove-preinstalled-gnome-applications
+sudo apt autoremove -y gnome-games transmission-gtk evolution goldendict gnome-screenshot evince eog rhythmbox gnome-music totem
+
 sudo chmod +x VMware-Workstation-Full-17.0.0-20800274.x86_64.bundle
 sudo ./VMware-Workstation-Full-17.0.0-20800274.x86_64.bundle
 
