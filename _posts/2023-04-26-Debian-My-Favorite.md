@@ -30,9 +30,11 @@ sudo unzip ./fastgithub_linux-x64.zip -d /opt/
 sudo tar -zxvf ./ideaIU-2021.1.3.tar.gz -C /opt/
 sudo tar -zxvf ./ideaIC-2023.1.tar.gz -C /opt/
 sudo tar -zxvf ./postman-linux-x64.tar.gz -C /opt/
+sudo tar -zxvf ./apache-maven-3.6.2-bin.tar.gz -C /opt/
 
 ```
 
+0. apache-maven-3.6.2-bin.tar.gz
 1. code_1.77.3-1681292746_amd64.deb
 2. drawio-amd64-21.2.1.deb
 3. eudic.deb
