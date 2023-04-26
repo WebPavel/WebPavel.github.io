@@ -15,7 +15,7 @@ comments: false
 
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2023-04-26T14:52:47.665-00:00",
+	"CreationDate" : "2023-04-26T19:03:36.468-00:00",
 	"Sources" : 
 	[
 		{
@@ -62,8 +62,11 @@ comments: false
 					"Version" : "2023.1"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.EdgeWebView2Runtime",
-					"Version" : "106.0.1370.47"
+					"PackageIdentifier" : "Kingsoft.WPSOffice",
+					"Version" : "11.2.0.11536"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.EdgeWebView2Runtime"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsTerminal",
@@ -94,10 +97,6 @@ comments: false
 					"Version" : "3.4.3.22064"
 				},
 				{
-					"PackageIdentifier" : "Debian.Debian",
-					"Version" : "1.12.1.0"
-				},
-				{
 					"PackageIdentifier" : "VideoLAN.VLC",
 					"Version" : "3.0.18"
 				},
@@ -109,8 +108,7 @@ comments: false
 					"PackageIdentifier" : "Rime.Weasel"
 				},
 				{
-					"PackageIdentifier" : "WiresharkFoundation.Wireshark",
-					"Version" : "4.0.5.0"
+					"PackageIdentifier" : "WiresharkFoundation.Wireshark"
 				},
 				{
 					"PackageIdentifier" : "Xmind.Xmind.8",
@@ -149,8 +147,11 @@ comments: false
 					"Version" : "3.1.2"
 				},
 				{
-					"PackageIdentifier" : "Google.Chrome",
-					"Version" : "112.0.5615.138"
+					"PackageIdentifier" : "Google.Chrome"
+				},
+				{
+					"PackageIdentifier" : "VMware.WorkstationPro",
+					"Version" : "15.5.6"
 				},
 				{
 					"PackageIdentifier" : "Flameshot.Flameshot",
@@ -179,16 +180,6 @@ comments: false
 
 ```
 
-- install msstore appx
-
-```powershell
-
-winget install 9NBLGGH5Q5FV -s msstore
-winget install 9WZDNCRFJ3Q2 -s msstore
-winget install 9P9TQF7MRM4R -s msstore
-winget install 9WZDNCRFJBH4 -s msstore
-
-```
 
 - add-store.cmd
 
