@@ -37,6 +37,10 @@ sudo tar -zxvf ./ideaIU-2021.1.3.tar.gz -C /opt/
 sudo tar -zxvf ./ideaIC-2023.1.tar.gz -C /opt/
 sudo tar -zxvf ./postman-linux-x64.tar.gz -C /opt/
 sudo tar -zxvf ./apache-maven-3.6.2-bin.tar.gz -C /opt/
+sudo tar -zxvf ./jdk-8u202-linux-x64.tar.gz -C /opt/
+sudo vim /etc/profile
+source /etc/profile
+java -version
 
 ```
 
@@ -49,11 +53,12 @@ sudo tar -zxvf ./apache-maven-3.6.2-bin.tar.gz -C /opt/
 6. google-chrome-stable_current_amd64.deb
 7. ideaIC-2023.1.tar.gz
 8. ideaIU-2021.1.3.tar.gz
-9. postman-linux-x64.tar.gz
-10. uBlock0_1.49.0.firefox.xpi
-11. VMware-Workstation-Full-17.0.0-20800274.x86_64.bundle
-12. wps-office_11.1.0.11691.XA_amd64.deb
-13. XnViewMP-linux-x64.deb
+9. jdk-8u202-linux-x64.tar.gz
+10. postman-linux-x64.tar.gz
+11. uBlock0_1.49.0.firefox.xpi
+12. VMware-Workstation-Full-17.0.0-20800274.x86_64.bundle
+13. wps-office_11.1.0.11691.XA_amd64.deb
+14. XnViewMP-linux-x64.deb
 
 # Firefox configuration
 
@@ -71,9 +76,20 @@ vim default.custom.yaml
 
 ```
 
+- default.custom.yaml
+
 ```yaml
 
 patch:
   __include: rime_ice_suggestion:/
+
+```
+
+- /etc/profile
+
+```shell
+
+export JAVA_HOME=/opt/jdk1.8.0_202/
+export PATH=$PATH:$JAVA_HOME/bin
 
 ```
