@@ -68,10 +68,13 @@ comments: false
 					"PackageIdentifier": "JohnMacFarlane.Pandoc"
 				},
 				{
-					"PackageIdentifier": "Flameshot.Flameshot"
+					"PackageIdentifier": "ShareX.ShareX"
 				},
 				{
 					"PackageIdentifier": "JavadMotallebi.NeatDownloadManager"
+				},
+                {
+					"PackageIdentifier": "WiresharkFoundation.Wireshark"
 				},
 				{
 					"PackageIdentifier": "Microsoft.VCRedist.2015+.x64"
@@ -114,10 +117,10 @@ comments: false
 					"PackageIdentifier": "9NNPTJJGTLFJ"
 				},
 				{
-					"PackageIdentifier": "9MSVKQC78PK6"
+					"PackageIdentifier": "9PDXGNCFSCZV"
 				},
 				{
-					"PackageIdentifier": "9N0DX20HK701"
+					"PackageIdentifier": "9N8G5RFZ9XK3"
 				},
 				{
 					"PackageIdentifier": "9WZDNCRFHVQM"
