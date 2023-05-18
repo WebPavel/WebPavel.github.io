@@ -23,7 +23,7 @@ comments: false
 					"PackageIdentifier": "7zip.7zip"
 				},
 				{
-					"PackageIdentifier": "Piriform.CCleaner"
+					"PackageIdentifier": "Bandisoft.Honeyview"
 				},
 				{
 					"PackageIdentifier": "voidtools.Everything"
@@ -81,6 +81,9 @@ comments: false
 				},
 				{
 					"PackageIdentifier": "Python.Python.3.8"
+				},
+				{
+					"PackageIdentifier" : "Oracle.VirtualBox"
 				}
 			],
 			"SourceDetails": {
@@ -102,12 +105,6 @@ comments: false
 					"PackageIdentifier": "9WZDNCRFJ3Q2"
 				},
 				{
-					"PackageIdentifier": "9WZDNCRFJBH4"
-				},
-				{
-					"PackageIdentifier": "9P9TQF7MRM4R"
-				},
-				{
 					"PackageIdentifier": "9MVVSZK43QQW"
 				},
 				{
@@ -115,9 +112,6 @@ comments: false
 				},
 				{
 					"PackageIdentifier": "9NNPTJJGTLFJ"
-				},
-				{
-					"PackageIdentifier": "9PDXGNCFSCZV"
 				},
 				{
 					"PackageIdentifier": "9N8G5RFZ9XK3"
