@@ -14,118 +14,118 @@ comments: false
 ```json
 
 {
-	"$schema": "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate": "2023-04-26T19:03:36.468-00:00",
-	"Sources": [
-		{
-			"Packages": [
-				{
-					"PackageIdentifier": "7zip.7zip"
-				},
-				{
-					"PackageIdentifier": "Bandisoft.Honeyview"
-				},
-				{
-					"PackageIdentifier": "voidtools.Everything"
-				},
-				{
-					"PackageIdentifier": "Telerik.Fiddler.Classic"
-				},
-				{
-					"PackageIdentifier": "Git.Git",
-					"Version": "2.34.1"
-				},
-				{
-					"PackageIdentifier": "JetBrains.IntelliJIDEA.Ultimate",
-					"Version": "2021.1.3"
-				},
-				{
-					"PackageIdentifier": "JetBrains.IntelliJIDEA.Community"
-				},
-				{
-					"PackageIdentifier": "OBSProject.OBSStudio"
-				},
-				{
-					"PackageIdentifier": "Postman.Postman"
-				},
-				{
-					"PackageIdentifier": "VideoLAN.VLC"
-				},
-				{
-					"PackageIdentifier": "Xmind.Xmind.8"
-				},
-				{
-					"PackageIdentifier": "OpenJS.NodeJS.LTS",
-					"Version": "12.22.12"
-				},
-				{
-					"PackageIdentifier": "Microsoft.VCRedist.2015+.x86"
-				},
-				{
-					"PackageIdentifier": "Microsoft.VisualStudioCode"
-				},
-				{
-					"PackageIdentifier": "JohnMacFarlane.Pandoc"
-				},
-				{
-					"PackageIdentifier": "ShareX.ShareX"
-				},
-				{
-					"PackageIdentifier": "JavadMotallebi.NeatDownloadManager"
-				},
+    "$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+    "CreationDate": "2023-04-26T19:03:36.468-00:00",
+    "Sources": [
+        {
+            "Packages": [
                 {
-					"PackageIdentifier": "WiresharkFoundation.Wireshark"
-				},
-				{
-					"PackageIdentifier": "Microsoft.VCRedist.2015+.x64"
-				},
-				{
-					"PackageIdentifier": "Python.Python.3.8"
-				}
-			],
-			"SourceDetails": {
-				"Argument": "https://cdn.winget.microsoft.com/cache",
-				"Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
-				"Name": "winget",
-				"Type": "Microsoft.PreIndexed.Package"
-			}
-		},
-		{
-			"Packages": [
-				{
-					"PackageIdentifier": "9NBLGGH5Q5FV"
-				},
-				{
-					"PackageIdentifier": "9NBLGGH0L44H"
-				},
-				{
-					"PackageIdentifier": "9WZDNCRFJ3Q2"
-				},
-				{
-					"PackageIdentifier": "9MVVSZK43QQW"
-				},
-				{
-					"PackageIdentifier": "9NSGM705MQWC"
-				},
-				{
-					"PackageIdentifier": "9NNPTJJGTLFJ"
-				},
-				{
-					"PackageIdentifier": "9N8G5RFZ9XK3"
-				},
-				{
-					"PackageIdentifier": "9WZDNCRFHVQM"
-				}
-			],
-			"SourceDetails": {
-				"Argument": "https://storeedgefd.dsx.mp.microsoft.com/v9.0",
-				"Identifier": "StoreEdgeFD",
-				"Name": "msstore",
-				"Type": "Microsoft.Rest"
-			}
-		}
-	],
-	"WinGetVersion": "1.4.10173"
+                    "PackageIdentifier": "7zip.7zip"
+                },
+                {
+                    "PackageIdentifier": "Bandisoft.Honeyview"
+                },
+                {
+                    "PackageIdentifier": "voidtools.Everything"
+                },
+                {
+                    "PackageIdentifier": "Telerik.Fiddler.Classic"
+                },
+                {
+                    "PackageIdentifier": "Git.Git",
+                    "Version": "2.34.1"
+                },
+                {
+                    "PackageIdentifier": "JetBrains.IntelliJIDEA.Ultimate",
+                    "Version": "2021.1.3"
+                },
+                {
+                    "PackageIdentifier": "JetBrains.IntelliJIDEA.Community"
+                },
+                {
+                    "PackageIdentifier": "OBSProject.OBSStudio"
+                },
+                {
+                    "PackageIdentifier": "Postman.Postman"
+                },
+                {
+                    "PackageIdentifier": "VideoLAN.VLC"
+                },
+                {
+                    "PackageIdentifier": "Xmind.Xmind.8"
+                },
+                {
+                    "PackageIdentifier": "OpenJS.NodeJS.LTS",
+                    "Version": "12.22.12"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.VCRedist.2015+.x86"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.VisualStudioCode"
+                },
+                {
+                    "PackageIdentifier": "JohnMacFarlane.Pandoc"
+                },
+                {
+                    "PackageIdentifier": "ShareX.ShareX"
+                },
+                {
+                    "PackageIdentifier": "JavadMotallebi.NeatDownloadManager"
+                },
+                {
+                    "PackageIdentifier": "WiresharkFoundation.Wireshark"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.VCRedist.2015+.x64"
+                },
+                {
+                    "PackageIdentifier": "Python.Python.3.8"
+                }
+            ],
+            "SourceDetails": {
+                "Argument": "https://cdn.winget.microsoft.com/cache",
+                "Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+                "Name": "winget",
+                "Type": "Microsoft.PreIndexed.Package"
+            }
+        },
+        {
+            "Packages": [
+                {
+                    "PackageIdentifier": "9NBLGGH5Q5FV"
+                },
+                {
+                    "PackageIdentifier": "9NBLGGH0L44H"
+                },
+                {
+                    "PackageIdentifier": "9WZDNCRFJ3Q2"
+                },
+                {
+                    "PackageIdentifier": "9MVVSZK43QQW"
+                },
+                {
+                    "PackageIdentifier": "9NSGM705MQWC"
+                },
+                {
+                    "PackageIdentifier": "9NNPTJJGTLFJ"
+                },
+                {
+                    "PackageIdentifier": "9N8G5RFZ9XK3"
+                },
+                {
+                    "PackageIdentifier": "9WZDNCRFHVQM"
+                }
+            ],
+            "SourceDetails": {
+                "Argument": "https://storeedgefd.dsx.mp.microsoft.com/v9.0",
+                "Identifier": "StoreEdgeFD",
+                "Name": "msstore",
+                "Type": "Microsoft.Rest"
+            }
+        }
+    ],
+    "WinGetVersion": "1.4.10173"
 }
 
 ```
