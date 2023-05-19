@@ -81,9 +81,6 @@ comments: false
 				},
 				{
 					"PackageIdentifier": "Python.Python.3.8"
-				},
-				{
-					"PackageIdentifier" : "Oracle.VirtualBox"
 				}
 			],
 			"SourceDetails": {
