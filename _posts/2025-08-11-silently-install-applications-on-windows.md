@@ -11,6 +11,7 @@ tag:
 - Windows
 comments: true
 ---
+
 # Silently install applications on Windows 11
 
 As a developer for a long time, I manually click the next button step by step each time I install software and applications.
