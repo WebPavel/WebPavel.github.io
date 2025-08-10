@@ -3,12 +3,7 @@ layout: post
 title:  "Silently install applications on Windows"
 date:   2025-08-11
 excerpt: "One-click download and install common software and applications on Windows 11."
-tag:
-- silently install
-- Unattended installation
-- applications installation
-- PowerShell
-- Windows
+tag: [silently install, Unattended installation, applications installation, PowerShell, Windows]
 comments: true
 ---
 
