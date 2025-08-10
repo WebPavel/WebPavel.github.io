@@ -9,7 +9,7 @@ tag:
 - applications installation
 - PowerShell
 - Windows
-  comments: true
+comments: true
 ---
 # Silently install applications on Windows 11
 
