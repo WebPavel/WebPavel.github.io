@@ -36,6 +36,11 @@ rem Install Git.
 start /wait %~dp0\Git-2.50.1-64-bit.exe /SILENT /DIR=%INSTALL_DIR%
 
 git version
+git config --global http.proxy http://127.0.0.1:10808
+git config --global http.sslVerify false
+git config --global user.name "Your Name"
+git config --global user.email "your_email@example.com"
+git config --global color.ui auto
 
 rem Remove the installer.
 del Git-2.50.1-64-bit.exe
@@ -47,17 +52,22 @@ pause
 
 参考 [Git - git-config 文档 - Git 版本控制系统](https://git-scm.cn/docs/git-config#ENVIRONMENT)
 
+#### Git/after-install.sh
+
 ```shell
 git config --global http.proxy http://127.0.0.1:10808
 git config --global http.sslVerify false
-git config --global user.name "paulluis"
-git config --global user.email "paulluis.dev@gmail.com"
-ssh-keygen -t rsa -b 4096 -C "paulluis.dev@gmail.com"
+git config --global user.name "Your Name"
+git config --global user.email "your_email@example.com"
+git config --global color.ui auto
+ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 ```
 
 ## Oh My Zsh
 
 ### 安装 Oh My Zsh
+
+#### Git/Oh My Zsh/install-oh-my-zsh.sh
 
 ```shell
 curl -LORk -o "MesloLGS NF Regular.ttf" https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Regular.ttf
@@ -117,6 +127,52 @@ setx PATH "%%JAVA_HOME%%\bin;%PATH%" /M
 
 rem Remove the installer.
 ::del jdk-8u202-windows-x64.exe
+
+pause
+```
+
+#### Java/after-install.ps1
+
+```powershell
+param (
+    [String]$JavaHomePath="C:\Java\jdk1.8.0_202"
+)
+if ([String]::IsNullOrWhiteSpace([Environment]::GetEnvironmentVariable("JAVA_HOME", "Machine")))
+{
+    [Environment]::SetEnvironmentVariable("JAVA_HOME", "$JavaHomePath", "Machine")
+}
+$NewPath = (([Environment]::GetEnvironmentVariable("PATH", "Machine") -split ";") | ?{ $_ -and $_ -notlike "*\Java\*\bin" }) -join ";"
+[Environment]::SetEnvironmentVariable("PATH", "$NewPath;$JavaHomePath\bin", "Machine")
+
+Invoke-Expression "& java -version"
+```
+
+#### Java/after-install-jre.ps1
+
+```powershell
+param (
+    [String]$JavaHomePath="C:\Java\jre1.8.0_461"
+)
+if ([String]::IsNullOrWhiteSpace([Environment]::GetEnvironmentVariable("JAVA_HOME", "Machine")))
+{
+    [Environment]::SetEnvironmentVariable("JAVA_HOME", "$JavaHomePath", "Machine")
+}
+$NewPath = (([Environment]::GetEnvironmentVariable("PATH", "Machine") -split ";") | ?{ $_ -and $_ -notlike "*\Java\*\bin" }) -join ";"
+[Environment]::SetEnvironmentVariable("PATH", "$NewPath;$JavaHomePath\bin", "Machine")
+
+Invoke-Expression "& java -version"
+```
+
+#### Java/after-install.bat
+
+```bat
+@echo off
+
+set INSTALL_DIR="C:\Java\jdk1.8.0_202"
+setx JAVA_HOME %INSTALL_DIR% /M
+setx PATH "%%JAVA_HOME%%\bin;%PATH%" /M
+
+java -version
 
 pause
 ```
@@ -187,6 +243,248 @@ start /wait %~dp0\VSCodeSetup-x64-1.102.1.exe /VERYSILENT /mergetasks="desktopic
 
 rem Remove the installer.
 del VSCodeSetup-x64-1.102.1.exe
+
+pause
+```
+
+### Podman Desktop 安装
+
+After completing the installation of Podman Desktop, It doesn't come with the Podman installation,
+even though the installation package contains the pod installation package. So you need to install it manually.
+
+#### PodmanDesktop/after-install.ps1
+
+```bat
+param(
+    [String]$podmanDesktopInstallFolder = "C:\Apps\Podman Desktop"
+)
+$package = "$podmanDesktopInstallFolder\resources\extensions\podman\packages\extension\assets\podman-5.5.2-setup.exe"
+$args = @("/quiet", "MachineProvider=wsl AllowOldWin=1 InstallFolder=`"C:\Apps\Podman`"")
+Start-Process -FilePath $package -ArgumentList $args -NoNewWindow -Wait -PassThru
+$exitCode = $LASTEXITCODE
+$name = "Podman"
+if ($exitCode -eq 0)
+{
+    Write-Output "$name has been successfully installed."
+}
+else
+{
+    Write-Output "Unable to install $name : $exitCode"
+}
+```
+
+### MSYS2 Installation
+
+Due to the well-known GFW network problem in China, It doesn't finish as quickly as expected when generating GNUPgp if you start bash after completing the installation.
+Please do not do this. On the contrary, use the script below to set up the mirrors of software source for updates.
+
+#### MSYS2/after-install.sh
+
+```shell
+sed -i "s#mirror.msys2.org/#mirrors.ustc.edu.cn/msys2/#g" /c/msys64/etc/pacman.d/mirrorlist* && pacman -Sy
+```
+
+### PostgreSQL Installation
+
+#### PostgreSQL/after-install.ps1
+
+```powershell
+param (
+    [String]$PostgreSQLHomePath="C:\Apps\PostgreSQL\15"
+)
+$NewPath = (([Environment]::GetEnvironmentVariable("PATH", "Machine") -split ";") | ?{ $_ -and $_ -notlike "*\PostgreSQL\*\bin" }) -join ";"
+[Environment]::SetEnvironmentVariable("PATH", "$NewPath;$PostgreSQLHomePath\bin", "Machine")
+
+Invoke-Expression "& psql `"dbname=postgres host=localhost user=postgres password=postgres port=5432 sslmode=prefer`""
+```
+
+### Starship
+
+I suggest installing the nerd font first, you do install starship.
+
+#### .config/starship/pastel-powerline.toml
+
+```toml
+format = """
+[](#9A348E)\
+$os\
+$username\
+[](bg:#DA627D fg:#9A348E)\
+$directory\
+[](fg:#DA627D bg:#FCA17D)\
+$git_branch\
+$git_status\
+[](fg:#FCA17D bg:#86BBD8)\
+$c\
+$elixir\
+$elm\
+$golang\
+$gradle\
+$haskell\
+$java\
+$julia\
+$nodejs\
+$nim\
+$rust\
+$scala\
+[](fg:#86BBD8 bg:#06969A)\
+$docker_context\
+[](fg:#06969A bg:#33658A)\
+$time\
+[ ](fg:#33658A)\
+"""
+
+# Disable the blank line at the start of the prompt
+# add_newline = false
+
+# You can also replace your username with a neat symbol like   or disable this
+# and use the os module below
+[username]
+show_always = true
+style_user = "bg:#9A348E"
+style_root = "bg:#9A348E"
+format = '[$user ]($style)'
+disabled = false
+
+# An alternative to the username module which displays a symbol that
+# represents the current operating system
+[os]
+style = "bg:#9A348E"
+disabled = true # Disabled by default
+
+[directory]
+style = "bg:#DA627D"
+format = "[ $path ]($style)"
+truncation_length = 3
+truncation_symbol = "…/"
+
+# Here is how you can shorten some long paths by text replacement
+# similar to mapped_locations in Oh My Posh:
+[directory.substitutions]
+"Documents" = "󰈙 "
+"Downloads" = " "
+"Music" = " "
+"Pictures" = " "
+# Keep in mind that the order matters. For example:
+# "Important Documents" = " 󰈙 "
+# will not be replaced, because "Documents" was already substituted before.
+# So either put "Important Documents" before "Documents" or use the substituted version:
+# "Important 󰈙 " = " 󰈙 "
+
+[c]
+symbol = " "
+style = "bg:#86BBD8"
+format = '[ $symbol ($version) ]($style)'
+
+[cpp]
+symbol = " "
+style = "bg:#86BBD8"
+format = '[ $symbol ($version) ]($style)'
+
+[docker_context]
+symbol = " "
+style = "bg:#06969A"
+format = '[ $symbol $context ]($style)'
+
+[elixir]
+symbol = " "
+style = "bg:#86BBD8"
+format = '[ $symbol ($version) ]($style)'
+
+[elm]
+symbol = " "
+style = "bg:#86BBD8"
+format = '[ $symbol ($version) ]($style)'
+
+[git_branch]
+symbol = ""
+style = "bg:#FCA17D"
+format = '[ $symbol $branch ]($style)'
+
+[git_status]
+style = "bg:#FCA17D"
+format = '[$all_status$ahead_behind ]($style)'
+
+[golang]
+symbol = " "
+style = "bg:#86BBD8"
+format = '[ $symbol ($version) ]($style)'
+
+[gradle]
+style = "bg:#86BBD8"
+format = '[ $symbol ($version) ]($style)'
+
+[haskell]
+symbol = " "
+style = "bg:#86BBD8"
+format = '[ $symbol ($version) ]($style)'
+
+[java]
+symbol = " "
+style = "bg:#86BBD8"
+format = '[ $symbol ($version) ]($style)'
+
+[julia]
+symbol = " "
+style = "bg:#86BBD8"
+format = '[ $symbol ($version) ]($style)'
+
+[nodejs]
+symbol = ""
+style = "bg:#86BBD8"
+format = '[ $symbol ($version) ]($style)'
+
+[nim]
+symbol = "󰆥 "
+style = "bg:#86BBD8"
+format = '[ $symbol ($version) ]($style)'
+
+[rust]
+symbol = ""
+style = "bg:#86BBD8"
+format = '[ $symbol ($version) ]($style)'
+
+[scala]
+symbol = " "
+style = "bg:#86BBD8"
+format = '[ $symbol ($version) ]($style)'
+
+[time]
+disabled = false
+time_format = "%R" # Hour:Minute Format
+style = "bg:#33658A"
+format = '[ ♥ $time ]($style)'
+
+```
+
+#### .config/starship/WindowsPowerShell/Microsoft.PowerShell_profile.ps1
+
+```powershell
+function Invoke-Starship-PreCommand {
+    $host.ui.RawUI.WindowTitle = "$env:USERNAME@$env:COMPUTERNAME`: $pwd `a"
+}
+
+function Invoke-Starship-TransientFunction {
+  &starship module character
+}
+
+Invoke-Expression (&starship init powershell)
+
+Enable-TransientPrompt
+
+$ENV:STARSHIP_CONFIG = "$HOME\.config\starship.toml"
+```
+
+#### .config/starship/starship.bat
+
+```bat
+@echo off
+%1 mshta vbscript:CreateObject("Shell.Application").ShellExecute("cmd.exe","/c %~s0 ::","","runas",1)(window.close)&&exit
+
+powershell -command "& {Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Force}"
+xcopy %~dp0\WindowsPowerShell %USERPROFILE%\Documents\WindowsPowerShell /s /e /i
+xcopy %~dp0\pastel-powerline.toml %USERPROFILE%\.config\starship.toml /s /e /i
+echo.
 
 pause
 ```
