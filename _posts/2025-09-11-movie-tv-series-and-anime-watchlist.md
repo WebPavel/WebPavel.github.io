@@ -9,6 +9,8 @@ comments: true
 
 # Movie, TV series, and anime watchlist
 
+The list of movies, TV series and anime I watched during my leisure time in 2025.
+
 | name                  | release-year | country | language |
 |-----------------------|--------------|---------|----------|
 | 你想活出怎样的人生             | 2023         | JP      | JP       |
