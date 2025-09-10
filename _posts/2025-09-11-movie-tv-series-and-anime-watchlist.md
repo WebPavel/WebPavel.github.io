@@ -7,6 +7,7 @@ tags: [ Movie, TV series, anime ]
 comments: true
 ---
 
+
 # Movie, TV series, and anime watchlist
 
 The list of movies, TV series and anime I watched during my leisure time in 2025.
