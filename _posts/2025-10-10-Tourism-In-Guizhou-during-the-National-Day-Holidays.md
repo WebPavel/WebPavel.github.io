@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tourism in Guizhou during the National Day Holidays"
-date: 2025-10-10
+date: photos
 excerpt: "Tourism in Guiyang and Anshun during the National Day holidays."
 tags: [ Tourism, Guizhou, National Day, holidays ]
 comments: true
@@ -27,25 +27,25 @@ I eat 陈氏人家豆米火锅（花溪店）last night, and wandered around the
 
 Today is also the traditional Chinese festival: Mid-Autumn Festival(中秋节), So there are many people crowded the walking street.
 
-![HuaxiPark.png](/assets/2025-10-10/IMG_0533.png)
+![HuaxiPark.png](/assets/photos/IMG_0533.png)
 
 #### Qianlingshan Park(黔灵山公园)
 
-![QinglingshanParkEastGate.png](/assets/2025-10-10/IMG_0534.png)
+![QinglingshanParkEastGate.png](/assets/photos/IMG_0534.png)
 
-![Monkey.png](/assets/2025-10-10/IMG_0552.png)
+![Monkey.png](/assets/photos/IMG_0552.png)
 
 #### Dongshan Temple(东山寺)
 
-![DongshanTemple.png](/assets/2025-10-10/IMG_0556.png)
+![DongshanTemple.png](/assets/photos/IMG_0556.png)
 
-![GuizhouWaterConservancy.png](/assets/2025-10-10/IMG_0557.png)
+![GuizhouWaterConservancy.png](/assets/photos/IMG_0557.png)
 
-![CityScene.png](/assets/2025-10-10/IMG_0560.png)
+![CityScene.png](/assets/photos/IMG_0560.png)
 
 #### Jiaxiulou(甲秀楼)
 
-![JiaxiulouAround.png](/assets/2025-10-10/IMG_0562.png)
+![JiaxiulouAround.png](/assets/photos/IMG_0562.png)
 
 ### The 2nd Day: Huangguoshu Waterfall in Anshun(安顺 - 黄果树瀑布)
 
@@ -53,61 +53,61 @@ The weather is really bad today, It's raining heavily all day.
 
 #### Tianxingqiao(天星桥)
 
-![Bajie.png](/assets/2025-10-10/IMG_0564.png)
+![Bajie.png](/assets/photos/IMG_0564.png)
 
-![Stone.png](/assets/2025-10-10/IMG_0567.png)
+![Stone.png](/assets/photos/IMG_0567.png)
 
-![KarstCave.png](/assets/2025-10-10/IMG_0571.png)
+![KarstCave.png](/assets/photos/IMG_0571.png)
 
-![RushingWater.png](/assets/2025-10-10/IMG_0573.png)
+![RushingWater.png](/assets/photos/IMG_0573.png)
 
-![RushingWater.png](/assets/2025-10-10/IMG_0574.png)
+![RushingWater.png](/assets/photos/IMG_0574.png)
 
-![RushingWater.png](/assets/2025-10-10/IMG_0577.png)
+![RushingWater.png](/assets/photos/IMG_0577.png)
 
-![RushingWater.png](/assets/2025-10-10/IMG_0579.png)
+![RushingWater.png](/assets/photos/IMG_0579.png)
 
-![RushingWater.png](/assets/2025-10-10/IMG_0580.png)
+![RushingWater.png](/assets/photos/IMG_0580.png)
 
 #### Grand Waterfall(大瀑布)
 
-![GrandWaterfall.png](/assets/2025-10-10/IMG_0598.png)
+![GrandWaterfall.png](/assets/photos/IMG_0598.png)
 
-![GrandWaterfall.png](/assets/2025-10-10/IMG_0599.png)
+![GrandWaterfall.png](/assets/photos/IMG_0599.png)
 
 #### Doupotang(陡坡塘)
 
-![JourneyToTheWest.png](/assets/2025-10-10/IMG_0619.png)
+![JourneyToTheWest.png](/assets/photos/IMG_0619.png)
 
-![JourneyToTheWest.png](/assets/2025-10-10/IMG_0620.png)
+![JourneyToTheWest.png](/assets/photos/IMG_0620.png)
 
-![WhiteHouse.png](/assets/2025-10-10/IMG_0627.png)
+![WhiteHouse.png](/assets/photos/IMG_0627.png)
 
-![TwinTowers.png](/assets/2025-10-10/IMG_0629.png)
+![TwinTowers.png](/assets/photos/IMG_0629.png)
 
 ### The 3rd Day: Wandering in Guiyang and Returning
 
 #### Huaxi Yelang Valley(花溪夜郎谷)
 
-![Soldier.png](/assets/2025-10-10/IMG_0639.png)
+![Soldier.png](/assets/photos/IMG_0639.png)
 
-![Art.png](/assets/2025-10-10/IMG_0641.png)
+![Art.png](/assets/photos/IMG_0641.png)
 
-![Hoodoos.png](/assets/2025-10-10/IMG_0647.png)
+![Hoodoos.png](/assets/photos/IMG_0647.png)
 
-![Hoodoos.png](/assets/2025-10-10/IMG_0648.png)
+![Hoodoos.png](/assets/photos/IMG_0648.png)
 
-![HarvestSacrifice.png](/assets/2025-10-10/IMG_0649.png)
+![HarvestSacrifice.png](/assets/photos/IMG_0649.png)
 
-![Hoodoos.png](/assets/2025-10-10/IMG_0653.png)
+![Hoodoos.png](/assets/photos/IMG_0653.png)
 
 #### Qingyang Ancient Town(青岩古镇)
 
-![Trombonist.png](/assets/2025-10-10/IMG_0654.png)
+![Trombonist.png](/assets/photos/IMG_0654.png)
 
-![Buyi.png](/assets/2025-10-10/IMG_0656.png)
+![Buyi.png](/assets/photos/IMG_0656.png)
 
-![Sichuan.png](/assets/2025-10-10/IMG_0657.png)
+![Sichuan.png](/assets/photos/IMG_0657.png)
 
 ## Fare
 
