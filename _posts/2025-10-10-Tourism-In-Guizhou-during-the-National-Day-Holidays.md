@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tourism in Guizhou during the National Day Holidays"
-date: photos
+date: 2025-10-10
 excerpt: "Tourism in Guiyang and Anshun during the National Day holidays."
 tags: [ Tourism, Guizhou, National Day, holidays ]
 comments: true

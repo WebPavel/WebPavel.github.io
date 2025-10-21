@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "sightseeing in Guangzhou"
-date: photos
+date: 2025-10-21
 excerpt: "sightseeing in Guangzhou, including Guangzhou Zoo and Yuntai Garden."
 tags: [ sightseeing, Guangzhou, Guangzhou Zoo, Yuntai Garden ]
 comments: true
