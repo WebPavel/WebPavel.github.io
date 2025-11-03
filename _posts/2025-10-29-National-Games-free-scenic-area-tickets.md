@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "National Games free scenic area tickets"
-date: 2025-10-21
+date: 2025-10-29
 excerpt: "National Games free scenic area tickets, including Guangzhou Zoo, Baiyun Mountain, Yunluo Botanical Garden, and Yunxi Botanical Garden."
 tags: [ National Games, Guangzhou Zoo, Baiyun Mountain, Yunluo Botanical Garden, Yunxi Botanical Garden ]
 comments: true
