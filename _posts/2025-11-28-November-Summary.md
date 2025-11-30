@@ -41,9 +41,18 @@ Record the snacks I eat every day and waste recycling
 I sold my old iPhone XR (128GB) for 408CNY on the second-hand platform Zhuanzhuan.
 
 商品名称
-- [ ] 劲仔深海小鱼加量装香辣味+香卤肉9.90
 - [ ] 卫龙风吃海带 香辣味
 - [ ] 农夫山泉 东方树叶茉莉花茶无糖茶饮料 500ml/瓶
+- [ ] 西域春奶啤原味
+- [ ] 辈儿香八爪烧麻辣味
+- [x] 盼盼麦香鸡味块 40g 30消
+- [x] 达利园瑞士卷草莓味 160g 30消
+- [x] 西域春奶啤白桃味 30消
+- [x] 劲仔深海小鱼加量装香辣味+香卤肉9.90 30消
+- [x] 辈儿香八爪烧酱爆肉味 29消
+- [x] 无穷虎皮糯凤爪香辣味 68g 29消
+- [x] 嘉士利威化饼干士多啤梨味草莓味 93g 29消
+- [x] 可口可乐 500ml 28消
 - [x] 辈儿香八爪烧麻辣味 26消
 - [x] 辈儿香八爪烧酱爆肉味 26消
 - [x] 农夫山泉东方树叶青柑普洱茶饮料 26消
@@ -81,9 +90,9 @@ Since my Industrial Bank debit card is about to expire, I made an appointment to
 
 For the new card type, I chose the Industrial Bank Global Life Standard Card (兴业银行寰宇人生普卡), and for the pickup method, I chose to pick it up at a branch.
 
-After applying through the mobile app, I received an official short message indicating that it would take 10 business days (工作日) to reissue the new debit card.
+After applying through the mobile app, I received an official short text message indicating that it would take 10 business days (工作日) to reissue the new debit card.
 
-In fact, on November 12th, I received an official short message indicating that the new debit card had been delivered to the designated branch and that I could pick it up.
+In fact, on November 12th, I received an official short text message indicating that the new debit card had been delivered to the designated branch and that I could pick it up.
 
 After I picked up my new debit card at the branch, the bank staff gave away a 5-kilogram bag of rice to me as a reward when I made a deposit.
 
