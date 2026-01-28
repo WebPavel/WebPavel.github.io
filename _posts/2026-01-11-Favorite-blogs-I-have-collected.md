@@ -2,8 +2,8 @@
 layout: post
 title: "Favorite blogs I have collected"
 date: 2026-01-11
-excerpt: "Favorite blogs I have collected."
-tags: [ blogs, favorite ]
+excerpt: "Favorite blogs I have collected recently."
+tags: [ blogs, favorite, RSS ]
 comments: true
 ---
 
