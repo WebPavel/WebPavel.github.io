@@ -12,13 +12,14 @@ comments: true
 
 The list of movies, TV series and anime I watched during my leisure time in 2025.
 
-| name                  | release-year | country | language |
-|-----------------------|--------------|---------|----------|
-| 你想活出怎样的人生             | 2023         | JP      | JP       |
-| my-brilliant-friend 4 | 2024         | Italy   | Italian  |
-| 千寻小姐                  | 2023         | JP      | JP       |
-| 葬送的芙莉莲                | 2023         | JP      | JP       |
-| 和雨・和你                 | 2025         | JP      | JP       |
+| name                                        | Chinese            | release-year | country | language |
+|---------------------------------------------|--------------------|--------------|---------|----------|
+| The Boy and the Heron                       | 你想活出怎样的人生 \| 蒼鷺與少年 | 2023         | JP      | JP       |
+| My Brilliant Friend 4                       | 我的天才女友             | 2024         | Italy   | Italian  |
+| Call Me Chihiro                             | 我是千尋               | 2023         | JP      | JP       |
+| Frieren: Beyond Journey's End               | 葬送的芙莉莲             | 2023         | JP      | JP       |
+| With You and the Rain                       | 和雨・和你              | 2025         | JP      | JP       |
+| More than a married couple, but not lovers. | 夫妇以上、恋人未满。         | 2022         | JP      | JP       |
 
 
 The list of movies I watched at the cinema during my leisure time in the past.
