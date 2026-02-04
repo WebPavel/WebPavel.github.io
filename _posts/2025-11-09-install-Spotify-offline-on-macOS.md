@@ -11,7 +11,7 @@ comments: true
 # install Spotify offline on macOS
 
 "How to install Spotify offline on macOS", I have been troubled by this problem for a long time, util today when I read this [article](
-https://community.spotify.com/t5/Desktop-Mac/Download-for-Mac/td-p/693196) .
+https://community.spotify.com/t5/Desktop-Mac/Download-for-Mac/td-p/693196).
 
 ```shell
 
