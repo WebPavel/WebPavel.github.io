@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to transfer US dollars across borders"
-date: 2026-01-11
+date: 2026-02-11
 excerpt: "How to transfer US dollars across borders? How to transfer US dollars between China mainland and Hong Kong via Bank of China."
 tags: [ transaction, US dollar, bank, Hong Kong, BOC, BOC HK ]
 comments: true
@@ -18,7 +18,7 @@ Firstly, I transferred HKD from HSBC HK to BOC HK and transferred HKD from BOC H
 1000 USD is enough for me. After I transferred 1000 USD from BOC HK to Airstar Bank, I received an email that indicates I have reactivated my MTC account. Therefore, I finally succeeded in applying for a new BOC Mastercard Debit Card.
 
 
-## Endorsement of Exit and Entry Permit(EEP)
+## Endorsement of Exit and Entry Permit (EEP)
 
 Date: 2026-02-09 night
 
