@@ -143,6 +143,8 @@ Address: Wanda Cinemas (Guangzhou Baiyun Wanda Plaza Branch), Yuncheng East Road
 
 Seating: Row 5, Seats 10 and 11
 
+After ending, I wanted to ask you what you thought of the movie, but I forgot.
+
 
 ### Having dinner
 
