@@ -75,7 +75,7 @@ After climbing Baiyun Mountain alone, I went to have dinner with Miss Wu.
 
 Address: Yemeiyuan Ecology Yeziji (Guangzhou Baiyun Wanda Plaza Branch), Yuncheng East Road No.501 Wanda Plaza F3, Baiyun District
 
-影院地址：椰妹原生态椰子鸡（广州白云万达广场店），白云区云城东路 501 号白云万达广场 3 楼
+地址：椰妹原生态椰子鸡（广州白云万达广场店），白云区云城东路 501 号白云万达广场 3 楼
 
 The meal was delicious.
 
@@ -152,7 +152,7 @@ After the movie, we went to have dinner. I was really sorry that Miss Wu had din
 
 Address: Good-time (Guangzhou Baiyun Wanda Plaza Branch), Yuncheng East Road No.501 Wanda Plaza F3, Baiyun District
 
-影院地址：谷田稻香砂锅菜（广州白云万达广场店），白云区云城东路 501 号白云万达广场 3 楼
+地址：谷田稻香砂锅菜（广州白云万达广场店），白云区云城东路 501 号白云万达广场 3 楼
 
 Seating: A05
 
