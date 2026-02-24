@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Movie, TV Series, and anime watchlist"
+title: "Movie, TV Series, and anime watchlist in 2026"
 date: 2026-02-25
 excerpt: "The list of movies, TV Series and anime I watched in 2026."
 tags: [ Movie, TV Series, anime ]
@@ -8,7 +8,7 @@ comments: true
 ---
 
 
-# Movie, TV Series, and anime watchlist
+# Movie, TV Series, and anime watchlist in 2026
 
 The list of movies, TV Series, and anime I watched during my leisure time in 2026.
 
@@ -16,7 +16,7 @@ The list of movies, TV Series, and anime I watched during my leisure time in 202
 |---------------------------------|----------------|--------------|---------|----------|
 | One Flew Over the Cuckoo's Nest | 飞越疯人院 \| 飛越杜鵑窩 | 1975         | America | English  |
 
-The list of movies I watched at the cinema during my leisure time in the past.
+The list of movies I watched at the cinema during my leisure time in 2026.
 
 | name                | Chinese | release-year | country | language   |
 |---------------------|---------|--------------|---------|------------|
