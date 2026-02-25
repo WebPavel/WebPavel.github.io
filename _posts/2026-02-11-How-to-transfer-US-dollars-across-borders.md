@@ -128,6 +128,11 @@ Process:
 
 Fees: Free of charge.
 
+> Updated Feb 25, 2026, I still have not received the physical debit card from Hong Kong.
+And I contacted online CS (Customer Service). They indicated that delivery to an address outside of Hong Kong would take one month.
+> 
+> Me: I need to track the delivery status of my physical Mastercard debit card, which I applied for two weeks ago.
+
 
 ## Pick up and claim a 500 RMB coin purse
 
