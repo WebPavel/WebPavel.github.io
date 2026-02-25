@@ -12,9 +12,9 @@ comments: true
 
 The list of movies, TV Series, and anime I watched during my leisure time in 2026.
 
-| name                            | Chinese        | release-year | country | language |
-|---------------------------------|----------------|--------------|---------|----------|
-| One Flew Over the Cuckoo's Nest | 飞越疯人院 \| 飛越杜鵑窩 | 1975         | America | English  |
+| name                            | Chinese        | release-year | country       | language |
+|---------------------------------|----------------|--------------|---------------|----------|
+| One Flew Over the Cuckoo's Nest | 飞越疯人院 \| 飛越杜鵑窩 | 1975         | United States | English  |
 
 
 The list of movies I watched at the cinema during my leisure time in 2026.
