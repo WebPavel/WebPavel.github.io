@@ -178,3 +178,21 @@ Address: Feixiang Park
 I wrote this post on Feb 24, reflected on my encounter with Miss Wu.
 
 Sometimes, I don't understand how to cherish.
+
+## Latest Updates
+
+Date: 2026-03-02
+
+A new month has begun, and our relationship doesn't seem to be getting any better.
+
+We broke down in the argument about who pays for everyday expenses.
+
+Previously, those who cared about the progress of our relationship always complained to me that it was rude to let Miss Wu pay for every meal on our dates.
+
+Therefore, I transferred some money to her for our date on Feb 22, 2026.
+
+However, Miss Wu refused to accept the money, and I persisted in insisting that she take it.
+
+After that, she stopped replying to my messages on WeChat.
+
+Or perhaps, it was the end.
