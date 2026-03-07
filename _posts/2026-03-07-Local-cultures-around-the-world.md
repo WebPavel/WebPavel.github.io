@@ -9,6 +9,9 @@ comments: true
 
 # Local cultures around the world
 
+Local cultures around the world, such as Hong Kong and Thailand.
+
+
 ## Hong Kong
 
 ### 3C Products (Computer, Communication, Consumer Electronics)
