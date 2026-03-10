@@ -133,6 +133,17 @@ And I contacted online CS (Customer Service). They indicated that delivery to an
 > 
 > Me: I need to track the delivery status of my physical Mastercard debit card, which I applied for two weeks ago.
 
+> Updated Mar 10, 2026, I first went to the branch of China Post on Daguan Middle Road, Xintang Street, Tianhe District to inquire about the delivery of ordinary mail from Hong Kong.
+> It’s not a post office that can deliver ordinary mail. I learned about it from the front receptionist. And the nearest post office that can deliver ordinary mail is the Dongpu (东圃) Post Office.
+> 
+> The next day, I went to the Tangde (棠德) and Dongpu post office. The front receptionist at the Tangde post office was friendly and professional, and told me that mail destined for Xintang Street was to be delivered by the Dongpu post office.
+> 
+> Then I went to the Dongpu post office to check the delivery status of the ordinary mail. The front receptionist there was impatient and unprofessional.
+> However, she checked the computer system and found that mail delivery to Xintang Street was handled by the Wushan (五山) post office.
+> 
+> I then called the Wushan post office to inquire about the contact number for their delivery department.
+> China Post Wushan Delivery Department: (020)-8528-1400. I called the number they gave me, but no one answered.
+
 
 ## Pick up and claim a 500 RMB coin purse
 
