@@ -132,6 +132,8 @@ Fees: Free of charge.
 And I contacted online CS (Customer Service). They indicated that delivery to an address outside of Hong Kong would take one month.
 > 
 > Me: I need to track the delivery status of my physical Mastercard debit card, which I applied for two weeks ago.
+> 
+> Online Chat CS: The physical Mastercard debit card was delivered to my address in Hong Kong on Feb 13, 2026.
 
 > Updated Mar 10, 2026, I first went to the branch of China Post on Daguan Middle Road, Xintang Street, Tianhe District to inquire about the delivery of ordinary mail from Hong Kong.
 > It’s not a post office that can deliver ordinary mail. I learned about it from the front receptionist. And the nearest post office that can deliver ordinary mail is the Dongpu (东圃) Post Office.
