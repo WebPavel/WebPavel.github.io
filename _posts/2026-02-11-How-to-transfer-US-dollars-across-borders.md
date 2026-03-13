@@ -146,6 +146,12 @@ And I contacted online CS (Customer Service). They indicated that delivery to an
 > I then called the Wushan post office to inquire about the contact number for their delivery department.
 > China Post Wushan Delivery Department: (020)-8528-1400. I called the number they gave me, but no one answered.
 
+> Updated Mar 13, 2026, I personally picked up my physical Mastercard debit card of BOC (Hong Kong) at the Wushan delivery department.
+> 
+> This is the entire process of receiving the ordinary mail from Hong Kong, which took a month.
+> 
+> **In summary**: From this, I learned that mail delivered to Xintang Street is handled by the *Wushan* delivery department.
+
 
 ## Pick up and claim a 500 RMB coin purse
 
