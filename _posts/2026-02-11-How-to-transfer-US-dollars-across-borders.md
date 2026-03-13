@@ -152,6 +152,14 @@ And I contacted online CS (Customer Service). They indicated that delivery to an
 > 
 > **In summary**: From this, I learned that mail delivered to Xintang Street is handled by the *Wushan* delivery department.
 
+China Post Wushan Delivery Department is located on the first floor of Building 10, Tea Mountain Area, SCAU (South China Agricultural University), Wushan Street, Tianhe District.
+
+中国邮政速递物流股份有限公司五山揽投部：天河区五山街道五山路华南农业大学茶山区 10 栋 1 层
+
+Public transportation: take Bus 78A and get off at the main gate of South China Agricultural University.
+
+![mail.png](/assets/photos/IMG_0034.png)
+
 
 ## Pick up and claim a 500 RMB coin purse
 
