@@ -15,6 +15,7 @@ The list of movies, TV Series, and anime I watched during my leisure time in 202
 | name                            | Chinese        | release-year | country       | language |
 |---------------------------------|----------------|--------------|---------------|----------|
 | One Flew Over the Cuckoo's Nest | 飞越疯人院 \| 飛越杜鵑窩 | 1975         | United States | English  |
+| Kizumonogatari                  | 傷物語            | 2016         | Japan         | Japanese |
 
 
 The list of movies I watched at the cinema during my leisure time in 2026.
