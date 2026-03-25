@@ -111,6 +111,7 @@ mvn -v
 | Keka               | https://www.keka.io/                                                                     | aarch64      |
 | Spotify            | https://www.spotify.com/                                                                 | Intel64      |
 | IINA               | https://iina.io/                                                                         | aarch64      |
+| Maccy              | https://maccy.app/                                                                       | aarch64      |
 
 
 ## Reference
