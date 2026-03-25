@@ -89,6 +89,10 @@ source ~/.zshenv
 mvn -v
 ```
 
+## Postman
+
+Download [Postman](https://dl.pstmn.io/download/version/9.31.30/osx_arm64)
+
 ## Application Requirements
 
 | name               | url                                                                                      | Architecture |
@@ -112,6 +116,7 @@ mvn -v
 | Spotify            | https://www.spotify.com/                                                                 | Intel64      |
 | IINA               | https://iina.io/                                                                         | aarch64      |
 | Maccy              | https://maccy.app/                                                                       | aarch64      |
+| Postman            | https://www.postman.com/                                                                 | aarch64      |
 
 
 ## Reference
