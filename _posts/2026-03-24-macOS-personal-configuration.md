@@ -89,6 +89,27 @@ source ~/.zshenv
 mvn -v
 ```
 
+### Define a specified repository
+
+```shell
+sudo vim /opt/apache-maven-3.6.3/conf/settings.xml
+#test
+mvn help:system
+#determine effective settings
+mvn help:effective-settings
+```
+
+```xml
+
+<mirror>
+    <id>aliyunmaven</id>
+    <mirrorOf>*</mirrorOf>
+    <name>阿里云公共仓库</name>
+    <url>https://maven.aliyun.com/repository/public</url>
+</mirror>
+
+```
+
 ## Postman
 
 Download [Postman](https://dl.pstmn.io/download/version/9.31.30/osx_arm64)
