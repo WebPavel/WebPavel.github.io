@@ -93,6 +93,10 @@ mvn -v
 
 Download [Postman](https://dl.pstmn.io/download/version/9.31.30/osx_arm64)
 
+## JetBrains Toolbox
+
+The last version to support both Community and Unified updates is [Version 3.2](https://download.jetbrains.com/toolbox/jetbrains-toolbox-3.2.0.65851-arm64.dmg)
+
 ## Application Requirements
 
 | name               | url                                                                                      | Architecture |
@@ -117,6 +121,7 @@ Download [Postman](https://dl.pstmn.io/download/version/9.31.30/osx_arm64)
 | IINA               | https://iina.io/                                                                         | aarch64      |
 | Maccy              | https://maccy.app/                                                                       | aarch64      |
 | Postman            | https://www.postman.com/                                                                 | aarch64      |
+| JetBrains Toolbox  | https://www.jetbrains.com/toolbox-app/                                                   | aarch64      |
 
 
 ## Reference
