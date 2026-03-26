@@ -10,7 +10,7 @@ comments: true
 # daily English learning
 
 Recently, I've been frequently encountering unfamiliar words when receiving messages.
-Previously, I would simply loop them up in a dictionary like [Eudic](https://dict.eudic.net/) to understand their meaning.
+Previously, I would simply look them up in a dictionary like [Eudic](https://dict.eudic.net/) to understand their meaning.
 When I encounter similar words again, I get confused about their meanings. For example, "familiar" and "similar"
 
 ## Similar words
