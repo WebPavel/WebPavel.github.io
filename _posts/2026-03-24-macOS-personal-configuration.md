@@ -171,7 +171,7 @@ The last version to support both Community and Unified updates is [Version 3.2](
 | FDM                 | https://www.freedownloadmanager.org/             | https://chromewebstore.google.com/detail/free-download-manager/ahmpjcflkgiildlgicmcieglgoilbfdp      | https://addons.mozilla.org/en-US/firefox/addon/free-download-manager-addon/    |
 | Bitwarden           | https://bitwarden.com/                           | https://chromewebstore.google.com/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb  | https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/     |
 | Inoreader           | https://www.inoreader.com/                       | https://chrome.google.com/webstore/detail/rss-reader-extension-by-i/kfimphpokifbjgmjflanmfeppcjimgah | https://addons.mozilla.org/en-US/firefox/addon/rss-reader-extension-inoreader/ |
-| SwitchyOmega        | https://github.com/FelisCatus/SwitchyOmega       | ~~https://chrome.google.com/webstore/detail/padekgcemlokbadohgkifijomclgjgif~~                       | https://addons.mozilla.org/en-US/firefox/addon/switchyomega/                   |
+| ~~SwitchyOmega~~    | https://github.com/FelisCatus/SwitchyOmega       | ~~https://chrome.google.com/webstore/detail/padekgcemlokbadohgkifijomclgjgif~~                       | ~~https://addons.mozilla.org/en-US/firefox/addon/switchyomega/~~               |
 | Imagus              | ~~https://tiny.cc/Imagus~~                       | ~~https://chromewebstore.google.com/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab~~                 | https://addons.mozilla.org/en-US/firefox/addon/imagus/                         |
 
 
