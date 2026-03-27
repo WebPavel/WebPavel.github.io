@@ -31,12 +31,28 @@ xcode-select --help
 
 ![Xcode CLT](/assets/photos/Snipaste_2026-03-24_01-45-51.png)
 
+### Install Homebrew
+
 ```shell
 echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ~/.zshrc
 echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ~/.zprofile
-echo 'export HOMEBREW_API_DOMAIN="http://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/api"' >> ~/.zprofile
-echo 'export HOMEBREW_BOTTLE_DOMAIN="http://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles"' >> ~/.zprofile
+echo 'export HOMEBREW_API_DOMAIN="https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/api"' >> ~/.zprofile
+echo 'export HOMEBREW_BOTTLE_DOMAIN="https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles"' >> ~/.zprofile
+echo 'export HOMEBREW_BREW_GIT_REMOTE="https://mirrors.tuna.tsinghua.edu.cn/git/homebrew/brew.git"' >> ~/.zprofile
+source ~/.zprofile
+export HOMEBREW_API_DOMAIN="https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/api"
+export HOMEBREW_BOTTLE_DOMAIN="https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles"
+export HOMEBREW_BREW_GIT_REMOTE="https://mirrors.tuna.tsinghua.edu.cn/git/homebrew/brew.git"
 brew help
+```
+
+```shell
+brew --version
+brew update
+brew doctor
+brew install jq
+brew install shfmt
+brew install shellcheck
 ```
 
 ## git
@@ -64,8 +80,8 @@ java -version
 bash --version 2>&1 | head -n 1
 
 set -eo pipefail
-SCRIPT_DIR=$(cd "$(dirname $0)" && pwd)
-echo $SCRIPT_DIR
+SCRIPT_DIR=$(cd "$(dirname "$0")" && pwd)
+echo "$SCRIPT_DIR"
 
 MVN_GZ_URL="https://archive.apache.org/dist/maven/maven-3/3.6.3/binaries/apache-maven-3.6.3-bin.tar.gz"
 
@@ -168,3 +184,4 @@ The last version to support both Community and Unified updates is [Version 3.2](
 - [Java SE 8 (8u211 and later)](https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html)
 - [Difference Between M2_HOME, MAVEN_HOME and using the PATH variable](https://www.baeldung.com/java-maven-environment-variables)
 - [How to Install Maven on Windows, Linux, and Mac](https://www.baeldung.com/install-maven-on-windows-linux-mac)
+- [Homebrew 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/homebrew/)
