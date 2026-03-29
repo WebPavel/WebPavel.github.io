@@ -179,8 +179,8 @@ The last version to support both Community and Unified updates is [Version 3.2](
 
 - [v2rayN](https://github.com/2dust/v2rayN)
 - [Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev)
-- [GitHub - free18/v2ray](https://github.com/free18/v2ray)
-- [Installation -- Homebrew Documentation](https://docs.brew.sh/Installation)
+- [free18/v2ray](https://github.com/free18/v2ray)
+- [Installation — Homebrew Documentation](https://docs.brew.sh/Installation)
 - [Java SE 8 (8u211 and later)](https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html)
 - [Difference Between M2_HOME, MAVEN_HOME and using the PATH variable](https://www.baeldung.com/java-maven-environment-variables)
 - [How to Install Maven on Windows, Linux, and Mac](https://www.baeldung.com/install-maven-on-windows-linux-mac)
