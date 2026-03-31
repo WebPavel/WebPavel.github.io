@@ -37,6 +37,15 @@ Firefox-based browsers mainly include the official Firefox browser, Zen browser,
 | Floorp      | yes         | https://floorp.app/      | macOS Linux Windows | x64 aarch64 | support     |
 
 
+## Safari
+
+Safari is a web browser developed by Apple Inc.
+
+| name   | open-source | homepage                      | OS    | architect   | Manifest V2 |
+|--------|-------------|-------------------------------|-------|-------------|-------------|
+| Safari | no          | https://www.apple.com/safari/ | macOS | x64 aarch64 | -           |
+
+
 ## Reference
 
 - [MV2](https://developer.chrome.google.cn/docs/extensions/develop/migrate/mv2-deprecation-timeline)
