@@ -100,7 +100,7 @@ if ! [[ -d "/opt/apache-maven-3.6.3" ]]; then
 fi
 
 echo "$PATH"
-echo 'export PATH=$PATH:/opt/apache-maven-3.6.3/bin' >> ~/.zshenv
+echo 'export PATH="$PATH:/opt/apache-maven-3.6.3/bin"' >> ~/.zshenv
 source ~/.zshenv
 mvn -v
 ```
