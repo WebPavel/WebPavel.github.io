@@ -134,6 +134,12 @@ Download [Postman](https://dl.pstmn.io/download/version/9.31.30/osx_arm64)
 
 The last version to support both Community and Unified updates is [Version 3.2](https://download.jetbrains.com/toolbox/jetbrains-toolbox-3.2.0.65851-arm64.dmg)
 
+## Windows App
+
+Download [Windows App from the Mac App Store](https://aka.ms/macOSWindowsApp).
+
+You can also download Windows App outside of the Mac App Store as a .pkg file from https://go.microsoft.com/fwlink/?linkid=868963.
+
 ## Application Requirements
 
 | name               | url                                                                                      | Architecture |
@@ -185,3 +191,4 @@ The last version to support both Community and Unified updates is [Version 3.2](
 - [Difference Between M2_HOME, MAVEN_HOME and using the PATH variable](https://www.baeldung.com/java-maven-environment-variables)
 - [How to Install Maven on Windows, Linux, and Mac](https://www.baeldung.com/install-maven-on-windows-linux-mac)
 - [Homebrew 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/homebrew/)
+- [What's new in Windows App](https://learn.microsoft.com/en-us/windows-app/whats-new)
