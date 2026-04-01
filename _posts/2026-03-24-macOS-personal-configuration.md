@@ -138,7 +138,7 @@ The last version to support both Community and Unified updates is [Version 3.2](
 
 Download [Windows App from the Mac App Store](https://aka.ms/macOSWindowsApp).
 
-You can also download Windows App outside of the Mac App Store as a .pkg file from https://go.microsoft.com/fwlink/?linkid=868963.
+You can also download Windows App outside of the Mac App Store as a .pkg file from [https://go.microsoft.com/fwlink/?linkid=868963](https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Windows_App_11.3.3_installer.pkg).
 
 ## Application Requirements
 
