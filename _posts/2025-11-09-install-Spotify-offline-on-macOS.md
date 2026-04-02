@@ -8,7 +8,7 @@ comments: true
 ---
 
 
-# install Spotify offline on macOS
+# ~~install Spotify offline on macOS~~
 
 "How to install Spotify offline on macOS", I have been troubled by this problem for a long time, util today when I read this [article](
 https://community.spotify.com/t5/Desktop-Mac/Download-for-Mac/td-p/693196).
@@ -29,7 +29,7 @@ hdiutil detach /Volumes/Spotify
 
 *Important*:
 
-> Since Spotify now officially supports Apple Silicon architecture, the approach described above has been deprecated, and the latest approach can be found in this article [macOS personal configuration](/_posts/2026-03-24-macOS-personal-configuration.md).
+> Since Spotify now officially supports Apple Silicon architecture, the approach described above has been deprecated, and the latest approach can be found in this article [macOS personal configuration](/macOS-personal-configuration).
 
 ## Reference
 
