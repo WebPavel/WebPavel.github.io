@@ -20,6 +20,12 @@ xattr -cr /Applications/v2rayN.app
 #https://raw.bgithub.xyz/free18/v2ray/refs/heads/main/c.yaml
 ```
 
+## Rosetta 2
+
+```shell
+/usr/sbin/softwareupdate --install-rosetta --agree-to-license
+```
+
 ## Homebrew
 
 ### Install Xcode CLT
@@ -192,3 +198,4 @@ You can also download Windows App outside of the Mac App Store as a .pkg file fr
 - [How to Install Maven on Windows, Linux, and Mac](https://www.baeldung.com/install-maven-on-windows-linux-mac)
 - [Homebrew 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/homebrew/)
 - [What's new in Windows App](https://learn.microsoft.com/en-us/windows-app/whats-new)
+- [Sample shell scripts for Intune admins.](https://github.com/microsoft/shell-intune-samples)
