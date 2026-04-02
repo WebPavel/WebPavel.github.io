@@ -26,3 +26,11 @@ hdiutil detach /Volumes/Spotify
 # rm ~/Downloads/Compressed/dmg/Spotify.dmg
 
 ```
+
+*Important*:
+
+> Since Spotify now officially supports Apple Silicon architecture, the approach described above has been deprecated, and the latest approach can be found in this article [macOS personal configuration](/_posts/2026-03-24-macOS-personal-configuration.md).
+
+## Reference
+
+- [Sample shell scripts for Intune admins.](https://github.com/microsoft/shell-intune-samples)
