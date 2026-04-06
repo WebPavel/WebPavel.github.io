@@ -31,7 +31,11 @@ When I encounter similar words again, I get confused about their meanings. For e
 
 ## Don't know
 
-| word     | meaning    | more details                                                              |
-|----------|------------|---------------------------------------------------------------------------|
-| retain   | verb.保留;保持 | keep 指长时间牢固地保持或储存 retain 指继续保持 maintain 维持;保养,维护;主张                       |
-| preserve | verb.储存    | preserve 主要指为防止损害变质而储存 reserve 指为了将来用途而储存、保留 conserve 一般指储存自然资源,保全人的精力、力量 |
+| word                  | meaning    | more details                                                                                          |
+|-----------------------|------------|-------------------------------------------------------------------------------------------------------|
+| retain                | verb.保留;保持 | keep 指长时间牢固地保持或储存 retain 指继续保持 maintain 维持;保养,维护;主张                                                   |
+| preserve              | verb.储存    | preserve 主要指为防止损害变质而储存 reserve 指为了将来用途而储存、保留 conserve 一般指储存自然资源,保全人的精力、力量                             |
+| work overtime         | 加班         | i have to work overtime today to meet the deadline 我今天必须加班赶上截止日期                                      |
+| burn the midnight oil | 加班         | I'll have to burn the midnight oil today to finish this task 我今天不得不熬夜加班完成这个任务                         |
+| put in extra hours    | 加班         | I'll be putting in some extra hours over the weekend to finalize the contract details 我周末加了班,最终确定合同细节 |
+| stay late at work     | 加班         | I'm staying late at work tonight because there's a lot of work to catch up on 我今晚要加班,因为有很多工作需要赶上      |
