@@ -187,6 +187,10 @@ You can also download Windows App outside of the Mac App Store as a .pkg file fr
 | Imagus              | ~~https://tiny.cc/Imagus~~                       | ~~https://chromewebstore.google.com/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab~~                 | https://addons.mozilla.org/en-US/firefox/addon/imagus/                         |
 
 
+*Usage*:
+
+> SwitchyOmega → auto switch: [GFWList](https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt)
+
 ## Reference
 
 - [v2rayN](https://github.com/2dust/v2rayN)
