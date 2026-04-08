@@ -15,10 +15,12 @@ When I encounter similar words again, I get confused about their meanings. For e
 
 ## Similar words
 
-| word     | meaning | more details           |
-|----------|---------|------------------------|
-| familiar | adj.熟悉的 | familiar with 熟悉       |
-| similar  | adj.相似的 | similar相似的,familiar熟悉的 |
+| word     | meaning | more details                                                                                               |
+|----------|---------|------------------------------------------------------------------------------------------------------------|
+| familiar | adj.熟悉的 | familiar with 熟悉                                                                                           |
+| similar  | adj.相似的 | similar相似的,familiar熟悉的                                                                                     |
+| drink    | 饮料🥤    | 口语,hard drink 和 soft drink区别是有无酒精,do you want to drink something?或would you like a drink?通常指喝酒             |
+| beverage | 饮料🥤    | 正式、书面通常用于菜单,如Dishes & Beverages. Hi, I'd like to order a pearl milk tea, half sugar, and less ice, please. |
 
 
 ## Don't guess
