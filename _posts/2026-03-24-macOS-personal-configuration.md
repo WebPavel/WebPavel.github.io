@@ -16,8 +16,8 @@ I had to reinstall macOS and back up my frequently used apps and configuration s
 
 ```shell
 xattr -cr /Applications/v2rayN.app
-#https://raw.bgithub.xyz/free18/v2ray/refs/heads/main/v.txt
-#https://raw.bgithub.xyz/free18/v2ray/refs/heads/main/c.yaml
+#https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt
+#https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/c.yaml
 ```
 
 ## Rosetta 2
