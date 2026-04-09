@@ -15,15 +15,15 @@ There are many browsers on the market. They are mainly divided into two categori
 
 Chromium-based browsers mainly include the official Google Chrome browser, open-source browsers such as ungoogled-chromium, Vivaldi, Microsoft Edge, Arc, Dia, and Helium, etc.
 
-| name               | open-source | homepage                                                 | OS                  | architect   | Manifest V2 |
-|--------------------|-------------|----------------------------------------------------------|---------------------|-------------|-------------|
-| Google Chrome      | no          | https://www.google.cn/intl/zh-CN/chrome/                 | macOS Linux Windows | x64 aarch64 | disabled    |
-| ungoogled-chromium | yes         | https://github.com/ungoogled-software/ungoogled-chromium | macOS Linux Windows | x64 aarch64 | support     |
-| Vivaldi            | yes         | https://vivaldi.com/                                     | macOS Linux Windows | x64 aarch64 | support     |
-| Microsoft Edge     | no          | https://www.microsoft.com/en-us/edge                     | macOS Linux Windows | x64 aarch64 | disabled    |
-| Arc                | no          | https://arc.net/                                         | macOS               | aarch64     | support     |
-| Dia                | no          | https://www.diabrowser.com/                              | macOS               | aarch64     | support     |
-| Helium             | yes         | https://helium.computer/                                 | macOS Linux Windows | x64 aarch64 | support     |
+| name               | open-source | homepage                                                 | OS                  | architect   | Manifest V2 | pros & cons                   |
+|--------------------|-------------|----------------------------------------------------------|---------------------|-------------|-------------|-------------------------------|
+| Google Chrome      | no          | https://www.google.cn/intl/zh-CN/chrome/                 | macOS Linux Windows | x64 aarch64 | disabled    | MV2 disabled                  |
+| ungoogled-chromium | yes         | https://github.com/ungoogled-software/ungoogled-chromium | macOS Linux Windows | x64 aarch64 | support     | some plugins are incompatible |
+| Vivaldi            | yes         | https://vivaldi.com/                                     | macOS Linux Windows | x64 aarch64 | support     | response sluggishly           |
+| Microsoft Edge     | no          | https://www.microsoft.com/en-us/edge                     | macOS Linux Windows | x64 aarch64 | disabled    |                               |
+| Arc                | no          | https://arc.net/                                         | macOS               | aarch64     | support     |                               |
+| Dia                | no          | https://www.diabrowser.com/                              | macOS               | aarch64     | support     |                               |
+| Helium             | yes         | https://helium.computer/                                 | macOS Linux Windows | x64 aarch64 | support     | light & MV2 enabled           |
 
 
 ## Firefox series
