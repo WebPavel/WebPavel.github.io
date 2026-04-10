@@ -44,21 +44,21 @@ java -version
 
 ```
 
-0. apache-maven-3.6.2-bin.tar.gz
-1. code_1.77.3-1681292746_amd64.deb
-2. drawio-amd64-21.2.1.deb
-3. eudic.deb
-4. fastgithub_linux-x64.zip
-5. freedownloadmanager.deb
-6. google-chrome-stable_current_amd64.deb
-7. ideaIC-2023.1.tar.gz
-8. ideaIU-2021.1.3.tar.gz
-9. jdk-8u202-linux-x64.tar.gz
-10. postman-linux-x64.tar.gz
-11. uBlock0_1.49.0.firefox.xpi
-12. VMware-Workstation-Full-17.0.0-20800274.x86_64.bundle
-13. wps-office_11.1.0.11691.XA_amd64.deb
-14. XnViewMP-linux-x64.deb
+1. apache-maven-3.6.2-bin.tar.gz
+2. code_1.77.3-1681292746_amd64.deb
+3. drawio-amd64-21.2.1.deb
+4. eudic.deb
+5. fastgithub_linux-x64.zip
+6. freedownloadmanager.deb
+7. google-chrome-stable_current_amd64.deb
+8. ideaIC-2023.1.tar.gz
+9. ideaIU-2021.1.3.tar.gz
+10. jdk-8u202-linux-x64.tar.gz
+11. postman-linux-x64.tar.gz
+12. uBlock0_1.49.0.firefox.xpi
+13. VMware-Workstation-Full-17.0.0-20800274.x86_64.bundle
+14. wps-office_11.1.0.11691.XA_amd64.deb
+15. XnViewMP-linux-x64.deb
 
 # Firefox configuration
 
