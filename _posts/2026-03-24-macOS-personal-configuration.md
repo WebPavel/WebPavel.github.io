@@ -148,31 +148,32 @@ You can also download Windows App outside of the Mac App Store as a .pkg file fr
 
 ## Application Requirements
 
-| name               | url                                                                                      | Architecture | pros & cons         |
-|--------------------|------------------------------------------------------------------------------------------|--------------|---------------------|
-| ~~Google Chrome~~  | https://www.google.cn/chrome/                                                            | aarch64      | MV2 disabled        |
-| Helium             | https://helium.computer/                                                                 | aarch64      | light & MV2 enabled |
-| FDM                | https://www.freedownloadmanager.org/                                                     | Intel64      |                     |
-| v2rayN             | https://github.com/2dust/v2rayN                                                          | aarch64      |                     |
-| Clash Verge        | https://github.com/clash-verge-rev/clash-verge-rev                                       | aarch64      |                     |
-| IDEA               | https://www.jetbrains.com/idea/                                                          | aarch64      |                     |
-| Visual Studio Code | https://code.visualstudio.com/                                                           | aarch64      |                     |
-| Homebrew           | https://brew.sh/                                                                         | aarch64      |                     |
-| Stats              | https://mac-stats.com/                                                                   | aarch64      |                     |
-| XnView MP          | https://www.xnview.com/                                                                  | aarch64      |                     |
-| Snipaste           | https://www.snipaste.com/                                                                | aarch64      |                     |
-| Eudic              | https://www.eudic.net/                                                                   | aarch64      |                     |
-| JDK 8              | https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html | aarch64      |                     |
-| Pandoc             | https://pandoc.org/                                                                      | aarch64      |                     |
-| Docker             | https://www.docker.com/                                                                  | aarch64      |                     |
-| Maven              | https://maven.apache.org/                                                                | aarch64      |                     |
-| Keka               | https://www.keka.io/                                                                     | aarch64      |                     |
-| Spotify            | https://www.spotify.com/                                                                 | Intel64      |                     |
-| IINA               | https://iina.io/                                                                         | aarch64      |                     |
-| Maccy              | https://maccy.app/                                                                       | aarch64      |                     |
-| Postman            | https://www.postman.com/                                                                 | aarch64      |                     |
-| JetBrains Toolbox  | https://www.jetbrains.com/toolbox-app/                                                   | aarch64      |                     |
-| Floorp Browser     | https://floorp.app/                                                                      | aarch64      |                     |
+| name               | url                                                                                      | Architecture | pros & cons                     |
+|--------------------|------------------------------------------------------------------------------------------|--------------|---------------------------------|
+| ~~Google Chrome~~  | https://www.google.cn/chrome/                                                            | aarch64      | MV2 disabled                    |
+| Helium             | https://helium.computer/                                                                 | aarch64      | light & MV2 enabled             |
+| FDM                | https://www.freedownloadmanager.org/                                                     | Intel64      |                                 |
+| v2rayN             | https://github.com/2dust/v2rayN                                                          | aarch64      |                                 |
+| Clash Verge        | https://github.com/clash-verge-rev/clash-verge-rev                                       | aarch64      |                                 |
+| IDEA               | https://www.jetbrains.com/idea/                                                          | aarch64      |                                 |
+| Visual Studio Code | https://code.visualstudio.com/                                                           | aarch64      |                                 |
+| Homebrew           | https://brew.sh/                                                                         | aarch64      |                                 |
+| Stats              | https://mac-stats.com/                                                                   | aarch64      |                                 |
+| XnView MP          | https://www.xnview.com/                                                                  | aarch64      |                                 |
+| ~~Snipaste~~       | https://www.snipaste.com/                                                                | aarch64      | purchase to unlock Pro features |
+| Shottr             | https://shottr.cc/                                                                       | aarch64      | free & OCR                      |
+| Eudic              | https://www.eudic.net/                                                                   | aarch64      |                                 |
+| JDK 8              | https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html | aarch64      |                                 |
+| Pandoc             | https://pandoc.org/                                                                      | aarch64      |                                 |
+| Docker             | https://www.docker.com/                                                                  | aarch64      |                                 |
+| Maven              | https://maven.apache.org/                                                                | aarch64      |                                 |
+| Keka               | https://www.keka.io/                                                                     | aarch64      |                                 |
+| Spotify            | https://www.spotify.com/                                                                 | Intel64      |                                 |
+| IINA               | https://iina.io/                                                                         | aarch64      |                                 |
+| Maccy              | https://maccy.app/                                                                       | aarch64      |                                 |
+| Postman            | https://www.postman.com/                                                                 | aarch64      |                                 |
+| JetBrains Toolbox  | https://www.jetbrains.com/toolbox-app/                                                   | aarch64      |                                 |
+| Floorp Browser     | https://floorp.app/                                                                      | aarch64      |                                 |
 
 ### Browser Plugin
 
