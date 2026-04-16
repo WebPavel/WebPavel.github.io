@@ -67,6 +67,13 @@ brew install shellcheck
 git version
 git config --global user.name "liubao"
 git config --global user.email "paulluis.dev@gmail.com"
+ssh-keygen -t rsa -b 4096 -C "paulluis.dev@gmail.com"
+touch ~/.ssh/config
+#Host alias
+#  HostName localhost
+#  User root
+#  Port 22
+#  IdentityFile ~/.ssh/id_rsa
 ```
 
 ## JDK 8
@@ -132,9 +139,9 @@ mvn help:effective-settings
 
 ```
 
-## Postman
+## ~~Postman~~
 
-Download [Postman](https://dl.pstmn.io/download/version/9.31.30/osx_arm64)
+Download [Postman](https://dl.pstmn.io/download/version/9.31.28/osx_arm64)
 
 ## JetBrains Toolbox
 
@@ -146,34 +153,84 @@ Download [Windows App from the Mac App Store](https://aka.ms/macOSWindowsApp).
 
 You can also download Windows App outside of the Mac App Store as a .pkg file from [https://go.microsoft.com/fwlink/?linkid=868963](https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Windows_App_11.3.3_installer.pkg).
 
+## Microsoft Office
+
+Select the Office Home 2024 for Mac version from the [website](https://files.rg-adguard.net/category) → Applications → Office 2024 for Mac → Multi-Language → [Microsoft_365_and_Office_16.94.25020927_HomeStudent_Installer.pkg](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.94.25020927_HomeStudent_Installer.pkg).
+
+## Spotify
+
+Download the arm64 version from the official [Spotify CDN](https://download.scdn.co/SpotifyARM64.dmg).
+
 ## Application Requirements
 
-| name               | url                                                                                      | Architecture | pros & cons                     |
-|--------------------|------------------------------------------------------------------------------------------|--------------|---------------------------------|
-| ~~Google Chrome~~  | https://www.google.cn/chrome/                                                            | aarch64      | MV2 disabled                    |
-| Helium             | https://helium.computer/                                                                 | aarch64      | light & MV2 enabled             |
-| FDM                | https://www.freedownloadmanager.org/                                                     | Intel64      |                                 |
-| v2rayN             | https://github.com/2dust/v2rayN                                                          | aarch64      |                                 |
-| Clash Verge        | https://github.com/clash-verge-rev/clash-verge-rev                                       | aarch64      |                                 |
-| IDEA               | https://www.jetbrains.com/idea/                                                          | aarch64      |                                 |
-| Visual Studio Code | https://code.visualstudio.com/                                                           | aarch64      |                                 |
-| Homebrew           | https://brew.sh/                                                                         | aarch64      |                                 |
-| Stats              | https://mac-stats.com/                                                                   | aarch64      |                                 |
-| XnView MP          | https://www.xnview.com/                                                                  | aarch64      |                                 |
-| ~~Snipaste~~       | https://www.snipaste.com/                                                                | aarch64      | purchase to unlock Pro features |
-| Shottr             | https://shottr.cc/                                                                       | aarch64      | free & OCR                      |
-| Eudic              | https://www.eudic.net/                                                                   | aarch64      |                                 |
-| JDK 8              | https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html | aarch64      |                                 |
-| Pandoc             | https://pandoc.org/                                                                      | aarch64      |                                 |
-| Docker             | https://www.docker.com/                                                                  | aarch64      |                                 |
-| Maven              | https://maven.apache.org/                                                                | aarch64      |                                 |
-| Keka               | https://www.keka.io/                                                                     | aarch64      |                                 |
-| Spotify            | https://www.spotify.com/                                                                 | Intel64      |                                 |
-| IINA               | https://iina.io/                                                                         | aarch64      |                                 |
-| Maccy              | https://maccy.app/                                                                       | aarch64      |                                 |
-| Postman            | https://www.postman.com/                                                                 | aarch64      |                                 |
-| JetBrains Toolbox  | https://www.jetbrains.com/toolbox-app/                                                   | aarch64      |                                 |
-| Floorp Browser     | https://floorp.app/                                                                      | aarch64      |                                 |
+| name                        | url                                                                                           | Architecture | pros & cons                     |
+|-----------------------------|-----------------------------------------------------------------------------------------------|--------------|---------------------------------|
+| ~~Google Chrome~~           | https://www.google.cn/chrome/<br>https://www.google.com/chrome/                               | aarch64      | MV2 disabled                    |
+| Helium                      | https://helium.computer/<br>https://github.com/imputnet/helium                                | aarch64      | light & MV2 enabled             |
+| FDM                         | https://www.freedownloadmanager.org/                                                          | Intel64      |                                 |
+| v2rayN                      | https://github.com/2dust/v2rayN                                                               | aarch64      |                                 |
+| Clash Verge                 | https://github.com/clash-verge-rev/clash-verge-rev                                            | aarch64      |                                 |
+| IDEA                        | https://www.jetbrains.com/idea/                                                               | aarch64      |                                 |
+| Visual Studio Code          | https://code.visualstudio.com/<br>https://github.com/microsoft/vscode                         | aarch64      |                                 |
+| Homebrew                    | https://brew.sh/<br>https://github.com/Homebrew/brew                                          | aarch64      |                                 |
+| Stats                       | https://mac-stats.com/                                                                        | aarch64      |                                 |
+| XnView MP                   | https://www.xnview.com/                                                                       | aarch64      |                                 |
+| ~~Snipaste~~                | https://www.snipaste.com/                                                                     | aarch64      | purchase to unlock Pro features |
+| Shottr                      | https://shottr.cc/                                                                            | aarch64      | free & OCR                      |
+| Eudic                       | https://www.eudic.net/                                                                        | aarch64      |                                 |
+| JDK 8                       | https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html      | aarch64      |                                 |
+| Pandoc                      | https://pandoc.org/<br>https://github.com/jgm/pandoc                                          | aarch64      |                                 |
+| Docker                      | https://www.docker.com/                                                                       | aarch64      |                                 |
+| Maven                       | https://maven.apache.org/<br>https://github.com/apache/maven/                                 | aarch64      |                                 |
+| Keka                        | https://www.keka.io/<br>https://github.com/aonez/Keka                                         | aarch64      |                                 |
+| Spotify                     | https://www.spotify.com/                                                                      | Intel64      |                                 |
+| IINA                        | https://iina.io/<br>https://github.com/iina/iina                                              | aarch64      |                                 |
+| Maccy                       | https://maccy.app/<br>https://github.com/p0deje/Maccy                                         | aarch64      |                                 |
+| ~~Postman~~                 | https://www.postman.com/                                                                      | aarch64      |                                 |
+| JetBrains Toolbox           | https://www.jetbrains.com/toolbox-app/                                                        | aarch64      |                                 |
+| Floorp Browser              | https://floorp.app/<br>https://github.com/Floorp-Projects/Floorp                              | aarch64      |                                 |
+| Windows App                 | https://learn.microsoft.com/en-us/windows-app/                                                | aarch64      |                                 |
+| Microsoft Office            | https://learn.microsoft.com/en-us/microsoft-365-apps<br>https://files.rg-adguard.net/category | aarch64      |                                 |
+| UTM                         | https://getutm.app/<br>https://github.com/utmapp/UTM                                          | aarch64      |                                 |
+| iTerm2                      | https://iterm2.com/<br>https://github.com/gnachman/iTerm2                                     | aarch64      |                                 |
+| Raycast                     | https://www.raycast.com/                                                                      | aarch64      |                                 |
+| Node.js                     | https://nodejs.org/<br>https://github.com/nodejs/node                                         | aarch64      |                                 |
+| Starship                    | https://starship.rs/<br>https://github.com/starship/starship                                  | aarch64      |                                 |
+| Git Credential Manager(GCM) | https://github.com/git-ecosystem/git-credential-manager                                       | aarch64      |                                 |
+| DBeaver                     | https://dbeaver.io/<br>https://github.com/dbeaver/dbeaver                                     | aarch64      |                                 |
+
+## For Chinese users
+
+### WeChat
+
+Old versions:
+
+- [WeChat for Mac 4.1.8](https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.8.dmg)
+- [WeChat for Mac 4.1.2](https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.2.dmg)
+
+### Tencent Meeting
+
+Old versions:
+
+- [Tencent Meeting V3.31.2](https://updatecdn.meeting.qq.com/cos/3866bd6756af079a0ee3d555c0d6feff/TencentMeeting_0300000000_3.31.2.431.publish.arm64.officialwebsite.dmg)
+
+### Sunlogin Remote Control
+
+Old versions:
+
+- [Sunlogin Remote Control V16.3.0.29006](https://d-cdn.oray.com/sl/mac/AweSun_arm64_16.3.0.29006.dmg)
+- [Sunlogin Remote Control V16.1.0.25667](https://d-cdn.oray.com/sl/mac/AweSun_16.1.0.25667_arm64.dmg)
+
+### Chinese Apps
+
+| name                    | url                          | Architecture | pros & cons       |
+|-------------------------|------------------------------|--------------|-------------------|
+| WeChat                  | https://weixin.qq.com/       | aarch64      |                   |
+| TencentMeeting          | https://meeting.tencent.com/ | aarch64      | mandatory account |
+| Sunlogin Remote Control | https://sunlogin.oray.com/   | aarch64      | signup required   |
+
+> **Note**:
+> you can download older versions from [Homebrew Cask](https://github.com/Homebrew/homebrew-cask).
 
 ### Browser Plugin
 
@@ -204,3 +261,4 @@ You can also download Windows App outside of the Mac App Store as a .pkg file fr
 - [Homebrew 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/homebrew/)
 - [What's new in Windows App](https://learn.microsoft.com/en-us/windows-app/whats-new)
 - [Sample shell scripts for Intune admins.](https://github.com/microsoft/shell-intune-samples)
+- [SSH config file format](https://man7.org/linux/man-pages/man5/ssh_config.5.html)
