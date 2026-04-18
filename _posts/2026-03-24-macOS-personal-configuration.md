@@ -166,7 +166,8 @@ Download the arm64 version from the official [Spotify CDN](https://download.scdn
 | name                        | url                                                                                           | Architecture | pros & cons                     |
 |-----------------------------|-----------------------------------------------------------------------------------------------|--------------|---------------------------------|
 | ~~Google Chrome~~           | https://www.google.cn/chrome/<br>https://www.google.com/chrome/                               | aarch64      | MV2 disabled                    |
-| Helium                      | https://helium.computer/<br>https://github.com/imputnet/helium                                | aarch64      | light & MV2 enabled             |
+| ~~Helium~~                  | https://helium.computer/<br>https://github.com/imputnet/helium                                | aarch64      | light & MV2 enabled             |
+| Vivaldi                     | https://vivaldi.com/                                                                          | aarch64      | MV2 enabled && sync             |
 | FDM                         | https://www.freedownloadmanager.org/                                                          | Intel64      |                                 |
 | v2rayN                      | https://github.com/2dust/v2rayN                                                               | aarch64      |                                 |
 | Clash Verge                 | https://github.com/clash-verge-rev/clash-verge-rev                                            | aarch64      |                                 |
