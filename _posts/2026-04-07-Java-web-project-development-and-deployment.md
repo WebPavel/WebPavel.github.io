@@ -59,6 +59,7 @@ docker load -i ./jenkins-lts-2.516.1-lts-jdk17.tar
 docker load -i ./hoppscotch-2026.3.1.tar
 docker load -i ./ollama-0.20.5.tar
 docker compose -f ./docker-compose.yaml -p demo up -d
+docker compose -f ./docker-compose.yaml -p demo down
 ```
 
 docker-compose.yaml (or compose.yaml)
