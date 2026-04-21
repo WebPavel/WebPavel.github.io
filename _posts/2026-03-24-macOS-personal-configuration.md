@@ -143,7 +143,7 @@ mvn help:effective-settings
 
 Download [Postman](https://dl.pstmn.io/download/version/9.31.28/osx_arm64)
 
-## JetBrains Toolbox
+## ~~JetBrains Toolbox~~
 
 The last version to support both Community and Unified updates is [Version 3.2](https://download.jetbrains.com/toolbox/jetbrains-toolbox-3.2.0.65851-arm64.dmg)
 
@@ -188,7 +188,7 @@ Download the arm64 version from the official [Spotify CDN](https://download.scdn
 | IINA                        | https://iina.io/<br>https://github.com/iina/iina                                              | aarch64      |                                 |
 | Maccy                       | https://maccy.app/<br>https://github.com/p0deje/Maccy                                         | aarch64      |                                 |
 | ~~Postman~~                 | https://www.postman.com/                                                                      | aarch64      |                                 |
-| JetBrains Toolbox           | https://www.jetbrains.com/toolbox-app/                                                        | aarch64      |                                 |
+| ~~JetBrains Toolbox~~       | https://www.jetbrains.com/toolbox-app/                                                        | aarch64      |                                 |
 | Floorp Browser              | https://floorp.app/<br>https://github.com/Floorp-Projects/Floorp                              | aarch64      |                                 |
 | Windows App                 | https://learn.microsoft.com/en-us/windows-app/                                                | aarch64      |                                 |
 | Microsoft Office            | https://learn.microsoft.com/en-us/microsoft-365-apps<br>https://files.rg-adguard.net/category | aarch64      |                                 |
@@ -199,6 +199,10 @@ Download the arm64 version from the official [Spotify CDN](https://download.scdn
 | Starship                    | https://starship.rs/<br>https://github.com/starship/starship                                  | aarch64      |                                 |
 | Git Credential Manager(GCM) | https://github.com/git-ecosystem/git-credential-manager                                       | aarch64      |                                 |
 | DBeaver                     | https://dbeaver.io/<br>https://github.com/dbeaver/dbeaver                                     | aarch64      |                                 |
+| LuLu                        | https://objective-see.org/products/lulu.html<br>https://github.com/objective-see/LuLu         | aarch64      |                                 |
+| Codex                       | https://openai.com/codex/<br>https://github.com/openai/codex                                  | aarch64      |                                 |
+| ChatGPT                     | https://chatgpt.com/                                                                          | aarch64      |                                 |
+| Claude                      | https://claude.ai/                                                                            | aarch64      |                                 |
 
 ## For Chinese users
 
