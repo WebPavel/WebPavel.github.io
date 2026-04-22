@@ -30,6 +30,20 @@ Java web project development and deployment reply on several runtime environment
 
 ### Install and build
 
+#### Installation of the JDK on macOS
+
+Download JDK version 1.8 from [Java Downloads](https://www.oracle.com/java/technologies/downloads/) and install it.
+
+```shell
+echo 'export JAVA_HOME="/Library/Java/JavaVirtualMachines/jdk-1.8.jdk/Contents/Home"' >> ~/.zshrc
+echo 'export PATH="$JAVA_HOME/bin:$PATH"' >> ~/.zshrc
+source ~/.zshrc
+echo $JAVA_HOME
+```
+
+> **Note**:
+> To use the full `mvn` command, you need to set the `JAVA_HOME` environment variable.
+
 ```shell
 docker pull --platform linux/amd64 mysql:5.7.44
 docker pull --platform linux/arm64 postgres:15.14
