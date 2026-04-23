@@ -15,7 +15,7 @@ The BOC HK app indicates that the account is inactive because the account has no
 
 Firstly, I transferred HKD from HSBC HK to BOC HK and transferred HKD from BOC HK to HSBC HK. But it doesn't work. So I decided to go to the branch of BOC HK in person. In fact, I later learned that transaction currency required USD, CNY, or other currencies other than HKD to reactivate the MTC account.
 
-1000 USD is enough for me. After I transferred 1000 USD from BOC HK to EleBank(formerly Airstar Bank), I received an email that indicates I have reactivated my MTC account. Therefore, I finally succeeded in applying for a new BOC Mastercard Debit Card.
+1000 USD is enough for me. After I transferred 1000 USD from BOC HK to EleBank (formerly Airstar Bank), I received an email that indicates I have reactivated my MTC account. Therefore, I finally succeeded in applying for a new BOC Mastercard Debit Card.
 
 
 ## Endorsement of Exit and Entry Permit (EEP)
@@ -93,7 +93,7 @@ Fees: Free of charge.
 2. When filling in the recipient's account on the transfer slip, you need to fill in a BOCHK MTC account. Otherwise, you will suffer losses from converting currency into HKD.
 
 
-## Transfer USD from BOC HK to EleBank(formerly Airstar Bank)
+## Transfer USD from BOC HK to EleBank (formerly Airstar Bank)
 
 Date: 2026-02-11
 
@@ -105,7 +105,7 @@ Prepared:
 
 Process:
 
-- 12:12 \- Start applying for transaction to transfer USD from BOC HK to EleBank(formerly Airstar Bank).
+- 12:12 \- Start applying for transaction to transfer USD from BOC HK to EleBank (formerly Airstar Bank).
 - 16:35 \- Finish the application and receive approval notice.
 
 Fees: Free of charge.
@@ -182,4 +182,4 @@ Address: Industrial Bank (Development Zone Sub-branch)
 - CIB: [Industrial Bank](https://www.cib.com.cn/)
 - SPDB: [Shanghai Pudong Development Bank](https://www.spdb.com.cn/)
 - ~~Airstar Bank: [Airstar Bank](https://www.airstarbank.com/)~~
-- EleBank(formerly Airstar Bank): [EleBank](https://www.elebank.com)
+- EleBank (formerly Airstar Bank): [EleBank](https://www.elebank.com)
