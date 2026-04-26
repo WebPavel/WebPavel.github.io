@@ -18,12 +18,12 @@ https://community.spotify.com/t5/Desktop-Mac/Download-for-Mac/td-p/693196).
 #!/usr/bin/env bash
 
 curl --request GET -skRL \
-     --url 'https://download.spotify.com/Spotify.dmg' \
-     -o ~/Downloads/Compressed/dmg/Spotify.dmg
-hdiutil attach ~/Downloads/Compressed/dmg/Spotify.dmg
+     --url 'https://download.scdn.co/SpotifyARM64.dmg' \
+     -o ~/Downloads/Compressed/dmg/SpotifyARM64.dmg
+hdiutil attach ~/Downloads/Compressed/dmg/SpotifyARM64.dmg
 ditto /Volumes/Spotify/Spotify.app /Applications/Spotify.app
 hdiutil detach /Volumes/Spotify
-# rm ~/Downloads/Compressed/dmg/Spotify.dmg
+# rm ~/Downloads/Compressed/dmg/SpotifyARM64.dmg
 
 ```
 
