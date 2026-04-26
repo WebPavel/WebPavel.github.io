@@ -27,8 +27,7 @@ hdiutil detach /Volumes/Spotify
 
 ```
 
-*Important*:
-
+> **Important**:
 > Since Spotify now officially supports Apple Silicon architecture, the approach described above has been deprecated, and the latest approach can be found in this article [macOS personal configuration](/macOS-personal-configuration).
 
 ## Reference
