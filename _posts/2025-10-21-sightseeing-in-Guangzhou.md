@@ -30,7 +30,7 @@ there might be more visitors by then. The adult ticket price is 20 RMB.
 
 Because free tickets are given out for the 15th National Games, the adult ticket price is 0 RMB.
 
-Today is October 21st. Ths weather is cool and since it is a weekday, there aren't many visitors.
+Today is October 21st. The weather is cool and since it is a weekday, there aren't many visitors.
 
 ![stone.png](/assets/photos/IMG_0673.png)
 
