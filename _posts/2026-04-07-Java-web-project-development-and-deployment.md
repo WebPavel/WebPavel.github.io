@@ -844,6 +844,8 @@ ij_yaml_space_before_colon = false
 ij_yaml_spaces_within_braces = true
 ij_yaml_spaces_within_brackets = true
 
+[*.{bat,ps1,cmd,vbs}]
+end_of_line = crlf
 ```
 
 ### .gitattributes
