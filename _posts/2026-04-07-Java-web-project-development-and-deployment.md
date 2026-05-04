@@ -111,7 +111,7 @@ function pull_image() {
     local name="$1"
     local tag="$2"
     local platform="${3:-$platform_NAME}"
-    echo -e "${RED}INFO: docker pull --platform linux/$platform $name:$tag${NC}"
+    echo -e "${BLUE}INFO: docker pull --platform linux/$platform $name:$tag${NC}"
     local short_name="${name##*/}"
     local tar_file="$short_name-$tag-$platform.tar"
     if [ ! -f "$tar_file" ]; then
