@@ -118,7 +118,7 @@ function pull_image() {
         docker pull --platform linux/"$platform" "$name:$tag"
         docker save -o "$tar_file" "$name:$tag"
     else
-        docker load -i "./$tar_file"
+        docker load -i "$tar_file"
     fi
 }
 
@@ -132,9 +132,9 @@ pull_image "jenkins/jenkins" "2.516.1-lts-jdk17"
 pull_image "hoppscotch/hoppscotch" "2026.3.1"
 pull_image "ollama/ollama" "0.20.5"
 
-if [ -f "./docker-compose.yaml" ]; then
-    docker compose -f "./docker-compose.yaml" -p demo up -d --remove-orphans
-    docker compose -f "./docker-compose.yaml" -p demo down
+if [ -f "docker-compose.yaml" ]; then
+    docker compose -f "docker-compose.yaml" -p demo up -d --remove-orphans
+    docker compose -f "docker-compose.yaml" -p demo down
 fi
 echo ""
 log "Done!"
