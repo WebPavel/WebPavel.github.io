@@ -45,35 +45,100 @@ echo $JAVA_HOME
 > To use the full `mvn` command, you need to set the `JAVA_HOME` environment variable.
 
 ```shell
-docker pull --platform linux/amd64 mysql:5.7.44
-docker pull --platform linux/arm64 postgres:15.14
-docker pull --platform linux/arm64 redis:5.0.14
-docker pull --platform linux/arm64 rabbitmq:3.13.6-management
-docker pull --platform linux/arm64 nginx:1.27.0
-docker pull --platform linux/arm64 mysql:8.4.2
-docker pull --platform linux/arm64 jenkins/jenkins:2.516.1-lts-jdk17
-docker pull --platform linux/arm64 hoppscotch/hoppscotch:2026.3.1
-docker pull --platform linux/arm64 ollama/ollama:0.20.5
-docker save -o mysql-5.7.44-x64.tar mysql:5.7.44
-docker save -o postgres-15.14.tar postgres:15.14
-docker save -o redis-5.0.14.tar redis:5.0.14
-docker save -o rabbitmq-3.13.6-management.tar rabbitmq:3.13.6-management
-docker save -o nginx-1.27.0.tar nginx:1.27.0
-docker save -o mysql-8.4.2.tar mysql:8.4.2
-docker save -o jenkins-lts-2.516.1-lts-jdk17.tar jenkins/jenkins:2.516.1-lts-jdk17
-docker save -o hoppscotch-2026.3.1.tar hoppscotch/hoppscotch:2026.3.1
-docker save -o ollama-0.20.5.tar ollama/ollama:0.20.5
-docker load -i ./mysql-5.7.44-x64.tar
-docker load -i ./postgres-15.14.tar
-docker load -i ./redis-5.0.14.tar
-docker load -i ./rabbitmq-3.13.6-management.tar
-docker load -i ./nginx-1.27.0.tar
-docker load -i ./mysql-8.4.2.tar
-docker load -i ./jenkins-lts-2.516.1-lts-jdk17.tar
-docker load -i ./hoppscotch-2026.3.1.tar
-docker load -i ./ollama-0.20.5.tar
-docker compose -f ./docker-compose.yaml -p demo up -d
-docker compose -f ./docker-compose.yaml -p demo down
+#!/bin/bash
+
+set -euo pipefail
+
+# Colors for output
+RED='\033[0;31m'
+GREEN='\033[0;32m'
+YELLOW='\033[1;33m'
+BLUE='\033[0;34m'
+NC='\033[0m' # No Color
+
+WORKSPACE_NAME=$(basename "$(pwd)")
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+echo -e "${BLUE}INFO: script location is ${SCRIPT_DIR}${NC}"
+
+log() { echo "[Docker] $*"; }
+log_error() { echo "[Docker] ERROR: $*" >&2; }
+
+# Check if a command exists
+has_command() {
+  command -v "$1" > /dev/null 2>&1
+}
+
+# Detect platform
+OS=$(uname -s)
+platform=$(uname -m)
+
+case "$OS" in
+  Linux)  OS_NAME="linux" ;;
+  Darwin) OS_NAME="macos" ;;
+  *)      log_error "Unsupported OS: $OS"; exit 1 ;;
+esac
+
+case "$platform" in
+  x86_64|amd64)   platform_NAME="amd64" ;;
+  aarch64|arm64)  platform_NAME="arm64" ;;
+  *)              log_error "Unsupported architecture: $platform"; exit 1 ;;
+esac
+
+# Fail fast checks
+echo -e "${YELLOW}Checking prerequisites...${NC}"
+
+if ! command -v docker &> /dev/null; then
+    echo -e "${RED}ERROR: Docker is not installed or not in PATH${NC}"
+    echo "Please install Docker: https://docs.docker.com/get-docker/"
+    exit 1
+fi
+
+if ! docker info &> /dev/null; then
+    echo -e "${RED}ERROR: Docker daemon is not running${NC}"
+    echo "Please start Docker Desktop or the Docker daemon"
+    exit 1
+fi
+
+if ! command -v docker compose &> /dev/null; then
+    echo -e "${RED}ERROR: Docker Compose is not available${NC}"
+    echo "Please install Docker Compose v2"
+    exit 1
+fi
+
+echo -e "${GREEN}✓ Docker and Docker Compose are available${NC}"
+
+function pull_image() {
+    local name="$1"
+    local tag="$2"
+    local platform="${3:-$platform_NAME}"
+    echo -e "${RED}INFO: docker pull --platform linux/$platform $name:$tag${NC}"
+    local short_name="${name##*/}"
+    local tar_file="$short_name-$tag-$platform.tar"
+    if [ ! -f "$tar_file" ]; then
+        docker pull --platform linux/"$platform" "$name:$tag"
+        docker save -o "$tar_file" "$name:$tag"
+    else
+        docker load -i "./$tar_file"
+    fi
+}
+
+pull_image "mysql" "5.7.44" "amd64"
+pull_image "postgres" "15.14"
+pull_image "redis" "5.0.14"
+pull_image "rabbitmq" "3.13.6-management"
+pull_image "nginx" "1.27.0"
+pull_image "mysql" "8.4.2"
+pull_image "jenkins/jenkins" "2.516.1-lts-jdk17"
+pull_image "hoppscotch/hoppscotch" "2026.3.1"
+pull_image "ollama/ollama" "0.20.5"
+
+if [ -f "./docker-compose.yaml" ]; then
+    docker compose -f "./docker-compose.yaml" -p demo up -d --remove-orphans
+    docker compose -f "./docker-compose.yaml" -p demo down
+fi
+echo ""
+log "Done!"
+echo ""
 ```
 
 docker-compose.yaml (or compose.yaml)
