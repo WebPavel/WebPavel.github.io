@@ -12,7 +12,7 @@ comments: true
 ## Electron Framework
 
 | app                | homepage                         | version                                           |
-|:-------------------|:---------------------------------|:--------------------------------------------------|
+| :----------------- | :------------------------------- | :------------------------------------------------ |
 | Bitwarden          | <https://bitwarden.com/>         | 2026.3.1 (58867)                                  |
 | Claude             | <https://claude.ai/>             | Claude 1.2773.0 (884b37) 2026-04-15T14:32:09.000Z |
 | Codex              | <https://openai.com/codex/>      | 26.415.20818 (1727)                               |
@@ -20,10 +20,14 @@ comments: true
 | Spark              | <https://sparkmailapp.com/>      | 3.28.6 (3.28.6.138291)                            |
 | Visual Studio Code | <https://code.visualstudio.com/> | 1.116.0                                           |
 | Cursor             | <https://cursor.com/>            | 2.6.22                                            |
+| Obsidian           | <https://obsidian.md/>           | 1.12.7                                            |
+| Tabby              | <https://tabby.sh/>              | 1.0.230                                           |
+| Bruno              | <https://www.usebruno.com/>      | 3.3.0                                             |
+| Hoppscotch         | <https://hoppscotch.com/>        | 26.4.0                                            |
 
 ## CEF (Chromium Embedded Framework)
 
 | app                  | homepage                                        | version                                    |
-|:---------------------|:------------------------------------------------|:-------------------------------------------|
+| :------------------- | :---------------------------------------------- | :----------------------------------------- |
 | Adobe Acrobat Reader | <https://www.adobe.com/acrobat/pdf-reader.html> | 24.3.20180.0                               |
 | Spotify              | <https://www.spotify.com/>                      | macOS (Apple Silicon) 1.2.87.415.g88652836 |
