@@ -323,6 +323,24 @@ services:
             retries: 5
             start_period: 10s
 
+    ubuntu:
+        image: ubuntu:22.04
+        # -i
+        stdin_open: true
+        # -t or --tty
+        tty: true
+        platform: linux/arm64
+        restart: unless-stopped
+        ports:
+            - "54322:22"
+        environment:
+            - TZ=${TZ:-Asia/Shanghai}
+            - LANG=${LANG:-en_US.utf8}
+
+        # sed -i 's@//ports.ubuntu.com@//mirrors.ustc.edu.cn@g' /etc/apt/sources.list && apt update
+        # apt install -fy openssh-server vim net-tools tree && apt clean && rm -rf /var/lib/apt/lists/*
+        # sed -i 's/#PermitRootLogin prohibit-password/PermitRootLogin yes/' /etc/ssh/sshd_config && /etc/init.d/ssh restart
+        # passwd root
 ```
 
 > **Note**:
