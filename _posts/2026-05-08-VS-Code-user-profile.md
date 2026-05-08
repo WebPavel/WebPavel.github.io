@@ -3,7 +3,7 @@ layout: post
 title: "VS Code user profile"
 date: 2026-05-08
 excerpt: "VS Code user profile, including extensions, themes and settings."
-tags: [ VS Code, profile ]
+tags: [VS Code, profile]
 comments: true
 ---
 
@@ -117,6 +117,7 @@ waderyan.gitblame
 wayou.vscode-todo-highlight
 yzane.markdown-pdf
 yzhang.markdown-all-in-one
+zainchen.json
 ziyasal.vscode-open-in-github
 ```
 
@@ -149,6 +150,7 @@ settings.json
             "type": "local",
             "feeds": []
         }
-    }
+    },
+    "jdk.telemetry.enabled": false
 }
 ```
