@@ -119,3 +119,36 @@ yzane.markdown-pdf
 yzhang.markdown-all-in-one
 ziyasal.vscode-open-in-github
 ```
+
+## settings
+
+settings.json
+
+```json
+{
+    "update.mode": "none",
+    "telemetry.feedback.enabled": false,
+    "security.workspace.trust.enabled": false,
+    "workbench.colorTheme": "Dracula Theme",
+    "redhat.telemetry.enabled": false,
+    "jdk.jdkhome": "/Library/Java/JavaVirtualMachines/jdk-1.8.jdk/Contents/Home",
+    "xml.java.home": "/Library/Java/JavaVirtualMachines/jdk-1.8.jdk/Contents/Home",
+    "xml.server.preferBinary": true,
+    "files.autoSave": "afterDelay",
+    "[markdown]": {
+        "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+    },
+    "[dockercompose]": {
+        "editor.defaultFormatter": "redhat.vscode-yaml"
+    },
+    "workbench.iconTheme": "vscode-icons",
+    "vscodeGoogleTranslate.preferredLanguage": "Chinese (Simplified)",
+    "rss.accounts": {
+        "e6604ee0-4b0f-11f1-9841-9b21496cddcb": {
+            "name": "Default",
+            "type": "local",
+            "feeds": []
+        }
+    }
+}
+```
