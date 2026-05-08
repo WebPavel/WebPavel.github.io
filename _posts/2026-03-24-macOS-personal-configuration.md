@@ -234,7 +234,7 @@ Old versions:
 | TencentMeeting          | https://meeting.tencent.com/ | aarch64      | mandatory account |
 | Sunlogin Remote Control | https://sunlogin.oray.com/   | aarch64      | signup required   |
 
-> **Note**:
+> [!NOTE]
 > you can download older versions from [Homebrew Cask](https://github.com/Homebrew/homebrew-cask).
 
 ### Browser Plugin
@@ -250,8 +250,7 @@ Old versions:
 | Imagus              | ~~https://tiny.cc/Imagus~~                       | ~~https://chromewebstore.google.com/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab~~                | https://addons.mozilla.org/en-US/firefox/addon/imagus/                      |
 
 
-*Usage*:
-
+> [!TIP]
 > SwitchyOmega → auto switch: [GFWList](https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt)
 
 ## Reference
