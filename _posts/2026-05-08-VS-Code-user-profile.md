@@ -27,6 +27,7 @@ bierner.markdown-emoji
 bierner.markdown-preview-github-styles
 bruno-api-client.bruno
 chaselen.v2ex-playground
+christian-kohler.path-intellisense
 codezombiech.gitignore
 csholmq.excel-to-markdown-table
 darian-benam.vscode-robots-dot-txt-support
@@ -42,6 +43,7 @@ eamodio.gitlens
 editorconfig.editorconfig
 esbenp.prettier-vscode
 firefox-devtools.vscode-firefox-debug
+formulahendry.auto-rename-tag
 foxundermoon.shell-format
 funkyremi.vscode-google-translate
 github.github-vscode-theme
@@ -52,6 +54,7 @@ hediet.vscode-drawio
 huacnlee.autocorrect
 joffreykern.markdown-toc
 k--kato.intellij-idea-keybindings
+kisstkondoros.vscode-gutter-preview
 leetcode.vscode-leetcode
 luyuhuang.rss
 mdickin.markdown-shortcuts
