@@ -154,6 +154,11 @@ settings.json
             "feeds": []
         }
     },
-    "jdk.telemetry.enabled": false
+    "jdk.telemetry.enabled": false,
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "commentTranslate.source": "Bing",
+    "commentTranslate.hover.string": true
 }
 ```
