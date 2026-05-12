@@ -18,6 +18,7 @@ code --list-extensions
 The output is as follows:
 
 ```text
+aaron-bond.better-comments
 adpyke.codesnap
 alefragnani.project-manager
 anthropic.claude-code
@@ -38,30 +39,38 @@ dineug.vuerd-vscode
 docker.docker
 donjayamanne.git-extension-pack
 donjayamanne.githistory
+dotjoshjohnson.xml
 dracula-theme.theme-dracula
 eamodio.gitlens
 editorconfig.editorconfig
 esbenp.prettier-vscode
 firefox-devtools.vscode-firefox-debug
 formulahendry.auto-rename-tag
+formulahendry.code-runner
 foxundermoon.shell-format
 funkyremi.vscode-google-translate
 github.github-vscode-theme
+github.vscode-pull-request-github
 gitlab.gitlab-workflow
 gruntfuggly.todo-tree
 hashhar.gitattributes
 hediet.vscode-drawio
 huacnlee.autocorrect
+intellsmi.comment-translate
 joffreykern.markdown-toc
+johnpapa.vscode-peacock
 k--kato.intellij-idea-keybindings
 kisstkondoros.vscode-gutter-preview
 leetcode.vscode-leetcode
 luyuhuang.rss
 mdickin.markdown-shortcuts
+mechatroner.rainbow-csv
+meganrogge.template-string-converter
 mhutchie.git-graph
 microprofile-community.mp-rest-client-generator-vscode-ext
 microprofile-community.mp-starter-vscode-ext
 microprofile-community.vscode-microprofile-pack
+miguelsolorio.fluent-icons
 ms-azuretools.vscode-containers
 ms-azuretools.vscode-docker
 ms-ceintl.vscode-language-pack-zh-hans
@@ -85,6 +94,7 @@ oracle.mysql-shell-for-vs-code
 oracle.oracle-java
 pkief.material-icon-theme
 pomdtr.excalidraw-editor
+reactreedev.reactree
 redhat.fabric8-analytics
 redhat.java
 redhat.vscode-community-server-connector
@@ -102,6 +112,7 @@ streetsidesoftware.code-spell-checker
 telesoho.vscode-markdown-paste-image
 timonwong.shellcheck
 tldraw-org.tldraw-vscode
+tonybaloney.vscode-pets
 ultram4rine.vscode-choosealicense
 vivaxy.vscode-conventional-commits
 vmware.vscode-boot-dev-pack
@@ -159,6 +170,7 @@ settings.json
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "commentTranslate.source": "Bing",
-    "commentTranslate.hover.string": true
+    "commentTranslate.hover.string": true,
+    "workbench.productIconTheme": "fluent-icons"
 }
 ```
