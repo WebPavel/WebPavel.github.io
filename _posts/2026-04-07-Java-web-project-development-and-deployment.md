@@ -293,8 +293,16 @@ services:
         environment:
             - TZ=${TZ:-Asia/Shanghai}
             - LANG=${LANG:-en_US.utf8}
+            - OLLAMA_HOST=0.0.0.0:11434
+            - OLLAMA_NO_CLOUD=1
         volumes:
-            - "$PWD/ollama:/root/.ollama"
+            - "$PWD/ollama/data:/root/.ollama:rw"
+        healthcheck:
+            test: ["CMD", "ollama", "--version"]
+            interval: 10s
+            timeout: 5s
+            retries: 3
+            start_period: 30s
 
     # https://redis.io/tutorials/operate/orchestration/docker/
     redis:
