@@ -75,6 +75,61 @@ case "$platform" in
 esac
 ```
 
+```shell
+# Currently supporting:
+#   - macos
+#   - linux
+#   - freebsd
+detect_platform() {
+    local platform
+    platform="$(uname -s | tr '[:upper:]' '[:lower:]')"
+    
+    case "${platform}" in
+        linux) platform="linux" ;;
+        darwin) platform="macos" ;;
+        freebsd) platform="freebsd" ;;
+    esac
+    
+    printf '%s' "${platform}"
+}
+```
+
+```shell
+# Currently supporting:
+#   - x86_64
+#   - arm
+#   - aarch64
+detect_arch() {
+    local arch
+    arch="$(uname -m | tr '[:upper:]' '[:lower:]')"
+    
+    case "${arch}" in
+        amd64) arch="x86_64" ;;
+        armv*) arch="arm" ;;
+        arm64) arch="aarch64" ;;
+    esac
+    
+    # `uname -m` in some cases mis-reports 32-bit OS as 64-bit, so double check
+    if [ "${arch}" = "x86_64" ] && [ "$(getconf LONG_BIT)" -eq 32 ]; then
+        arch="i686"
+    elif [ "${arch}" = "aarch64" ] && [ "$(getconf LONG_BIT)" -eq 32 ]; then
+        arch="arm"
+    fi
+    
+    printf '%s' "${arch}"
+}
+```
+
+```shell
+PLATFORM="$(detect_platform)"
+ARCH="$(detect_arch)"
+
+if [ "$PLATFORM" != "macos" ]; then
+    echo "only available on MacOs systems"
+    exit 1
+fi
+```
+
 ## docker
 
 ```shell
