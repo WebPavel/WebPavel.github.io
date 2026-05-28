@@ -131,6 +131,7 @@ pull_image "mysql" "8.4.2"
 pull_image "jenkins/jenkins" "2.516.1-lts-jdk17"
 pull_image "hoppscotch/hoppscotch" "2026.3.1"
 pull_image "ollama/ollama" "0.20.5"
+pull_image "ubuntu" "22.04"
 
 if [ -f "docker-compose.yaml" ]; then
     docker compose -f "docker-compose.yaml" -p demo up -d --remove-orphans
