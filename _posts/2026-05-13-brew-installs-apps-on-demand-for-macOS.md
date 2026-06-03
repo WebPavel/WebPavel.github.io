@@ -39,7 +39,7 @@ app_list_j=(openjdk@8 maven)
 app_list=("${app_list[@]}" "${app_list_j[@]}")
 for app in "${app_list[@]}"
 do
-  brew install --formula $app
+  brew install --adopt --formula $app
 done
 
 app_list=(clash-verge-rev codex cursor dbeaver-community docker-desktop eudic floorp font-jetbrains-mono-nerd-font font-meslo-lg-nerd-font free-download-manager git-credential-manager google-chrome jordanbaird-ice iina intellij-idea iterm2 keka lulu maccy raycast shottr spotify stats tabby utm visual-studio-code vivaldi windows-app xnviewmp)
@@ -48,7 +48,7 @@ app_list_cn=(wechat tencent-meeting awesun)
 app_list=("${app_list[@]}" "${app_list_ms[@]}" "${app_list_cn[@]}")
 for app in "${app_list[@]}"
 do
-    brew install --cask $app
+    brew install --adopt --cask $app
 done
 
 git version
