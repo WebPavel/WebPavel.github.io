@@ -246,11 +246,14 @@ Old versions:
 | Vimium              | <https://github.com/philc/vimium>                  | <https://chromewebstore.google.com/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb>                    | <https://addons.mozilla.org/en-GB/firefox/addon/vimium-ff/>                   |
 | FDM                 | <https://www.freedownloadmanager.org/>             | <https://chromewebstore.google.com/detail/free-download-manager/ahmpjcflkgiildlgicmcieglgoilbfdp>     | <https://addons.mozilla.org/en-US/firefox/addon/free-download-manager-addon/> |
 | Bitwarden           | <https://bitwarden.com/>                           | <https://chromewebstore.google.com/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb> | <https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/>  |
-| SwitchyOmega        | <https://github.com/FelisCatus/SwitchyOmega>       | ~~<https://chrome.google.com/webstore/detail/padekgcemlokbadohgkifijomclgjgif>~~                      | ~~<https://addons.mozilla.org/en-US/firefox/addon/switchyomega/>~~            |
+| ~~SwitchyOmega~~    | <https://github.com/FelisCatus/SwitchyOmega>       | ~~<https://chrome.google.com/webstore/detail/padekgcemlokbadohgkifijomclgjgif>~~                      | <https://addons.mozilla.org/en-US/firefox/addon/switchyomega/>                |
+| SmartProxy          | <https://github.com/salarcode/SmartProxy>          | <https://chromewebstore.google.com/detail/smartproxy/jogcnplbkgkfdakgdenhlpcfhjioidoj>                | <https://addons.mozilla.org/en-US/firefox/addon/smartproxy/>                  |
 | Imagus              | ~~<https://tiny.cc/Imagus>~~                       | ~~<https://chromewebstore.google.com/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab>~~                | <https://addons.mozilla.org/en-US/firefox/addon/imagus/>                      |
 
 > [!TIP]
-> SwitchyOmega → auto switch: [GFWList](https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt)
+> ~~SwitchyOmega → auto switch: [GFWList](https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt)~~
+>
+> SmartProxy → Subscribe to a rules list: [GFWList](https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt)
 
 ## Reference
 
