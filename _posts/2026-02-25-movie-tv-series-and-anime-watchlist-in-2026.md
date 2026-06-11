@@ -13,15 +13,15 @@ comments: true
 The list of movies, TV Series, and anime I watched during my leisure time in 2026.
 
 | name                            | Chinese        | release-year | country       | language |
-|---------------------------------|----------------|--------------|---------------|----------|
+|:--------------------------------|:---------------|:-------------|:--------------|:---------|
 | One Flew Over the Cuckoo's Nest | 飞越疯人院 \| 飛越杜鵑窩 | 1975         | United States | English  |
 | Kizumonogatari                  | 傷物語            | 2016         | Japan         | Japanese |
 | Nekomonogatari (White)          | 猫物語 (白)        | 2013         | Japan         | Japanese |
 | Kabukimonogatari                | 傾物語            | 2013         | Japan         | Japanese |
-
+| Gals Can't Be Kind to Otaku!?   | 哪里有温柔对待阿宅的辣妹！？ | 2026         | Japan         | Japanese |
 
 The list of movies I watched at the cinema during my leisure time in 2026.
 
 | name                | Chinese | release-year | country | language   |
-|---------------------|---------|--------------|---------|------------|
+|:--------------------|:--------|:-------------|:--------|:-----------|
 | Per Aspera ad Astra | 星河入梦    | 2026         | China   | 中文 Chinese |
