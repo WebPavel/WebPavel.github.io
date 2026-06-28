@@ -72,7 +72,7 @@ bug#1 blank after redirection
 I tried the following methods to resolve the issue, but none of them worked.
 
 1. reinstall after deleting app and data
-2. switch data network to mobile data | Wi-Fi
+2. switch data network to mobile data \| Wi-Fi
 3. log out and log back in
 
 ## Reference
