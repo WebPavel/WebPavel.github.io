@@ -7,7 +7,6 @@ tags: [ Movie, TV Series, anime ]
 comments: true
 ---
 
-
 # Movie, TV Series, and anime watchlist in 2026
 
 The list of movies, TV Series, and anime I watched during my leisure time in 2026.
@@ -20,6 +19,7 @@ The list of movies, TV Series, and anime I watched during my leisure time in 202
 | Kabukimonogatari                     | 傾物語            | 2013         | Japan         | Japanese |
 | Gals Can't Be Kind to Otaku!?        | 哪里有温柔对待阿宅的辣妹！？ | 2026         | Japan         | Japanese |
 | Zombie Land Saga: Yumeginga Paradise | 佐賀偶像是傳奇 夢幻銀河樂園 | 2025         | Japan         | Japanese |
+| In Time                              | 时间规划局 \| 潛逃時空  | 2011         | United States | English  |
 
 The list of movies I watched at the cinema during my leisure time in 2026.
 
