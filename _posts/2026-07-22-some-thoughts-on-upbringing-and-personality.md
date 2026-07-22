@@ -9,9 +9,7 @@ comments: true
 
 # some thoughts on upbringing and personality
 
-The environment in which a person grows up influences their personality and their
-
-views on various matters.
+The environment in which a person grows up influences their personality and their views on various matters.
 
 1. The more outstanding you are, the more goodwill you will receive when dealing with others.
 
