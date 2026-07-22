@@ -26,6 +26,9 @@ I learn this from the Japanese anime "Chibi Maruko Chan"
 5. It seems that people are more likely to develop an extreme personality if they grow up in a
 single-parent family. The extreme personality may be either bad (more often) or good (but lacking in love).
 
+6. Down, up and down. People who have gone through this process may place greater value on the kindness of others and
+be more willing to help others.
+
 ## Reference
 
 - [CHIBI MARUKO CHAN](https://chibimaruko-chan.net)
