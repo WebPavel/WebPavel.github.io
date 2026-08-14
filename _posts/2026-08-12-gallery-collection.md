@@ -66,10 +66,10 @@ gallery collection I download from the image board website [wallhaven](https://w
 
 ## Konachan
 
-![_Konachan.com - 328130 2girls alchemy_stars aliasing animal bicolored_eyes bird clouds dress elbow_gloves eyepatch gloves gray_hair long_hair maiwetea red_eyes red_hair sky.jpg](/assets/Konachan/_Konachan.com-328130_2girls_sky.jpg)
-![_Konachan.com - 328332 2girls book brown_eyes brown_hair chinese_dress dress elbow_gloves flowers gloves honkai_impact long_hair paper purple_hair red_eyes short_hair sirin.jpg](/assets/Konachan/_Konachan.com-328332_2girls_sirin.jpg)
-![_Konachan.com - 329324 2girls brown_hair building city close hatsune_miku long_hair megurine_luka signed spencer_sais stairs train vocaloid watermark.jpg](/assets/Konachan/_Konachan.com-329324_2girls_watermark.jpg)
-![_Konachan.com - 348623 aqua_eyes aqua_hair close flowers haruka_poi hatsune_miku long_hair twintails vocaloid.jpg](/assets/Konachan/_Konachan.com-348623_aqua_eyes_vocaloid.jpg)
+![_Konachan.com - 328130 2girls alchemy_stars aliasing animal bicolored_eyes bird clouds dress elbow_gloves eyepatch gloves gray_hair long_hair maiwetea red_eyes red_hair sky.jpg](/assets/Konachan/Konachan.com-328130_2girls_sky.jpg)
+![_Konachan.com - 328332 2girls book brown_eyes brown_hair chinese_dress dress elbow_gloves flowers gloves honkai_impact long_hair paper purple_hair red_eyes short_hair sirin.jpg](/assets/Konachan/Konachan.com-328332_2girls_sirin.jpg)
+![_Konachan.com - 329324 2girls brown_hair building city close hatsune_miku long_hair megurine_luka signed spencer_sais stairs train vocaloid watermark.jpg](/assets/Konachan/Konachan.com-329324_2girls_watermark.jpg)
+![_Konachan.com - 348623 aqua_eyes aqua_hair close flowers haruka_poi hatsune_miku long_hair twintails vocaloid.jpg](/assets/Konachan/Konachan.com-348623_aqua_eyes_vocaloid.jpg)
 ![Konachan.com - 210599 sample.jpg](/assets/Konachan/Konachan.com-210599sample.jpg)
 ![Konachan.com - 300570 sample.jpg](/assets/Konachan/Konachan.com-300570sample.jpg)
 ![Konachan.com - 329407 sample.jpg](/assets/Konachan/Konachan.com-329407sample.jpg)
@@ -188,3 +188,4 @@ gallery collection I download from the image board website [wallhaven](https://w
 - [Konachan (Explicit)](https://konachan.com)
 - [Konachan (Safe)](https://konachan.net)
 - [yande.re](https://yande.re/)
+- [How to Use Underscores with GitHub Pages — Ian Wootten](https://www.ianwootten.co.uk/2022/11/08/how-to-use-underscores-with-github-pages/)
