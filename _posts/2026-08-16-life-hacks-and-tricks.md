@@ -14,10 +14,10 @@ comments: true
 1. When oil splashes onto your clothes while eating or hotpot, it's best to immediately remove the dirty spots.
 
    Recommended by a [Twitch streamer](https://www.twitch.tv/mmgeneral) on July 20, 2026:
-
    - 獅王衣物去漬急救劑 Lion spot remover
 
      ![1622800015_677923aa0f9b0cc30f24.jpg](/assets/life/clothing/1622800015_677923aa0f9b0cc30f24.jpg)
+
      Market reference price:
 
      日本 LION 衣物去漬急救隨身瓶 17ml 199NT$/買一送一
