@@ -11,16 +11,17 @@ comments: true
 
 ## playing games
 
-|    title    | co-op                         | date            |        website         | platform/channel |                         download                          |
-|:-----------:|-------------------------------|-----------------|:----------------------:|:----------------:|:---------------------------------------------------------:|
+|    title    |             co-op             |      date       |        website         | platform/channel |                         download                          |
+|:-----------:|:-----------------------------:|:---------------:|:----------------------:|:----------------:|:---------------------------------------------------------:|
 | How to Fish | @eat1025 @mmgeneral @abbby156 | August 23, 2026 | <https://dazed.games/> |  Windows/Steam   | <https://store.steampowered.com/app/4001890/How_to_Fish/> |
 
 ## outdoors
 
 ### Taiwan
 
-| place | category<sup>*</sup> | rating |
-|:-----:|:--------------------:|:------:|
+|    place    |   co-op    |      date       | category<sup>*</sup> | rating |   keywords    |
+|:-----------:|:----------:|:---------------:|:--------------------:|:------:|:-------------:|
+| garden city | @mmgeneral | August 23, 2026 |          2           |  5/5   | @遠東 @大巨蛋 |
 
 __*__: 1=restaurant, 2=exhibition, 3=show
 
