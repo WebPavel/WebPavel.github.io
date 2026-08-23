@@ -19,9 +19,9 @@ comments: true
 
 ### Taiwan
 
-|    place    |   co-op    |      date       | category<sup>*</sup> | rating |   keywords    |
-|:-----------:|:----------:|:---------------:|:--------------------:|:------:|:-------------:|
-| garden city | @mmgeneral | August 23, 2026 |          2           |  5/5   | @遠東 @大巨蛋 |
+|    place    |   co-op    |      date       | category<sup>*</sup> | rating |         keywords          |
+|:-----------:|:----------:|:---------------:|:--------------------:|:------:|:-------------------------:|
+| garden city | @mmgeneral | August 23, 2026 |         1,2          |  5/5   | @遠東 @大巨蛋 @東引快刀手 |
 
 __*__: 1=restaurant, 2=exhibition, 3=show
 
