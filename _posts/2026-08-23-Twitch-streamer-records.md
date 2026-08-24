@@ -19,9 +19,10 @@ comments: true
 
 ### Taiwan
 
-|    place    |   co-op    |      date       | category<sup>*</sup> | rating |         keywords          |
-|:-----------:|:----------:|:---------------:|:--------------------:|:------:|:-------------------------:|
-| garden city | @mmgeneral | August 23, 2026 |         1,2          |  5/5   | @遠東 @大巨蛋 @東引快刀手 |
+|      place       |   co-op    |      date       | category<sup>*</sup> | rating |         keywords          |    situation     |
+|:----------------:|:----------:|:---------------:|:--------------------:|:------:|:-------------------------:|:----------------:|
+|   garden city    | @mmgeneral | August 23, 2026 |         1,2          |  5/5   | @遠東 @大巨蛋 @東引快刀手 | @meeting @dating |
+| 福星廣東粥蛤蜊麵 | @mmgeneral | August 24, 2026 |          1           | 6.5/10 |          @蛤蜊麵          |   @restaurant    |
 
 __*__: 1=restaurant, 2=exhibition, 3=show
 
