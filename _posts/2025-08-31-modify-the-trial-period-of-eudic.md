@@ -15,5 +15,14 @@ I choose [VSCode](https://code.visualstudio.com/), and install extension [Binary
 
 ## edit the property MAIN_TimesLeft
 
-search and find the property MAIN_TimesLeft in plist file `~/Library/Preferences/com.eusoft.eudic.plist`, then edit the
+search and find the property `MAIN_TimesLeft` in plist file `~/Library/Preferences/com.eusoft.eudic.plist`, then edit the
 attribute value to an integer which means the left days of trial period, for example, 36500 (100 years).
+
+```shell
+code ~/Library/Preferences/com.eusoft.eudic.plist
+```
+
+## Reference
+
+- [Visual Studio Code - The open source AI code editor | Your home for multi-agent development](https://code.visualstudio.com/)
+- [Binary Plist - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=dnicolson.binary-plist)
