@@ -34,6 +34,26 @@ comments: true
 
 ### Korea
 
+## what I don't know about Taiwan
+
+### About hand-shaken drinks
+
+|                       brand                        | Chinese |              recommendation              |
+|:--------------------------------------------------:|:-------:|:----------------------------------------:|
+|                       50 Lan                       |  50嵐   | 四季春青茶 Light Oolong Tea \/NT\$40 (L) |
+|                    Unique Green                    |   UG    |                                          |
+|        [DaYungs](https://www.dayungs.com/)         | 大苑子  |                                          |
+| [Chun Shui Tang](https://www.chunshuitang.com.tw/) | 春水堂  |                                          |
+
+> [!TIP]
+> Hello, I'd like a large (L)/medium (M) cup of oolong tea,
+> with normal sugar/less sugar/half sugar/light sugar/no sugar,
+> and normal ice/extra ice/less ice/light ice/no ice/room temperature/warm/hot. Thank you.
+>
+> 你好，我想要一杯大杯（L）/中杯（M）烏龍茶，正常糖/少糖（70%）/半糖（50%）/微糖（25%）/無糖、正常冰/多冰/少冰/微冰/去冰/常溫/溫的/熱的，謝謝。
+>
+> ***Bubble tea*** (珍珠奶茶) originated in Taiwan in the 1980s.
+
 ## Reference
 
 - [NARA Thai Cuisine 米其林推薦泰式料理餐廳](https://nara.com.tw/)
