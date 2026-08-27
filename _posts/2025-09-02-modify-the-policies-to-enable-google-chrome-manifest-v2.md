@@ -79,4 +79,5 @@ EOF
 
 - [Chrome Enterprise Policy List & Management](https://chromeenterprise.google/policies/#ExtensionManifestV2Availability)
 - [Manage Chrome updates (Mac)](https://support.google.com/chrome/a/answer/7591084)
+- [Frequently Asked Questions | ungoogled-chromium Wiki](https://ungoogled-software.github.io/ungoogled-chromium-wiki/faq)
 - [chromium-web-store](https://github.com/NeverDecaf/chromium-web-store)
