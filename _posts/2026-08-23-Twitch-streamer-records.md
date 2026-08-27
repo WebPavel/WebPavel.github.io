@@ -38,12 +38,12 @@ comments: true
 
 ### About hand-shaken drinks
 
-|                       brand                        | Chinese |              recommendation              |
-|:--------------------------------------------------:|:-------:|:----------------------------------------:|
-|                       50 Lan                       |  50嵐   | 四季春青茶 Light Oolong Tea \/NT\$40 (L) |
-|                    Unique Green                    |   UG    |                                          |
-|        [DaYungs](https://www.dayungs.com/)         | 大苑子  |                                          |
-| [Chun Shui Tang](https://www.chunshuitang.com.tw/) | 春水堂  |                                          |
+|                       brand                        | Chinese |             recommendation              |
+|:--------------------------------------------------:|:-------:|:---------------------------------------:|
+|                       50 Lan                       |  50嵐   | 四季春青茶 Light Oolong Tea /NT\$40 (L) |
+|                    Unique Green                    |   UG    |                                         |
+|        [DaYungs](https://www.dayungs.com/)         | 大苑子  |                                         |
+| [Chun Shui Tang](https://www.chunshuitang.com.tw/) | 春水堂  |                                         |
 
 > [!TIP]
 > Hello, I'd like a large (L)/medium (M) cup of oolong tea,
