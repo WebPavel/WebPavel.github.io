@@ -29,6 +29,9 @@ comments: true
 
 2. When buying and picking up new clothes like T-shirts and jeans, it's best to wash them with salt to prevent fading.
 
+3. Buy clothes covers (衣物防塵套) in fabric from IKEA (宜家) to protect your clothes from dirt and dust.
+   > ![IKEA-clothes-cover.png](/assets/tw/IKEA-clothes-cover.png)
+
 ## Food
 
 ## Housing
