@@ -11,10 +11,10 @@ comments: true
 
 ## playing games
 
-|            title            |             co-op             |      date       |                      website                       | platform/channel  |                                                                                    download                                                                                    |
-|:---------------------------:|:-----------------------------:|:---------------:|:--------------------------------------------------:|:-----------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|         How to Fish         | @eat1025 @mmgeneral @abbby156 | August 23, 2026 |               <https://dazed.games/>               |   Windows/Steam   |                                                        [Steam](https://store.steampowered.com/app/4001890/How_to_Fish/)                                                        |
-| Overcooked! All You Can Eat |      @eat1025 @mmgeneral      | August 25, 2026 | <https://ghosttowngames.com/game/overcooked-ayce/> | Nintendo Switch 2 | [Steam](https://store.steampowered.com/app/1243830/Overcooked_All_You_Can_Eat/) <br> [Nintendo](https://www.nintendo.com/us/store/products/overcooked-all-you-can-eat-switch/) |
+|            title            |             co-op             |      date       |                  official website                  | platform/channel  |                                                                                    download                                                                                     |
+|:---------------------------:|:-----------------------------:|:---------------:|:--------------------------------------------------:|:-----------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|         How to Fish         | @eat1025 @mmgeneral @abbby156 | August 23, 2026 |               <https://dazed.games/>               |   Windows/Steam   |                                                        [Steam](https://store.steampowered.com/app/4001890/How_to_Fish/)                                                         |
+| Overcooked! All You Can Eat |      @eat1025 @mmgeneral      | August 25, 2026 | <https://ghosttowngames.com/game/overcooked-ayce/> | Nintendo Switch 2 | [Steam](https://store.steampowered.com/app/1243830/Overcooked_All_You_Can_Eat/) <br/> [Nintendo](https://www.nintendo.com/us/store/products/overcooked-all-you-can-eat-switch/) |
 
 ## outdoors
 
