@@ -20,17 +20,21 @@ comments: true
 
 ### Taiwan
 
-|                    place                    |        co-op        |      date       | category<sup>*</sup> |  rating  |             keywords             |       situation       |
-|:-------------------------------------------:|:-------------------:|:---------------:|:--------------------:|:--------:|:--------------------------------:|:---------------------:|
-|              garden city 遠東               |     @mmgeneral      | August 23, 2026 |         1,2          |   5/5    | @garden city @大巨蛋 @東引快刀手 |   @meeting @dating    |
-|       Fuxing Congee 福星廣東粥蛤蜊麵        |     @mmgeneral      | August 24, 2026 |          1           |  6.5/10  |       @Noodles with Clams        |      @restaurant      |
-|            Honhui Plaza 宏匯廣場            |      @eat1025       | August 25, 2026 |         1,4          | Michelin | @handmade cake @nara<sup>*</sup> | @handmade @restaurant |
-| a flat, Xinzhuang District, New Taipei City | @eat1025 @mmgeneral | August 25, 2026 |          5           |    -     |  @lottery @nara @Overcooked 2!   |      @gathering       |
+|                                    place                                    |        co-op        |      date       | category<sup>*</sup> |  rating  |                                                       keywords                                                       |            situation            |
+|:---------------------------------------------------------------------------:|:-------------------:|:---------------:|:--------------------:|:--------:|:--------------------------------------------------------------------------------------------------------------------:|:-------------------------------:|
+|                              garden city 遠東                               |     @mmgeneral      | August 23, 2026 |         1,2          |   5/5    |                                           @garden city @大巨蛋 @東引快刀手                                           |        @meeting @dating         |
+|                       Fuxing Congee 福星廣東粥蛤蜊麵                        |     @mmgeneral      | August 24, 2026 |          1           |  6.5/10  |                                                 @Noodles with Clams                                                  |           @restaurant           |
+|                            Honhui Plaza 宏匯廣場                            |      @eat1025       | August 25, 2026 |         1,4          | Michelin |                                           @handmade cake @nara<sup>*</sup>                                           |      @handmade @restaurant      |
+|                 a flat, Xinzhuang District, New Taipei City                 | @eat1025 @mmgeneral | August 25, 2026 |          5           |    -     |                                            @lottery @nara @Overcooked 2!                                             |           @gathering            |
+| Yonghe Lehua Night Market 永和樂華夜市<sup><font color='red'>v</font></sup> |     @mmgeneral      | August 27, 2026 |         1,6          | Michelin | @Lehua three delicacies<sup>*</sup> soup 樂華三鮮羹 @A-ba's Taro Ball 阿爸の芋圓 @lottery @shopping @catch me 夾子園 | @tour @restaurant @claw machine |
 
 > __*__:
-> - category: 1=restaurant, 2=exhibition, 3=show, 4=handmade, 5=gathering
+> - category: 1=restaurant, 2=exhibition, 3=show, 4=handmade, 5=gathering, 6=tour
 > - nara: ordered Steamed Sea Bass in Spicy Lime Sauce (檸檬魚), Green Curry Chicken (綠咖喱雞肉), Stir-Fried Water Spinach (空心菜) and Tom Yum Goong (冬蔭功湯)
 >   ![nara Menu Set-4.png](/assets/tw/nara-menu-set-4.png)
+> - delicacies: the plural of 'delicacy' (delicacy 的复数形式), 来自德语，熟食店，英语在非正式场合缩写成 deli；美味佳肴；珍馐 (A delicacy is a rare or expensive food that is considered especially nice to eat)
+>
+> __<font color='red'>v</font>__: missed the live stream, watch the recorded video.
 
 ### Korea
 
@@ -58,3 +62,5 @@ comments: true
 
 - [NARA Thai Cuisine 米其林推薦泰式料理餐廳](https://nara.com.tw/)
 - [Overcooked! All You Can Eat](https://ghosttowngames.com/game/overcooked-ayce/)
+- [New Taipei City Travel](https://newtaipei.travel/)
+- [A-ba's Taro Ball](https://guide.michelin.com/tw/en/northern-taiwan/new-taipei-city_2853082/restaurant/a-ba-s-taro-ball)
