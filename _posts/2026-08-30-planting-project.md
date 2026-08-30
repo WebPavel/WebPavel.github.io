@@ -33,6 +33,12 @@ It's better to find what you love to do. Even if you can't find it now, you can 
 
 peace and love are good for everyone.
 
+most people receive a massive amount of information from the outside world, but few ever put anything out there to express their views.
+
+I leave no trace of wings in the air, but I am glad I have had my flight. (from Fireflies, Tagore)
+
+Don't judge someone too quickly before you know the whole story.
+
 ### no comparison
 
 There is no comparison, only comparison with yourself.
@@ -44,3 +50,7 @@ There is no comparison, only comparison with yourself.
 | activity | date | place | co-op |
 |:--------:|:----:|:-----:|:-----:|
 | see sea  |      |       |       |
+
+## Reference
+
+- [Rabindranath Tagore](https://en.wikipedia.org/wiki/Rabindranath_Tagore)
