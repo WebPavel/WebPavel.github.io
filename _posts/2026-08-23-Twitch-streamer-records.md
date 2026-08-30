@@ -42,12 +42,12 @@ comments: true
 
 ### About hand-shaken drinks
 
-|                       brand                        | Chinese |             recommendation              |
-|:--------------------------------------------------:|:-------:|:---------------------------------------:|
-|                       50 Lan                       |  50嵐   | 四季春青茶 Light Oolong Tea /NT\$40 (L) |
-|                    Unique Green                    |   UG    |                                         |
-|        [DaYungs](https://www.dayungs.com/)         | 大苑子  |                                         |
-| [Chun Shui Tang](https://www.chunshuitang.com.tw/) | 春水堂  |                                         |
+|                       brand                        | Chinese |                   recommendation                   |
+|:--------------------------------------------------:|:-------:|:--------------------------------------------------:|
+|                       50 Lan                       |  50嵐   |      四季春青茶 Light Oolong Tea /NT\$40 (L)       |
+|                    Unique Green                    |   UG    | 三窨<sup>*</sup>十五茉 Fifteen Jasmine Flowers Tea |
+|        [DaYungs](https://www.dayungs.com/)         | 大苑子  |                                                    |
+| [Chun Shui Tang](https://www.chunshuitang.com.tw/) | 春水堂  |                                                    |
 
 > [!TIP]
 > Hello, I'd like a large (L)/medium (M) cup of oolong tea,
@@ -57,6 +57,9 @@ comments: true
 > 你好，我想要一杯大杯（L）/中杯（M）烏龍茶，正常糖/少糖（70%）/半糖（50%）/微糖（25%）/無糖、正常冰/多冰/少冰/微冰/去冰/常溫/溫的/熱的，謝謝。
 >
 > ***Bubble tea*** (珍珠奶茶) originated in Taiwan in the 1980s.
+>
+> __*__:
+>   - 窨: pronunciation 'yìn', fumigate (薰蒸；煙薰)
 
 ## Reference
 
@@ -64,3 +67,4 @@ comments: true
 - [Overcooked! All You Can Eat](https://ghosttowngames.com/game/overcooked-ayce/)
 - [New Taipei City Travel](https://newtaipei.travel/)
 - [A-ba's Taro Ball](https://guide.michelin.com/tw/en/northern-taiwan/new-taipei-city_2853082/restaurant/a-ba-s-taro-ball)
+- [Cartier® - Jeweler and Watchmaker since 1847](https://www.cartier.com/)
