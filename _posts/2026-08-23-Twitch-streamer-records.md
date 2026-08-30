@@ -11,10 +11,11 @@ comments: true
 
 ## playing games
 
-|            title            |             co-op             |      date       |                  official website                  | platform/channel  |                                                                                    download                                                                                     |
-|:---------------------------:|:-----------------------------:|:---------------:|:--------------------------------------------------:|:-----------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|         How to Fish         | @eat1025 @mmgeneral @abbby156 | August 23, 2026 |               <https://dazed.games/>               |   Windows/Steam   |                                                        [Steam](https://store.steampowered.com/app/4001890/How_to_Fish/)                                                         |
-| Overcooked! All You Can Eat |      @eat1025 @mmgeneral      | August 25, 2026 | <https://ghosttowngames.com/game/overcooked-ayce/> | Nintendo Switch 2 | [Steam](https://store.steampowered.com/app/1243830/Overcooked_All_You_Can_Eat/) <br/> [Nintendo](https://www.nintendo.com/us/store/products/overcooked-all-you-can-eat-switch/) |
+|            title            |             co-op             |      date       |                  official website                  | platform/channel  |                                                                                    download                                                                                     |  continuation   |
+|:---------------------------:|:-----------------------------:|:---------------:|:--------------------------------------------------:|:-----------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------:|
+|         How to Fish         | @eat1025 @mmgeneral @abbby156 | August 23, 2026 |               <https://dazed.games/>               |   Windows/Steam   |                                                        [Steam](https://store.steampowered.com/app/4001890/How_to_Fish/)                                                         | August 30, 2026 |
+| Overcooked! All You Can Eat |      @eat1025 @mmgeneral      | August 25, 2026 | <https://ghosttowngames.com/game/overcooked-ayce/> | Nintendo Switch 2 | [Steam](https://store.steampowered.com/app/1243830/Overcooked_All_You_Can_Eat/) <br/> [Nintendo](https://www.nintendo.com/us/store/products/overcooked-all-you-can-eat-switch/) |        /        |
+|       Sort Them Ducks       |           @eat1025            | August 29, 2026 |                         -                          |   Windows/Steam   |                                                      [Steam](https://store.steampowered.com/app/4992070/Sort_Them_Ducks/)                                                       |        /        |
 
 ## outdoors
 
@@ -42,12 +43,12 @@ comments: true
 
 ### About hand-shaken drinks
 
-|                       brand                        | Chinese |                   recommendation                   |
-|:--------------------------------------------------:|:-------:|:--------------------------------------------------:|
-|                       50 Lan                       |  50嵐   |      四季春青茶 Light Oolong Tea /NT\$40 (L)       |
-|                    Unique Green                    |   UG    | 三窨<sup>*</sup>十五茉 Fifteen Jasmine Flowers Tea |
-|        [DaYungs](https://www.dayungs.com/)         | 大苑子  |                                                    |
-| [Chun Shui Tang](https://www.chunshuitang.com.tw/) | 春水堂  |                                                    |
+|                       brand                        | Chinese |                                         recommendation                                          |
+|:--------------------------------------------------:|:-------:|:-----------------------------------------------------------------------------------------------:|
+|                       50 Lan                       |  50嵐   |                             四季春青茶 Light Oolong Tea /NT\$40 (L)                             |
+|                    Unique Green                    |   UG    | UG奶茶-三窨<sup>*</sup>十五茉·奶茶 <br/> Rich Milk Tea: Fifteen Jasmine Flowers Tea /NT\$75 (L) |
+|        [DaYungs](https://www.dayungs.com/)         | 大苑子  |                                                                                                 |
+| [Chun Shui Tang](https://www.chunshuitang.com.tw/) | 春水堂  |                                                                                                 |
 
 > [!TIP]
 > Hello, I'd like a large (L)/medium (M) cup of oolong tea,
