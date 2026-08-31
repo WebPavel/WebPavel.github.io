@@ -80,4 +80,4 @@ Hong Kong might be the best choice if you live in Guangdong, China.
 
 - [Nintendo Store](https://store.nintendo.com.hk/)
 - [任天堂(香港)有限公司網站](https://www.nintendo.com/hk/)
-- [店舖一覽 | Nintendo Switch | 任天堂香港](https://www.nintendo.com/hk/hardware/switch/store/index.html)
+- [店舖一覽 \| Nintendo Switch \| 任天堂香港](https://www.nintendo.com/hk/hardware/switch/store/index.html)
