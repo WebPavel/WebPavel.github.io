@@ -62,6 +62,16 @@ comments: true
 > __*__:
 >   - 窨: pronunciation 'yìn', fumigate (薰蒸；煙薰)
 
+### About Taiwan Snacks
+
+|           name            | Chinese |                             image                              |        category        |
+|:-------------------------:|:-------:|:--------------------------------------------------------------:|:----------------------:|
+| twisted dough<sup>*</sup> | 雙胞胎  | ![twisted-dough-p1_07.png](/assets/tw/twisted-dough-p1_07.png) | sweet, deep fry (油炸) |
+
+> __*__:
+>   - twist: if you twist something, you turn it to make a spiral (螺旋) shape, 扭；拧；搓；捻
+>   - dough: it can be cooked to make bread, 生面团
+
 ## Reference
 
 - [NARA Thai Cuisine 米其林推薦泰式料理餐廳](https://nara.com.tw/)
