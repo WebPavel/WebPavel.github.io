@@ -70,6 +70,17 @@ Nintendo Switch 2 is scheduled to begin shipping on September 1, 2026.
 
 【預定於9月1日陸續安排寄送】Nintendo Switch 2
 
+### Endorsement of EEP (Exit and Entry Permit)
+
+|       to-do        |                                                               done                                                               |
+|:------------------:|:--------------------------------------------------------------------------------------------------------------------------------:|
+|    preparation     |                                                     valid physical EEP card                                                      |
+| endorsement method |                                                  automatic endorsement machine                                                   |
+|      location      | self-service area, 1st floor, Tianhe government service center, <br/> Tianhe district, Guangzhou city, Guangdong province, China |
+|        type        |                                        ✅ G: self-service travel <br/> ☑️ L: group travel                                        |
+|        fee         |                                                           15 CNY /per                                                            |
+|        date        |                                                        September 1, 2026                                                         |
+
 ## Appendix: SF Express
 
 <font color='red'>Once you create an account for a country, you can't change your region.</font>
