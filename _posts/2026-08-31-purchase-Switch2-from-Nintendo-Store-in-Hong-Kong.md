@@ -27,7 +27,7 @@ To create a Nintendo Account, the following information is required.
 | Gender                      | Choose not to answer  | -                                                                                                             |
 | Country/region of residence | Hong Kong             | Time zone: (UTC+08:00) Asia/Hong Kong                                                                         |
 
-<font color='yellow'>don't forget to deselect advertising and other data usage preferences.</font>
+<font color='orange'>don't forget to deselect advertising and other data usage preferences.</font>
 
 ### select country
 
