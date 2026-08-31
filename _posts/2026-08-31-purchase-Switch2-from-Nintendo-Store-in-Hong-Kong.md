@@ -17,15 +17,15 @@ Purchase Switch2 from Nintendo Store in Hong Kong. Includes registration, orderi
 
 To create a Nintendo Account, the following information is required.
 
-|         form field          |   placeholder text    |                                                     note                                                      |
-|:---------------------------:|:---------------------:|:-------------------------------------------------------------------------------------------------------------:|
-|          Nickname           | 10 characters or less | Note: This will be used in communications from Nintendo. It will not be shown to others without prior notice. |
-|       E-mail address        |    E-mail address     |     *An email address accessible from a PC or web browser is recommended to create your Nintendo Account.     |
-|          Password           | At least 8 characters |                                                                                                               |
-|      Confirm password       | At least 8 characters |                                                                                                               |
-|        Date of birth        |    Year/Month/Day     |                                  *You can't change your date of birth later.                                  |
-|           Gender            | Choose not to answer  |                                                       -                                                       |
-| Country/region of residence |       Hong Kong       |                                     Time zone: (UTC+08:00) Asia/Hong Kong                                     |
+| form field                  | placeholder text      | note                                                                                                          |
+|:----------------------------|:----------------------|:--------------------------------------------------------------------------------------------------------------|
+| Nickname                    | 10 characters or less | Note: This will be used in communications from Nintendo. It will not be shown to others without prior notice. |
+| E-mail address              | E-mail address        | *An email address accessible from a PC or web browser is recommended to create your Nintendo Account.         |
+| Password                    | At least 8 characters |                                                                                                               |
+| Confirm password            | At least 8 characters |                                                                                                               |
+| Date of birth               | Year/Month/Day        | *You can't change your date of birth later.                                                                   |
+| Gender                      | Choose not to answer  | -                                                                                                             |
+| Country/region of residence | Hong Kong             | Time zone: (UTC+08:00) Asia/Hong Kong                                                                         |
 
 <font color='orange'>don't forget to deselect advertising and other data usage preferences.</font>
 
@@ -47,16 +47,16 @@ Timeline:
 
 I placed an order online at the [official website of Nintendo Store in Hong Kong](https://store.nintendo.com.hk/) on August 31, 2026.
 
-|      order       |                                                                                       value                                                                                        |                                                             note                                                              |
-|:----------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------:|
-|        #         |                                                                                  1097531512984924                                                                                  |                                                                                                                               |
-|       date       |                                                                                     2026/8/31                                                                                      |                                                            10:00pm                                                            |
-|   total amount   |                                                                                     HKD 3,450                                                                                      |                                               shipping and handling fees: HKD 0                                               |
+| order            | value                                                                                                                                                                              | note                                                                                                                          |
+|:-----------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------|
+| #                | 1097531512984924                                                                                                                                                                   |                                                                                                                               |
+| date             | 2026/8/31                                                                                                                                                                          | 10:00pm                                                                                                                       |
+| total amount     | HKD 3,450                                                                                                                                                                          | shipping and handling fees: HKD 0                                                                                             |
 | shipping address | SF Express Station, Hin Keng Shopping Centre, Tai Wai <br/> (Shop 203, 1/F, Hin Keng Shopping Centre, 69 Che Kung Temple Road, <br/> Sha Tin District, New Territories, Hong Kong) | 大圍顯徑商場順豐站<br/>(香港新界沙田區沙田車公廟道69號<br/>顯徑邨顯徑商場1樓203號舖^852NBL^ <br/>(852NBL), <br/>沙田區, 新界) |
-|     receiver     |                                                                                        劉生                                                                                        |                                                         Mr. Liu 劉生                                                          |
-|        T:        |                                                                                      61214502                                                                                      |                                                                                                                               |
-| shipping method  |                                                                                順豐速運 SF Express                                                                                 | [SF Express](https://htm.sf-express.com/hk/tc/products_services/Express_Services/Value_added_Services/SF_Retention_Service/)  |
-|  payment method  |                                                                                       Alipay                                                                                       |                                            merchant: Nintendo (Hong Kong) Limited                                             |
+| receiver         | 劉生                                                                                                                                                                               | Mr. Liu 劉生                                                                                                                  |
+| T:               | 61214502                                                                                                                                                                           |                                                                                                                               |
+| shipping method  | 順豐速運 SF Express                                                                                                                                                                | [SF Express](https://htm.sf-express.com/hk/tc/products_services/Express_Services/Value_added_Services/SF_Retention_Service/)  |
+| payment method   | Alipay                                                                                                                                                                             | merchant: Nintendo (Hong Kong) Limited                                                                                        |
 
 See [here](https://www.nintendo.com/hk/hardware/switch/store/index.html) to search for which store you want to pick up your order.
 
@@ -72,14 +72,14 @@ Nintendo Switch 2 is scheduled to begin shipping on September 1, 2026.
 
 ### Endorsement of EEP (Exit and Entry Permit)
 
-|       to-do        |                                                               done                                                               |
-|:------------------:|:--------------------------------------------------------------------------------------------------------------------------------:|
-|    preparation     |                                                     valid physical EEP card                                                      |
-| endorsement method |                                                  automatic endorsement machine                                                   |
-|      location      | self-service area, 1st floor, Tianhe government service center, <br/> Tianhe district, Guangzhou city, Guangdong province, China |
-|        type        |                                        ✅ G: self-service travel <br/> ☑️ L: group travel                                        |
-|        fee         |                                                           15 CNY /per                                                            |
-|        date        |                                                        September 1, 2026                                                         |
+| to-do              | done                                                                                                                             |
+|:-------------------|:---------------------------------------------------------------------------------------------------------------------------------|
+| preparation        | valid physical EEP card                                                                                                          |
+| endorsement method | automatic endorsement machine                                                                                                    |
+| location           | self-service area, 1st floor, Tianhe government service center, <br/> Tianhe district, Guangzhou city, Guangdong province, China |
+| type               | ✅ G: self-service travel <br/> ☑️ L: group travel                                                                               |
+| fee                | 15 CNY /per                                                                                                                      |
+| date               | September 1, 2026                                                                                                                |
 
 ## Appendix: SF Express
 
