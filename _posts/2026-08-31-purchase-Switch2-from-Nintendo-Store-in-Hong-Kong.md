@@ -81,11 +81,24 @@ Nintendo Switch 2 is scheduled to begin shipping on September 1, 2026.
 | fee                | CNY 15.00 /per                                                                                                                                                                 | Bicycle rental fee: CNY 2.80 (28 minutes) |
 | date               | September 1, 2026                                                                                                                                                              | in the morning                            |
 
+### package<sup>*</sup> tracking
+
+| status          | date            | date              | note |
+|:----------------|:----------------|:------------------|:-----|
+| to be delivered | August 31, 2026 | September 2, 2026 |      |
+| in transit      |                 |                   |      |
+| drop-off        |                 |                   |      |
+| to be collected |                 |                   |      |
+| completed       |                 |                   |      |
+
 ## Appendix: SF Express
 
 <font color='red'>Once you create an account for a country, you can't change your region.</font>
 
 Hong Kong might be the best choice if you live in Guangdong, China.
+
+__*__:
+  - package: is a small parcel. 包裹 (A parcel is something wrapped in paper, usually so that it can be sent to someone by post. in AM, usually use package)
 
 ## Reference
 
