@@ -30,9 +30,9 @@ I have just prepared the physical EEP card, and I applied for a new permit in pe
 
 When issuing the endorsement, there are two types of exit endorsements. You can choose from 1. 个人旅游 (G) and 2. 团队旅游 (L).
 
-Address: Tianhe Government Affairs Service Center 1st Floor, Self-service Service Area
+Address: Guangzhou Tianhe Government Affairs Center, self-service center
 
-Fees: 15 RMB /per (Hong Kong) + 15 RMB /per (Macao)
+Fees: CNY 15.00 /per (Hong Kong) + CNY 15.00 /per (Macao)
 
 
 ## Transfer USD from SPDB to BOC
