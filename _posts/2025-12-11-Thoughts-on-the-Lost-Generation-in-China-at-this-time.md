@@ -49,10 +49,11 @@ The only way to change that is to make policy dependent on what people at the bo
 
 However, it is clear that society does not operate according to an individual's will.
 
-As Wuhan writer Fang Fang (方方) once said, a speck of dust in the era can become a mountain when it falls on an individual.
+As a writer named Fang Fang (方方), who lived in Wuhan, once said, a speck of dust in the era can become a mountain when it falls on an individual.
+
 And we happen to live in an era filled with dust and grime.
 
-When the country's economy is in a state of recession, the economic growth of the country is slowed down.
+When the country's economy is in a state of recession<sup>*</sup>, the economic growth of the country is slowed down.
 
 She graduated from Lanzhou University and firmly believed in becoming a better live streamer and earning more money.
 
@@ -67,6 +68,9 @@ Instead, a person will awaken an awareness of what they love to do when there is
 After losing your job, you feel lost for a long time, but this doesn't last forever until you realize:
 
 put something down and pick yourself up.
+
+> __*__:
+>   - recession: is a period when the economy of a country is doing badly, for example because industry is producing less and more people are becoming unemployed. 经济衰退；经济不景气
 
 ## References
 
