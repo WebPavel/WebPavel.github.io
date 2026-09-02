@@ -93,7 +93,7 @@ Nintendo Switch 2 is scheduled to begin shipping on September 1, 2026.
 
 ## Appendix: SF Express
 
-<font color='red'>Once you create an account for a country, you can't change your region.</font>
+<font color='red'>Once you create an account for a country, you can't change your region later.</font>
 
 Hong Kong might be the best choice if you live in Guangdong, China.
 
@@ -105,3 +105,4 @@ __*__:
 - [Nintendo Store](https://store.nintendo.com.hk/)
 - [任天堂(香港)有限公司網站](https://www.nintendo.com/hk/)
 - [店舖一覽 \| Nintendo Switch \| 任天堂香港](https://www.nintendo.com/hk/hardware/switch/store/index.html)
+- [SF Express](https://hk.sf-express.com/hk/en)
