@@ -97,6 +97,38 @@ Nintendo Switch 2 is scheduled to begin shipping on September 1, 2026.
 
 Hong Kong might be the best choice if you live in Guangdong, China.
 
+## Appendix: Hong Kong administrative divisions
+
+Hong Kong is administratively divided into three areas: Hong Kong Island, Kowloon, and the New Territories.
+
+| area             | Chinese | region code | district    | note                                                                                 |
+|:-----------------|:--------|:------------|:------------|:-------------------------------------------------------------------------------------|
+| Hong Kong Island | 香港島  | HK          | 4 districts |                                                                                      |
+| Kowloon          | 九龍    | KLN         | 5 districts |                                                                                      |
+| New Territories  | 新界    | NT          | 9 districts | the largest of the three areas of Hong Kong, alongside Hong Kong Island and Kowloon. |
+
+- Hong Kong Island
+    - Central and Western (中西區)
+    - Eastern (東區)
+    - Southern (南區)
+    - Wan Chai (灣仔區)
+- Kowloon
+    - Kowloon City (九龍城區)
+    - Kwun Tong (觀塘區)
+    - Sham Shui Po (深水埗區)
+    - Wong Tai Sin (黃大仙區)
+    - Yau Tsim Mong (油尖旺區)
+- New Territories
+    - Islands (離島區)
+    - Kwai Tsing (葵青區)
+    - North (北區)
+    - Sai Kung (西貢區)
+    - Sha Tin (沙田區)
+    - Tai Po (大埔區)
+    - Tsuen Wan (荃灣區)
+    - Tuen Mun (屯門區)
+    - Yuen Long (元朗區)
+
 __*__:
   - package: is a small parcel. 包裹 (A parcel is something wrapped in paper, usually so that it can be sent to someone by post. in AM, usually use package)
 
@@ -106,3 +138,4 @@ __*__:
 - [任天堂(香港)有限公司網站](https://www.nintendo.com/hk/)
 - [店舖一覽 \| Nintendo Switch \| 任天堂香港](https://www.nintendo.com/hk/hardware/switch/store/index.html)
 - [SF Express](https://hk.sf-express.com/hk/en)
+- [Hong Kong Fun in 18 Districts](https://www.gohk.gov.hk/en/)
