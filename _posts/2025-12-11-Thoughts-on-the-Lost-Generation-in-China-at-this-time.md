@@ -60,6 +60,13 @@ When she was in the rise phase, she chose to go to university to pursue a master
 
 **Jigglypuff** is such a live streamer.
 
+## More thoughts
+
+Instead, a person will awaken an awareness of what they love to do when there is more free time.
+
+After losing your job, you feel lost for a long time, but this doesn't last forever until you realize:
+
+put something down and pick yourself up.
 
 ## References
 
