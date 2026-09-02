@@ -129,8 +129,8 @@ Hong Kong is administratively divided into three areas: Hong Kong Island, Kowloo
     - Tuen Mun (屯門區)
     - Yuen Long (元朗區)
 
-__*__:
-  - package: is a small parcel. 包裹 (A parcel is something wrapped in paper, usually so that it can be sent to someone by post. in AM, usually use package)
+> __*__:
+>   - package: is a small parcel. 包裹 (A parcel is something wrapped in paper, usually so that it can be sent to someone by post. in AM, usually use package)
 
 ## Reference
 
