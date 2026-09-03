@@ -47,16 +47,17 @@ Timeline:
 
 I placed an order online at the [official website of Nintendo Store in Hong Kong](https://store.nintendo.com.hk/) on August 31, 2026.
 
-| order            | value                                                                                                                                                                              | note                                                                                                                                                              |
-|:-----------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| #                | 1097531512984924                                                                                                                                                                   |                                                                                                                                                                   |
-| date             | 2026/8/31                                                                                                                                                                          | 10:00pm                                                                                                                                                           |
-| total amount     | HKD 3,450                                                                                                                                                                          | shipping and handling fees: HKD 0                                                                                                                                 |
-| shipping address | SF Express Station, Hin Keng Shopping Centre, Tai Wai <br/> (Shop 203, 1/F, Hin Keng Shopping Centre, 69 Che Kung Temple Road, <br/> Sha Tin District, New Territories, Hong Kong) | 大圍顯徑商場順豐站<br/>(香港新界沙田區沙田車公廟道69號<br/>顯徑邨顯徑商場1樓203號舖^852NBL^ <br/>(852NBL), <br/>沙田區, 新界)                                     |
-| receiver         | 劉生                                                                                                                                                                               | Mr. Liu 劉生                                                                                                                                                      |
-| T:               | 61214502                                                                                                                                                                           |                                                                                                                                                                   |
-| shipping method  | 順豐速運 SF Express                                                                                                                                                                | [SF Express](https://htm.sf-express.com/hk/tc/products_services/Express_Services/Value_added_Services/SF_Retention_Service/)                                      |
-| payment method   | Alipay                                                                                                                                                                             | merchant: Nintendo (Hong Kong) Limited. <br/>Original price: CNY 2,975.25 <br/>BOC credit card (ending in 1680) discount: CNY 6.08 <br/>Final price: CNY 2,969.17 |
+| order                          | value                                                                                                                                                                              | note                                                                                                                                                                            |
+|:-------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| #                              | 1097531512984924                                                                                                                                                                   |                                                                                                                                                                                 |
+| date                           | 2026/8/31                                                                                                                                                                          | 10:00pm                                                                                                                                                                         |
+| total amount                   | HKD 3,450                                                                                                                                                                          | shipping and handling fees: HKD 0                                                                                                                                               |
+| shipping address               | SF Express Station, Hin Keng Shopping Centre, Tai Wai <br/> (Shop 203, 1/F, Hin Keng Shopping Centre, 69 Che Kung Temple Road, <br/> Sha Tin District, New Territories, Hong Kong) | 大圍顯徑商場順豐站<br/>(香港新界沙田區沙田車公廟道69號<br/>顯徑邨顯徑商場1樓203號舖^852NBL^ <br/>(852NBL), <br/>沙田區, 新界)                                                   |
+| receiver                       | 劉生                                                                                                                                                                               | Mr. Liu 劉生                                                                                                                                                                    |
+| T:                             | 61214502                                                                                                                                                                           |                                                                                                                                                                                 |
+| shipping method                | 順豐速運 SF Express                                                                                                                                                                | [SF Express](https://htm.sf-express.com/hk/tc/products_services/Express_Services/Value_added_Services/SF_Retention_Service/)                                                    |
+| payment method                 | Alipay                                                                                                                                                                             | merchant: Nintendo (Hong Kong) Limited. <br/>Original price: CNY 2,975.25 <br/>BOC credit card (ending in 1680) discount: CNY 6.08 <br/>Final price: CNY 2,969.17               |
+| tracking number/waybill number | SF5152446574905                                                                                                                                                                    | At 9:06 AM on September 3, 2026, I received an email notification from Nintendo about changes to shipment of my order, which indicated the delivery status and tracking number. |
 
 See [here](https://www.nintendo.com/hk/hardware/switch/store/index.html) to search for which store you want to pick up your order.
 
@@ -83,13 +84,13 @@ Nintendo Switch 2 is scheduled to begin shipping on September 1, 2026.
 
 ### package<sup>*</sup> tracking
 
-| status          | date            | date              | note |
-|:----------------|:----------------|:------------------|:-----|
-| to be delivered | August 31, 2026 | September 2, 2026 |      |
-| in transit      |                 |                   |      |
-| drop-off        |                 |                   |      |
-| to be collected |                 |                   |      |
-| completed       |                 |                   |      |
+| status          | date              | date              | note                                       |
+|:----------------|:------------------|:------------------|:-------------------------------------------|
+| to be delivered | August 31, 2026   | September 2, 2026 | last updated: shipped on September 3, 2026 |
+| in transit      | September 3, 2026 |                   |                                            |
+| drop-off        |                   |                   |                                            |
+| to be collected |                   |                   |                                            |
+| completed       |                   |                   |                                            |
 
 ## Appendix: SF Express
 
