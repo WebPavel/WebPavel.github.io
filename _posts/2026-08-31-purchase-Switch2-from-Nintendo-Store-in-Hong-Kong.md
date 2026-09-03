@@ -84,19 +84,67 @@ Nintendo Switch 2 is scheduled to begin shipping on September 1, 2026.
 
 ### package<sup>*</sup> tracking
 
-| status          | date              | date              | note                                       |
-|:----------------|:------------------|:------------------|:-------------------------------------------|
-| to be delivered | August 31, 2026   | September 2, 2026 | last updated: shipped on September 3, 2026 |
-| in transit      | September 3, 2026 |                   |                                            |
-| drop-off        |                   |                   |                                            |
-| to be collected |                   |                   |                                            |
-| completed       |                   |                   |                                            |
+| status          | date              | date              | note                                                                                     |
+|:----------------|:------------------|:------------------|:-----------------------------------------------------------------------------------------|
+| to be delivered | August 31, 2026   | September 2, 2026 | last updated: shipped on September 3, 2026                                               |
+| in transit      | September 3, 2026 |                   | in transit (estimated arrival: 2026-09-04 18:00) on WeChat ID: SF_Express-HK<sup>*</sup> |
+| drop-off        |                   |                   |                                                                                          |
+| to be collected |                   |                   |                                                                                          |
+| completed       |                   |                   |                                                                                          |
+
+| waybill         | detail              | more                                                                                   |
+|-----------------|---------------------|----------------------------------------------------------------------------------------|
+| bar code        | SF5152446574905     |                                                                                        |
+| destination     | 852NBL              |                                                                                        |
+| from (F)        | Nintendo HK         | 852-35075494 香港新界粉嶺粉嶺                                                          |
+| to (T)          | 劉生                | 61214502 香港沙田區大圍香港沙田區大圍車公廟道69號<br/>顯徑邨顯徑商場1樓203號舖^852NBL^ |
+| actual weight   | 2.5kg               | chargeable weight: 2.5kg                                                               |
+| subcharge       |                     |                                                                                        |
+| Insurance value | HKD3450.00          | Premium: HKD21.0                                                                       |
+| Total charges   | HKD67.0             |                                                                                        |
+| remarks         | none                |                                                                                        |
+| courier         | 007932              |                                                                                        |
+| pick-up time    | 2026-09-03 13:00:24 |                                                                                        |
+
+| shipment status  | time             | detail                                                                                                       |
+|------------------|------------------|--------------------------------------------------------------------------------------------------------------|
+| parcel collected | 2026-09-03 12:58 | the shipment has been collected by SF Express                                                                |
+| in transit       | 2026-09-03 15:42 | shipment loaded at 【粉嶺豐樹物流中心順豐站】, prepare to send to 【Tsing Yi distribution centre】           |
+| in transit       | 2026-09-03 15:42 | the shipment has departed from 【粉嶺豐樹物流中心順豐站】, has been sent to 【Tsing Yi distribution centre】 |
+| in transit       | 2026-09-03 16:41 | the shipment has arrived at 【Tsing Yi distribution centre】                                                 |
 
 ## Appendix: SF Express
 
 <font color='red'>Once you create an account for a country, you can't change your region later.</font>
 
 Hong Kong might be the best choice if you live in Guangdong, China.
+
+timeline:
+
+- Firstly, I searched for SF Express mentioned in Nintendo order shipping on the App Store (US region) on my iPhone and downloaded the only result app named "SF International".
+  After installing the app and registering with Gmail to create an account while keeping the selected country as the default US, I encountered a problem.
+  Since there was no country named "Hong Kong" in the region list, I was unable to switch my location to Hong Kong. Initially, I guessed the reason was that the account wasn't linked to a Hong Kong phone number.
+  However, it still didn't work after I did that.
+- Secondly, I unlinked my Hong Kong phone number and selected Hong Kong as the region to create a new account. I still couldn't find any results for my tracking number.
+- Finally, I contacted SF Hong Kong on WeChat (WeChat ID: SF_Express-HK) and registered with my phone number to have an additional tracking channel.
+  Fortunately, I got the waybill details on WeChat.
+- Note: SF Hong Kong is only available on the App Store (Hong Kong / Macau region). SF International accounts registered with Hong Kong phone numbers only search for overseas shipments.
+
+The SF app is designed for different countries and regions as follows:
+
+| country / region  | exclusive version (separate app)            | International Standard version              | International exclusive version | International Independent version |
+|-------------------|---------------------------------------------|---------------------------------------------|---------------------------------|-----------------------------------|
+| China             | ✅                                          | ❌                                          | ✅                              | ❌                                |
+| Hong Kong / Macau | ✅ (Hong Kong and Macau share the same app) | ❌                                          | ✅                              | ❌                                |
+| Taiwan            | ✅                                          | 🈚️                                          | 🈚️                              | ✅                                |
+| other countries   | ❌                                          | ✅ (all other countries share the same app) | ❌                              | ❌                                |
+
+| version                           | feature                                                                  |
+|-----------------------------------|--------------------------------------------------------------------------|
+| exclusive version                 | only supports domestic shipping queries, including China,Hong Kong/Macau |
+| International Standard version    | supports both domestic and overseas shipping queries                     |
+| International exclusive version   | only supports overseas shipping queries, including China,Hong Kong/Macau |
+| International Independent version | supports both domestic and overseas shipping queries, including Taiwan   |
 
 ## Appendix: Hong Kong administrative divisions
 
@@ -132,6 +180,8 @@ Hong Kong is administratively divided into three areas: Hong Kong Island, Kowloo
 
 > __*__:
 >   - package: is a small parcel. 包裹 (A parcel is something wrapped in paper, usually so that it can be sent to someone by post. in AM, usually use package)
+>   - SF_Express-HK: official account "SF Express" on WeChat. On September 3, 2026, I searched for my package by the waybill number, but there were no search results in the morning.
+>     However, in the afternoon, I had a package to receive from Hong Kong to Sha Tin District.
 
 ## Reference
 
