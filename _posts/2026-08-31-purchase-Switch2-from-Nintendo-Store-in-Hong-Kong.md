@@ -106,12 +106,14 @@ Nintendo Switch 2 is scheduled to begin shipping on September 1, 2026.
 | courier         | 007932              |                                                                                        |
 | pick-up time    | 2026-09-03 13:00:24 |                                                                                        |
 
-| shipment status  | time             | detail                                                                                                       |
-|------------------|------------------|--------------------------------------------------------------------------------------------------------------|
-| parcel collected | 2026-09-03 12:58 | the shipment has been collected by SF Express                                                                |
-| in transit       | 2026-09-03 15:42 | shipment loaded at 【粉嶺豐樹物流中心順豐站】, prepare to send to 【Tsing Yi distribution centre】           |
-| in transit       | 2026-09-03 15:42 | the shipment has departed from 【粉嶺豐樹物流中心順豐站】, has been sent to 【Tsing Yi distribution centre】 |
-| in transit       | 2026-09-03 16:41 | the shipment has arrived at 【Tsing Yi distribution centre】                                                 |
+| shipment status  | time             | detail                                                                                                         |
+|------------------|------------------|----------------------------------------------------------------------------------------------------------------|
+| parcel collected | 2026-09-03 12:58 | the shipment has been collected by SF Express                                                                  |
+| in transit       | 2026-09-03 15:42 | shipment loaded at 【粉嶺豐樹物流中心順豐站】, prepare to send to 【Tsing Yi distribution centre】             |
+| in transit       | 2026-09-03 15:42 | the shipment has departed from 【粉嶺豐樹物流中心順豐站】, has been sent to 【Tsing Yi distribution centre】   |
+| in transit       | 2026-09-03 16:41 | the shipment has arrived at 【Tsing Yi distribution centre】                                                   |
+| in transit       | 2026-09-04 09:03 | shipmen loaded at 【Tsing Yi distribution centre】, prepare to send to 【Hin Keng Estate, Tai Wai】            |
+| in transit       | 2026-09-04 09:03 | the shipment has departed from 【Tsing Yi distribution centre】, has been sent to 【Hin Keng Estate, Tai Wai】 |
 
 ## Appendix: SF Express
 
