@@ -112,7 +112,7 @@ Nintendo Switch 2 is scheduled to begin shipping on September 1, 2026.
 | in transit          | 2026-09-03 15:42 | shipment loaded at 【粉嶺豐樹物流中心順豐站】, prepare to send to 【Tsing Yi distribution centre】                                                                                                                                                           |
 | in transit          | 2026-09-03 15:42 | the shipment has departed from 【粉嶺豐樹物流中心順豐站】, has been sent to 【Tsing Yi distribution centre】                                                                                                                                                 |
 | in transit          | 2026-09-03 16:41 | the shipment has arrived at 【Tsing Yi distribution centre】                                                                                                                                                                                                 |
-| in transit          | 2026-09-04 09:03 | shipmen loaded at 【Tsing Yi distribution centre】, prepare to send to 【Hin Keng Estate, Tai Wai】                                                                                                                                                          |
+| in transit          | 2026-09-04 09:03 | shipmen loaded at 【Tsing Yi distribution centre】, prepare to send to 【Hin Keng Estate<sup>*</sup>, Tai Wai】                                                                                                                                              |
 | in transit          | 2026-09-04 09:03 | the shipment has departed from 【Tsing Yi distribution centre】, has been sent to 【Hin Keng Estate, Tai Wai】                                                                                                                                               |
 | in transit          | 2026-09-04 11:05 | the shipment will arrive at 【Hin Keng Estate, Tai Wai】 soon. Please pick up the shipment after you receive the pickup notification.                                                                                                                        |
 | pending for pick up | 2026-09-04 11:20 | the shipment has arrived at the designated self-pickup location: Shop No. 203, First floor, commercial / car park complex (Wing A of Hin Keng shopping centre), Hin Keng Estate, No. 69 Che Kung Mui Road<sup>*</sup>^, Tai Wai, Sha Tin district, Hong Kong |
@@ -136,7 +136,7 @@ To-do list written before departure:
 | Guangzhou Metro Line 21, Shenzhoulu, Tianhe Park        | CNY 4.00  | HSBC HK Mastercard debit |                                                                                                                                             |
 | intercity bus from Guangzhou to Shenzhen                | CNY 13.80 | WeChat mini program      | boarding point: Yuangong 1965, Exit B, Tianhe Park Metro Station <br/> drop-off point: Grand Theater West Gate 2                            |
 | Shenzhen Metro Line 1, Grand Theater, Luohu             | CNY 1.90  | Shenzhen transit card    |                                                                                                                                             |
-| Club Sim: Local Data Service pack                       | HKD 28.00 | AlipayHK                 |                                                                                                                                             |
+| Club Sim: Local Data Service pack                       | HKD 28.00 | AlipayHK                 | CIB universal life Mastercard credit card (ending in 4080)                                                                                  |
 | East Rail Line, Lo Wu, Hin Keng                         | HKD 33.00 | Octopus                  |                                                                                                                                             |
 | lunch near the courier point                            | HKD 61.00 | cash                     | curry chicken rice, iced lemon tea (凍檸茶)                                                                                                 |
 | East Rail Line, Hin Keng, Tai Wai                       | HKD 4.00  | Octopus                  | Nintendo store nsew in Tai Wai                                                                                                              |
@@ -214,6 +214,8 @@ Hong Kong is administratively divided into three areas: Hong Kong Island, Kowloo
 >   - package: is a small parcel. 包裹 (A parcel is something wrapped in paper, usually so that it can be sent to someone by post. in AM, usually use package)
 >   - SF_Express-HK: official account "SF Express" on WeChat. On September 3, 2026, I searched for my package by the waybill number, but there were no search results in the morning.
 >     However, in the afternoon, I had a package to receive from Hong Kong to Sha Tin District.
+>   - estate: a large area of land in the country which is owned by a person, family, or organization. 庄园；地产；大片私有土地<br/>
+>     all the money and property that they leave behind them when someone die. 遗产
 >   - CITIC: 中国国际信托投资公司, China international trust and investment corporation.
 
 ## Reference
