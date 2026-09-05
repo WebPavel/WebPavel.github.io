@@ -61,7 +61,7 @@ I placed an order online at the [official website of Nintendo Store in Hong Kong
 
 See [here](https://www.nintendo.com/hk/hardware/switch/store/index.html) to search for which store you want to pick up your order.
 
-I prefer featured stores, such as nsew (The Wai, located at Shop 314, 3/F, Wai Fong, 18 Che Kung Temple Road, Sha Tin District, New Territories, Hong Kong 香港新界沙田區車公廟路18號 圍方 3樓314號舖).
+I prefer featured stores, such as nsew (Tai Wai, located at Shop 314, 3/F, Wai Fong, 18 Che Kung Temple Road, Sha Tin District, New Territories, Hong Kong 香港新界沙田區車公廟路18號 圍方 3樓314號舖).
 
 ## pick up
 
@@ -84,13 +84,13 @@ Nintendo Switch 2 is scheduled to begin shipping on September 1, 2026.
 
 ### package<sup>*</sup> tracking
 
-| status          | date              | date              | note                                                                                     |
-|:----------------|:------------------|:------------------|:-----------------------------------------------------------------------------------------|
-| to be delivered | August 31, 2026   | September 2, 2026 | last updated: shipped on September 3, 2026                                               |
-| in transit      | September 3, 2026 |                   | in transit (estimated arrival: 2026-09-04 18:00) on WeChat ID: SF_Express-HK<sup>*</sup> |
-| drop-off        |                   |                   |                                                                                          |
-| to be collected |                   |                   |                                                                                          |
-| completed       |                   |                   |                                                                                          |
+| status          | date              | date              | note                                                                                                                                               |
+|:----------------|:------------------|:------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------|
+| to be delivered | August 31, 2026   | September 2, 2026 | last updated: shipped on September 3, 2026                                                                                                         |
+| in transit      | September 3, 2026 | September 4, 2026 | in transit (estimated arrival: 2026-09-04 18:00) on WeChat ID: SF_Express-HK<sup>*</sup>                                                           |
+| drop-off        | September 4, 2026 | September 4, 2026 | soon-to-receive notice                                                                                                                             |
+| to be collected | September 4, 2026 | September 4, 2026 | [📦pickup notification!] please pick up in 2 days. **When self-picking up the parcel at the SF store, present the pickup QR code on the SFHK app** |
+| completed       | September 4, 2026 | September 4, 2026 | acknowledge of receipt. Delivered time: 2026-09-04 15:19                                                                                           |
 
 | waybill         | detail              | more                                                                                   |
 |-----------------|---------------------|----------------------------------------------------------------------------------------|
@@ -106,14 +106,44 @@ Nintendo Switch 2 is scheduled to begin shipping on September 1, 2026.
 | courier         | 007932              |                                                                                        |
 | pick-up time    | 2026-09-03 13:00:24 |                                                                                        |
 
-| shipment status  | time             | detail                                                                                                         |
-|------------------|------------------|----------------------------------------------------------------------------------------------------------------|
-| parcel collected | 2026-09-03 12:58 | the shipment has been collected by SF Express                                                                  |
-| in transit       | 2026-09-03 15:42 | shipment loaded at 【粉嶺豐樹物流中心順豐站】, prepare to send to 【Tsing Yi distribution centre】             |
-| in transit       | 2026-09-03 15:42 | the shipment has departed from 【粉嶺豐樹物流中心順豐站】, has been sent to 【Tsing Yi distribution centre】   |
-| in transit       | 2026-09-03 16:41 | the shipment has arrived at 【Tsing Yi distribution centre】                                                   |
-| in transit       | 2026-09-04 09:03 | shipmen loaded at 【Tsing Yi distribution centre】, prepare to send to 【Hin Keng Estate, Tai Wai】            |
-| in transit       | 2026-09-04 09:03 | the shipment has departed from 【Tsing Yi distribution centre】, has been sent to 【Hin Keng Estate, Tai Wai】 |
+| shipment status     | time             | detail                                                                                                                                                                                                                                                       |
+|---------------------|------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| parcel collected    | 2026-09-03 12:58 | the shipment has been collected by SF Express                                                                                                                                                                                                                |
+| in transit          | 2026-09-03 15:42 | shipment loaded at 【粉嶺豐樹物流中心順豐站】, prepare to send to 【Tsing Yi distribution centre】                                                                                                                                                           |
+| in transit          | 2026-09-03 15:42 | the shipment has departed from 【粉嶺豐樹物流中心順豐站】, has been sent to 【Tsing Yi distribution centre】                                                                                                                                                 |
+| in transit          | 2026-09-03 16:41 | the shipment has arrived at 【Tsing Yi distribution centre】                                                                                                                                                                                                 |
+| in transit          | 2026-09-04 09:03 | shipmen loaded at 【Tsing Yi distribution centre】, prepare to send to 【Hin Keng Estate, Tai Wai】                                                                                                                                                          |
+| in transit          | 2026-09-04 09:03 | the shipment has departed from 【Tsing Yi distribution centre】, has been sent to 【Hin Keng Estate, Tai Wai】                                                                                                                                               |
+| in transit          | 2026-09-04 11:05 | the shipment will arrive at 【Hin Keng Estate, Tai Wai】 soon. Please pick up the shipment after you receive the pickup notification.                                                                                                                        |
+| pending for pick up | 2026-09-04 11:20 | the shipment has arrived at the designated self-pickup location: Shop No. 203, First floor, commercial / car park complex (Wing A of Hin Keng shopping centre), Hin Keng Estate, No. 69 Che Kung Mui Road<sup>*</sup>^, Tai Wai, Sha Tin district, Hong Kong |
+| delivering          | 2026-09-04 15:19 | the shipment has been handed over to and is being delivered by 陳嘉熙 (contact number: 64635026. Please answer the call at ease as your privacy is properly protected by "safety call"!)                                                                     |
+| customer sign-off   | 2026-09-04 15:19 | your shipment has been signed off by the receiver. thank you for using SF Express. look forward to serving you again                                                                                                                                         |
+
+### self-pick up
+
+To-do list written before departure:
+
+- [x] turn off LINE games and news after connecting to Hong Kong internet <br/> tried but failed
+- [x] open mobile banking app to update personal contact address
+- [ ] HK$50 voucher (no minimum spend) at Sha Tin Plaza. (Alipay) <br/> out of charge, canceled
+- [x] buy a t-shirt at the Uniqlo JoyCity branch
+- [x] inquire about Overcooked! game cartridge prices at the Nintendo Store (nsew) in Tai Wai, Sha Tin. <br/> keep the original price
+
+| a trip from Guangzhou to Shenzhen                       | fee       | payment method           | note                                                                                                                                        |
+|---------------------------------------------------------|-----------|--------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| Guangzhou Metro Line 21, Tianhe Smart City, Shenzhoulu  | CNY 2.00  | HSBC HK Mastercard debit |                                                                                                                                             |
+| Uniqlo t-shirt                                          | CNY 39.00 | Alipay                   | Uniqlo JoyCity branch, Kexue Avenue, Huangpu district                                                                                       |
+| Guangzhou Metro Line 21, Shenzhoulu, Tianhe Park        | CNY 4.00  | HSBC HK Mastercard debit |                                                                                                                                             |
+| intercity bus from Guangzhou to Shenzhen                | CNY 13.80 | WeChat mini program      | boarding point: Yuangong 1965, Exit B, Tianhe Park Metro Station <br/> drop-off point: Grand Theater West Gate 2                            |
+| Shenzhen Metro Line 1, Grand Theater, Luohu             | CNY 1.90  | Shenzhen transit card    |                                                                                                                                             |
+| Club Sim: Local Data Service pack                       | HKD 28.00 | AlipayHK                 |                                                                                                                                             |
+| East Rail Line, Lo Wu, Hin Keng                         | HKD 33.00 | Octopus                  |                                                                                                                                             |
+| lunch near the courier point                            | HKD 61.00 | cash                     | curry chicken rice, iced lemon tea (凍檸茶)                                                                                                 |
+| East Rail Line, Hin Keng, Tai Wai                       | HKD 4.00  | Octopus                  | Nintendo store nsew in Tai Wai                                                                                                              |
+| East Rail Line, Tai Wai, Lo Wu                          | HKD 33.00 | Octopus                  |                                                                                                                                             |
+| Shenzhen Metro Line 1, Luohu, Xixiang                   | CNY 6.65  | Shenzhen transit card    |                                                                                                                                             |
+| intercity bus from Shenzhen to Guangzhou                | CNY 13.80 | WeChat mini program      | boarding point: in front of CITIC<sup>*</sup> Bank, Exit D, Xixiang Metro Station,  <br/> drop-off point: Exit B, Tianhe Park Metro Station |
+| Guangzhou Metro Line 21, Tianhe Park, Tianhe Smart City | CNY 3.00  | HSBC HK Mastercard debit |                                                                                                                                             |
 
 ## Appendix: SF Express
 
@@ -184,6 +214,7 @@ Hong Kong is administratively divided into three areas: Hong Kong Island, Kowloo
 >   - package: is a small parcel. 包裹 (A parcel is something wrapped in paper, usually so that it can be sent to someone by post. in AM, usually use package)
 >   - SF_Express-HK: official account "SF Express" on WeChat. On September 3, 2026, I searched for my package by the waybill number, but there were no search results in the morning.
 >     However, in the afternoon, I had a package to receive from Hong Kong to Sha Tin District.
+>   - CITIC: 中国国际信托投资公司, China international trust and investment corporation.
 
 ## Reference
 
