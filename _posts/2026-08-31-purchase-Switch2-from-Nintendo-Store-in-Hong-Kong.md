@@ -129,21 +129,23 @@ To-do list written before departure:
 - [x] buy a t-shirt at the Uniqlo JoyCity branch
 - [x] inquire about Overcooked! game cartridge prices at the Nintendo Store (nsew) in Tai Wai, Sha Tin. <br/> keep the original price
 
-| a trip from Guangzhou to Shenzhen                       | fee       | payment method           | note                                                                                                                                        |
-|---------------------------------------------------------|-----------|--------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-| Guangzhou Metro Line 21, Tianhe Smart City, Shenzhoulu  | CNY 2.00  | HSBC HK Mastercard debit |                                                                                                                                             |
-| Uniqlo t-shirt                                          | CNY 39.00 | Alipay                   | Uniqlo JoyCity branch, Kexue Avenue, Huangpu district                                                                                       |
-| Guangzhou Metro Line 21, Shenzhoulu, Tianhe Park        | CNY 4.00  | HSBC HK Mastercard debit |                                                                                                                                             |
-| intercity bus from Guangzhou to Shenzhen                | CNY 13.80 | WeChat mini program      | boarding point: Yuangong 1965, Exit B, Tianhe Park Metro Station <br/> drop-off point: Grand Theater West Gate 2                            |
-| Shenzhen Metro Line 1, Grand Theater, Luohu             | CNY 1.90  | Shenzhen transit card    |                                                                                                                                             |
-| Club Sim: Local Data Service pack                       | HKD 28.00 | AlipayHK                 | CIB universal life Mastercard credit card (ending in 4080)                                                                                  |
-| East Rail Line, Lo Wu, Hin Keng                         | HKD 33.00 | Octopus                  |                                                                                                                                             |
-| lunch near the courier point                            | HKD 61.00 | cash                     | curry chicken rice, iced lemon tea (凍檸茶)                                                                                                 |
-| East Rail Line, Hin Keng, Tai Wai                       | HKD 4.00  | Octopus                  | Nintendo store nsew in Tai Wai                                                                                                              |
-| East Rail Line, Tai Wai, Lo Wu                          | HKD 33.00 | Octopus                  |                                                                                                                                             |
-| Shenzhen Metro Line 1, Luohu, Xixiang                   | CNY 6.65  | Shenzhen transit card    |                                                                                                                                             |
-| intercity bus from Shenzhen to Guangzhou                | CNY 13.80 | WeChat mini program      | boarding point: in front of CITIC<sup>*</sup> Bank, Exit D, Xixiang Metro Station,  <br/> drop-off point: Exit B, Tianhe Park Metro Station |
-| Guangzhou Metro Line 21, Tianhe Park, Tianhe Smart City | CNY 3.00  | HSBC HK Mastercard debit |                                                                                                                                             |
+| a trip from Guangzhou to Shenzhen                       | fee       | payment method           | note                                                                                                                                                                                              |
+|---------------------------------------------------------|-----------|--------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Guangzhou Metro Line 21, Tianhe Smart City, Shenzhoulu  | CNY 2.00  | HSBC HK Mastercard debit |                                                                                                                                                                                                   |
+| Uniqlo t-shirt                                          | CNY 39.00 | Alipay                   | Uniqlo JoyCity branch, Kexue Avenue, Huangpu district. unisex<sup>*</sup> "BLUE LOCK" UT (short sleeve<sup>*</sup> graphic t-shirt)<br/>color: 03 gray<br/>size: M<br/>material: 100% cotton<br/> |
+| Guangzhou Metro Line 21, Shenzhoulu, Tianhe Park        | CNY 4.00  | HSBC HK Mastercard debit |                                                                                                                                                                                                   |
+| intercity bus from Guangzhou to Shenzhen                | CNY 13.80 | WeChat mini program      | boarding point: Yuangong 1965, Exit B, Tianhe Park Metro Station <br/> drop-off point: Grand Theater West Gate 2                                                                                  |
+| Shenzhen Metro Line 1, Grand Theater, Luohu             | CNY 1.90  | Shenzhen transit card    |                                                                                                                                                                                                   |
+| Club Sim: Local Data Service pack                       | HKD 28.00 | AlipayHK                 | CIB universal life Mastercard credit card (ending in 4080)                                                                                                                                        |
+| East Rail Line, Lo Wu, Hin Keng                         | HKD 33.00 | Octopus                  |                                                                                                                                                                                                   |
+| lunch near the courier point                            | HKD 61.00 | cash                     | curry chicken rice, iced lemon tea (凍檸茶)                                                                                                                                                       |
+| East Rail Line, Hin Keng, Tai Wai                       | HKD 4.00  | Octopus                  | Nintendo store nsew in Tai Wai                                                                                                                                                                    |
+| East Rail Line, Tai Wai, Lo Wu                          | HKD 33.00 | Octopus                  |                                                                                                                                                                                                   |
+| Shenzhen Metro Line 1, Luohu, Xixiang                   | CNY 6.65  | Shenzhen transit card    |                                                                                                                                                                                                   |
+| intercity bus from Shenzhen to Guangzhou                | CNY 13.80 | WeChat mini program      | boarding point: in front of CITIC<sup>*</sup> Bank, Exit D, Xixiang Metro Station,  <br/> drop-off point: Exit B, Tianhe Park Metro Station                                                       |
+| Guangzhou Metro Line 21, Tianhe Park, Tianhe Smart City | CNY 3.00  | HSBC HK Mastercard debit |                                                                                                                                                                                                   |
+
+Total: HKD 3450.00 plus CNY 101.95 plus HKD 159.00 (including Nintendo console, endorsement fee, and travel expenses). Given this complicated<sup>*</sup> process, would you rather order directly from JD.com?
 
 ## Appendix: SF Express
 
@@ -216,12 +218,17 @@ Hong Kong is administratively divided into three areas: Hong Kong Island, Kowloo
 >     However, in the afternoon, I had a package to receive from Hong Kong to Sha Tin District.
 >   - estate: a large area of land in the country which is owned by a person, family, or organization. 庄园；地产；大片私有土地<br/>
 >     all the money and property that they leave behind them when someone die. 遗产
+>   - unisex: is used to describe things, usually clothes or places, which are designed for use by both men and women rather than by only one sex. 不分男女的；男女通用的
+>   - sleeve: of a coat, shirt, or other item of clothing are the parts that cover your arms. 袖子
 >   - CITIC: 中国国际信托投资公司, China international trust and investment corporation.
+>   - complicate: make something more difficult to understand or deal with. 使难以理解；使复杂化
 
 ## Reference
 
 - [Nintendo Store](https://store.nintendo.com.hk/)
 - [任天堂(香港)有限公司網站](https://www.nintendo.com/hk/)
+- [有關Nintendo Switch 2的建議售價變更](https://www.nintendo.com.hk/support/releasenotes/2026-06-29)
 - [店舖一覽 \| Nintendo Switch \| 任天堂香港](https://www.nintendo.com/hk/hardware/switch/store/index.html)
 - [SF Express](https://hk.sf-express.com/hk/en)
 - [Hong Kong Fun in 18 Districts](https://www.gohk.gov.hk/en/)
+- [UT Collections](https://www.uniqlo.com.hk/en_GB/ut.html)
