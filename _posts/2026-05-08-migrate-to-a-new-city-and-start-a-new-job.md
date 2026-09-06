@@ -43,9 +43,11 @@ Are there any hardware<sup>*</sup> stores nearby?
 
 Are there any telecommunications service providers nearby?
 
-Are there any libraries nearby (optional)?
+Are there any libraries nearby? (optional)
 
-Are there any sports hall nearby?
+Are there any sports halls nearby?
+
+Are there any banks nearby? (optional)
 
 ## Transport
 
@@ -55,7 +57,7 @@ Is the rented house far from the Metro/MRT(Mass Rapid Transit)/MTR(Mass Transit 
 
 Is it close to major public transportation hubs, such as railway stations, highways, expressways?
 
-Are there any bus stops nearby (optional)?
+Are there any bus stops nearby? (optional)
 
 ## Eating
 
