@@ -11,24 +11,25 @@ comments: true
 
 ## playing games
 
-|            title            |             co-op             |      date       |                           official website                           | platform/channel  |                                                                                    download                                                                                     |  continuation   |
-|:---------------------------:|:-----------------------------:|:---------------:|:--------------------------------------------------------------------:|:-----------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------:|
-|         How to Fish         | @eat1025 @mmgeneral @abbby156 | August 23, 2026 |                 [Dazed Games](https://dazed.games/)                  |   Windows/Steam   |                                                        [Steam](https://store.steampowered.com/app/4001890/How_to_Fish/)                                                         | August 30, 2026 |
-| Overcooked! All You Can Eat |      @eat1025 @mmgeneral      | August 25, 2026 | [Ghost Town Games](https://ghosttowngames.com/game/overcooked-ayce/) | Nintendo Switch 2 | [Steam](https://store.steampowered.com/app/1243830/Overcooked_All_You_Can_Eat/) <br/> [Nintendo](https://www.nintendo.com/us/store/products/overcooked-all-you-can-eat-switch/) |        /        |
-|       Sort Them Ducks       |           @eat1025            | August 29, 2026 |                                  -                                   |   Windows/Steam   |                                                      [Steam](https://store.steampowered.com/app/4992070/Sort_Them_Ducks/)                                                       |        /        |
+| title                       | co-op                         | date            | official website                                                     | platform/channel  | download                                                                                                                                                                      | continuation    |
+|-----------------------------|-------------------------------|-----------------|----------------------------------------------------------------------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| How to Fish                 | @eat1025 @mmgeneral @abbby156 | August 23, 2026 | [Dazed Games](https://dazed.games/)                                  | Windows/Steam     | [Steam](https://store.steampowered.com/app/4001890/How_to_Fish/)                                                                                                              | August 30, 2026 |
+| Overcooked! All You Can Eat | @eat1025 @mmgeneral           | August 25, 2026 | [Ghost Town Games](https://ghosttowngames.com/game/overcooked-ayce/) | Nintendo Switch 2 | [Steam](https://store.steampowered.com/app/1243830/Overcooked_All_You_Can_Eat/)<br/>[Nintendo](https://www.nintendo.com/us/store/products/overcooked-all-you-can-eat-switch/) | /               |
+| Sort Them Ducks             | @eat1025                      | August 29, 2026 | -                                                                    | Windows/Steam     | [Steam](https://store.steampowered.com/app/4992070/Sort_Them_Ducks/)                                                                                                          | /               |
 
 ## outdoors
 
 ### Taiwan
 
-|                                    place                                    |        co-op        |      date       | category<sup>*</sup> |  rating  |                                                                     keywords                                                                     |                     situation                     |
-|:---------------------------------------------------------------------------:|:-------------------:|:---------------:|:--------------------:|:--------:|:------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------:|
-|                              garden city 遠東                               |     @mmgeneral      | August 23, 2026 |         1,2          |   5/5    |                                                         @garden city @大巨蛋 @東引快刀手                                                         |                 @meeting @dating                  |
-|                       Fuxing Congee 福星廣東粥蛤蜊麵                        |     @mmgeneral      | August 24, 2026 |          1           |  6.5/10  |                                                               @Noodles with Clams                                                                |                    @restaurant                    |
-|                            Honhui Plaza 宏匯廣場                            |      @eat1025       | August 25, 2026 |         1,4          | Michelin |                                                         @handmade cake @nara<sup>*</sup>                                                         |               @handmade @restaurant               |
-|                 a flat, Xinzhuang District, New Taipei City                 | @eat1025 @mmgeneral | August 25, 2026 |          5           |    -     |                                                          @lottery @nara @Overcooked 2!                                                           |                    @gathering                     |
-| Yonghe Lehua Night Market 永和樂華夜市<sup><font color='red'>v</font></sup> |     @mmgeneral      | August 27, 2026 |         1,6          | Michelin |               @Lehua three delicacies<sup>*</sup> soup 樂華三鮮羹 @A-ba's Taro Ball 阿爸の芋圓 @lottery @shopping @catch me 夾子園               |          @tour @restaurant @claw machine          |
-|         Section 1, Kaifeng Street, Zhongzheng District, Taipei City         |     @mmgeneral      | August 31, 2026 |         1,6          |          | @Liang Pin beef noodles 良品牛肉麵 @Ruyi sunny cake 如邑堂 @Ximending 西門町 @payphone<sup>*</sup> @hold hands<sup>*</sup> @DonDonDonki 唐吉訶德 | @tour @restaurant @Taipei main station (台北車站) |
+| place                                                                                           | co-op               | date              | category<sup>*</sup> | rating           | keywords                                                                                                                                         | situation                                         |
+|-------------------------------------------------------------------------------------------------|---------------------|-------------------|----------------------|------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|
+| garden city 遠東                                                                                | @mmgeneral          | August 23, 2026   | 1,2                  | 5/5              | @garden city @大巨蛋 @東引快刀手                                                                                                                 | @meeting @dating                                  |
+| Fuxing Congee 福星廣東粥蛤蜊麵                                                                  | @mmgeneral          | August 24, 2026   | 1                    | 6.5/10           | @Noodles with Clams                                                                                                                              | @restaurant                                       |
+| Honhui Plaza 宏匯廣場                                                                           | @eat1025            | August 25, 2026   | 1,4                  | Michelin         | @handmade cake @nara<sup>*</sup>                                                                                                                 | @handmade @restaurant                             |
+| a flat, Xinzhuang District, New Taipei City                                                     | @eat1025 @mmgeneral | August 25, 2026   | 5                    | -                | @lottery @nara @Overcooked 2!                                                                                                                    | @gathering                                        |
+| Yonghe Lehua Night Market 永和樂華夜市<sup><font color='red'>v</font></sup>                     | @mmgeneral          | August 27, 2026   | 1,6                  | Michelin         | @Lehua three delicacies<sup>*</sup> soup 樂華三鮮羹 @A-ba's Taro Ball 阿爸の芋圓 @lottery @shopping @catch me 夾子園                             | @tour @restaurant @claw machine                   |
+| Section 1, Kaifeng Street, Zhongzheng District, Taipei City                                     | @mmgeneral          | August 31, 2026   | 1,6                  |                  | @Liang Pin beef noodles 良品牛肉麵 @Ruyi sunny cake 如邑堂 @Ximending 西門町 @payphone<sup>*</sup> @hold hands<sup>*</sup> @DonDonDonki 唐吉訶德 | @tour @restaurant @Taipei main station (台北車站) |
+| Qingguang market, Zhongshan district, Taipei city 晴光市場<sup><font color='red'>v</font></sup> | @mmgeneral          | September 4, 2026 | 1                    | Michelin, 6.5/10 | @HuangJi braised<sup>*</sup> pork rice 黃記魯肉飯 @Tatung university 大同大學 @lottery                                                           | @restaurant                                       |
 
 > __*__:
 > - category: 1=restaurant, 2=exhibition, 3=show, 4=handmade, 5=gathering, 6=tour
@@ -37,6 +38,7 @@ comments: true
 > - delicacies: the plural of 'delicacy' (delicacy 的复数形式), 来自德语，熟食店，英语在非正式场合缩写成 deli；美味佳肴；珍馐 (A delicacy is a rare or expensive food that is considered especially nice to eat)
 > - payphone: a telephone which you need to put coins or a card in before you can make a call. Payphones are usually in public places. （投幣或插卡式）付費公用電話
 > - hold hands: how men and women hold hands. For men: left hand on top; for women: right hand on top
+> - braise: when you braise meat or a vegetable, you fry it quickly and then cook it slowly in a covered with a small amount of liquid. 焖；炖
 >
 > __<font color='red'>v</font>__: missed the live stream, watch the recorded video.
 
@@ -46,18 +48,18 @@ comments: true
 
 ### About hand-shaken drinks
 
-|                       brand                        | Chinese |                                         recommendation                                          |
-|:--------------------------------------------------:|:-------:|:-----------------------------------------------------------------------------------------------:|
-|                       50 Lan                       |  50嵐   |                             四季春青茶 Light Oolong Tea /NT\$40 (L)                             |
-|                    Unique Green                    |   UG    | UG奶茶-三窨<sup>*</sup>十五茉·奶茶 <br/> Rich Milk Tea: Fifteen Jasmine Flowers Tea /NT\$75 (L) |
-|        [DaYungs](https://www.dayungs.com/)         | 大苑子  |                                                                                                 |
-| [Chun Shui Tang](https://www.chunshuitang.com.tw/) | 春水堂  |                                                                                                 |
-|      [Daming](https://www.damingtea.com.tw/)       |  大茗   |                            玉露青茶 Taiwanese Ching Tea /NT\$40 (L)                             |
+| brand                                              | Chinese | recommendation                                                                                |
+|----------------------------------------------------|---------|-----------------------------------------------------------------------------------------------|
+| 50 Lan                                             | 50嵐    | 四季春青茶 Light Oolong Tea /NT\$40 (L)                                                       |
+| Unique Green                                       | UG      | UG奶茶-三窨<sup>*</sup>十五茉·奶茶<br/>Rich Milk Tea: Fifteen Jasmine Flowers Tea /NT\$75 (L) |
+| [DaYungs](https://www.dayungs.com/)                | 大苑子  |                                                                                               |
+| [Chun Shui Tang](https://www.chunshuitang.com.tw/) | 春水堂  |                                                                                               |
+| [Daming](https://www.damingtea.com.tw/)            | 大茗    | 玉露青茶 Taiwanese Ching Tea /NT\$40 (L)                                                      |
 
 > [!TIP]
-> Hello, I'd like a large (L)/medium (M) cup of oolong tea,
-> with normal sugar/less sugar/half sugar/light sugar/no sugar,
-> and normal ice/extra ice/less ice/light ice/no ice/room temperature/warm/hot. Thank you.
+> Hello, I'd like a large (L) / medium (M) cup of oolong tea,
+> with normal sugar / less sugar / half sugar / light sugar / no sugar,
+> and normal ice / extra ice / less ice / light ice / no ice / room temperature / warm / hot. Thank you.
 >
 > 你好，我想要一杯大杯（L）/中杯（M）烏龍茶，正常糖/少糖（70%）/半糖（50%）/微糖（25%）/無糖、正常冰/多冰/少冰/微冰/去冰/常溫/溫的/熱的，謝謝。
 >
@@ -68,13 +70,22 @@ comments: true
 
 ### About Taiwan Snacks
 
-|           name            | Chinese |                             image                              |        category        |
-|:-------------------------:|:-------:|:--------------------------------------------------------------:|:----------------------:|
-| twisted dough<sup>*</sup> | 雙胞胎  | ![twisted-dough-p1_07.png](/assets/tw/twisted-dough-p1_07.png) | sweet, deep fry (油炸) |
+| name                      | Chinese         | image                                                                                                                                                                                                                           | category               |
+|---------------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|
+| twisted dough<sup>*</sup> | 雙胞胎          | ![twisted-dough-p1_07.png](/assets/tw/twisted-dough-p1_07.png)<!-- https://www.ytower.com.tw/prj/prj_339/images/p1_07.jpg -->                                                                                                   | sweet, deep fry (油炸) |
+| Taiwan beer               | 台灣 🇹🇼 啤酒 🍺 | ![TaiwanBeer-GoldMedal-dc34f1890bdca25aa30a968416e1b3fe.png](/assets/tw/TaiwanBeer-GoldMedal-dc34f1890bdca25aa30a968416e1b3fe.png)<!-- https://www.twbeer.com.tw/image/Adlist/20250917/dc34f1890bdca25aa30a968416e1b3fe.jpg --> | beer                   |
 
 > __*__:
 >   - twist: if you twist something, you turn it to make a spiral (螺旋) shape, 扭；拧；搓；捻
 >   - dough: it can be cooked to make bread, 生面团
+
+### About Taiwan transportation
+
+| transportation          | method       | feature                | website                                  |
+|-------------------------|--------------|------------------------|------------------------------------------|
+| cycling                 | YouBike      | bicycle rental service | <https://en.youbike.com.tw/region/main/> |
+| MRT(Mass Rapid Transit) | Metro Taipei | Easy Wallet 悠遊付     | <https://english.metro.taipei/>          |
+| bus                     | Taipei eBus  | Easy Wallet 悠遊付     | <https://ebus.gov.taipei/Dybus.aspx>     |
 
 ## Reference
 
@@ -86,3 +97,9 @@ comments: true
 - [Ruyi sunny cake](https://www.ruyi-sunnycake.com.tw/en-us)
 - [Ximending](https://www.ximen.com.tw/index.html)
 - [Don Quijote](https://www.donki.com/en/)
+- [Taipei Travel](https://www.travel.taipei)
+- [MICHELIN Restaurants – The MICHELIN Guide](https://guide.michelin.com/tw/en/restaurants)
+- [Taiwan Beer](https://www.twbeer.com.tw/)
+- [Tatung University](https://ttu.edu.tw/)
+- [Shih Hsin University](https://www.shu.edu.tw/)
+- [EasyCard](https://www.easycard.com.tw/)
