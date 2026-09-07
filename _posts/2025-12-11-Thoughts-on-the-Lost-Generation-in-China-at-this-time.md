@@ -69,8 +69,20 @@ After losing your job, you feel lost for a long time, but this doesn't last fore
 
 put something down and pick yourself up.
 
+### A stolen day
+
+I woke up at 5:00 AM and sat in the front of the computer until 4:00 PM. I felt so sleepy that<sup>*</sup> I went to bed.
+
+At 11:45 PM, I ate my dinner<sup>*</sup> out. I felt like my time today had been stolen by an unknown person.
+
+This situation reminded me of a work schedule where you work from 9:00 AM to 9:00 PM, six days a week. There's no time to rest properly.
+
+I had a dream about my mother. In the dream, I cried whenever someone mentioned my mother to me.
+
 > __*__:
 >   - recession: is a period when the economy of a country is doing badly, for example because industry is producing less and more people are becoming unemployed. 经济衰退；经济不景气
+>   - so ... that: emphasize the degree of something by mentioning the result or consequence of it. 如此...(以致...)；到...的程度(以致...)
+>   - eat dinner: have dinner, 吃晚饭
 
 ## References
 
