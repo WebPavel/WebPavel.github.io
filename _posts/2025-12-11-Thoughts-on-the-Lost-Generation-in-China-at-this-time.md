@@ -80,9 +80,9 @@ This situation reminded me of a work schedule where you work from 9:00 AM to 9:0
 I had a dream about my mother. In the dream, I cried whenever someone mentioned my mother to me.
 
 > __*__:
->   - recession: is a period when the economy of a country is doing badly, for example because industry is producing less and more people are becoming unemployed. 经济衰退；经济不景气
->   - so ... that: emphasize the degree of something by mentioning the result or consequence of it. 如此...(以致...)；到...的程度(以致...)
->   - eat dinner: have dinner, 吃晚饭
+> - recession: is a period when the economy of a country is doing badly, for example because industry is producing less and more people are becoming unemployed. 经济衰退；经济不景气
+> - so ... that: emphasize the degree of something by mentioning the result or consequence of it. 如此...(以致...)；到...的程度(以致...)
+> - eat dinner: have dinner, 吃晚饭
 
 ## References
 
