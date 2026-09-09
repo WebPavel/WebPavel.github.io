@@ -39,13 +39,13 @@ by [editing profile](https://accounts.nintendo.com/profile/edit) to change your 
 Timeline:
 
 - When filling out the form, I initially selected Taiwan for the region field.
-- However, when redirected to the [official website of Nintendo Store in Hong Kong](https://store.nintendo.com.hk/), the page indicated "invalid country",
+- However, when redirected to the official website of [Nintendo Store](https://store.nintendo.com.hk/) in Hong Kong, the page indicated "invalid country",
   and advised to [change region](https://www.nintendo.com/region-selector/).
 - Finally, I decided to change my region to Hong Kong.
 
 ## order online
 
-I placed an order online at the [official website of Nintendo Store in Hong Kong](https://store.nintendo.com.hk/) on August 31, 2026.
+I placed an order online at the official website of [Nintendo Store](https://store.nintendo.com.hk/) in Hong Kong on August 31, 2026.
 
 | order                          | value                                                                                                                                                                              | note                                                                                                                                                                            |
 |:-------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -56,7 +56,7 @@ I placed an order online at the [official website of Nintendo Store in Hong Kong
 | receiver                       | 劉生                                                                                                                                                                               | Mr. Liu 劉生                                                                                                                                                                    |
 | T:                             | 61214502                                                                                                                                                                           |                                                                                                                                                                                 |
 | shipping method                | 順豐速運 SF Express                                                                                                                                                                | [SF Express](https://htm.sf-express.com/hk/tc/products_services/Express_Services/Value_added_Services/SF_Retention_Service/)                                                    |
-| payment method                 | Alipay                                                                                                                                                                             | merchant: Nintendo (Hong Kong) Limited. <br/>Original price: CNY 2,975.25 <br/>BOC credit card (ending in 1680) discount: CNY 6.08 <br/>Final price: CNY 2,969.17               |
+| payment method                 | Alipay                                                                                                                                                                             | merchant: Nintendo (Hong Kong) Limited.<br/>Original price: CNY 2,975.25<br/>BOC credit card (ending in 1680) discount: CNY 6.08<br/>Final price: CNY 2,969.17                  |
 | tracking number/waybill number | SF5152446574905                                                                                                                                                                    | At 9:06 AM on September 3, 2026, I received an email notification from Nintendo about changes to shipment of my order, which indicated the delivery status and tracking number. |
 
 See [here](https://www.nintendo.com/hk/hardware/switch/store/index.html) to search for which store you want to pick up your order.
@@ -146,6 +146,43 @@ To-do list written before departure:
 | Guangzhou Metro Line 21, Tianhe Park, Tianhe Smart City | CNY 3.00  | HSBC HK Mastercard debit |                                                                                                                                                                                                   |
 
 Total: HKD 3450.00 plus CNY 101.95 plus HKD 159.00 (including Nintendo console, endorsement fee, and travel expenses). Given this complicated<sup>*</sup> process, would you rather order directly from JD.com?
+
+## unboxing and playing
+
+### unboxing and consistency check
+
+![Switch2 shipping box.png](/assets/hk/Switch2-shipping-box.png)
+
+1. compare the serial numbers marked on the packaging box and the Nintendo Switch 2 console stand.
+2. create and log in with a local account without connecting to the internet. Check the initial startup time.
+3. compare the serial numbers marked on the Nintendo Switch 2 console and the left and right Joy-Con controllers with
+   the serial numbers recorded in the system.
+4. log in with your Nintendo account after connecting to a Wi-Fi network.
+5. Note: automatic system updates are enabled by default. System updates may take a long time.
+
+### playing
+
+#### eShop purchases
+
+I placed an order online at the office website of [Nintendo Store](https://store.nintendo.com.hk/) in Hong Kong on September 8, 2026.
+
+| game          | detail                                                                         | note                                                                            |
+|---------------|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| name          | Overcooked! All You Can Eat                                                    | <https://ec.nintendo.com/HK/zh/titles/70010000037361>                           |
+| Content Type  | digital game                                                                   |                                                                                 |
+| cover         | ![Overcooked! All You Can Eat.png](/assets/hk/game/OvercookedAllYouCanEat.png) | [Overcooked! All You Can Eat](https://ghosttowngames.com/game/overcooked-ayce/) |
+| special price | **<font color='red'>HKD 82</font>** ~~HKD 275~~                                |                                                                                 |
+
+| order           | value                       | note                                                                                                                                                                                                                                 |
+|-----------------|-----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| #               | 1097850092984924            |                                                                                                                                                                                                                                      |
+| date            | 2026/9/8                    | 21:01:30                                                                                                                                                                                                                             |
+| total amount    | HKD 82                      | shipping and handling fees: HKD 0                                                                                                                                                                                                    |
+| shipment status | completed                   |                                                                                                                                                                                                                                      |
+| product         | Overcooked! All You Can Eat |                                                                                                                                                                                                                                      |
+| redeem code     | E0****2CBX                  |                                                                                                                                                                                                                                      |
+| quantity        | 1                           |                                                                                                                                                                                                                                      |
+| payment method  | AlipayHK                    | CIB universal life Mastercard credit card (ending in 4080)<br/>merchant: Nintendo (Hong Kong) Limited<br/>Original price: HKD 82.00<br/>discount: exclusive HKD 5.00 coupon<br/>Final price: HKD 77.00<br/>remarks: 1097850092984924 |
 
 ## Appendix: SF Express
 
