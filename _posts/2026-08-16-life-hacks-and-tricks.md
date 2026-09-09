@@ -40,12 +40,12 @@ comments: true
 
 1. Diatomaceous<sup>\*</sup> earth <font color='orange'>bath mat</font><sup>*</sup> 硅藻土<font color='orange'>地墊</font>
 
-| product | detail                                                                                                                                                                                                                                                | note            |
-|---------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
-| name    | Global Retailings GR珪藻土地墊L 灰黑                                                                                                                                                                                                                  |                 |
-| size    | 60x39x0.9cm                                                                                                                                                                                                                                           | 40x30x0.9cm (M) |
-| price   | NT$ 399.00                                                                                                                                                                                                                                            | NT$ 299.00 (M)  |
-| picture | ![bath-mat-b4665c191b34baf3d0e0fa45dfdd3d1d.png](/assets/tw/bath-mat-b4665c191b34baf3d0e0fa45dfdd3d1d.png)<!-- https://tb-static.uber.com/prod/image-proc/processed_images/317a0b76d325f5b06f459a0df58316d9/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg --> |                 |
+| product | detail                                                                                                                                                                                                                                                            | note            |
+|---------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| name    | Global Retailings GR珪藻土地墊L 灰黑                                                                                                                                                                                                                              | DonDonDonki     |
+| size    | 60x39x0.9cm                                                                                                                                                                                                                                                       | 40x30x0.9cm (M) |
+| price   | NT$ 399.00                                                                                                                                                                                                                                                        | NT$ 299.00 (M)  |
+| picture | ![Donki-bath-mat-b4665c191b34baf3d0e0fa45dfdd3d1d.png](/assets/tw/Donki-bath-mat-b4665c191b34baf3d0e0fa45dfdd3d1d.png)<!-- https://tb-static.uber.com/prod/image-proc/processed_images/317a0b76d325f5b06f459a0df58316d9/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg --> |                 |
 
 ### Health care
 
@@ -66,3 +66,4 @@ comments: true
 ## Reference
 
 - [日本獅王台灣官方旗艦館](https://shop.lion-corp.com.tw/)
+- [DonDonDonki Taiwan](http://www.dondondonki.com/tw/)
