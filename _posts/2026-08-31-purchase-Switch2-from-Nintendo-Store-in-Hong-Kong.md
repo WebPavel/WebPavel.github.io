@@ -153,7 +153,7 @@ Total: HKD 3450.00 plus CNY 101.95 plus HKD 159.00 (including Nintendo console, 
 
 ![Switch2 shipping box.png](/assets/hk/Switch2-shipping-box.png)
 
-1. compare the serial numbers marked on the packaging box and the Nintendo Switch 2 console stand.
+1. compare the serial numbers marked on the packaging box and the Nintendo Switch 2 console stand (underneath the kickstand<sup>*</sup>).
 2. create and log in with a local account without connecting to the internet. Check the initial startup time.
 3. compare the serial numbers marked on the Nintendo Switch 2 console and the left and right Joy-Con controllers with
    the serial numbers recorded in the system.
@@ -259,6 +259,11 @@ Hong Kong is administratively divided into three areas: Hong Kong Island, Kowloo
 >   - sleeve: of a coat, shirt, or other item of clothing are the parts that cover your arms. 袖子
 >   - CITIC: 中国国际信托投资公司, China international trust and investment corporation.
 >   - complicate: make something more difficult to understand or deal with. 使难以理解；使复杂化
+>   - kickstand: a metal bar attached to a bicycle or motorcycle that holds it upright when it is not being used. （自行车或摩托车的）撑脚架<br/>
+>     upright: if you are sitting or standing `upright`, you are sitting or standing with your back straight, rather than lying down. 垂直的；挺直的；直挺挺的<br/>
+>     an `upright` freezer is tall rather than wide. （冰箱等）竖式的，立式的<br/>
+>     an `upright` chair has a straight back and no arms. （椅子）直靠背的，没有扶手的<br/>
+>     adj. you can describe people as `upright` when they are careful to follow acceptable rules of behavior and behave in a moral way. 诚实的，正直的，规矩的
 
 ## Reference
 
