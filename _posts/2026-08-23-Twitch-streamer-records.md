@@ -31,6 +31,7 @@ comments: true
 | Section 1, Kaifeng Street, Zhongzheng District, Taipei City                                     | @mmgeneral          | August 31, 2026   | 1,6                  |                  | @Liang Pin beef noodles 良品牛肉麵 @Ruyi sunny cake 如邑堂 @Ximending 西門町 @payphone<sup>*</sup> @hold hands<sup>*</sup> @DonDonDonki 唐吉訶德 | @tour @restaurant @Taipei main station (台北車站)               |
 | Qingguang market, Zhongshan district, Taipei city 晴光市場<sup><font color='red'>v</font></sup> | @mmgeneral          | September 4, 2026 | 1                    | Michelin, 6.5/10 | @HuangJi braised<sup>*</sup> pork rice 黃記魯肉飯 @Tatung university 大同大學 @lottery                                                           | @restaurant                                                     |
 | Ximending 西門町<sup><font color='red'>v</font></sup>                                           | @mmgeneral          | September 7, 2026 | 1,6                  |                  | @Ay-Chung flour-rice<sup>\*</sup> noodle 阿宗麵線 @Oromo cafe<sup>*</sup> 奧蘿茉 @StarBeary 熊嗨星樂園                                           | @restaurant @tour @claw machine @Taipei main station (台北車站) |
+| Taipei Arena<sup>*</sup>, Nanjing East Road, Songshan district, Taipei city 松山區臺北小巨蛋    | @mmgeneral          | September 8, 2026 | 1,2                  | 7/10             | @Ento Buzz<sup>\*</sup> 蟲蟲巴斯 @Gentry<sup>*</sup> Noodle 仕紳品麵 @lottery @FunStarCatch Fun星球                                              | @restaurant                                                     |
 
 > __*__:
 > - category: 1=restaurant, 2=exhibition, 3=show, 4=handmade, 5=gathering, 6=tour
@@ -42,6 +43,18 @@ comments: true
 > - braise: when you braise meat or a vegetable, you fry it quickly and then cook it slowly in a covered with a small amount of liquid. 焖；炖
 > - flour: a white or brown powder that is made by grinding grain. 面粉.<br/>powder: 粉末.<br/>grind: crush a substance between two hard surfaces. 碾碎；磨碎；将...磨成粉.<br/>grain: 谷粒；谷物（尤指小麦或玉米）
 > - cafe: a place where you can buy drinks, simple meals, and snacks. 小餐馆<br/>which has tables and chairs on the sidewalk outside it where people can eat and drink. 街边小餐馆<br/>coffee shop. 咖啡馆
+> - buzz: if something `buzzes` or `buzzes` somewhere, it makes a long continuous sound, like the noice a bee makes when it is flying. 发出嗡嗡声<br/>
+>   if people `are buzzing around`, they are moving around quickly and busily. 匆忙地走动；忙得团团转<br/>
+>   if questions or ideas `are buzzing around` your head, or if your head `is buzzing with` questions or ideas, you are thinking about a lot of things, often in a confused way. （想法）在脑海中萦绕，翻腾<br/>
+>   if a place `is buzzing with` activity or conversation, there is a lot of activity or conversation there, especially because something important or exciting is about to happen. 充满嘈杂的（谈话、活动）音<br/>
+>   you can use `buzz` to refer to a long continuous sound, usually caused by lots of people talking at once. 嗡嗡的说话声<br/>
+>   if something gives you a `buzz`, it makes you feel very happy or excited for a short time. （短暂的）快乐，兴奋<br/>
+>   if a place or event has a buzz, it has a lively, interesting and modern atmosphere. 热闹有趣的气氛；时尚氛围<br/>
+>   you can use `buzz` to refer to a word, idea, or activity which has recently become extremely popular. （词语、想法或活动）时髦的<br/>
+>   if you `buzz` someone, you call them, usually using an internal telephone line or a buzzer. （用内线）给...打电话；（用蜂鸣器）呼叫<br/>
+>   if an aircraft buzzes a place, it flies low over it, usually in a threatening way. （飞机）低飞掠过，逼近
+> - gentry: the `gentry` are people of high social status or high birth. 上流社會人士；紳士階層；貴族階層；（Gentry）金特里（人名）
+> - arena: an `arena` is a place where sports, entertainments, and other public events take place. It has seats around it where people sit and watch. 运动场；竞技场；体育场；（Arena）阿里纳（人名）
 >
 > __<font color='red'>v</font>__: missed the live stream, watch the recorded video.
 
