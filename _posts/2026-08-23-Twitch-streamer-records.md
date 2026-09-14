@@ -11,11 +11,12 @@ comments: true
 
 ## playing games
 
-| title                       | Chinese           | co-op                         | date            | official website                                                     | platform/channel  | download                                                                                                                                                                      | continuation    |
-|-----------------------------|-------------------|-------------------------------|-----------------|----------------------------------------------------------------------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
-| How to Fish                 | 渔力全开          | @eat1025 @mmgeneral @abbby156 | August 23, 2026 | [Dazed Games](https://dazed.games/)                                  | Windows/Steam     | [Steam](https://store.steampowered.com/app/4001890/How_to_Fish/)                                                                                                              | August 30, 2026 |
-| Overcooked! All You Can Eat | 胡闹厨房 全都好吃 | @eat1025 @mmgeneral           | August 25, 2026 | [Ghost Town Games](https://ghosttowngames.com/game/overcooked-ayce/) | Nintendo Switch 2 | [Steam](https://store.steampowered.com/app/1243830/Overcooked_All_You_Can_Eat/)<br/>[Nintendo](https://www.nintendo.com/us/store/products/overcooked-all-you-can-eat-switch/) | /               |
-| Sort Them Ducks             | -                 | @eat1025                      | August 29, 2026 | -                                                                    | Windows/Steam     | [Steam](https://store.steampowered.com/app/4992070/Sort_Them_Ducks/)                                                                                                          | /               |
+| title                       | Chinese           | co-op                         | date               | official website                                                      | platform/channel                    | download                                                                                                                                                                      | continuation    |
+|-----------------------------|-------------------|-------------------------------|--------------------|-----------------------------------------------------------------------|-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| How to Fish                 | 渔力全开          | @eat1025 @mmgeneral @abbby156 | August 23, 2026    | [Dazed Games](https://dazed.games/)                                   | Windows/Steam                       | [Steam](https://store.steampowered.com/app/4001890/How_to_Fish/)                                                                                                              | August 30, 2026 |
+| Overcooked! All You Can Eat | 胡闹厨房 全都好吃 | @eat1025 @mmgeneral           | August 25, 2026    | [Ghost Town Games](https://ghosttowngames.com/game/overcooked-ayce/)  | Nintendo Switch 2                   | [Steam](https://store.steampowered.com/app/1243830/Overcooked_All_You_Can_Eat/)<br/>[Nintendo](https://www.nintendo.com/us/store/products/overcooked-all-you-can-eat-switch/) | /               |
+| Sort Them Ducks             | -                 | @eat1025                      | August 29, 2026    | -                                                                     | Windows/Steam                       | [Steam](https://store.steampowered.com/app/4992070/Sort_Them_Ducks/)                                                                                                          | /               |
+| Split Fiction               | 雙影奇境          | @eat1025 @mmgeneral           | September 13, 2026 | [Split Fiction](https://www.ea.com/games/split-fiction/split-fiction) | Windows/Steam<br/>Nintendo Switch 2 | [Steam](https://store.steampowered.com/app/2001120/Split_Fiction/)<br/>[Nintendo Switch 2](https://www.nintendo.com/us/store/products/split-fiction-switch-2/)                |                 |
 
 ## outdoors
 
@@ -103,6 +104,15 @@ comments: true
 | MRT(Mass Rapid Transit) | Metro Taipei | Easy Wallet 悠遊付     | <https://english.metro.taipei/>          |
 | bus                     | Taipei eBus  | Easy Wallet 悠遊付     | <https://ebus.gov.taipei/Dybus.aspx>     |
 
+### About Taiwan payment
+
+| method    | Chinese  | website                            |
+|-----------|----------|------------------------------------|
+| cash      | -        | -                                  |
+| LINE pay  | -        | https://pay.line.me/portal/tw      |
+| JKoPay    | 街口支付 | https://www.jkopay.com/application |
+| Apple pay | -        | https://www.apple.com/apple-pay/   |
+
 ## Reference
 
 - [NARA Thai Cuisine 米其林推薦泰式料理餐廳](https://nara.com.tw/)
@@ -120,3 +130,4 @@ comments: true
 - [Shih Hsin University](https://www.shu.edu.tw/)
 - [EasyCard](https://www.easycard.com.tw/)
 - [StarBeary](https://www.starbeary.com/)
+- [Split Fiction](https://www.ea.com/games/split-fiction/split-fiction)
