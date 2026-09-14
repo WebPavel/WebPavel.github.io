@@ -113,6 +113,12 @@ comments: true
 | JKoPay    | 街口支付 | https://www.jkopay.com/application |
 | Apple pay | -        | https://www.apple.com/apple-pay/   |
 
+## in addition
+
+| date               | detail                                                              |
+|--------------------|---------------------------------------------------------------------|
+| September 14, 2026 | Pinned by [愛睏惹](https://www.twitch.tv/dearnewsleepy) at 10:24 PM |
+
 ## Reference
 
 - [NARA Thai Cuisine 米其林推薦泰式料理餐廳](https://nara.com.tw/)
