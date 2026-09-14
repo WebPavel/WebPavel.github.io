@@ -71,13 +71,14 @@ comments: true
 
 ### About hand-shaken drinks
 
-| brand                                              | Chinese | recommendation                                                                                |
-|----------------------------------------------------|---------|-----------------------------------------------------------------------------------------------|
-| 50 Lan                                             | 50嵐    | 四季春青茶 Light Oolong Tea /NT\$40 (L)                                                       |
-| Unique Green                                       | UG      | UG奶茶-三窨<sup>*</sup>十五茉·奶茶<br/>Rich Milk Tea: Fifteen Jasmine Flowers Tea /NT\$75 (L) |
-| [DaYungs](https://www.dayungs.com/)                | 大苑子  |                                                                                               |
-| [Chun Shui Tang](https://www.chunshuitang.com.tw/) | 春水堂  |                                                                                               |
-| [Daming](https://www.damingtea.com.tw/)            | 大茗    | 玉露青茶 Taiwanese Ching Tea /NT\$40 (L)                                                      |
+| brand                                              | Chinese  | recommendation                                                                                |
+|----------------------------------------------------|----------|-----------------------------------------------------------------------------------------------|
+| 50 Lan                                             | 50嵐     | 四季春青茶 Light Oolong Tea /NT\$40 (L)                                                       |
+| Unique Green                                       | UG       | UG奶茶-三窨<sup>*</sup>十五茉·奶茶<br/>Rich Milk Tea: Fifteen Jasmine Flowers Tea /NT\$75 (L) |
+| [DaYungs](https://www.dayungs.com/)                | 大苑子   |                                                                                               |
+| [Chun Shui Tang](https://www.chunshuitang.com.tw/) | 春水堂   |                                                                                               |
+| [Daming](https://www.damingtea.com.tw/)            | 大茗     | 玉露青茶 Taiwanese Ching Tea /NT\$40 (L)                                                      |
+| [UNOCHA](https://unocha.com.tw/)                   | 烏弄原茶 | 手採阿里山金萱 hand picked Alishan Jinxuan tea /NT\$50 (L)                                    |
 
 > [!TIP]
 > Hello, I'd like a large (L) / medium (M) cup of oolong tea,
@@ -112,12 +113,28 @@ comments: true
 
 ### About Taiwan payment
 
-| method    | Chinese  | website                            |
-|-----------|----------|------------------------------------|
-| cash      | -        | -                                  |
-| LINE pay  | -        | https://pay.line.me/portal/tw      |
-| JKoPay    | 街口支付 | https://www.jkopay.com/application |
-| Apple pay | -        | https://www.apple.com/apple-pay/   |
+| method    | Chinese  | website                              |
+|-----------|----------|--------------------------------------|
+| cash      | -        | -                                    |
+| LINE pay  | -        | <https://pay.line.me/portal/tw>      |
+| JKoPay    | 街口支付 | <https://www.jkopay.com/application> |
+| Apple pay | -        | <https://www.apple.com/apple-pay/>   |
+
+## About Taiwan Education
+
+### elementary school
+
+| school                   | Chinese                  | website                         | location                                            |
+|--------------------------|--------------------------|---------------------------------|-----------------------------------------------------|
+| Wu Hua elementary school | 五華國民小學（五華國小） | <https://www.whes.ntpc.edu.tw/> | 新北市三重區<br/>Sanchong district, New Taipei city |
+
+### University
+
+| university                  | Chinese      | abbr. | website                   | location                                                                                |
+|-----------------------------|--------------|-------|---------------------------|-----------------------------------------------------------------------------------------|
+| Tatung University           | 大同大學     | TTU   | <https://ttu.edu.tw/>     | 台北市中山區中山北路三段40號<br/>No.40, Sec. 3, Zhongshan N. Rd., Taipei city           |
+| Shih Hsin University        | 世新大學     | SHU   | <https://www.shu.edu.tw/> | 台北市木栅路一段17巷1號<br/>No.1, Ln. 17, Sec. 1, Muzha Rd., Wenshan Dist., Taipei city |
+| Overseas Chinese University | 僑光科技大學 | OCU   | <https://www.ocu.edu.tw/> | 台中市西屯區僑光路 100 號<br/>100, Chiao Kwang Rd., Xitun Dist., Taichung city          |
 
 ## in addition
 
@@ -144,3 +161,4 @@ comments: true
 - [StarBeary](https://www.starbeary.com/)
 - [Split Fiction](https://www.ea.com/games/split-fiction/split-fiction)
 - [Taiwan S.F. Express](https://htm.sf-express.com/tw/en/)
+- [Wu Hua elementary school](https://www.whes.ntpc.edu.tw/)
