@@ -75,7 +75,7 @@ comments: true
 >   `frosted` means covered with frost. 结霜的；被霜覆盖的<br/>
 >   `frosted` means covered with something that looks like frost. 覆有霜状物的<br/>
 >   `frosted` means covered with icing. 覆有糖霜的 [US]
-> - -proof: `-proof` combines with nouns and verbs to form adjectives which indicate that something cannot be damaged or badly affected by the thing or action mentioned. （与名词和动词连用构成形容词）表示"防...的"，"抗...的"
+> - -proof: `-proof` combines with nouns and verbs to form adjectives which indicate that something cannot be damaged or badly affected by the thing or action mentioned. （与名词和动词连用构成形容词）表示“防...的”，“抗...的”
 > - eligible: someone who is `eligible to` do something is qualified or able to do it, for example because they are old enough. 有资格的；符合条件的；有能力的
 > - platinum: a chemical element with symbol Pt and atomic number 78. 铂（一种化学元素，俗称白金。化学符号 Pt，原子序号 78）；白金
 > - octopus: an `octopus` is a soft sea creature with eight long arms which it uses to catch food. 章鱼 🐙
