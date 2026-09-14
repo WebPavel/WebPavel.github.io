@@ -63,7 +63,30 @@ comments: true
 
 ## Transportation
 
+| product      | suitable for                                                               | detail                                                                                                                               | note                                                                                                              |
+|--------------|----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| card holder  | credit and debit cards<br/>transit cards<br/>Identity cards<br/>student ID | one side is frosted<sup>\*</sup> and non-slip, while the other side is transparent and visible, waterproof and oil-proof<sup>*</sup> | applicable to other documents, such as passports                                                                  |
+| Apple wallet | credit and debit cards                                                     | add an eligible<sup>*</sup> credit or debit card to wallet with no added effort.                                                     | HSBC Mastercard debit 匯豐萬事達卡扣賬卡<br/>BOC Mastercard debit card<br/>EleBank Visa Platinum<sup>*</sup> card |
+| Apple wallet | transit cards                                                              | set your card to express mode. And there's no need to carry physical cards.                                                          | Guangzhou transit card 岭南通·羊城通<br/>octopus<sup>*</sup> 八達通<br/>Shenzhen transit card 深圳通              |
+| Apple wallet | tickets/passes                                                             |                                                                                                                                      | genius<sup>\*</sup> bar reservation<sup>*</sup><br/>event ticket, Guangzhou, Guangdong<br/>6 Feb 2026             |
+
+> __*__:
+> - frosted: `frosted` glass is glass that you cannot see through clearly. （玻璃）磨砂的，毛面的<br/>
+>   `frosted` means covered with frost. 结霜的；被霜覆盖的<br/>
+>   `frosted` means covered with something that looks like frost. 覆有霜状物的<br/>
+>   `frosted` means covered with icing. 覆有糖霜的 [US]
+> - -proof: `-proof` combines with nouns and verbs to form adjectives which indicate that something cannot be damaged or badly affected by the thing or action mentioned. （与名词和动词连用构成形容词）表示"防...的"，"抗...的"
+> - eligible: someone who is `eligible to` do something is qualified or able to do it, for example because they are old enough. 有资格的；符合条件的；有能力的
+> - platinum: a chemical element with symbol Pt and atomic number 78. 铂（一种化学元素，俗称白金。化学符号 Pt，原子序号 78）；白金
+> - octopus: an `octopus` is a soft sea creature with eight long arms which it uses to catch food. 章鱼 🐙
+> - genius: is very great ability or skill in a particular subject or activity. 天才；天赋；天资<br/>
+>   a `genius` is a highly talented, creative, or intelligent person. 天才人物
+> - reservation: if you have `reservation about` something, you are not sure that it is entirely good or right. 保留意见；疑义<br/>
+>   if you make a `reservation`, you arrange for something such as a table in a restaurant or a room in a hotel to be kept for you. 预订；预约<br/>
+>   a `reservation` is an area of land that is kept separate for a particular group of people to live in. 保留地；居留地
+
 ## Reference
 
 - [日本獅王台灣官方旗艦館](https://shop.lion-corp.com.tw/)
 - [DonDonDonki Taiwan](http://www.dondondonki.com/tw/)
+- [Apple Wallet](https://www.apple.com/wallet/)
