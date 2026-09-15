@@ -39,6 +39,7 @@ comments: true
 | Qingguang market, Zhongshan district, Taipei city<sup><font color='red'>v</font></sup> | 晴光市場         | @mmgeneral          | September 4, 2026 | 1                    | Michelin, 6.5/10 | @HuangJi braised<sup>*</sup> pork rice 黃記魯肉飯 @Tatung university 大同大學 @lottery                                                           | @restaurant                                                     |
 | Ximending<sup><font color='red'>v</font></sup>                                         | 西門町           | @mmgeneral          | September 7, 2026 | 1,6                  |                  | @Ay-Chung flour-rice<sup>\*</sup> noodle 阿宗麵線 @Oromo cafe<sup>*</sup> 奧蘿茉 @StarBeary 熊嗨星樂園                                           | @restaurant @tour @claw machine @Taipei main station (台北車站) |
 | Taipei Arena<sup>*</sup>, Nanjing East Road, Songshan district, Taipei city            | 松山區臺北小巨蛋 | @mmgeneral          | September 8, 2026 | 1,2                  | 7/10             | @Ento Buzz<sup>\*</sup> 蟲蟲巴斯 @Gentry<sup>*</sup> Noodle 仕紳品麵 @lottery @FunStarCatch Fun星球                                              | @restaurant                                                     |
+| No.61, Xingfu Road, Xinzhuang District, New Taipei city                                | 新莊區幸福路61號 | @eat1025            | September 7, 2026 | 1                    |                  | @lottery @Kumagoshi ramen 熊越岳                                                                                                                 | @restaurant                                                     |
 
 > __*__:
 > - category: 1=restaurant, 2=exhibition, 3=show, 4=handmade, 5=gathering, 6=tour
@@ -105,11 +106,12 @@ comments: true
 
 ### About Taiwan transportation
 
-| transportation          | method       | feature                | website                                  |
-|-------------------------|--------------|------------------------|------------------------------------------|
-| cycling                 | YouBike      | bicycle rental service | <https://en.youbike.com.tw/region/main/> |
-| MRT(Mass Rapid Transit) | Metro Taipei | Easy Wallet 悠遊付     | <https://english.metro.taipei/>          |
-| bus                     | Taipei eBus  | Easy Wallet 悠遊付     | <https://ebus.gov.taipei/Dybus.aspx>     |
+| transportation          | method       | feature                            | website                                  |
+|-------------------------|--------------|------------------------------------|------------------------------------------|
+| cycling                 | YouBike      | bicycle rental service             | <https://en.youbike.com.tw/region/main/> |
+| MRT(Mass Rapid Transit) | Metro Taipei | Easy Wallet 悠遊付                 | <https://english.metro.taipei/>          |
+| bus                     | Taipei eBus  | Easy Wallet 悠遊付                 | <https://ebus.gov.taipei/Dybus.aspx>     |
+| motorcycle              | Wemo Fly     | scooter<sup>*</sup> rental service | <https://www.wemoscooter.com/wemo-fly>   |
 
 ### About Taiwan payment
 
@@ -136,11 +138,24 @@ comments: true
 | Shih Hsin University        | 世新大學     | SHU   | <https://www.shu.edu.tw/> | 台北市木栅路一段17巷1號<br/>No.1, Ln. 17, Sec. 1, Muzha Rd., Wenshan Dist., Taipei city |
 | Overseas Chinese University | 僑光科技大學 | OCU   | <https://www.ocu.edu.tw/> | 台中市西屯區僑光路 100 號<br/>100, Chiao Kwang Rd., Xitun Dist., Taichung city          |
 
+## missing skills
+
+### sign language 手語
+
+![sign language-1](/assets/tw/sign-language-1.png)
+
+![sign language-2.png](/assets/tw/sign-language-2.png)
+
 ## in addition
 
 | date               | detail                                                              | prize                                        |
 |--------------------|---------------------------------------------------------------------|----------------------------------------------|
 | September 14, 2026 | Pinned by [愛睏惹](https://www.twitch.tv/dearnewsleepy) at 10:24 PM | ![IMG_3370.jpg](/assets/photos/IMG_3370.jpg) |
+
+> __*__:
+> - scooter: a small light motorcycle which has a low seat. 小型摩托車<br/>
+>   a type of child's bicycle which has two wheels joined by a wooden board and a handle on a long pole attached to the front wheel.
+>   the child stands on the board with one foot, and uses the other foot to move forwards. （兒童）踏板車，滑板車
 
 ## Reference
 
@@ -162,3 +177,4 @@ comments: true
 - [Split Fiction](https://www.ea.com/games/split-fiction/split-fiction)
 - [Taiwan S.F. Express](https://htm.sf-express.com/tw/en/)
 - [Wu Hua elementary school](https://www.whes.ntpc.edu.tw/)
+- [7-ELEVEN](https://www.7-11.com.tw/)
