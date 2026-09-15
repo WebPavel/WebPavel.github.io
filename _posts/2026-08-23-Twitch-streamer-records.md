@@ -138,9 +138,9 @@ comments: true
 
 ## in addition
 
-| date               | detail                                                              |
-|--------------------|---------------------------------------------------------------------|
-| September 14, 2026 | Pinned by [愛睏惹](https://www.twitch.tv/dearnewsleepy) at 10:24 PM |
+| date               | detail                                                              | prize                                        |
+|--------------------|---------------------------------------------------------------------|----------------------------------------------|
+| September 14, 2026 | Pinned by [愛睏惹](https://www.twitch.tv/dearnewsleepy) at 10:24 PM | ![IMG_3370.jpg](/assets/photos/IMG_3370.jpg) |
 
 ## Reference
 
