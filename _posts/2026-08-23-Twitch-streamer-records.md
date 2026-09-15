@@ -144,7 +144,7 @@ comments: true
 
 ![sign language-1](/assets/tw/sign-language-1.png)
 
-![sign language-2.png](/assets/tw/sign-language-2.png)
+![sign language-2](/assets/tw/sign-language-2.png)
 
 ## in addition
 
