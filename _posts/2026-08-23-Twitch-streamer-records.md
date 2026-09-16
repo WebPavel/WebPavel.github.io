@@ -124,6 +124,14 @@ comments: true
 | JKoPay    | 街口支付 | <https://www.jkopay.com/application> |
 | Apple pay | -        | <https://www.apple.com/apple-pay/>   |
 
+### terms used in Taiwan
+
+| term   | meaning                       | description             |
+|--------|-------------------------------|-------------------------|
+| 載具   | invoice 发票                  | digital invoice carrier |
+| 吃到飽 | all-you-can-eat (AYCE) 自助餐 | self-service buffet     |
+| 奧客   | difficult customer 难搞的顾客 |                         |
+
 ## About Taiwan Education
 
 ### elementary school
@@ -195,3 +203,5 @@ comments: true
 - [Taiwan S.F. Express](https://htm.sf-express.com/tw/en/)
 - [Wu Hua elementary school](https://www.whes.ntpc.edu.tw/)
 - [7-ELEVEN](https://www.7-11.com.tw/)
+- [All-you-can-eat restaurant](https://en.wikipedia.org/wiki/All-you-can-eat_restaurant)
+- [109年台灣與中國語言辨別能力測驗](https://docs.google.com/forms/d/e/1FAIpQLScH0UnWg-LEI2KEfXHYGyfUTuYaTEm4539uC1_usiMy10Vzlw/viewform)
