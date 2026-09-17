@@ -20,6 +20,7 @@ comments: true
 | Overcooked! All You Can Eat | 胡闹厨房 全都好吃 | @eat1025 @mmgeneral @abbby156 | September 15, 2026 | [Ghost Town Games](https://ghosttowngames.com/game/overcooked-ayce/)  | Nintendo Switch 2                   | [Nintendo](https://www.nintendo.com/us/store/products/overcooked-all-you-can-eat-switch/)                                                                                     |                 |
 
 > __*__:
+>
 > - dazed: if someone is `dazed`, they are confused and unable to think clearly, often because of shock or a blow to the head. 恍惚的；头昏的；茫然的
 > - fiction: `Fiction` refers to books and stories about imaginary and events, rather than books about real people or events. 小说<br/>
 >   a statement or account that is `fiction` is not true. 虚构；杜撰；编造<br/>
@@ -44,9 +45,19 @@ comments: true
 | a flat, Xingfu Road, Xinzhuang District, New Taipei City                               |                  | @eat1025 @mmgeneral @abbby156 | September 15, 2026 | 5                    | -                | @E7play @Overcooked 2!                                                                                                                           | @gathering                                                      |
 
 > __*__:
+>
 > - category: 1=restaurant, 2=exhibition, 3=show, 4=handmade, 5=gathering, 6=tour
 > - nara: ordered Steamed Sea Bass in Spicy Lime Sauce (檸檬魚), Green Curry Chicken (綠咖喱雞肉), Stir-Fried Water Spinach (空心菜) and Tom Yum Goong (冬蔭功湯)
 >   ![nara Menu Set-4.png](/assets/tw/nara-menu-set-4.png)
+> - bass: [N-Var] `Bass` are edible fish that are found in rivers and the sea. there are several types of bass. 鲈鱼
+> - lime: [N-Var] a `lime` is a green fruit that tastes like a lemon. Limes grow on trees in tropical countries. 酸橙<br/>
+>   [N-Uncounted] `Lime` is a drink that tastes of limes. 酸橙味饮料<br/>
+>   [N-Uncounted] `Lime` is a substance containing calcium (Ca钙). It is found in soil and water. 石灰
+>   ![lime_232550995.jpg](/assets/tw/lime_232550995.jpg)
+> - curry: [N-Var] `Curry` is a dish composed of meat and vegetables, or just vegetables, in a sauce containing hot spices. it is usually eaten with rice and is one of the main dishes of India. 咖喱菜（印度主要菜肴，常与米饭一起食用）
+>   ![curry_256167931.jpg](/assets/tw/curry_256167931.jpg)
+> - spinach: [N-Uncounted] `Spinach` is a vegetable with large dark green leaves that you chop up and boil in water before eating. 菠菜
+>   ![spinach_96989375.jpg](/assets/tw/spinach_96989375.jpg)
 > - delicacies: the plural of 'delicacy' (delicacy 的复数形式), 来自德语，熟食店，英语在非正式场合缩写成 deli；美味佳肴；珍馐 (A delicacy is a rare or expensive food that is considered especially nice to eat)
 > - payphone: a telephone which you need to put coins or a card in before you can make a call. Payphones are usually in public places. （投幣或插卡式）付費公用電話
 > - hold hands: how men and women hold hands. For men: left hand on top; for women: right hand on top
@@ -74,14 +85,14 @@ comments: true
 
 ### About hand-shaken drinks
 
-| brand                                              | Chinese  | recommendation                                                                                |
-|----------------------------------------------------|----------|-----------------------------------------------------------------------------------------------|
-| 50 Lan                                             | 50嵐     | 四季春青茶 Light Oolong Tea /NT\$40 (L)                                                       |
-| Unique Green                                       | UG       | UG奶茶-三窨<sup>*</sup>十五茉·奶茶<br/>Rich Milk Tea: Fifteen Jasmine Flowers Tea /NT\$75 (L) |
-| [DaYungs](https://www.dayungs.com/)                | 大苑子   |                                                                                               |
-| [Chun Shui Tang](https://www.chunshuitang.com.tw/) | 春水堂   |                                                                                               |
-| [Daming](https://www.damingtea.com.tw/)            | 大茗     | 玉露青茶 Taiwanese Ching Tea /NT\$40 (L)                                                      |
-| [UNOCHA](https://unocha.com.tw/)                   | 烏弄原茶 | 手採阿里山金萱 hand picked Alishan Jinxuan tea /NT\$50 (L)                                    |
+| brand                                              | Chinese  | recommendation                                                                                             |
+|----------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------|
+| 50 Lan                                             | 50嵐     | 四季春青茶 Light Oolong Tea /NT\$40 (L)                                                                    |
+| Unique Green                                       | UG       | UG奶茶-三窨<sup>\*</sup>十五茉·奶茶<br/>Rich Milk Tea: Fifteen Jasmine<sup>*</sup> Flowers Tea /NT\$75 (L) |
+| [DaYungs](https://www.dayungs.com/)                | 大苑子   |                                                                                                            |
+| [Chun Shui Tang](https://www.chunshuitang.com.tw/) | 春水堂   |                                                                                                            |
+| [Daming](https://www.damingtea.com.tw/)            | 大茗     | 玉露青茶 Taiwanese Ching Tea /NT\$40 (L)                                                                   |
+| [UNOCHA](https://unocha.com.tw/)                   | 烏弄原茶 | 手採阿里山金萱 hand picked Alishan Jinxuan tea /NT\$50 (L)                                                 |
 
 > [!TIP]
 > Hello, I'd like a large (L) / medium (M) cup of oolong tea,
@@ -93,7 +104,10 @@ comments: true
 > ***Bubble tea*** (珍珠奶茶) originated in Taiwan in the 1980s.
 >
 > __*__:
+>
 > - 窨: pronunciation 'yìn', fumigate (薰蒸；煙薰)
+> - jasmine: [N-Var] `Jasmine` is a climbing plant which has small white or yellow flowers with a pleasant smell. 茉莉；素馨
+>   ![jasmine_429577711.jpg](/assets/tw/jasmine_429577711.jpg)
 
 ### About Taiwan Snacks
 
@@ -103,6 +117,7 @@ comments: true
 | Taiwan beer               | 台灣 🇹🇼 啤酒 🍺 | ![TaiwanBeer-GoldMedal-dc34f1890bdca25aa30a968416e1b3fe.png](/assets/tw/TaiwanBeer-GoldMedal-dc34f1890bdca25aa30a968416e1b3fe.png)<!-- https://www.twbeer.com.tw/image/Adlist/20250917/dc34f1890bdca25aa30a968416e1b3fe.jpg --> | beer                   |
 
 > __*__:
+>
 > - twist: if you twist something, you turn it to make a spiral (螺旋) shape, 扭；拧；搓；捻
 > - dough: it can be cooked to make bread, 生面团
 
@@ -170,6 +185,7 @@ comments: true
 | September 14, 2026 | Pinned by [愛睏惹](https://www.twitch.tv/dearnewsleepy) at 10:24 PM | ![IMG_3370.jpg](/assets/photos/IMG_3370.jpg) |
 
 > __*__:
+>
 > - scooter: a small light motorcycle which has a low seat. 小型摩托車<br/>
 >   a type of child's bicycle which has two wheels joined by a wooden board and a handle on a long pole attached to the front wheel.
 >   the child stands on the board with one foot, and uses the other foot to move forwards. （兒童）踏板車，滑板車
