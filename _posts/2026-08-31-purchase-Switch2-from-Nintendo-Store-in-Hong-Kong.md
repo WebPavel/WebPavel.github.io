@@ -228,42 +228,44 @@ Hong Kong is administratively divided into three areas: Hong Kong Island, Kowloo
 | New Territories  | 新界    | NT          | 9 districts | the largest of the three areas of Hong Kong, alongside Hong Kong Island and Kowloon. |
 
 - Hong Kong Island
-    - Central and Western (中西區)
-    - Eastern (東區)
-    - Southern (南區)
-    - Wan Chai (灣仔區)
+  - Central and Western (中西區)
+  - Eastern (東區)
+  - Southern (南區)
+  - Wan Chai (灣仔區)
 - Kowloon
-    - Kowloon City (九龍城區)
-    - Kwun Tong (觀塘區)
-    - Sham Shui Po (深水埗區)
-    - Wong Tai Sin (黃大仙區)
-    - Yau Tsim Mong (油尖旺區)
+  - Kowloon City (九龍城區)
+  - Kwun Tong (觀塘區)
+  - Sham Shui Po (深水埗區)
+  - Wong Tai Sin (黃大仙區)
+  - Yau Tsim Mong (油尖旺區)
 - New Territories
-    - Islands (離島區)
-    - Kwai Tsing (葵青區)
-    - North (北區)
-    - Sai Kung (西貢區)
-    - Sha Tin (沙田區)
-    - Tai Po (大埔區)
-    - Tsuen Wan (荃灣區)
-    - Tuen Mun (屯門區)
-    - Yuen Long (元朗區)
+  - Islands (離島區)
+  - Kwai Tsing (葵青區)
+  - North (北區)
+  - Sai Kung (西貢區)
+  - Sha Tin (沙田區)
+  - Tai Po (大埔區)
+  - Tsuen Wan (荃灣區)
+  - Tuen Mun (屯門區)
+  - Yuen Long (元朗區)
 
 > __*__:
->   - package: is a small parcel. 包裹 (A parcel is something wrapped in paper, usually so that it can be sent to someone by post. in AM, usually use package)
->   - SF_Express-HK: official account "SF Express" on WeChat. On September 3, 2026, I searched for my package by the waybill number, but there were no search results in the morning.
->     However, in the afternoon, I had a package to receive from Hong Kong to Sha Tin District.
->   - estate: a large area of land in the country which is owned by a person, family, or organization. 庄园；地产；大片私有土地<br/>
->     all the money and property that they leave behind them when someone die. 遗产
->   - unisex: is used to describe things, usually clothes or places, which are designed for use by both men and women rather than by only one sex. 不分男女的；男女通用的
->   - sleeve: of a coat, shirt, or other item of clothing are the parts that cover your arms. 袖子
->   - CITIC: 中国国际信托投资公司, China international trust and investment corporation.
->   - complicate: make something more difficult to understand or deal with. 使难以理解；使复杂化
->   - kickstand: a metal bar attached to a bicycle or motorcycle that holds it upright when it is not being used. （自行车或摩托车的）撑脚架<br/>
->     upright: if you are sitting or standing `upright`, you are sitting or standing with your back straight, rather than lying down. 垂直的；挺直的；直挺挺的<br/>
->     an `upright` freezer is tall rather than wide. （冰箱等）竖式的，立式的<br/>
->     an `upright` chair has a straight back and no arms. （椅子）直靠背的，没有扶手的<br/>
->     adj. you can describe people as `upright` when they are careful to follow acceptable rules of behavior and behave in a moral way. 诚实的，正直的，规矩的
+>
+> - package: is a small parcel. 包裹 (A parcel is something wrapped in paper, usually so that it can be sent to someone by post. in AM, usually use package)
+> - SF_Express-HK: official account "SF Express" on WeChat. On September 3, 2026, I searched for my package by the waybill number, but there were no search results in the morning.<br/>
+>   However, in the afternoon, I had a package to receive from Hong Kong to Sha Tin District.
+> - estate: a large area of land in the country which is owned by a person, family, or organization. 庄园；地产；大片私有土地<br/>
+>   all the money and property that they leave behind them when someone die. 遗产
+> - unisex: is used to describe things, usually clothes or places, which are designed for use by both men and women rather than by only one sex. 不分男女的；男女通用的
+> - sleeve: of a coat, shirt, or other item of clothing are the parts that cover your arms. 袖子
+> - CITIC: 中国国际信托投资公司, China international trust and investment corporation.
+> - complicate: make something more difficult to understand or deal with. 使难以理解；使复杂化
+> - kickstand: a metal bar attached to a bicycle or motorcycle that holds it upright when it is not being used. （自行车或摩托车的）撑脚架<br/>
+>   ![kickstand_189716531.jpg](/assets/hk/kickstand_189716531.jpg)
+> - upright: if you are sitting or standing `upright`, you are sitting or standing with your back straight, rather than lying down. 垂直的；挺直的；直挺挺的<br/>
+>   an `upright` freezer is tall rather than wide. （冰箱等）竖式的，立式的<br/>
+>   an `upright` chair has a straight back and no arms. （椅子）直靠背的，没有扶手的<br/>
+>   adj. you can describe people as `upright` when they are careful to follow acceptable rules of behavior and behave in a moral way. 诚实的，正直的，规矩的
 
 ## Reference
 
