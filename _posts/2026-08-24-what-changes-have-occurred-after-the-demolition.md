@@ -31,6 +31,14 @@ Home broadband service provider: China Unicom
 
 Bandwidth throughput: 100 Mbit/s
 
+The network outage records are as follows:
+
+| outage # | date               | remark                                                                                                                                          |
+|----------|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1        | August 24, 2026    | at noon, <font color='green'>Power</font>, <font color='green'>PON</font>, <font color='gray'>LOS</font>, <font color='green'>LAN</font>        |
+| 2        | September 16, 2026 | in the evening, <font color='green'>Power</font>, <font color='gray'>PON</font>, <font color='red'>LOS</font>, <font color='green'>LAN</font>   |
+| 3        | September 18, 2026 | in the evening, <font color='green'>Power</font>, <font color='green'>PON</font>, <font color='gray'>LOS</font>, <font color='green'>LAN</font> |
+
 ### Locksmith
 
 It took me a lot of effort to unlock my room door when I got home after lunch today.
@@ -38,6 +46,7 @@ It took me a lot of effort to unlock my room door when I got home after lunch to
 When I looked for a locksmith to ask about unlocking and changing locks, I found that there was no one around who did it.
 
 > __*__:
+>
 > - demolition: is the tearing-down of buildings and other structures. often in order to build something else in its place. （建筑物的）摧毁，拆毁，拆除<br/>
 >   demolish: to demolish something such as a  building means to destroy it completely. 摧毁，拆毁，拆除（建筑物等）
 >   if you demolish someone's ideas or arguments, you prove that they are completely wrong or unreasonable. 驳倒，推翻（某人的观点或论点）
