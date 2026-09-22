@@ -139,7 +139,7 @@ comments: true
 | [Daming](https://www.damingtea.com.tw/)            | 大茗     | 玉露青茶 Taiwanese Ching Tea /NT\$40 (L)                                                                                                                                            |
 | [UNOCHA](https://unocha.com.tw/)                   | 烏弄原茶 | 手採阿里山金萱 hand picked Alishan Jinxuan tea /NT\$50 (L)                                                                                                                          |
 | [A Nice Holiday](https://www.aniceholiday.com.tw/) | 一沐日   | 油切蕎麥茶（無糖、咖啡因） Buckwheat<sup>\*</sup> Tea (sugar free & caffeine<sup>\*</sup> free) /NT\$40 (L)<br/>輕香烏龍綠 Refreshing Oolong Tea /NT\$45 (L)                        |
-| [KEBUKE Tea](https://kebuke.com/en/)               | 可不可   | <font color='black'>~~白柚水玉紅烏龍~~</font> Pomelo<sup>\*</sup> Red Oolong with Agar Boba<sup>*</sup> /NT\$65 (M)<br/>~~黑葉荔香紅烏龍~~ Black-Leaf Lychee Red Oolong /NT\$50 (M) |
+| [KEBUKE Tea](https://kebuke.com/en/)               | 可不可   | ~~<font color='black'>白柚水玉紅烏龍</font>~~ Pomelo<sup>\*</sup> Red Oolong with Agar Boba<sup>*</sup> /NT\$65 (M)<br/>~~黑葉荔香紅烏龍~~ Black-Leaf Lychee Red Oolong /NT\$50 (M) |
 | [Dejeng](https://dejeng.com/en/)                   | 得正     | 輕烏龍 Light roasted Oolong tea /NT\$35 (L)                                                                                                                                         |
 
 > [!TIP]
