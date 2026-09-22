@@ -19,30 +19,66 @@ comments: true
 | Split Fiction<sup>*</sup>   | 雙影奇境          | @eat1025 @mmgeneral           | September 13, 2026 | [Split Fiction](https://www.ea.com/games/split-fiction/split-fiction) | Windows/Steam<br/>Nintendo Switch 2 | [Steam](https://store.steampowered.com/app/2001120/Split_Fiction/)<br/>[Nintendo Switch 2](https://www.nintendo.com/us/store/products/split-fiction-switch-2/)                |                 |
 | Overcooked! All You Can Eat | 胡闹厨房 全都好吃 | @eat1025 @mmgeneral @abbby156 | September 15, 2026 | [Ghost Town Games](https://ghosttowngames.com/game/overcooked-ayce/)  | Nintendo Switch 2                   | [Nintendo](https://www.nintendo.com/us/store/products/overcooked-all-you-can-eat-switch/)                                                                                     |                 |
 
+### playing offline non-electronic games
+
+| game                    | Chinese                      | venue             | co-op                         | date               | preparation            | format                                                                                   |
+|-------------------------|------------------------------|-------------------|-------------------------------|--------------------|------------------------|------------------------------------------------------------------------------------------|
+| Liar's dice<sup>*</sup> | 吹牛骰；扯謊者的骰子；掷骰子 | gathering at home | @eat1025 @mmgeneral @abbby156 | September 18, 2026 | dice 🎲 (5 per player) | bid<sup>*</sup> a higher quantity of the same face or the same quantity of a higher face |
+| old maid                | 抽鬼牌                       | gathering at home | @eat1025 @mmgeneral @abbby156 | September 18, 2026 | poker 🎴♠️             | discarding matching pairs                                                                |
+| slap jack               | heart attack 心臟病          | gathering at home | @eat1025 @mmgeneral @abbby156 | September 18, 2026 | poker 🎴♠️             | be the first to slap<sup>\*</sup> the deck<sup>*</sup> when a Jack appears               |
+| perfect man             | 滿分男                       | gathering at home | @eat1025 @mmgeneral @abbby156 | September 18, 2026 | poker 🎴♠️             | multi-round Q&A and score prediction                                                     |
+
 > __*__:
 >
 > - dazed: if someone is `dazed`, they are confused and unable to think clearly, often because of shock or a blow to the head. 恍惚的；头昏的；茫然的
 > - fiction: `Fiction` refers to books and stories about imaginary and events, rather than books about real people or events. 小说<br/>
 >   a statement or account that is `fiction` is not true. 虚构；杜撰；编造<br/>
 >   if something is a fiction, it is not true, although people sometimes pretend that it is true. 虚构之事；幻想
+> - dice: [N-Count] A `dice` is a small cube which has between one and six spots or numbers on its sides, and which is used in games to provide random numbers. 骰子；色子<br/>
+>   [N-Uncounted] `Dice` is a game which is played using dice. 擲骰子遊戲<br/>
+>   [Verb] if you `dice` food, you cut it into small cubes. 把（食物）切成小塊；將...切丁<br/>
+>   （Dice）戴斯（人名）
+>   ![dice.jpg](/assets/tw/dice.jpg)
+> - bid: [Verb] if you `bid for` something that is being sold, you offer to pay a particular amount of money for it. 投标；竞标；出价<br/>
+>   [Verb] if you `bid for` something or `bid to` do something, you try to obtain it or do it. 努力争取；尝试<br/>
+>   [N-Count] A `bid` is an offer to pay a particular amount of money for something that is being sold. 投标；出价<br/>
+>   [N-Count] A `bid for` something or a `bid to` do something is an attempt to obtain it or do it. 努力；尝试；企图<br/>
+>   （Bid）比德（人名）
+> - slap: [Verb] if you `slap` someone, you hit them with the palm of your hand. 掌掴；用巴掌拍；打...耳光<br/>
+>   [Verb] if you `slap` someone `on` the back, you hit them in a friendly manner on their back. （友好地）拍（...的后背）<br/>
+>   [Verb] if you `slap` something `onto` a surface, you put it there quickly, roughly, or carelessly. （迅速或马虎地）涂，抹，贴<br/>
+>   [Verb] if journalists say that the authorities `slap` something such as a tax or a ban `on` something, they think it is unreasonable or put on without careful thought. （不合理或草率地）施加（赋税、禁令等）<br/>
+>   [Phrase] if you describe something that someone does as `a slap in the face`, you mean that it shocks or upsets you because it shows that they do not support you or respect you. 打击;侮辱;一记耳光
+> - deck: [N-Count] A `deck` on a vehicle such as a bus or ship is a lower or upper area of it. （公共汽车、船等的）层面，（一）层<br/>
+>   [N-Count] The `deck` of a ship is the top part of it that forms a floor in the open air which you can walk on. （最上层露天的）甲板，舱面<br/>
+>   [N-Count] A `deck` of cards is a complete set of playing cards. （纸牌的）一副 [US]<br/>
+>   [N-Count] A `deck` is a flat wooden area next to a house, where people can sit and relax or eat. （房屋旁的）木制平台<br/>
+>   [Verb] if something `is decked with` pretty things, it is decorated with them. 装饰;装点<br/>
+>   [Verb] if someone `decks` you, they hit you so you fall over. 击倒;打翻<br/>
+>   [Phrase] if someone or something is `below decks`, they are inside a ship in the part of it that is underneath the deck. 在甲板下<br/>
+>   if you `clear the decks`, you get ready to start something new by finishing any work that has to be done or getting rid of any problems that are in the way. 清除障碍以准备开始新的工作（或行动）<br/>
+>   if someone or something `hits the deck`, they fall to the ground. 倒在地上<br/>
+>   （Deck）德克（人名）
 
 ## outdoors
 
 ### Taiwan
 
-| place                                                                                  | Chinese          | co-op                         | date               | category<sup>*</sup> | rating           | keywords                                                                                                                                         | situation                                                       |
-|----------------------------------------------------------------------------------------|------------------|-------------------------------|--------------------|----------------------|------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
-| garden city                                                                            | 遠東             | @mmgeneral                    | August 23, 2026    | 1,2                  | 5/5              | @garden city @大巨蛋 @東引快刀手                                                                                                                 | @meeting @dating                                                |
-| Fuxing Congee                                                                          | 福星廣東粥蛤蜊麵 | @mmgeneral                    | August 24, 2026    | 1                    | 6.5/10           | @Noodles with Clams                                                                                                                              | @restaurant                                                     |
-| Honhui Plaza                                                                           | 宏匯廣場         | @eat1025                      | August 25, 2026    | 1,4                  | Michelin         | @handmade cake @nara<sup>*</sup>                                                                                                                 | @handmade @restaurant                                           |
-| a flat, Xingfu Road, Xinzhuang District, New Taipei City                               |                  | @eat1025 @mmgeneral           | August 25, 2026    | 5                    | -                | @lottery @nara @Overcooked 2!                                                                                                                    | @gathering                                                      |
-| Yonghe Lehua Night Market<sup><font color='red'>v</font></sup>                         | 永和樂華夜市     | @mmgeneral                    | August 27, 2026    | 1,6                  | Michelin         | @Lehua three delicacies<sup>*</sup> soup 樂華三鮮羹 @A-ba's Taro Ball 阿爸の芋圓 @lottery @shopping @catch me 夾子園                             | @tour @restaurant @claw machine                                 |
-| Section 1, Kaifeng Street, Zhongzheng District, Taipei City                            |                  | @mmgeneral                    | August 31, 2026    | 1,6                  |                  | @Liang Pin beef noodles 良品牛肉麵 @Ruyi sunny cake 如邑堂 @Ximending 西門町 @payphone<sup>*</sup> @hold hands<sup>*</sup> @DonDonDonki 唐吉訶德 | @tour @restaurant @Taipei main station (台北車站)               |
-| Qingguang market, Zhongshan district, Taipei city<sup><font color='red'>v</font></sup> | 晴光市場         | @mmgeneral                    | September 4, 2026  | 1                    | Michelin, 6.5/10 | @HuangJi braised<sup>*</sup> pork rice 黃記魯肉飯 @Tatung university 大同大學 @lottery                                                           | @restaurant                                                     |
-| Ximending<sup><font color='red'>v</font></sup>                                         | 西門町           | @mmgeneral                    | September 7, 2026  | 1,6                  |                  | @Ay-Chung flour-rice<sup>\*</sup> noodle 阿宗麵線 @Oromo cafe<sup>*</sup> 奧蘿茉 @StarBeary 熊嗨星樂園                                           | @restaurant @tour @claw machine @Taipei main station (台北車站) |
-| Taipei Arena<sup>*</sup>, Nanjing East Road, Songshan district, Taipei city            | 松山區臺北小巨蛋 | @mmgeneral                    | September 8, 2026  | 1,2                  | 7/10             | @Ento Buzz<sup>\*</sup> 蟲蟲巴斯 @Gentry<sup>*</sup> Noodle 仕紳品麵 @lottery @FunStarCatch Fun星球                                              | @restaurant                                                     |
-| No.61, Xingfu Road, Xinzhuang District, New Taipei city                                | 新莊區幸福路61號 | @eat1025                      | September 7, 2026  | 1                    |                  | @lottery @Kumagoshi ramen 熊越岳                                                                                                                 | @restaurant                                                     |
-| a flat, Xingfu Road, Xinzhuang District, New Taipei City                               |                  | @eat1025 @mmgeneral @abbby156 | September 15, 2026 | 5                    | -                | @E7play @Overcooked 2!                                                                                                                           | @gathering                                                      |
+| place                                                                                                             | Chinese                        | co-op                                     | date               | category<sup>*</sup> | rating           | keywords                                                                                                                                                           | situation                                                       |
+|-------------------------------------------------------------------------------------------------------------------|--------------------------------|-------------------------------------------|--------------------|----------------------|------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
+| garden city                                                                                                       | 遠東                           | @mmgeneral                                | August 23, 2026    | 1,2                  | 5/5              | @garden city @大巨蛋 @東引快刀手                                                                                                                                   | @meeting @dating                                                |
+| Fuxing Congee                                                                                                     | 福星廣東粥蛤蜊麵               | @mmgeneral                                | August 24, 2026    | 1                    | 6.5/10           | @Noodles with Clams                                                                                                                                                | @restaurant                                                     |
+| Honhui Plaza                                                                                                      | 宏匯廣場                       | @eat1025                                  | August 25, 2026    | 1,4                  | Michelin         | @handmade cake @nara<sup>*</sup>                                                                                                                                   | @handmade @restaurant                                           |
+| a flat, Xingfu Road, Xinzhuang District, New Taipei City                                                          |                                | @eat1025 @mmgeneral                       | August 25, 2026    | 5                    | -                | @lottery @nara @Overcooked 2!                                                                                                                                      | @gathering                                                      |
+| Yonghe Lehua Night Market<sup><font color='red'>v</font></sup>                                                    | 永和樂華夜市                   | @mmgeneral                                | August 27, 2026    | 1,6                  | Michelin         | @Lehua three delicacies<sup>*</sup> soup 樂華三鮮羹 @A-ba's Taro Ball 阿爸の芋圓 @lottery @shopping @catch me 夾子園                                               | @tour @restaurant @claw machine                                 |
+| Section 1, Kaifeng Street, Zhongzheng District, Taipei City                                                       |                                | @mmgeneral                                | August 31, 2026    | 1,6                  |                  | @Liang Pin beef noodles 良品牛肉麵 @Ruyi sunny cake 如邑堂 @Ximending 西門町 @payphone<sup>*</sup> @hold hands<sup>*</sup> @DonDonDonki 唐吉訶德                   | @tour @restaurant @Taipei main station (台北車站)               |
+| Qingguang market, Zhongshan district, Taipei city<sup><font color='red'>v</font></sup>                            | 晴光市場                       | @mmgeneral                                | September 4, 2026  | 1                    | Michelin, 6.5/10 | @HuangJi braised<sup>*</sup> pork rice 黃記魯肉飯 @Tatung university 大同大學 @lottery                                                                             | @restaurant                                                     |
+| Ximending<sup><font color='red'>v</font></sup>                                                                    | 西門町                         | @mmgeneral                                | September 7, 2026  | 1,6                  |                  | @Ay-Chung flour-rice<sup>\*</sup> noodle 阿宗麵線 @Oromo cafe<sup>*</sup> 奧蘿茉 @StarBeary 熊嗨星樂園                                                             | @restaurant @tour @claw machine @Taipei main station (台北車站) |
+| Taipei Arena<sup>*</sup>, Nanjing East Road, Songshan district, Taipei city                                       | 松山區臺北小巨蛋               | @mmgeneral                                | September 8, 2026  | 1,2                  | 7/10             | @Ento Buzz<sup>\*</sup> 蟲蟲巴斯 @Gentry<sup>*</sup> Noodle 仕紳品麵 @lottery @FunStarCatch Fun星球                                                                | @restaurant                                                     |
+| No.61, Xingfu Road, Xinzhuang District, New Taipei city                                                           | 新莊區幸福路61號               | @eat1025                                  | September 7, 2026  | 1                    |                  | @lottery @Kumagoshi ramen 熊越岳                                                                                                                                   | @restaurant                                                     |
+| a flat, Xingfu Road, Xinzhuang District, New Taipei City                                                          |                                | @eat1025 @mmgeneral @abbby156             | September 15, 2026 | 5                    | -                | @E7play @Overcooked 2!                                                                                                                                             | @gathering                                                      |
+| Yizhong Street night market, North District, Taichung City                                                        | `台中市`一中街夜市             | @eat1025 @mmgeneral @ririii1231           | September 17, 2026 | 1,5,6                |                  | @THSR Banqiao -> Taichung 19:39 @天使雞排 Angel Fried Chicken @UMI @浪人壽司🍣 Ronin Sushi 🍣                                                                      | @gathering @tour @restaurant                                    |
+| Fengyuan Miaodong night market, Fengyuan District, Taichung City -> Yizhong Street, North District, Taichung city | `台中市`豐原廟東夜市 -> 一中街 | @eat1025 @mmgeneral @abbby156 @ririii1231 | September 18, 2026 | 1,5                  |                  | @廟東清水排骨麵 Miaodong Qingshui pork rib<sup>*</sup> noodles @廟東肉圓 Miaodong meatballs @廟東菱角酥 Miaodong fried water chestnut<sup>\*</sup> @紅帽象 Red hat | @gathering @restaurant                                          |
 
 > __*__:
 >
@@ -76,6 +112,15 @@ comments: true
 >   if an aircraft buzzes a place, it flies low over it, usually in a threatening way. （飞机）低飞掠过，逼近
 > - gentry: the `gentry` are people of high social status or high birth. 上流社會人士；紳士階層；貴族階層；（Gentry）金特里（人名）
 > - arena: an `arena` is a place where sports, entertainments, and other public events take place. It has seats around it where people sit and watch. 运动场；竞技场；体育场；（Arena）阿里纳（人名）
+> - rib: [N-Count] your `ribs` are the 12 pairs of curved bones that surround your body. 肋骨<br/>
+>   [N-Count] A `rib of` meat such as beef or pork is a piece that has been cut to include one of the animal's ribs. 排骨；肋条（肉）<br/>
+>   [Verb] if you `rib` someone `about` something, you tease them about it in a friendly way. （友善地）开...的玩笑，逗弄，取笑
+> - chestnut: [N-Count] A `chestnut` or `chestnut tree` is a tall tree with broad leaves. 栗子🌰树<br/>
+>   [N-Count] `Chestnuts` are the reddish-brown nuts that grow on chestnut trees. you can eat chestnuts. 栗子🌰<br/>
+>   [color] something that is `chestnut` is dark reddish-brown in colour. 栗色；红棕色<br/>
+>   ![chestnut_117203815.jpg](/assets/tw/chestnut_117203815.jpg)
+> - water chestnut: [N-Count] A `water chestnut` is the thick bottom part of the stem of a plant which grows in China. It is used in Chinese cookery. 荸荠;菱角<br/>
+>   ![waterchestnut_104443388.jpg](/assets/tw/waterchestnut_104443388.jpg)
 >
 > __<font color='red'>v</font>__: missed the live stream, watch the recorded video.
 
@@ -85,14 +130,17 @@ comments: true
 
 ### About hand-shaken drinks
 
-| brand                                              | Chinese  | recommendation                                                                                             |
-|----------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------|
-| 50 Lan                                             | 50嵐     | 四季春青茶 Light Oolong Tea /NT\$40 (L)                                                                    |
-| Unique Green                                       | UG       | UG奶茶-三窨<sup>\*</sup>十五茉·奶茶<br/>Rich Milk Tea: Fifteen Jasmine<sup>*</sup> Flowers Tea /NT\$75 (L) |
-| [DaYungs](https://www.dayungs.com/)                | 大苑子   |                                                                                                            |
-| [Chun Shui Tang](https://www.chunshuitang.com.tw/) | 春水堂   |                                                                                                            |
-| [Daming](https://www.damingtea.com.tw/)            | 大茗     | 玉露青茶 Taiwanese Ching Tea /NT\$40 (L)                                                                   |
-| [UNOCHA](https://unocha.com.tw/)                   | 烏弄原茶 | 手採阿里山金萱 hand picked Alishan Jinxuan tea /NT\$50 (L)                                                 |
+| brand                                              | Chinese  | recommendation                                                                                                                                                                      |
+|----------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 50 Lan                                             | 50嵐     | 四季春青茶 Light Oolong Tea /NT\$40 (L)                                                                                                                                             |
+| Unique Green                                       | UG       | UG奶茶-三窨<sup>\*</sup>十五茉·奶茶<br/>Rich Milk Tea: Fifteen Jasmine<sup>*</sup> Flowers Tea /NT\$75 (L)                                                                          |
+| [DaYungs](https://www.dayungs.com/)                | 大苑子   |                                                                                                                                                                                     |
+| [Chun Shui Tang](https://www.chunshuitang.com.tw/) | 春水堂   |                                                                                                                                                                                     |
+| [Daming](https://www.damingtea.com.tw/)            | 大茗     | 玉露青茶 Taiwanese Ching Tea /NT\$40 (L)                                                                                                                                            |
+| [UNOCHA](https://unocha.com.tw/)                   | 烏弄原茶 | 手採阿里山金萱 hand picked Alishan Jinxuan tea /NT\$50 (L)                                                                                                                          |
+| [A Nice Holiday](https://www.aniceholiday.com.tw/) | 一沐日   | 油切蕎麥茶（無糖、咖啡因） Buckwheat<sup>\*</sup> Tea (sugar free & caffeine<sup>\*</sup> free) /NT\$40 (L)<br/>輕香烏龍綠 Refreshing Oolong Tea /NT\$45 (L)                        |
+| [KEBUKE Tea](https://kebuke.com/en/)               | 可不可   | <font color='black'>~~白柚水玉紅烏龍~~</font> Pomelo<sup>\*</sup> Red Oolong with Agar Boba<sup>*</sup> /NT\$65 (M)<br/>~~黑葉荔香紅烏龍~~ Black-Leaf Lychee Red Oolong /NT\$50 (M) |
+| [Dejeng](https://dejeng.com/en/)                   | 得正     | 輕烏龍 Light roasted Oolong tea /NT\$35 (L)                                                                                                                                         |
 
 > [!TIP]
 > Hello, I'd like a large (L) / medium (M) cup of oolong tea,
@@ -106,8 +154,15 @@ comments: true
 > __*__:
 >
 > - 窨: pronunciation 'yìn', fumigate (薰蒸；煙薰)
-> - jasmine: [N-Var] `Jasmine` is a climbing plant which has small white or yellow flowers with a pleasant smell. 茉莉；素馨
+> - jasmine: [N-Var] `Jasmine` is a climbing plant which has small white or yellow flowers with a pleasant smell. 茉莉；素馨<br/>
 >   ![jasmine_429577711.jpg](/assets/tw/jasmine_429577711.jpg)
+> - buckwheat: [N-Uncounted] `Buckwheat` is a type of small black grain used for feeding animals and making flour. `Buckwheat` also refers to the flour itself. 荞麦；荞麦粉
+>   ![buckwheat_142651798.jpg](/assets/tw/buckwheat_142651798.jpg)
+> - caffeine: [N-Uncounted] `Caffeine` is a chemical substance found in coffee, tea, and cocoa, which affects your brain and body and makes you more active. 咖啡因；咖啡碱
+> - pomelo: /'pɑːməloʊ/ [N-Count] 柚子<br/>
+>   ![pomelo.jpg](/assets/tw/pomelo.jpg)
+> - agar: /'eɪɡɑːr/ [N] 琼脂（一种植物胶）；（Agar）阿加（人名）
+> - boba: [N] 珍珠奶茶中的木薯粉圆；珍珠奶茶(boba milk tea)；波霸
 
 ### About Taiwan Snacks
 
@@ -115,6 +170,7 @@ comments: true
 |---------------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|
 | twisted dough<sup>*</sup> | 雙胞胎          | ![twisted-dough-p1_07.png](/assets/tw/twisted-dough-p1_07.png)<!-- https://www.ytower.com.tw/prj/prj_339/images/p1_07.jpg -->                                                                                                   | sweet, deep fry (油炸) |
 | Taiwan beer               | 台灣 🇹🇼 啤酒 🍺 | ![TaiwanBeer-GoldMedal-dc34f1890bdca25aa30a968416e1b3fe.png](/assets/tw/TaiwanBeer-GoldMedal-dc34f1890bdca25aa30a968416e1b3fe.png)<!-- https://www.twbeer.com.tw/image/Adlist/20250917/dc34f1890bdca25aa30a968416e1b3fe.jpg --> | beer                   |
+| Miaodong water chestnut   | 廟東菱角酥      | ![Miaodong_waterChestnut.png](/assets/tw/Miaodong_waterChestnut.png)<!-- https://www.fengyuan.taichung.gov.tw/media/253607/廟東口_菱角酥.jpg -->                                                                                | sweet, deep fry (油炸) |
 
 > __*__:
 >
@@ -123,12 +179,19 @@ comments: true
 
 ### About Taiwan transportation
 
-| transportation          | method       | feature                            | website                                  |
-|-------------------------|--------------|------------------------------------|------------------------------------------|
-| cycling                 | YouBike      | bicycle rental service             | <https://en.youbike.com.tw/region/main/> |
-| MRT(Mass Rapid Transit) | Metro Taipei | Easy Wallet 悠遊付                 | <https://english.metro.taipei/>          |
-| bus                     | Taipei eBus  | Easy Wallet 悠遊付                 | <https://ebus.gov.taipei/Dybus.aspx>     |
-| motorcycle              | Wemo Fly     | scooter<sup>*</sup> rental service | <https://www.wemoscooter.com/wemo-fly>   |
+| transportation          | method                 | feature                            | website                                  |
+|-------------------------|------------------------|------------------------------------|------------------------------------------|
+| cycling                 | YouBike                | bicycle rental service             | <https://en.youbike.com.tw/region/main/> |
+| MRT(Mass Rapid Transit) | Metro Taipei           | Easy Wallet 悠遊付                 | <https://english.metro.taipei/>          |
+| bus                     | Taipei eBus            | Easy Wallet 悠遊付                 | <https://ebus.gov.taipei/Dybus.aspx>     |
+| motorcycle              | Wemo Fly               | scooter<sup>*</sup> rental service | <https://www.wemoscooter.com/wemo-fly>   |
+| high speed railway      | Taiwan High Speed Rail | fast, on time, and safe            | <https://www.thsrc.com.tw/>              |
+
+### convenient life
+
+| facility   | Chinese | feature           | usage                     |
+|------------|---------|-------------------|---------------------------|
+| FamilyMart | 全家    | convenience store | temporary package storage |
 
 ### About Taiwan payment
 
@@ -141,11 +204,12 @@ comments: true
 
 ### terms used in Taiwan
 
-| term   | meaning                       | description             |
-|--------|-------------------------------|-------------------------|
-| 載具   | invoice 发票                  | digital invoice carrier |
-| 吃到飽 | all-you-can-eat (AYCE) 自助餐 | self-service buffet     |
-| 奧客   | difficult customer 难搞的顾客 |                         |
+| term     | meaning                            | description             |
+|----------|------------------------------------|-------------------------|
+| 載具     | invoice 发票                       | digital invoice carrier |
+| 吃到飽   | all-you-can-eat (AYCE) 自助餐      | self-service buffet     |
+| 奧客     | difficult customer 难搞的顾客      |                         |
+| 行動電源 | mobile power bank 充电宝、移动电源 | portable power banks    |
 
 ## About Taiwan Education
 
@@ -197,6 +261,9 @@ comments: true
 > - personnel: [N-Uncounted] `personnel` is the department in a large company or organization that deals with employees, keeps their records, and helps with any problems they might have. 人事部门<br/>
 >   [N-Plural] the `personnel` of an organization are the people who work for it. （组织中的）人员，职员
 > - recipient: the `recipient` of something is the person who receives it. 接受者；领受人
+> - extrovert: [Adj-graded] someone who is `extrovert` is very active, lively, and friendly. 外向的；活泼友好的 [mainly British]<br/>
+>   introvert: [Adj-graded] `Introvert` means the same as `introverted`. 同 introverted<br/>
+>   [N-Count] An `introvert` is a quiet, shy person who finds it difficult to talk to people. 性格内向的人；不爱交际的人
 
 ## Reference
 
@@ -221,3 +288,4 @@ comments: true
 - [7-ELEVEN](https://www.7-11.com.tw/)
 - [All-you-can-eat restaurant](https://en.wikipedia.org/wiki/All-you-can-eat_restaurant)
 - [109年台灣與中國語言辨別能力測驗](https://docs.google.com/forms/d/e/1FAIpQLScH0UnWg-LEI2KEfXHYGyfUTuYaTEm4539uC1_usiMy10Vzlw/viewform)
+- [Saint Laurent](https://www.ysl.com)
