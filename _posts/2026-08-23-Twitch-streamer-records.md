@@ -79,6 +79,7 @@ comments: true
 | a flat, Xingfu Road, Xinzhuang District, New Taipei City                                                          |                                | @eat1025 @mmgeneral @abbby156             | September 15, 2026 | 5                    | -                | @E7play @Overcooked 2!                                                                                                                                             | @gathering                                                      |
 | Yizhong Street night market, North District, Taichung City                                                        | `台中市`一中街夜市             | @eat1025 @mmgeneral @ririii1231           | September 17, 2026 | 1,5,6                |                  | @THSR Banqiao -> Taichung 19:39 @天使雞排 Angel Fried Chicken @UMI @浪人壽司🍣 Ronin Sushi 🍣                                                                      | @gathering @tour @restaurant                                    |
 | Fengyuan Miaodong night market, Fengyuan District, Taichung City -> Yizhong Street, North District, Taichung city | `台中市`豐原廟東夜市 -> 一中街 | @eat1025 @mmgeneral @abbby156 @ririii1231 | September 18, 2026 | 1,5                  |                  | @廟東清水排骨麵 Miaodong Qingshui pork rib<sup>*</sup> noodles @廟東肉圓 Miaodong meatballs @廟東菱角酥 Miaodong fried water chestnut<sup>\*</sup> @紅帽象 Red hat | @gathering @restaurant                                          |
+| a flat, Xingfu Road, Xinzhuang district, New Taipei city                                                          |                                | @eat1025                                  | September 23, 2026 | 4                    |                  | @homemade creme brulee with milk, eggs, and caramel<sup>*</sup> 焦糖烤布蕾                                                                                         | @handmade                                                       |
 
 > __*__:
 >
@@ -121,6 +122,11 @@ comments: true
 >   ![chestnut_117203815.jpg](/assets/tw/chestnut_117203815.jpg)
 > - water chestnut: [N-Count] A `water chestnut` is the thick bottom part of the stem of a plant which grows in China. It is used in Chinese cookery. 荸荠;菱角<br/>
 >   ![waterchestnut_104443388.jpg](/assets/tw/waterchestnut_104443388.jpg)
+> - creme: [N-Count] `creme` is a French word for 'cream'. 奶油，乳酪，（牛奶表面凝固的）奶皮;护肤霜，乳霜（多用于美容、护肤产品名称）
+> - brulee: [N] 布蕾（一种顶部覆盖着焦糖的法式甜点）<br/>[Verb] 烘烤（通常覆盖着糖的）食物顶部<br/>Creme Brulee 烤布蕾；焦糖布蕾；法式布蕾
+> - caramel: [N-Var] A `caramel` is a chewy sweet food made from sugar, butter, and milk. (用蔗糖、黄油🧈、牛奶🥛制成的)卡拉梅尔糖,黄油奶糖<br/>
+>   [N-Uncounted] `Caramel` is burnt sugar used for colouring and flavouring food. (上色、调味用的)焦糖<br/>
+>   （Caramel）卡拉梅尔（人名）
 >
 > __<font color='red'>v</font>__: missed the live stream, watch the recorded video.
 
@@ -189,9 +195,10 @@ comments: true
 
 ### convenient life
 
-| facility   | Chinese | feature           | usage                     |
-|------------|---------|-------------------|---------------------------|
-| FamilyMart | 全家    | convenience store | temporary package storage |
+| facility                                               | Chinese                                 | feature              | usage                                        |
+|--------------------------------------------------------|-----------------------------------------|----------------------|----------------------------------------------|
+| FamilyMart                                             | 全家                                    | convenience store    | temporary package storage                    |
+| SOTO Culinary Torch with Stabilizer<sup>*</sup> KC-701 | 日本SOTO 抗菌溫控瓦斯噴槍KC-701(附底座) | safe and easy to use | ![SOTO-kc701.png](/assets/tw/SOTO-kc701.png) |
 
 ### About Taiwan payment
 
@@ -261,6 +268,13 @@ comments: true
 > - personnel: [N-Uncounted] `personnel` is the department in a large company or organization that deals with employees, keeps their records, and helps with any problems they might have. 人事部门<br/>
 >   [N-Plural] the `personnel` of an organization are the people who work for it. （组织中的）人员，职员
 > - recipient: the `recipient` of something is the person who receives it. 接受者；领受人
+> - culinary: [Adj.] `Culinary` means concerned with cooking. 烹饪的，厨房的
+> - torch: [N-Count] A `torch` is a small electric light which is powered by batteries and which you can carry in your hand. 手电筒🔦[British]<br/>
+>   [N-Count] A `torch` is a long stick with burning material at one end, used to provide light or to set things on fire. 火把;火炬<br/>
+>   [Verb] if someone `torches` a building or vehicle, they set fire to it deliberately. 纵火焚烧;放火烧<br/>
+>   [Phrase] if you say that someone `is carrying a torch for` someone else, you mean that they secretly admire them or love them. 暗恋;对...单相思<br/>
+>   [Phrase] if you say that someone is `carrying the torch` of a particular belief or movement, you mean that they are working hard to ensure that it is not forgotten and continues to grow stronger. (为...)奋战;(为...)奋斗
+> - stabilizer: [N-Count] A `stabilizer` is a device, mechanism, or chemical that makes something stable. 稳定装置;稳定器;稳定剂
 > - extrovert: [Adj-graded] someone who is `extrovert` is very active, lively, and friendly. 外向的；活泼友好的 [mainly British]<br/>
 >   introvert: [Adj-graded] `Introvert` means the same as `introverted`. 同 introverted<br/>
 >   [N-Count] An `introvert` is a quiet, shy person who finds it difficult to talk to people. 性格内向的人；不爱交际的人
@@ -289,3 +303,4 @@ comments: true
 - [All-you-can-eat restaurant](https://en.wikipedia.org/wiki/All-you-can-eat_restaurant)
 - [109年台灣與中國語言辨別能力測驗](https://docs.google.com/forms/d/e/1FAIpQLScH0UnWg-LEI2KEfXHYGyfUTuYaTEm4539uC1_usiMy10Vzlw/viewform)
 - [Saint Laurent](https://www.ysl.com)
+- [SOTO Culinary Torch with Stabilizer KC-701](https://www.sototaiwan.com.tw/products/kc701)
