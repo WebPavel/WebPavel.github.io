@@ -81,6 +81,7 @@ comments: true
 | Fengyuan Miaodong night market, Fengyuan District, Taichung City -> Yizhong Street, North District, Taichung city | `台中市`豐原廟東夜市 -> 一中街 | @eat1025 @mmgeneral @abbby156 @ririii1231 | September 18, 2026 | 1,5                  |                  | @廟東清水排骨麵 Miaodong Qingshui pork rib<sup>*</sup> noodles @廟東肉圓 Miaodong meatballs @廟東菱角酥 Miaodong fried water chestnut<sup>\*</sup> @紅帽象 Red hat             | @gathering @restaurant                                          |
 | a flat, Xingfu Road, Xinzhuang district, New Taipei city                                                          |                                | @eat1025                                  | September 23, 2026 | 4                    |                  | @homemade creme brulee with milk, eggs, and caramel<sup>*</sup> 焦糖烤布蕾                                                                                                     | @handmade                                                       |
 | Taipei 101/World Trade Center                                                                                     | 臺北世界貿易中心               | @eat1025 @mmgeneral                       | September 24, 2026 | 3                    |                  | @2026 WirForce @Starbucks Iced V HTL (Hojicha Tea Latte<sup>\*</sup>) 冰`福吉茶那堤`V(Grande\|Venti<sup>*</sup>) @Logitech G Pro X2 SuperStrike @Taipei 101 OwLocker @casetify | @gathering                                                      |
+| [Huazhong Campground](https://xn--fiq57vhrvoqqq6v.tw/location.php), Huazhong riverside park, Wanhua District      | 萬華區華中河濱公園華中露營場   | @eat1025                                  | September 25, 2026 | 1,4,5                |                  | @Mid-Autumn Festival @outdoor barbecue @purchase ingredients<sup>*</sup> @netizen meeting                                                                                      | @gathering                                                      |
 
 > __*__:
 >
@@ -134,6 +135,8 @@ comments: true
 >   （Grande）格朗德，格兰德（人名或姓氏）
 > - venti: [N] （星巴克用语）超大杯；梵迪珠宝💎<br/>
 >   [num.] （意大利语）二十
+> - ingredient: [N-Count] `Ingredients` are the things that are used to make something, especially all the different foods you use when you are cooking a particular dish. 成分;(烹调的)原料<br/>
+>   [N-Count] An `ingredient` of a situation is one of the essential parts of it. 要素;因素
 >
 > __<font color='red'>v</font>__: missed the live stream, watch the recorded video.
 
