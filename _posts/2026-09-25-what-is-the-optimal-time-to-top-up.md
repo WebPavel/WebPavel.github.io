@@ -44,6 +44,13 @@ An additional factor to consider is the city where the opening branch of the ban
 | railway train ticket                         | half-price discount for students             |
 | Visa application                             | lower standards for students                 |
 
+## in practice
+
+| product                               | involved  | city      | feature                     | happen         |
+|---------------------------------------|-----------|-----------|-----------------------------|----------------|
+| SPDB                                  | bank card | Shanghai  | fewer payment restrictions  | September 2026 |
+| UnionPay (Guangdong Greater Bay Area) | QuickPass | Guangzhou | regional recharge discounts | September 2026 |
+
 > __*__:
 > - optimal: see `optimum`: [Adj.] The `optimum` or `optimal` level or state of something is the best level or state that it could achieve. 最优的;最佳的;最适宜的
 > - enrollment: [N-Uncounted] `Enrollment` is the act of enrolling at an institution or on a course. 登记;注册<br/>
