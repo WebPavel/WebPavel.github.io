@@ -90,7 +90,7 @@ comments: true
 > - dome: [N-Count] A `dome` is a round roof. 穹顶;圆屋顶<br/>
 >   [N-Count] A `dome` is any object that has a similar shape to a dome. 半球形物;圆顶状物
 > - congee: [N] a type of `rice porridge` or `gruel` popular in many Asian countries. 粥🥣，大米稀饭<br/>
->   [Verb] depart after obtaining formal permission. <正式>告别<br/>
+>   [Verb] depart after obtaining formal permission. <正式\>告别<br/>
 >   [Verb] perform a ceremonious bow. 行鞠躬礼
 > - clam: [N-Count] `Clams` are a kind of shellfish which can be eaten. 蛤;蚌;蛤蜊<br/>
 >   ![clam_383609269.jpg](/assets/tw/clam_383609269.jpg)
