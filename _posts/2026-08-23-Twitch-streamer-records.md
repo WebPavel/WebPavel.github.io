@@ -82,6 +82,7 @@ comments: true
 | a flat, Xingfu Road, Xinzhuang district, New Taipei city                                                          |                                | @eat1025                                  | September 23, 2026 | 4                    |                  | @homemade creme brulee with milk, eggs, and caramel<sup>*</sup> 焦糖烤布蕾                                                                                                     | @handmade                                                       |
 | [Taipei 101](https://www.taipei-101.com.tw/)/World Trade Center                                                   | 臺北世界貿易中心               | @eat1025 @mmgeneral                       | September 24, 2026 | 3                    |                  | @2026 WirForce @Starbucks Iced V HTL (Hojicha Tea Latte<sup>\*</sup>) 冰`福吉茶那堤`V(Grande\|Venti<sup>*</sup>) @Logitech G Pro X2 SuperStrike @Taipei 101 OwLocker @casetify | @gathering                                                      |
 | [Huazhong Campground](https://xn--fiq57vhrvoqqq6v.tw/location.php), Huazhong riverside park, Wanhua District      | 萬華區華中河濱公園華中露營場   | @eat1025                                  | September 25, 2026 | 1,4,5                |                  | @Mid-Autumn Festival @outdoor barbecue @purchase ingredients<sup>*</sup> @netizen meeting                                                                                      | @gathering                                                      |
+| World Trade Center                                                                                                | 臺北世界貿易中心               | @eat1025 @mmgeneral                       | September 26, 2026 | 3                    |                  | @2026 WirForce @Starbucks Iced G HTL (Hojicha Tea Latte<sup>\*</sup>) 冰`福吉茶那堤`G(Grande\|Venti<sup>\*</sup>) @YSL Cushion<sup>*</sup> BR10 @Ave Mujica                    | @gathering                                                      |
 
 > __*__:
 >
@@ -135,8 +136,13 @@ comments: true
 >   （Grande）格朗德，格兰德（人名或姓氏）
 > - venti: [N] （星巴克用语）超大杯；梵迪珠宝💎<br/>
 >   [num.] （意大利语）二十
-> - ingredient: [N-Count] `Ingredients` are the things that are used to make something, especially all the different foods you use when you are cooking a particular dish. 成分;(烹调的)原料<br/>
+> - ingredient: [N-Count] `Ingredients` are the things that are used to make something, especially all the different foods you use when you are cooking a particular dish. 成分;（烹调的）原料<br/>
 >   [N-Count] An `ingredient` of a situation is one of the essential parts of it. 要素;因素
+> - cushion: [N-Count] A `cushion` is a fabric case filled with soft material, which you put on a seat to make it more comfortable. 垫子;软垫;坐垫;靠垫<br/>
+>   [N-Count] A `cushion` is a soft pad or barrier, especially one that protects something. (尤指起保护作用的)护垫，隔垫<br/>
+>   [Verb] something that `cushions` an object when it hits something protects it by reducing the force of the impact. 减少对...的震动;缓和对...的冲击<br/>
+>   [Verb] To `cushion` the effect of something unpleasant means to reduce it. 减轻(令人不快的影响)<br/>
+>   [N-Count] <usually singular> something that is a `cushion against` something unpleasant reduces its effect. 起保护(或缓冲)作用的事物
 >
 > __<font color='red'>v</font>__: missed the live stream, watch the recorded video.
 
@@ -157,6 +163,7 @@ comments: true
 | [A Nice Holiday](https://www.aniceholiday.com.tw/) | 一沐日   | 油切蕎麥茶（無糖、咖啡因） Buckwheat<sup>\*</sup> Tea (sugar free & caffeine<sup>\*</sup> free) /NT\$40 (L)<br/>輕香烏龍綠 Refreshing Oolong Tea /NT\$45 (L)                        |
 | [KEBUKE Tea](https://kebuke.com/en/)               | 可不可   | ~~<font color='black'>白柚水玉紅烏龍</font>~~ Pomelo<sup>\*</sup> Red Oolong with Agar Boba<sup>*</sup> /NT\$65 (M)<br/>~~黑葉荔香紅烏龍~~ Black-Leaf Lychee Red Oolong /NT\$50 (M) |
 | [Dejeng](https://dejeng.com/en/)                   | 得正     | 輕烏龍 Light roasted Oolong tea /NT\$35 (L)                                                                                                                                         |
+| [Like Tea Shop](https://www.liketeashop.com/)      | 老賴茶棧 | 文清烏龍 Oolong tea /NT\$40                                                                                                                                                         |
 
 > [!TIP]
 > Hello, I'd like a large (L) / medium (M) cup of oolong tea,
@@ -205,11 +212,13 @@ comments: true
 
 ### convenient life
 
-| facility                                               | Chinese                                 | feature              | usage                                        |
-|--------------------------------------------------------|-----------------------------------------|----------------------|----------------------------------------------|
-| FamilyMart                                             | 全家                                    | convenience store    | temporarily deposit luggage                  |
-| SOTO Culinary Torch with Stabilizer<sup>*</sup> KC-701 | 日本SOTO 抗菌溫控瓦斯噴槍KC-701(附底座) | safe and easy to use | ![SOTO-kc701.png](/assets/tw/SOTO-kc701.png) |
-| OwLocker                                               | 智慧型寄物櫃 smart lockers              | deposit luggage      | <https://owlocker.com/>                      |
+| facility                                               | Chinese                                 | feature                                                       | usage                                        |
+|--------------------------------------------------------|-----------------------------------------|---------------------------------------------------------------|----------------------------------------------|
+| FamilyMart                                             | 全家                                    | convenience store                                             | temporarily deposit luggage                  |
+| SOTO Culinary Torch with Stabilizer<sup>*</sup> KC-701 | 日本SOTO 抗菌溫控瓦斯噴槍KC-701(附底座) | safe and easy to use                                          | ![SOTO-kc701.png](/assets/tw/SOTO-kc701.png) |
+| OwLocker                                               | 智慧型寄物櫃 smart lockers              | deposit luggage                                               | <https://owlocker.com/>                      |
+| Taiwan Mobile                                          | 台灣大哥大                              | telecom, mobile communication                                 | <https://www.taiwanmobile.com/>              |
+| ShowBa                                                 | 小北百貨                                | 24-hour superstore<sup>\*</sup>, big box<sup>*</sup> retailer | <https://www.showba.com.tw/>                 |
 
 ### About Taiwan payment
 
@@ -286,6 +295,8 @@ comments: true
 >   [Phrase] if you say that someone `is carrying a torch for` someone else, you mean that they secretly admire them or love them. 暗恋;对...单相思<br/>
 >   [Phrase] if you say that someone is `carrying the torch` of a particular belief or movement, you mean that they are working hard to ensure that it is not forgotten and continues to grow stronger. (为...)奋战;(为...)奋斗
 > - stabilizer: [N-Count] A `stabilizer` is a device, mechanism, or chemical that makes something stable. 稳定装置;稳定器;稳定剂
+> - superstore: [N-Count] `Superstores` are very large supermarkets or shops selling household goods and equipment. Superstores are usually built outside city centres away from other shops. 大型商场;大型超市
+> - big box: big-box, [Adj.] A `big-box` store or retailer is very large shop where a great variety of merchandise is sold. 大卖场的 [US]
 > - extrovert: [Adj-graded] someone who is `extrovert` is very active, lively, and friendly. 外向的；活泼友好的 [mainly British]<br/>
 >   introvert: [Adj-graded] `Introvert` means the same as `introverted`. 同 introverted<br/>
 >   [N-Count] An `introvert` is a quiet, shy person who finds it difficult to talk to people. 性格内向的人；不爱交际的人
@@ -316,3 +327,4 @@ comments: true
 - [Saint Laurent](https://www.ysl.com)
 - [SOTO Culinary Torch with Stabilizer KC-701](https://www.sototaiwan.com.tw/products/kc701)
 - [2026 WirForce](https://wirforce.com.tw/)
+- [Oolong Tea](https://www.liketeashop.com/tw/news/2/23)
