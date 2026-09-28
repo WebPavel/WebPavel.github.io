@@ -21,7 +21,7 @@ comments: true
 
 ### playing offline non-electronic games
 
-| game                    | Chinese                      | venue             | co-op                         | date               | preparation            | format                                                                                   |
+| game                    | Chinese                      | venue<sup>*</sup> | co-op                         | date               | preparation            | format                                                                                   |
 |-------------------------|------------------------------|-------------------|-------------------------------|--------------------|------------------------|------------------------------------------------------------------------------------------|
 | Liar's dice<sup>*</sup> | 吹牛骰；扯謊者的骰子；掷骰子 | gathering at home | @eat1025 @mmgeneral @abbby156 | September 18, 2026 | dice 🎲 (5 per player) | bid<sup>*</sup> a higher quantity of the same face or the same quantity of a higher face |
 | old maid                | 抽鬼牌                       | gathering at home | @eat1025 @mmgeneral @abbby156 | September 18, 2026 | poker 🎴♠️             | discarding matching pairs                                                                |
@@ -34,6 +34,8 @@ comments: true
 > - fiction: `Fiction` refers to books and stories about imaginary and events, rather than books about real people or events. 小说<br/>
 >   a statement or account that is `fiction` is not true. 虚构；杜撰；编造<br/>
 >   if something is a fiction, it is not true, although people sometimes pretend that it is true. 虚构之事；幻想
+> - venue: [N-Count] the `venue` for an event or activity is the place where it will happen. （事件或活动的）发生地，举办地点;场地
+> - liar: [N-Count] if you say that someone is a liar, you mean that they tell lies. 说谎者;骗子;（Liar）莉娅尔（人名）
 > - dice: [N-Count] A `dice` is a small cube which has between one and six spots or numbers on its sides, and which is used in games to provide random numbers. 骰子；色子<br/>
 >   [N-Uncounted] `Dice` is a game which is played using dice. 擲骰子遊戲<br/>
 >   [Verb] if you `dice` food, you cut it into small cubes. 把（食物）切成小塊；將...切丁<br/>
