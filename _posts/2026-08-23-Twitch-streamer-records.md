@@ -265,11 +265,11 @@ comments: true
 
 ### University
 
-| university                  | Chinese      | abbr. | website                   | location                                                                                |
-|-----------------------------|--------------|-------|---------------------------|-----------------------------------------------------------------------------------------|
-| Tatung University           | 大同大學     | TTU   | <https://ttu.edu.tw/>     | 台北市中山區中山北路三段40號<br/>No.40, Sec. 3, Zhongshan N. Rd., Taipei city           |
-| Shih Hsin University        | 世新大學     | SHU   | <https://www.shu.edu.tw/> | 台北市木栅路一段17巷1號<br/>No.1, Ln. 17, Sec. 1, Muzha Rd., Wenshan Dist., Taipei city |
-| Overseas Chinese University | 僑光科技大學 | OCU   | <https://www.ocu.edu.tw/> | 台中市西屯區僑光路 100 號<br/>100, Chiao Kwang Rd., Xitun Dist., Taichung city          |
+| university                  | Chinese      | abbr. | website                   | location                                                                                 |
+|-----------------------------|--------------|-------|---------------------------|------------------------------------------------------------------------------------------|
+| Tatung University           | 大同大學     | TTU   | <https://ttu.edu.tw/>     | 台北市中山區中山北路三段40號<br/>No. 40, Sec. 3, Zhongshan N. Rd., Taipei city           |
+| Shih Hsin University        | 世新大學     | SHU   | <https://www.shu.edu.tw/> | 台北市木栅路一段17巷1號<br/>No. 1, Ln. 17, Sec. 1, Muzha Rd., Wenshan Dist., Taipei city |
+| Overseas Chinese University | 僑光科技大學 | OCU   | <https://www.ocu.edu.tw/> | 台中市西屯區僑光路 100 號<br/>100, Chiao Kwang Rd., Xitun Dist., Taichung city           |
 
 ## missing skills
 
@@ -281,10 +281,11 @@ comments: true
 
 ### humorous
 
-| topic                   | joke                                                           | pun<sup>*</sup>                                                                                                      |
-|-------------------------|----------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
-| bald<br/>秃头的；秃顶的 | prepare for the civil service entrance exam<br/>準備公務員考試 | law enforcement<sup>\*</sup> personnel<sup>\*</sup> = hair transplant recipients<sup>*</sup><br/>執法人員 = 植髮人員 |
-| height                  | which is taller, grass or an egg?<br/>草和鸡蛋，哪个更高？     | the grass isn't as tall as the egg. = strawberry cake<br/>草没蛋🥚高 = 草莓🍓蛋糕🍰                                  |
+| topic                   | joke                                                                                                                                                                                                                                                 | pun<sup>*</sup>                                                                                                      |
+|-------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| bald<br/>秃头的；秃顶的 | prepare for the civil service entrance exam<br/>準備公務員考試                                                                                                                                                                                       | law enforcement<sup>\*</sup> personnel<sup>\*</sup> = hair transplant recipients<sup>*</sup><br/>執法人員 = 植髮人員 |
+| height                  | which is taller, grass or an egg?<br/>草和鸡蛋，哪个更高？                                                                                                                                                                                           | the grass isn't as tall as the egg. = strawberry cake<br/>草没蛋🥚高 = 草莓🍓蛋糕🍰                                  |
+| food                    | The shopkeeper offered free bamboo shoots<sup>\*</sup> with the bento<sup>*</sup> box. Xiaoming said no thanks, but the shopkeeper said, "Are you sure? This is your loss."<br/>小明買便當🍱，老闆送筍絲。小明說不用，老闆說你確定嗎，這個是你的筍絲 | bamboo shoots = loss<br/>筍絲=損失                                                                                   |
 
 ## in addition
 
@@ -305,6 +306,19 @@ comments: true
 > - personnel: [N-Uncounted] `personnel` is the department in a large company or organization that deals with employees, keeps their records, and helps with any problems they might have. 人事部门<br/>
 >   [N-Plural] the `personnel` of an organization are the people who work for it. （组织中的）人员，职员
 > - recipient: the `recipient` of something is the person who receives it. 接受者；领受人
+> - shopkeeper: [N-Count] A `shopkeeper` is a person who owns or manages a small shop. (小店的)店主 [British]
+> - bamboo: [N-Var] `Bamboo` is a tall tropical plant with hard, hollow stems. The young shoots of the plant can be eaten and the stems are used to make furniture. 竹；竹子<br/>
+>   ![bamboo_107210384.jpg](/assets/tw/bamboo_107210384.jpg)
+> - shoot: [Verb] if someone `shoots` a person or an animal, they kill them or injure them by firing a bullet or arrow at them. 枪杀;枪击;射伤;射杀<br/>
+>   [Verb] To `shoot` means to fire a bullet from a weapon such as a gun. 开枪;射击🔫<br/>
+>   [Verb] if someone or something `shoots` in a particular direction, they move in that direction quickly and suddenly. （朝某方向）冲，奔，飞驰<br/>
+>   [V-ERG] if you `shoot` something somewhere or if it `shoots` somewhere, it moves there quickly and suddenly. （突然并迅速地）伸出，扔出，抛出<br/>
+>   [Verb] if you `shoot` a look at someone, you look at them quickly and briefly, often in a way that expresses your feelings. 迅速地看，瞥（一眼）<br/>
+>   [Verb] if someone `shoots to` fame, they become famous or successful very quickly. 迅速（成名）;一举（成功）<br/>
+>   [Verb] When people `shoot` a film or `shoot` photographs, they make a film or take photographs using a camera. 拍摄🎬(电影、照片等);摄制<br/>
+>   [N-Count] （usually plural） `Shoots` are plants that are beginning to grow, or new parts growing from a plant or tree. 嫩芽🌱;幼苗;新枝<br/>
+>   [Verb] In sports such as football or basketball, when someone `shoots`, they try to score by kicking, throwing, or hitting the ball towards the goal. 射门;投篮;击球
+> - bento: (also bento box) [N] a thin box, divided into compartments which contain small separate dishes comprising a Japanese meal, esp lunch. 便当🍱;盒饭
 > - culinary: [Adj.] `Culinary` means concerned with cooking. 烹饪的，厨房的
 > - torch: [N-Count] A `torch` is a small electric light which is powered by batteries and which you can carry in your hand. 手电筒🔦[British]<br/>
 >   [N-Count] A `torch` is a long stick with burning material at one end, used to provide light or to set things on fire. 火把;火炬<br/>
@@ -345,3 +359,4 @@ comments: true
 - [SOTO Culinary Torch with Stabilizer KC-701](https://www.sototaiwan.com.tw/products/kc701)
 - [2026 WirForce](https://wirforce.com.tw/)
 - [Oolong Tea](https://www.liketeashop.com/tw/news/2/23)
+- [Punycode Converter](https://www.punycoder.com/)
