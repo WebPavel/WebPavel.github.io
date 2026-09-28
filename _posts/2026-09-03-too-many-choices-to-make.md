@@ -79,9 +79,10 @@ You need to change the country / region of your Apple account to download the ap
 country / region change: (may continue)<br/>
 CHN ~> USA ~> HKG ~> USA ~> SGP ~> AUS ~> HKG
 
-__*__:
-- gonna: is used in written English to present the words 'going to' when they are pronounced informally. 用于书面英语中表示 going to 的非正式发音形式
-- Forrest Gump: Forrest Gump quoted his mother.
+> __*__:
+>
+> - gonna: is used in written English to present the words 'going to' when they are pronounced informally. 用于书面英语中表示 going to 的非正式发音形式
+> - Forrest Gump: Forrest Gump quoted his mother.
 
 ## Reference
 

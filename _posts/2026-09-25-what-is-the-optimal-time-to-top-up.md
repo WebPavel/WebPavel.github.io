@@ -46,12 +46,13 @@ An additional factor to consider is the city where the opening branch of the ban
 
 ## in practice
 
-| product                               | involved  | city      | feature                     | happen         |
-|---------------------------------------|-----------|-----------|-----------------------------|----------------|
-| SPDB                                  | bank card | Shanghai  | fewer payment restrictions  | September 2026 |
-| UnionPay (Guangdong Greater Bay Area) | QuickPass | Guangzhou | regional recharge discounts | September 2026 |
+| product                                 | involved  | city      | feature                     | happen         |
+|-----------------------------------------|-----------|-----------|-----------------------------|----------------|
+| SPDB (Shanghai Pudong Development Bank) | bank card | Shanghai  | fewer payment restrictions  | September 2026 |
+| UnionPay (Guangdong Greater Bay Area)   | QuickPass | Guangzhou | regional recharge discounts | September 2026 |
 
 > __*__:
+>
 > - optimal: see `optimum`: [Adj.] The `optimum` or `optimal` level or state of something is the best level or state that it could achieve. 最优的;最佳的;最适宜的
 > - enrollment: [N-Uncounted] `Enrollment` is the act of enrolling at an institution or on a course. 登记;注册<br/>
 >   [N-Count] <usually singular> An `enrollment` is the number of people who are enrolled at an institution or on a course. 登记人数;注册人数;入学人数
