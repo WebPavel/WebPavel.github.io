@@ -85,10 +85,11 @@ comments: true
 | [Taipei 101](https://www.taipei-101.com.tw/)/World Trade Center                                                   | 臺北世界貿易中心               | @eat1025 @mmgeneral                       | September 24, 2026 | 3                    |                  | @2026 WirForce @Starbucks Iced V HTL (Hojicha Tea Latte<sup>\*</sup>) 冰`福吉茶那堤`V(Grande\|Venti<sup>*</sup>) @Logitech G Pro X2 SuperStrike @Taipei 101 OwLocker @casetify | @gathering                                                      |
 | [Huazhong Campground](https://xn--fiq57vhrvoqqq6v.tw/location.php), Huazhong riverside park, Wanhua District      | 萬華區華中河濱公園華中露營場   | @eat1025                                  | September 25, 2026 | 1,4,5                |                  | @Mid-Autumn Festival @outdoor barbecue @purchase ingredients<sup>*</sup> @netizen meeting                                                                                      | @gathering                                                      |
 | World Trade Center                                                                                                | 臺北世界貿易中心               | @eat1025 @mmgeneral                       | September 26, 2026 | 3                    |                  | @2026 WirForce @Starbucks Iced G HTL (Hojicha Tea Latte<sup>\*</sup>) 冰`福吉茶那堤`G(Grande\|Venti<sup>\*</sup>) @YSL Cushion<sup>*</sup> BR10 @Ave Mujica                    | @gathering                                                      |
+| a flat, Nanjing East Road, Songshan district, Taipei city                                                         |                                | @mmgeneral                                | September 28, 2026 | 8                    |                  | @birthday celebration @dance @Livestream clip submission award<sup>\*</sup> @prospect<sup>\*</sup> @childhood @childbearing values<sup>*</sup> 生育價值觀                      | @birthday                                                       |
 
 > __*__:
 >
-> - category: 1=restaurant, 2=exhibition, 3=show, 4=handmade, 5=gathering, 6=tour
+> - category: 1=restaurant, 2=exhibition, 3=show, 4=handmade, 5=gathering, 6=tour, 7=anniversary, 8=birthday (the anniversary of the date on which you were born)
 > - dome: [N-Count] A `dome` is a round roof. 穹顶;圆屋顶<br/>
 >   [N-Count] A `dome` is any object that has a similar shape to a dome. 半球形物;圆顶状物
 > - congee: [N] a type of `rice porridge` or `gruel` popular in many Asian countries. 粥🥣，大米稀饭<br/>
@@ -140,14 +141,14 @@ comments: true
 >   [Verb] if you `rib` someone `about` something, you tease them about it in a friendly way. （友善地）开...的玩笑，逗弄，取笑
 > - chestnut: [N-Count] A `chestnut` or `chestnut tree` is a tall tree with broad leaves. 栗子🌰树<br/>
 >   [N-Count] `Chestnuts` are the reddish-brown nuts that grow on chestnut trees. you can eat chestnuts. 栗子🌰<br/>
->   [color] something that is `chestnut` is dark reddish-brown in colour. 栗色；红棕色<br/>
+>   [color] something that is `chestnut` is dark reddish-brown (in color). 栗色；红棕色<br/>
 >   ![chestnut_117203815.jpg](/assets/tw/chestnut_117203815.jpg)
 > - water chestnut: [N-Count] A `water chestnut` is the thick bottom part of the stem of a plant which grows in China. It is used in Chinese cookery. 荸荠;菱角<br/>
 >   ![waterchestnut_104443388.jpg](/assets/tw/waterchestnut_104443388.jpg)
 > - creme: [N-Count] `creme` is a French word for 'cream'. 奶油，乳酪，（牛奶表面凝固的）奶皮;护肤霜，乳霜（多用于美容、护肤产品名称）
 > - brulee: [N] 布蕾（一种顶部覆盖着焦糖的法式甜点）<br/>[Verb] 烘烤（通常覆盖着糖的）食物顶部<br/>Creme Brulee 烤布蕾；焦糖布蕾；法式布蕾
-> - caramel: [N-Var] A `caramel` is a chewy sweet food made from sugar, butter, and milk. (用蔗糖、黄油🧈、牛奶🥛制成的)卡拉梅尔糖,黄油奶糖<br/>
->   [N-Uncounted] `Caramel` is burnt sugar used for colouring and flavouring food. (上色、调味用的)焦糖<br/>
+> - caramel: [N-Var] A `caramel` is a chewy, sweet food made from sugar, butter, and milk. (用蔗糖、黄油🧈、牛奶🥛制成的)卡拉梅尔糖,黄油奶糖<br/>
+>   [N-Uncounted] `Caramel` is burnt sugar used for coloring and flavoring food. (上色、调味用的)焦糖<br/>
 >   （Caramel）卡拉梅尔（人名）
 > - Hojicha tea: is a `Japanese green tea`. 焙茶即用火烘制茶叶，为制茶技术的一种
 > - latte: [N-Uncounted] `Latte` is strong coffee made with hot milk. 拿铁☕️(一种加热奶🥛的浓咖啡☕️)
@@ -162,6 +163,32 @@ comments: true
 >   [Verb] something that `cushions` an object when it hits something protects it by reducing the force of the impact. 减少对...的震动;缓和对...的冲击<br/>
 >   [Verb] To `cushion` the effect of something unpleasant means to reduce it. 减轻(令人不快的影响)<br/>
 >   [N-Count] <usually singular> something that is a `cushion against` something unpleasant reduces its effect. 起保护(或缓冲)作用的事物
+> - clip: [N-Count] A `clip` is a small device, usually made of metal or plastic, that is specially shaped for holding things together. （金属或塑料的）回形针📎，夹子<br/>
+>   [V-ERG] when you `clip` things together or when things `clip` together, you fasten them together using a clip or clips. (用夹子)夹住,夹在一起<br/>
+>   [N-Count] a `clip` from a film or a radio or television program is a short piece of it that is broadcast separately. (电影🎬、广播📢或电视节目的)剪辑,片段<br/>
+>   [Verb] if you `clip` something, you cut small pieces from it, especially in order to shape it. (尤指为使某物成形而)修剪,剪<br/>
+>   [Verb] if you `clip` something out of a newspaper or magazine, you cut it out. (从报纸📰或杂志📓上)剪下<br/>
+>   [Verb] if something `clips` something else, it hits it accidentally at an angle before moving off in a different direction. (意外地)斜撞,侧击<br/>
+>   [N-Count] if you give someone a clip round the ear, you hit their head fairly lightly with the palm of your hand, usually as a punishment. (通常指作为惩罚的)耳光,抽打<br/>
+>   [Verb] if you `clip` a small amount `off` the time taken to do something, you reduce it by that amount. 削减,缩短(时间⌚️)<br/>
+>   [N-Count] an ammunition `clip` is a metal container on an automatic weapon which holds ammunition. 弹夹;弹匣;弹仓<br/>
+>   [Phrase] if something moves or happens `at a` fast `clip`, it moves or happens quickly. 快速地;飞速地 [informal]
+> - submission: [N-Uncounted] `Submission` is a state in which people can no longer do what they want to do because they have been brought under the control of someone else. 屈服;投降;归顺<br/>
+>   [N-Uncounted] `the submission of` a proposal, report, or other document is the act of formally sending it to someone, so that they can consider it or decide about it. 提交;呈递 [formal]<br/>
+>   [N-Count] a `submission` is a proposal, report, or other document that is formally sent or presented to someone, so that they can consider or decide about it. 提交的建议(或报告等);呈递的文件
+> - award: [N-Count] an `award` is a prize or certificate that a person is given for doing something well. 奖;奖品;奖状<br/>
+>   [N-Count] in law, an `award` is a sum of money that a court decides should be given to someone. (赔偿金等的)裁定额<br/>
+>   [N-Count] a pay `award` is an increase in pay for a particular group of workers. (作为奖励的)加薪<br/>
+>   [Verb] if someone `is awarded` something such as a prize or an examination mark, it is given to them. 授予;颁发;给(分)<br/>
+>   [Verb] to `award` something `to` someone means to decide that it will be given to that person. 给予;判给<br/>
+>   (Award) 艾华尔德 (人名)
+> - prospect: [N-Var] if there is some `prospect of` something happening, there is a possibility that it will happen. 可能性;希望<br/>
+>   [N-Sing] a particular `prospect` is something that you expect or know is going to happen. 期望中的事；将要发生的事；预期；展望<br/>
+>   [N-Plural] someone's `prospects` are their chances of being successful, especially in their career. （尤指事业的）成功机会，前景，前途<br/>
+>   [Verb] when people `prospect for` oil, gold, or some other valuable substance, they look for it in the ground or under the sea. 勘探;勘察
+> - childbearing: [N-Uncounted] `Childbearing` is the process of giving birth to babies. 分娩;生孩子👶<br/>
+>   [Adj.] a woman of `childbearing` age is of an age when women are normally able to give birth to children. (女子)育龄的
+> - values: [N-Plural] the `values` of a person or group are the moral principles and beliefs that they think are important. 价值观;道德标准
 >
 > __<font color='red'>v</font>__: missed the live stream, watch the recorded video.
 
