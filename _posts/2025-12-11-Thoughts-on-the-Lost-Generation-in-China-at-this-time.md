@@ -79,10 +79,25 @@ This situation reminded me of a work schedule where you work from 9:00 AM to 9:0
 
 I had a dream about my mother. In the dream, I cried whenever someone mentioned my mother to me.
 
+## childbearing values 生育价值观
+
+I strongly agree with the view expressed by a [streamer](https://www.twitch.tv/mmgeneral) that a child cannot choose whether to be born, but parents can.
+
+Therefore, one should not have children if one cannot provide them with better conditions for growth.
+
+The root cause often lies in a lack of opportunities during childhood to explore and cultivate several interests.
+
+The result is an inability to identify one's true passions in adulthood. It's a truly tragic<sup>*</sup> situation.
+
+This is the voice of a well-educated woman, and it applies to all those with higher education<sup>*</sup>.
+
 > __*__:
 > - recession: is a period when the economy of a country is doing badly, for example because industry is producing less and more people are becoming unemployed. 经济衰退；经济不景气
 > - so ... that: emphasize the degree of something by mentioning the result or consequence of it. 如此...(以致...)；到...的程度(以致...)
 > - eat dinner: have dinner, 吃晚饭
+> - tragic: [Adj-graded] a `tragic` event or situation is extremely sad, usually because it involves death or suffering. 悲惨的;可悲的;可叹的<br/>
+>   [Adj.] `tragic` is used to refer to tragedy as a type of literature. 悲剧的
+> - higher education: [N-Uncounted] `higher education` is education at universities and colleges. 高等教育(指🈯️含大学以上的教育)
 
 ## References
 
