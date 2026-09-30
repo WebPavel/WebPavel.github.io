@@ -61,11 +61,11 @@ I placed an order online at the official website of [Nintendo Store](https://sto
 
 See [here](https://www.nintendo.com/hk/hardware/switch/store/index.html) to search for which store you want to pick up your order.
 
-I prefer featured stores, such as nsew (Tai Wai, located at Shop 314, 3/F, Wai Fong, 18 Che Kung Temple Road, Sha Tin District, New Territories, Hong Kong 香港新界沙田區車公廟路18號 圍方 3樓314號舖).
+I prefer featured stores, such as Nintendo Store Exclusive Works ([nsew](https://www.nsewstore.com)) (The Wai, located at Shop 314, 3/F, Wai Fong, 18 Che Kung Temple Road, Sha Tin District, New Territories, Hong Kong 香港新界沙田區車公廟路18號 圍方 3樓314號舖).
 
 ## pick up
 
-Pick-up point in Hong Kong: SF Express Station, Hin Keng Shopping Centre, Tai Wai
+Pick-up point in Hong Kong: SF Express Station, Hin Keng Shopping Center, Tai Wai
 
 Nintendo Switch 2 is scheduled to begin shipping on September 1, 2026.
 
