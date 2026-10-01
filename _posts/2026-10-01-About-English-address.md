@@ -54,7 +54,7 @@ Mr Liu Wei
 CHINA
 ```
 
-```
+```text
 Mr Liu Bao
 TIANHE QU, XINTANG JIEDAO, LINGTANG XIAJIE NANXIANG 21 HAO 201 FANG
 Guangzhou, Guangdong, 510640
@@ -81,3 +81,4 @@ China
 - [Correct Address](https://www.hongkongpost.hk/en/about_us/tips/correct_address/index.html)
 - [Publication 28 - Postal Addressing Standards](https://pe.usps.com/text/pub28/28apb.htm)
 - [Send Parcels & Letters to China](https://www.royalmail.com/sending/international/country-guides/china)
+- [Singapore Post](https://www.singpost.com/)
