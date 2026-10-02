@@ -35,8 +35,9 @@ comments: true
 
 ### About Taiwan Snacks
 
-| name | Chinese | image | category |
-|------|---------|-------|----------|
+| name                                         | Chinese      | image                                                                 | category       |
+|----------------------------------------------|--------------|-----------------------------------------------------------------------|----------------|
+| T.K Food Salted egg yolk<sup>*</sup> cookies | 老楊鹹蛋黃餅 | ![639041445972470000.jpg](/assets/tw/original/639041445972470000.jpg) | square cookies |
 
 ### About Taiwan transportation
 
@@ -79,5 +80,8 @@ comments: true
 > - category: 1=restaurant, 2=exhibition, 3=show, 4=handmade, 5=gathering, 6=tour, 7=anniversary, 8=birthday (the anniversary of the date on which you were born)
 > - pun: a `pun` is a clever and amusing use of a word or phrase with two meanings, or of words with the same sound but different meanings. 双关诙谐语；双关语<br/>
 >   if you `pun`, you try to amuse people by making a pun. 谐用双关语
+> - yolk: [N-Var] the `yolk` of an egg is the yellow part in the middle. 蛋黄
 
 ## Reference
+
+- [T.K Food](https://www.tkfood.com.tw/)
