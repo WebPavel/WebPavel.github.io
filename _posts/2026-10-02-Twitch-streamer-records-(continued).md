@@ -13,11 +13,13 @@ comments: true
 
 | title | Chinese | co-op | date | official website | platform/channel | download | continuation |
 |-------|---------|-------|------|------------------|------------------|----------|--------------|
+|       |         |       |      |                  |                  |          |              |
 
 ### playing offline non-electronic games
 
 | game | Chinese | venue<sup>*</sup> | co-op | date | preparation | format |
 |------|---------|-------------------|-------|------|-------------|--------|
+|      |         |                   |       |      |             |        |
 
 ## outdoors
 
@@ -25,6 +27,7 @@ comments: true
 
 | place | Chinese | co-op | date | category<sup>*</sup> | rating | keywords | situation |
 |-------|---------|-------|------|----------------------|--------|----------|-----------|
+|       |         |       |      |                      |        |          |           |
 
 ## what I don't know about Taiwan
 
@@ -32,6 +35,7 @@ comments: true
 
 | brand | Chinese | recommendation |
 |-------|---------|----------------|
+|       |         |                |
 
 ### About Taiwan Snacks
 
@@ -43,21 +47,25 @@ comments: true
 
 | transportation | method | feature | website |
 |----------------|--------|---------|---------|
+|                |        |         |         |
 
 ### convenient life
 
 | facility | Chinese | feature | usage |
 |----------|---------|---------|-------|
+|          |         |         |       |
 
 ### About Taiwan payment
 
 | method | Chinese | website |
 |--------|---------|---------|
+|        |         |         |
 
 ### terms used in Taiwan
 
 | term | meaning | description |
 |------|---------|-------------|
+|      |         |             |
 
 ## About Taiwan Education
 
@@ -65,6 +73,7 @@ comments: true
 
 | university | Chinese | abbr. | website | location |
 |------------|---------|-------|---------|----------|
+|            |         |       |         |          |
 
 ## missing skills
 
@@ -72,6 +81,7 @@ comments: true
 
 | topic | joke | pun<sup>*</sup> |
 |-------|------|-----------------|
+|       |      |                 |
 
 > [!TIP]
 > __*__:
