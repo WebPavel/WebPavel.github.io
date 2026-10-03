@@ -52,7 +52,9 @@ comments: true
 1. Pay special attention to the position of an infant<sup>*</sup>'s head while sleeping, especially shortly after birth.<br/>
    It's best to avoid letting them lie on only one side.
 
+> [!TIP]
 > __*__:
+>
 > - splash: if you splash a liquid somewhere or if it splashes, it hits someone or something and scatters in a lot of small drops. （使）溅泼；（使）飞溅；（使）洒落
 > - fabric: cloth or other material produced by weaving together cotton, nylon, wool, silk, or other threads. 织物；布料
 > - diatomaceous: adj. of, relating to, consisting of, or containing diatoms. 含硅藻的；硅藻的
@@ -74,20 +76,22 @@ comments: true
 
 ### travel checklist 旅行清單
 
-- [ ] 證件｜護照、簽證或入境文件 Documents | Passport, visa, or entry documents
-- [ ] 證件｜交通與住宿確認 Documents | Transportation and accommodation<sup>*</sup> confirmation
-- [ ] 財務｜信用卡、適量現金 Finances | Credit cards, sufficient cash (a reasonable amount of cash)
-- [ ] 衣物｜依天數與天氣準備衣物 Clothing | Prepare clothing according to the number of days and weather
-- [ ] 衣物｜鞋襪與雨具 Clothing | Shoes, socks<sup>\*</sup>, and rain gear<sup>*</sup>
-- [ ] 清潔｜盥洗、防曬用品 Cleaning | Personal care and toiletries<sup>\*</sup>, sunscreen<sup>*</sup>
-- [ ] 電子｜手機、充電器、轉接頭 Electronics | Mobile phone, charger, adapter
-- [ ] 電子｜行動電源及航空攜帶規定 Electronics | Power bank and check airline regulations<sup>*</sup>
-- [ ] 健康｜個人藥物與處方資料 Health | Personal medications and prescriptions<sup>*</sup>
-- [ ] 安全｜旅遊保險與緊急聯絡 Safety | Travel insurance<sup>\*</sup> and emergency<sup>*</sup> contact
-- [ ] 出門前｜關閉瓦斯及不必要電源 Before leaving | Turn off gas and unnecessary electrical appliances<sup>*</sup>, even the power source
-- [ ] 出門前｜行李重量與違禁品檢查 Before leaving | Baggage<sup>*</sup> weight and prohibited items check
+- [ ] 證件｜護照、簽證或入境文件 Documents \| Passport, visa, or entry documents
+- [ ] 證件｜交通與住宿確認 Documents \| Transportation and accommodation<sup>*</sup> confirmation
+- [ ] 財務｜信用卡、適量現金 Finances \| Credit cards, sufficient cash (a reasonable amount of cash)
+- [ ] 衣物｜依天數與天氣準備衣物 Clothing \| Prepare clothing according to the number of days and weather
+- [ ] 衣物｜鞋襪與雨具 Clothing \| Shoes, socks<sup>\*</sup>, and rain gear<sup>*</sup>
+- [ ] 清潔｜盥洗、防曬用品 Cleaning \| Personal care and toiletries<sup>\*</sup>, sunscreen<sup>*</sup>
+- [ ] 電子｜手機、充電器、轉接頭 Electronics \| Mobile phone, charger, adapter
+- [ ] 電子｜行動電源及航空攜帶規定 Electronics \| Power bank and check airline regulations<sup>*</sup>
+- [ ] 健康｜個人藥物與處方資料 Health \| Personal medications and prescriptions<sup>*</sup>
+- [ ] 安全｜旅遊保險與緊急聯絡 Safety \| Travel insurance<sup>\*</sup> and emergency<sup>*</sup> contact
+- [ ] 出門前｜關閉瓦斯及不必要電源 Before leaving \| Turn off gas and unnecessary electrical appliances<sup>*</sup>, even the power source
+- [ ] 出門前｜行李重量與違禁品檢查 Before leaving \| Baggage<sup>*</sup> weight and prohibited items check
 
+> [!TIP]
 > __*__:
+>
 > - frosted: `frosted` glass is glass that you cannot see through clearly. （玻璃）磨砂的，毛面的<br/>
 >   `frosted` means covered with frost. 结霜的；被霜覆盖的<br/>
 >   `frosted` means covered with something that looks like frost. 覆有霜状物的<br/>
