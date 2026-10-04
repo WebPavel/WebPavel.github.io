@@ -11,7 +11,7 @@ comments: true
 
 ## That was the day we met
 
-<font color='orange'>On October 2nd</font>, I met Ms.<sup>*</sup> Ke, an honest girl.
+On <font color='orange'>October 2nd</font>, I met Ms.<sup>*</sup> Ke, an honest girl.
 
 ## profile
 
