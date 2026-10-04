@@ -54,3 +54,16 @@ When I encounter similar words again, I get confused about their meanings. For e
 - doodle: [N-Count] a `doodle` is a pattern or picture that you draw when you are bored or thinking about something else. (无聊或心不在焉使)涂鸦,胡写乱画<br/>
   [Verb] when someone `doodles`, they draw doodles. 乱涂乱画;涂鸦
 - preset: also `pre-set`, [Verb] if a piece of equipment is preset, its controls have been set in advance of the time you want it to work. [usually passive] 预先设置,预调(设备)
+
+### dedicate & delicate
+
+- dedicate: [Verb] if you say that someone `has dedicated` themselves `to` something, you approve of the fact that they have decided to give a lot of time and effort to it because
+  they think that it is important. 献(身);投(身);致力 [approval]<br/>
+  [Verb] if someone `dedicates` something such as a book, play, or piece of music `to` you, they mention your name. for example in the front of a book or when a piece of music is performed, as a way of showing affection or respect for you. 把(书📖、戏剧、音乐作品等)献(给)<br/>
+  [Verb] if a building or church `is dedicated to` someone, a formal ceremony is held to show that the building will always be associated with them. [usually passive] 为(建筑物或教堂)举行奉献(或落成)典礼
+- delicate: [Adj-graded] something that is `delicate` is small and beautiful shaped. 娇美的;精美的;雅致的;纤细的<br/>
+  [Adj-graded] something that is `delicate` has a color, taste, or smell which is pleasant and strong or intense. (颜色)柔和的;(味道)鲜美的,清淡可口的;(气味)清香的<br/>
+  [Adj-graded] if something is `delicate`, it is easy to harm, damage, or break, and needs to be handled or treated carefully. 娇贵的;脆弱的;易碎的<br/>
+  [Adj-graded] someone who is `delicate` is not healthy and strong, and becomes ill easily. 娇弱的;柔弱的<br/>
+  [Adj-graded] you use `delicate` to describe a situation, problem, matter, or discussion that needs to be dealt with carefully and sensitively in order to avoid upsetting things or offending people. 微妙的;棘手的;需要小心处理的<br/>
+  [Adj-graded] a delicate task, movement, action, or product needs or shows great skill and attention to detail. 技巧性很强的;注重细节的
