@@ -34,7 +34,7 @@ if ! command -v brew > /dev/null 2>&1; then
     exit 1
 fi
 
-app_list=(git python@3.11 node@22 ffmpeg pyenv jq llama.cpp pandoc shellcheck shfmt starship)
+app_list=(git python@3.11 node@22 ffmpeg pyenv jq pandoc shellcheck shfmt starship)
 app_list_j=(openjdk@8 maven)
 app_list=("${app_list[@]}" "${app_list_j[@]}")
 for app in "${app_list[@]}"
@@ -42,7 +42,7 @@ do
   brew install --adopt --formula $app
 done
 
-app_list=(clash-verge-rev codex cursor dbeaver-community docker-desktop eudic floorp font-jetbrains-mono-nerd-font font-meslo-lg-nerd-font free-download-manager git-credential-manager google-chrome jordanbaird-ice iina intellij-idea iterm2 keka lulu raycast shottr spotify stats tabby utm visual-studio-code vivaldi windows-app xnviewmp)
+app_list=(clash-verge-rev codex cursor dbeaver-community docker-desktop eudic floorp font-jetbrains-mono-nerd-font font-meslo-lg-nerd-font free-download-manager git-credential-manager google-chrome jordanbaird-ice iina intellij-idea keka kitty lulu raycast shottr spotify stats utm visual-studio-code vivaldi windows-app xnviewmp)
 app_list_ms=(microsoft-office windows-app)
 app_list_cn=(wechat tencent-meeting awesun)
 app_list=("${app_list[@]}" "${app_list_ms[@]}" "${app_list_cn[@]}")
