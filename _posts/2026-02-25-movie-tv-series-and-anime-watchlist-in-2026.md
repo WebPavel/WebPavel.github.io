@@ -11,18 +11,29 @@ comments: true
 
 The list of movies, TV Series, and anime I watched during my leisure time in 2026.
 
-| name                                 | Chinese        | release-year | country       | language |
-|:-------------------------------------|:---------------|:-------------|:--------------|:---------|
-| One Flew Over the Cuckoo's Nest      | 飞越疯人院 \| 飛越杜鵑窩 | 1975         | United States | English  |
-| Kizumonogatari                       | 傷物語            | 2016         | Japan         | Japanese |
-| Nekomonogatari (White)               | 猫物語 (白)        | 2013         | Japan         | Japanese |
-| Kabukimonogatari                     | 傾物語            | 2013         | Japan         | Japanese |
-| Gals Can't Be Kind to Otaku!?        | 哪里有温柔对待阿宅的辣妹！？ | 2026         | Japan         | Japanese |
-| Zombie Land Saga: Yumeginga Paradise | 佐賀偶像是傳奇 夢幻銀河樂園 | 2025         | Japan         | Japanese |
-| In Time                              | 时间规划局 \| 潛逃時空  | 2011         | United States | English  |
+| name                                           | Chinese                      | release-year | country       | language |
+|:-----------------------------------------------|:-----------------------------|:-------------|:--------------|:---------|
+| One Flew Over the Cuckoo's Nest                | 飞越疯人院 \| 飛越杜鵑窩     | 1975         | United States | English  |
+| Kizumonogatari                                 | 傷物語                       | 2016         | Japan         | Japanese |
+| Nekomonogatari (White)                         | 猫物語 (白)                  | 2013         | Japan         | Japanese |
+| Kabukimonogatari                               | 傾物語                       | 2013         | Japan         | Japanese |
+| Gals Can't Be Kind to Otaku!?                  | 哪里有温柔对待阿宅的辣妹！？ | 2026         | Japan         | Japanese |
+| Zombie Land Saga: Yumeginga Paradise           | 佐賀偶像是傳奇 夢幻銀河樂園  | 2025         | Japan         | Japanese |
+| In Time                                        | 时间规划局 \| 潛逃時空       | 2011         | United States | English  |
+| The Chorus<sup>*</sup> (French: Les Choristes) | 放牛班的春天                 | 2004         | France        | French   |
 
 The list of movies I watched at the cinema during my leisure time in 2026.
 
-| name                | Chinese | release-year | country | language   |
-|:--------------------|:--------|:-------------|:--------|:-----------|
-| Per Aspera ad Astra | 星河入梦    | 2026         | China   | 中文 Chinese |
+| name                | Chinese  | release-year | country | language     |
+|:--------------------|:---------|:-------------|:--------|:-------------|
+| Per Aspera ad Astra | 星河入梦 | 2026         | China   | 中文 Chinese |
+
+> [!TIP]
+> __*__:
+>
+> - chorus: [N-Count] a `chorus` is a part of a song which is repeated after each verse. 叠句;副歌<br/>
+>   [N-Count] a `chorus` is a large group of people who sing together. 合唱团;歌咏队<br/>
+>   [N-Count] a `chorus` is a piece of music written to be sung by a large group of people. 合唱(歌)曲<br/>
+>   [N-Count] a `chorus` is a group of singers or dancers who perform together in a show, in contrast to the soloists. 合唱团;歌舞队<br/>
+>   [N-Count] when there is a `chorus of` criticism, disapproval, or praise, that attitude is expressed by a lot of people at the same time. [usually singular] 齐声,异口同声(表示批评、反对或赞扬)<br/>
+>   [Verb] when people `chorus` something, they say it or sing it together. 齐声说;齐唱 [written]
