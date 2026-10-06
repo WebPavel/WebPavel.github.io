@@ -54,6 +54,8 @@ When I encounter similar words again, I get confused about their meanings. For e
 - doodle: [N-Count] a `doodle` is a pattern or picture that you draw when you are bored or thinking about something else. (无聊或心不在焉使)涂鸦,胡写乱画<br/>
   [Verb] when someone `doodles`, they draw doodles. 乱涂乱画;涂鸦
 - preset: also `pre-set`, [Verb] if a piece of equipment is preset, its controls have been set in advance of the time you want it to work. [usually passive] 预先设置,预调(设备)
+- urban: [Adj-graded] `urban` means belonging to, or relating to, a town or city. 城市的;城镇的;都市的<br/>
+  (Urban) 厄本 (人名)
 
 ### dedicate & delicate
 
