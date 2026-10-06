@@ -106,7 +106,7 @@ comments: true
 >   a rainbow shows the colors in the spectrum. 光谱<br/>
 >   [N-Count] a `spectrum` is a range of a particular type of thing. [usually singular] 系列;范围<br/>
 >   [N-Count] a `spectrum` is a range of light waves or radio waves within particular frequencies. 波谱(如光波波谱、无线电波波谱等)
-> - patisserie: [N-Count] a `patisserie` is a shop where cakes and pastries are sold. 糕点店<br/>
+> - Pâtisserie: [N-Count] a `patisserie` is a shop where cakes and pastries are sold. 糕点店<br/>
 >   [N-Uncounted] `patisserie` is cakes and pastries. 糕点<br/>
 >   ![patisserie_191870003.jpg](/assets/tw/patisserie_191870003.jpg)
 
@@ -116,7 +116,7 @@ comments: true
 - [Hutong Yakiniku](https://gyenhutong.com.tw/)
 - [Watsons](https://www.watsons.com.hk/)
 - [誠品生活 eslite spectrum](https://www.eslitespectrum.com/)
-- [Lady Kelly patisserie](https://www.ladykelly.com.tw/)
+- [Lady Kelly pâtisserie](https://www.ladykelly.com.tw/)
 - [eslite](https://www.eslite.com/)
 - [The Hunger Games](https://www.imdb.com/title/tt1392170)
 - [Owala Water Bottle](https://owalalife.com/)
