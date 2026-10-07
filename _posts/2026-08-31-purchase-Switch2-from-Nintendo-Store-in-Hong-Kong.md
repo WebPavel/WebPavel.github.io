@@ -219,7 +219,7 @@ The SF app is designed for different countries and regions as follows:
 
 ## Appendix: Hong Kong administrative divisions
 
-Hong Kong is administratively divided into three areas: Hong Kong Island, Kowloon, and the New Territories.
+Hong Kong is administratively divided into three areas: Hong Kong Island, Kowloon, and the New Territories<sup>*</sup>.
 
 | area             | Chinese | region code | district    | note                                                                                 |
 |:-----------------|:--------|:------------|:------------|:-------------------------------------------------------------------------------------|
@@ -249,6 +249,21 @@ Hong Kong is administratively divided into three areas: Hong Kong Island, Kowloo
   - Tuen Mun (屯門區)
   - Yuen Long (元朗區)
 
+### New Territories
+
+| Area                         | Chinese | abbr. | District #1        | District #2       | District #3        | District #4         |
+|------------------------------|---------|-------|--------------------|-------------------|--------------------|---------------------|
+| New Territories East         | 新界東  | NTE   | North / 北區       | Tai Po / 大埔區   | Sha Tin / 沙田區   | Sai Kung / 西貢區   |
+| New Territories West         | 新界西  | NTW   | Yuen Long / 元朗區 | Tuen Mun / 屯門區 | Tsuen Wan / 荃灣區 | Kwai Tsing / 葵青區 |
+| Outlying<sup>*</sup> Islands | 離島    |       | Islands / 離島區   |                   |                    |                     |
+
+### Kowloon
+
+| Area         | Chinese | District #1              | District #2             | District #3             |
+|--------------|---------|--------------------------|-------------------------|-------------------------|
+| Kowloon East | 九龍東  | Wong Tai Sin / 黃大仙區  | Kwun Tong / 觀塘區      |                         |
+| Kowloon West | 九龍西  | Yau Tsim Mong / 油尖旺區 | Sham Shui Po / 深水埗區 | Kowloon City / 九龍城區 |
+
 > __*__:
 >
 > - package: is a small parcel. 包裹 (A parcel is something wrapped in paper, usually so that it can be sent to someone by post. in AM, usually use package)
@@ -266,6 +281,13 @@ Hong Kong is administratively divided into three areas: Hong Kong Island, Kowloo
 >   an `upright` freezer is tall rather than wide. （冰箱等）竖式的，立式的<br/>
 >   an `upright` chair has a straight back and no arms. （椅子）直靠背的，没有扶手的<br/>
 >   adj. you can describe people as `upright` when they are careful to follow acceptable rules of behavior and behave in a moral way. 诚实的，正直的，规矩的
+> - territory: [N-Var] `territory` is land which is controlled by a particular country or ruler. 领土;领地<br/>
+>   [N-Count] a `territory` is a country or region that is controlled by another country. 属地,地区,托管地(指被别国控制的国家或地区)<br/>
+>   [N-Uncounted] you can use `territory` to refer to an area of knowledge or experience. `virgin territory` -> see: `virgin`  (知识)领域;(经验)范围<br/>
+>   [N-Var] an animal's `territory` is an area which it regards as its own and which it defends when other animals try to enter it. (动物的)领地,地盘<br/>
+>   [N-Uncounted] `territory` is land with a particular character. (具有一定特点的)地带,地区 [usually adjective Noun] <br/>
+>   [Phrase] if you say that something `comes with the territory`, you mean that you accept it as a natural result of the situation you are in. 是难免的事;是必然的事
+> - outlying: [Adj.] `outlying` places are far away from the main cities of a country. 偏僻的;边远的;远离城市的
 
 ## Reference
 
