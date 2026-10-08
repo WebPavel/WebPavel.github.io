@@ -69,3 +69,14 @@ When I encounter similar words again, I get confused about their meanings. For e
   [Adj-graded] someone who is `delicate` is not healthy and strong, and becomes ill easily. 娇弱的;柔弱的<br/>
   [Adj-graded] you use `delicate` to describe a situation, problem, matter, or discussion that needs to be dealt with carefully and sensitively in order to avoid upsetting things or offending people. 微妙的;棘手的;需要小心处理的<br/>
   [Adj-graded] a delicate task, movement, action, or product needs or shows great skill and attention to detail. 技巧性很强的;注重细节的
+
+## terms
+
+| term                             | meaning               | description                                         |
+|----------------------------------|-----------------------|-----------------------------------------------------|
+| daylight saving time<sup>*</sup> | 夏令时间;日光节约时间 | (DST) 夏季将时间调快一小时,以便晚上有更长的日光时间 |
+
+> [!TIP]
+> __*__:
+>
+> - daylight saving time: a period of time in the summer when the clocks are set one hour forward, so that people can have extra light in the evening. 日光节约时间;夏令时间
