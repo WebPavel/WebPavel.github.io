@@ -56,6 +56,8 @@ When I encounter similar words again, I get confused about their meanings. For e
 - preset: also `pre-set`, [Verb] if a piece of equipment is preset, its controls have been set in advance of the time you want it to work. [usually passive] 预先设置,预调(设备)
 - urban: [Adj-graded] `urban` means belonging to, or relating to, a town or city. 城市的;城镇的;都市的<br/>
   (Urban) 厄本 (人名)
+- suburban: [Adj.] `suburban` means relating to a suburb. 郊区的;城外的<br/>
+  [Adj-graded] if you describe something as `suburban`, you mean that it is dull and conventional. 平淡乏味的;呆板的;传统的
 
 ### dedicate & delicate
 
@@ -68,7 +70,7 @@ When I encounter similar words again, I get confused about their meanings. For e
   [Adj-graded] if something is `delicate`, it is easy to harm, damage, or break, and needs to be handled or treated carefully. 娇贵的;脆弱的;易碎的<br/>
   [Adj-graded] someone who is `delicate` is not healthy and strong, and becomes ill easily. 娇弱的;柔弱的<br/>
   [Adj-graded] you use `delicate` to describe a situation, problem, matter, or discussion that needs to be dealt with carefully and sensitively in order to avoid upsetting things or offending people. 微妙的;棘手的;需要小心处理的<br/>
-  [Adj-graded] a delicate task, movement, action, or product needs or shows great skill and attention to detail. 技巧性很强的;注重细节的
+  [Adj-graded] a `delicate` task, movement, action, or product needs or shows great skill and attention to detail. 技巧性很强的;注重细节的
 
 ## terms
 
