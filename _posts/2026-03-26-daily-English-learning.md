@@ -76,6 +76,13 @@ When I encounter similar words again, I get confused about their meanings. For e
 |----------------------------------|-----------------------|-----------------------------------------------------|
 | daylight saving time<sup>*</sup> | 夏令时间;日光节约时间 | (DST) 夏季将时间调快一小时,以便晚上有更长的日光时间 |
 
+## Phrase
+
+### gear up for school days
+
+- gear up for: [Phrasal Verb] if someone `is gearing up for` a particular activity, they are preparing to do it. if they `are geared up to` do a particular activity, they are prepared to do it. 为...做准备;为(某个活动)做好准备 [usually passive]
+- school days: [N-Plural] also `schooldays`, your `schooldays` are the period of your life when you were at school. 学生时代,求学时期
+
 > [!TIP]
 > __*__:
 >
