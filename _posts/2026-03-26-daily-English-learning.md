@@ -58,6 +58,8 @@ When I encounter similar words again, I get confused about their meanings. For e
   (Urban) 厄本 (人名)
 - suburban: [Adj.] `suburban` means relating to a suburb. 郊区的;城外的<br/>
   [Adj-graded] if you describe something as `suburban`, you mean that it is dull and conventional. 平淡乏味的;呆板的;传统的
+- sausage: [N-Var] a `sausage` consists of minced meat, usually pork, mixed with other ingredients and is contained in a tube made of skin or a similar material. 香肠;腊肠<br/>
+  ![sausage_410446060.jpg](/assets/tw/sausage_410446060.jpg)
 
 ### dedicate & delicate
 
