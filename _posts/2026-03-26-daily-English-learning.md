@@ -60,6 +60,7 @@ When I encounter similar words again, I get confused about their meanings. For e
   [Adj-graded] if you describe something as `suburban`, you mean that it is dull and conventional. 平淡乏味的;呆板的;传统的
 - sausage: [N-Var] a `sausage` consists of minced meat, usually pork, mixed with other ingredients and is contained in a tube made of skin or a similar material. 香肠;腊肠<br/>
   ![sausage_410446060.jpg](/assets/tw/sausage_410446060.jpg)
+- pasta: [N-Mass] `pasta` is a type of food made from a mixture of flour, eggs, and water that is formed into different shapes and then boiled. Spaghetti, macaroni, and noodles are types of pasta. 面食(如意大利面条🍝、通心粉等)
 
 ### dedicate & delicate
 
