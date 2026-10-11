@@ -79,6 +79,27 @@ When I encounter similar words again, I get confused about their meanings. For e
   [Phrase] you say `on the credit side` in order to introduce one or more good things about a situation or person, usually when you have already mentioned the bad things about them. (常用于提出缺点之后)就优点而言<br/>
   [Phrase] if something is `to` someone's `credit`, they deserve praise for it. 值得赞扬<br/>
   [Phrase] if you already have one or more achievements `to` your `credit`, you have achieved them. (成就)归于...;在...名下<br/>
+- sour: [Adj-graded] something that is `sour` has a sharp, unpleasant taste like the taste of a lemon. 酸的;酸味的<br/>
+  [Adj.] `sour` milk is milk that has an unpleasant taste because it is no longer fresh. (牛奶🥛)变质的,馊的<br/>
+  [Adj-graded] someone who is `sour` is bad-tempered and unfriendly. (人)乖戾的,尖酸刻薄的,不友好的<br/>
+  [Adj.] if a situation or relationship `turns sour` or `goes sour`, it stops being enjoyable or satisfactory. (状态、关系等)变坏,变糟,不再令人满意<br/>
+  [V-ERG] if a friendship, situation, or attitude `sours` or if something `sours` it, it becomes less friendly, enjoyable, or hopeful. (使)(友谊、局势、态度等)变坏;(使)恶化<br/>
+  [Phrase] if you refer to someone's attitude as `sour grapes`, you mean that they say that something is worthless or undesirable because they want it themselves but cannot have it. 酸葡萄(喻指由于得不到而加以贬低的东西)
+- possessive: [Adj-graded] someone who is `possessive about` another person wants all that person's love and attention. 占有欲强的;有控制欲的<br/>
+  [Adj-graded] someone who is `possessive about` things that they own does not like other people to use them. 不愿与人分享的;自私的 [usually verb-link Adj.]<br/>
+  [Adj.] in grammar, a `possessive determiner` or `possessive adjective` is a word such as 'my' or 'his' which shows who or what something belongs to or is connected with. the `possessive` form of a name or noun has 's added to it, as in 'Jenny's' or 'cat's'. (语法中)所有格的<br/>
+  [N-Count] a `possessive` is a possessive determiner or the possessive form of a name or noun. 所有格;物主代词
+- obsessive: [Adj-graded] if someone's behavior is `obsessive`, they cannot stop doing a particular thing or behaving in a particular way. 着迷的;迷恋的;强迫性的;过分(到不正常程序)的<br/>
+  [N-Count] an `obsessive` is someone who is obsessive about something or who behaves in an obsessive way. 着迷的人;强迫症患者
+- plot: [N-Count] a `plot` is a secret plan by a group of people to do something that is illegal or wrong, usually against a person or a government. 阴谋;密谋 [usually Noun to-infinitive]<br/>
+  [Verb] if people `plot to` do something or `plot` something that is illegal or wrong, they plan secretly to do it. 图谋;密谋<br/>
+  [Verb] when people `plot` a strategy or a course of action, they carefully plan each step of it. 计划;制订<br/>
+  [N-Var] the `plot` of a film, novel, or play is the connected series of events which make up the story. (电影🎬、小说或戏剧的)情节<br/>
+  [N-Count] a `plot of` land is a small piece of land, especially one that has been measured or marked out for a special purpose, such as building houses or growing vegetables. (尤指作特殊用途的)一小块(土地)<br/>
+  [Verb] when someone `plots` something on a graph, they mark certain points on it and then join the points up. 绘制...的曲线<br/>
+  [Verb] when someone `plots` the position or course of a plane or ship, they mark it on a map using instruments to obtain accurate information. (在地图上)标绘出(飞机✈️、船舶的位置或航线)<br/>
+  [Verb] if someone `plots` the progress or development of something, they make a diagram or a plan which shows how it has developed in order to give some indication of how it will develop in the future. 绘制...的图表📈(或平面图)<br/>
+  [Phrase] if someone `loses the plot`, they become confused and do not know what they should do. 困惑😖;迷惘😶‍🌫️;不知所措😕 [informal]
 
 ### dedicate & delicate
 
