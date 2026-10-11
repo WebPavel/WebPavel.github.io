@@ -61,6 +61,24 @@ When I encounter similar words again, I get confused about their meanings. For e
 - sausage: [N-Var] a `sausage` consists of minced meat, usually pork, mixed with other ingredients and is contained in a tube made of skin or a similar material. 香肠;腊肠<br/>
   ![sausage_410446060.jpg](/assets/tw/sausage_410446060.jpg)
 - pasta: [N-Mass] `pasta` is a type of food made from a mixture of flour, eggs, and water that is formed into different shapes and then boiled. Spaghetti, macaroni, and noodles are types of pasta. 面食(如意大利面条🍝、通心粉等)
+- credit: [N-Uncounted] if you are allowed `credit`, you are allowed to pay for goods or services several weeks or months after you have received them. 赊购;赊欠<br/>
+  [N-Uncounted] if someone or their bank account is `in credit`, their bank account has money in it. 结余;存款💵 [mainly British]<br/>
+  [Verb] when a sum of money `is credited to` an account, the bank adds that sum of money to the total in the account. (给账户)存(钱);把...记入贷方<br/>
+  [N-Count] a `credit` is a sum of money which is added to an account. 存款金额;贷记<br/>
+  [N-Count] a `credit` is an amount of money that is given to someone. (给某人的)一笔钱<br/>
+  [N-Uncounted] if you get `the credit for` something good, people praise you because you are responsible for it, or are thought to be responsible for it. 赞扬;称赞;认可<br/>
+  [Verb] if people `credit` someone `with` an achievement or if it `is credited to` them, people say or believe that they are responsible for it. 认为是...的功劳;把...归于 [also V n + to, V + with]<br/>
+  [Verb] if you `credit` someone `with` a quality, you believe or say that they have it. 认为...有(某种品质)<br/>
+  [N-Sing] if you say that someone is `a credit to` someone or something, you mean that their qualities or achievements will make people have a good opinion of the person or thing mentioned. 为...赢得好感的人(或事物)<br/>
+  [Verb] if you cannot `credit` something, you cannot believe that it is true. 相信;信任 [no cont, with brd-neg]<br/>
+  [N-Count] the list of people who helped to make a film, a CD, or a television program is called `the credits`. 演职员表;摄制人员名单 [usually plural]<br/>
+  [N-Count] a `credit` is a successfully completed part of a higher education course. at some universities and colleges you need a certain number of credits to be awarded a degree. (某些大学获得学位所必需的)学分,学习单元<br/>
+  [Phrase] if you say that something `does` someone `credit`, you mean that they should be praised or admired because of it. 使值得赞扬(或仰慕)<br/>
+  [Phrase] if you say '`credit where credit's due`', you are admitting that you ought to praise someone for something that they have done or for a good quality that they possess. (某人的成绩或优点)值得表扬👍,应予肯定<br/>
+  [Phrase] to `give` someone `credit for` a good quality means to believe that they have it. 相信...具有(某种优良品质);称赞👍;认可<br/>
+  [Phrase] you say `on the credit side` in order to introduce one or more good things about a situation or person, usually when you have already mentioned the bad things about them. (常用于提出缺点之后)就优点而言<br/>
+  [Phrase] if something is `to` someone's `credit`, they deserve praise for it. 值得赞扬<br/>
+  [Phrase] if you already have one or more achievements `to` your `credit`, you have achieved them. (成就)归于...;在...名下<br/>
 
 ### dedicate & delicate
 
