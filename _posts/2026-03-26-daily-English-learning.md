@@ -100,6 +100,14 @@ When I encounter similar words again, I get confused about their meanings. For e
   [Verb] when someone `plots` the position or course of a plane or ship, they mark it on a map using instruments to obtain accurate information. (在地图上)标绘出(飞机✈️、船舶的位置或航线)<br/>
   [Verb] if someone `plots` the progress or development of something, they make a diagram or a plan which shows how it has developed in order to give some indication of how it will develop in the future. 绘制...的图表📈(或平面图)<br/>
   [Phrase] if someone `loses the plot`, they become confused and do not know what they should do. 困惑😖;迷惘😶‍🌫️;不知所措😕 [informal]
+- soothe: [Verb] if you `soothe` someone who is angry or upset, you make them feel calmer. 安抚;抚慰;使平静<br/>
+  [Verb] something that `soothes` a part of your body where there is pain or discomfort makes the pain or discomfort less severe. 减轻,缓和(身体的痛处或不适)<br/>
+  soothing: [adj.] affording physical relief. freeing from fear and anxiety. 舒缓的,镇痛的;安慰的,使人平静的<br/>
+  soothing music: 舒缓的音乐
+- gush: [V-T/V-I] when liquid `gushes` out of something, or when something `gushes` a liquid, the liquid flows out very quickly and in large quantities. 喷出;涌出;冒出<br/>
+  [N-Sing] a `gush of` liquid is a sudden, rapid flow of liquid, or a quantity of it that suddenly flows out. 涌流;喷出;冒出<br/>
+  [Verb] if someone `gushes`, they express their admiration or pleasure in an exaggerated way. 过分称赞;吹捧;装腔作势地说<br/>
+  [N-Sing] you can use `gush` in expressions such as `a gush of enthusiasm` to refer to a sudden intense feeling or an expression of a feeling. (感情的)迸发,爆发
 
 ### dedicate & delicate
 
