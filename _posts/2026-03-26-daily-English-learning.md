@@ -163,6 +163,63 @@ When I encounter similar words again, I get confused about their meanings. For e
   [Adj-graded] someone who is `delicate` is not healthy and strong, and becomes ill easily. 娇弱的;柔弱的<br/>
   [Adj-graded] you use `delicate` to describe a situation, problem, matter, or discussion that needs to be dealt with carefully and sensitively in order to avoid upsetting things or offending people. 微妙的;棘手的;需要小心处理的<br/>
   [Adj-graded] a `delicate` task, movement, action, or product needs or shows great skill and attention to detail. 技巧性很强的;注重细节的
+- indicate: [Verb] if one thing `indicates` another, the first thing shows that the second is true or exists. 表明;说明<br/>
+  [Verb] if you `indicate` an opinion, an intention, or a fact, you mention it in an indirect way. 暗示<br/>
+  [Verb] if you `indicate` something to someone, you show them where it is, especially by pointing to it. 指示;指出 [formal]<br/>
+  [Verb] if one thing `indicates` something else, it is a sign of that thing. 是...的标志;象征;反映<br/>
+  [Verb] if a technical instrument `indicates` something, it shows a measurement or reading. (仪器等)指示,显示<br/>
+  [Verb] when drivers `indicate`, they make lights flash on one side of their vehicle to show that they are going to turn in that direction. (驾车时)打转向灯指示转弯⤴️ [mainly British]<br/>
+  in AM, use `signal`.
+
+### sip & slurp
+
+- sip: [Verb] if you `sip` a drink or `sip at` it, you drink by taking just a small amount at a time. 小口地喝;抿<br/>
+  [N-Count] a `sip` is a small amount of drink that you take into your mouth. (饮料🥤)一小口;一啜的量<br/>
+  (Sip) 西普 (人名)
+- slurp: [Verb] if you `slurp` a liquid, you drink it noisily. 大声地啜;出声地喝<br/>
+  [N-Count] a `slurp` is a noise that you make with your mouth when you drink noisily, or a mouthful of liquid that you drink noisily. (喝东西时发出的)咕嘟声
+
+### clutter & pile
+
+- clutter: [N-Uncounted] `clutter` is a lot of things in an untidy state, especially things that are not useful or necessary. (尤指没用或不需要的)杂乱的东西<br/>
+  [Verb] if things or people `clutter` a place, they fill it in an untidy way. 乱堆在;凌乱地塞满 [also V n P + with]
+- pile: [N-Count] a `pile of` things is a mass of them that is high in the middle and has sloping sides. (上窄下宽的)堆<br/>
+  [N-Count] a `pile of` things is a quantity of things that have been put neatly somewhere so that each thing is on top of the one below. (一个压着一个摆放整齐的)叠,摞<br/>
+  [Verb] if you `pile` things somewhere, you put them there so that they form a pile. 堆放;堆积;叠<br/>
+  [Verb] if something `is piled with` things, it is covered or filled with piles of things. 成堆地盖住(或装满) [usually passive]<br/>
+  [Quant] if you talk about a `pile of` something or `piles of` something, you mean a large amount of it. 一大堆;大量 [informal]<br/>
+  [Verb] if a group of people `pile into` or `out of` a vehicle, they all get into it or out of it in a disorganized way. 拥进/拥出;挤进/挤出<br/>
+  [N-Count] you can refer to a large impressive building as a `pile`, especially when it is the home of a rich important person. (尤指富人或要人居住的)高大宏伟的建筑物<br/>
+  [N-Count] `piles` are wooden, concrete, or metal posts which are pushed into the ground and on which buildings or bridges are built. Piles are often used in very wet areas so that the buildings do not flood. (房屋🏠和桥梁的)桩,桩柱 [usually plural]<br/>
+  [N-Plural] `piles` are painful swellings that can appear in the veins inside a person's anus. 痔疮<br/>
+  [N-Sing] the `pile` of a carpet or of a fabric such as velvet is its soft surface. it consists of a lot of little threads standing on end. (地毯或织物的)绒面,绒毛,绒头<br/>
+  [Phrase] someone who is `at the bottom of the pile` is low down in society or low down in an organization. someone who is `at the top of the pile` is high up in society or high up in an organization. 处于(社会或某组织的)下层/上层 [informal]<br/>
+  (Pile) 派尔 (人名)
+
+### shield & reveal
+
+- shield: [N-Count] something or someone which is a `shield` against a particular danger or risk provides protection from it. 屏障;保护物;保护人 [usually singular]<br/>
+  [Verb] if something or someone `shields` you `from` a danger or risk, they protect you from it. 保护;掩护;庇护<br/>
+  [Verb] if you `shield` your eyes, you put your hand above your eyes to protect them from direct sunlight. (为阻挡阳光直射而)挡住,遮住(眼睛👀)<br/>
+  [N-Count] a `shield` is a large piece of metal or leather which soldiers used to carry to protect their bodies while they were fighting. 盾;盾牌🛡<br/>
+  [N-Count] a `shield` is a sports prize or badge that is shaped like a shield. (体育运动的)盾形奖牌🏅,盾形徽章
+- reveal: [Verb] to `reveal` something means to make people aware of it. 显示;表明;透露 [also be V-ed as n]<br/>
+  [Verb] if you `reveal` something that has been out of sight, you uncover it so that people can see it. 揭露;展示;使显露<br/>
+
+### blaze & cruise
+
+- blaze: [Verb] when a fire `blazes`, it burns strongly and brightly. 熊熊燃烧<br/>
+  [N-Count] a `blaze` is a large fire which is difficult to control and which destroys a lot of things. 大火;烈火🔥 [journalism] (usually singular)<br/>
+  [Verb] if something `blazes with` light or color, it is extremely bright. 照耀;发出(强光);绽放(光彩) [literary]<br/>
+  [Verb] if someone's eyes `are blazing with` an emotion, or if an emotion `is blazing` in their eyes, their eyes look very bright because they are feeling that emotion so strongly. (眼睛)闪耀,闪烁,充满(感情);(情感在眼中)燃烧 [usually cont, literary]<br/>
+  [N-Sing] a `blaze` of publicity or attention is a great amount of it. 大量(宣传或关注)<br/>
+  [Verb] if guns `blaze`, or `blaze away`, they fire continuously, making a lot of noise. (枪炮)连续射击(或开火)<br/>
+  [Phrase] if someone `blazes a trail`, they discover or develop something new. 开辟道路;作开路先锋
+- cruise: [N-Count] a `cruise` is a holiday during which you travel on a ship or boat and visit a number of places. 乘船游览;航游<br/>
+  [Verb] if you `cruise` a sea, river, or canal, you travel around it or along it on a cruise. 乘船游览;航游<br/>
+  [Verb] if a car, ship, or aircraft `cruises` somewhere, it moves there at a steady comfortable speed. (车🚗、船🚢或飞机✈️)以平稳且舒适的速度行驶,缓慢行进<br/>
+  [Verb] if a team or sports player `cruises to` victory, they win easily. (球队或运动员)轻而易举赢得,轻取 [journalism]<br/>
+  [Verb] if a gay man is cruising, he is searching in public places for a sexual partner. (在公共场所,尤指男同性恋者)寻找性伙伴,猎艳
 
 ## terms
 
