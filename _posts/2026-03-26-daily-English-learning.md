@@ -108,6 +108,48 @@ When I encounter similar words again, I get confused about their meanings. For e
   [N-Sing] a `gush of` liquid is a sudden, rapid flow of liquid, or a quantity of it that suddenly flows out. 涌流;喷出;冒出<br/>
   [Verb] if someone `gushes`, they express their admiration or pleasure in an exaggerated way. 过分称赞;吹捧;装腔作势地说<br/>
   [N-Sing] you can use `gush` in expressions such as `a gush of enthusiasm` to refer to a sudden intense feeling or an expression of a feeling. (感情的)迸发,爆发
+- insect: [N-Count] an `insect` is a small animal that has six legs. Most insects have wings. Ants, flies, butterflies, and beetles are all insects. 昆虫🪲;虫🐛<br/>
+  ![insect_269700524.jpg](/assets/tw/insect_269700524.jpg)
+- headline: [N-Count] a `headline` is the title of a newspaper story, printed in large letters at the top of the story, especially on the front page. (尤指报纸头版的)标题,大字标题<br/>
+  [N-Plural] the headlines are the main points of the news which are read on radio or television. (广播📢或电视📺里的)新闻提要,简明新闻📰<br/>
+  [Verb] if a newspaper or magazine article is headlined a particular thing, that is the headline that introduces it. 标题为 (also V n quote) [usually passive]<br/>
+  [Verb] if someone headlines a show, they are the main performer in it. 在(演出)中担任主演<br/>
+  [Phrase] someone or something that `hits the headlines` or `grabs the headlines` gets a lot of publicity from the media. 成为新闻📰焦点
+- takeaway: [N-Count] a `takeaway` is a shop or restaurant which sells hot cooked food that you eat somewhere else. 外卖店;外卖餐馆 [British]<br/>
+  [N-Count] a takeaway is hot cooked food that you buy from a shop or restaurant and eat somewhere else. (商店🏬、餐馆的)外卖食品 [British]<br/>
+  in AM, use `takeout`.
+- concise: [Adj-graded] something that is `concise` says everything that is necessary without using any unnecessary words. 简洁的;简明的<br/>
+  [Adj.] a `concise` edition of a book, especially a dictionary, is shorter than the original edition. (尤指词典)简明的,简缩的
+- affair: [N-Sing] if an event or a series of events has been mentioned, and you want to talk about it again, you can refer to it as `the affair`. 事情;事件<br/>
+  [N-Sing] you can refer to an important or interesting event or situation as '`the` ... `affair`'. ...事件(指重要或有趣的事件或情况) [mainly journalism]<br/>
+  [N-Sing] you can describe the main quality of an event by saying that it is a particular kind of `affair`. ...事(指具有某种特点的事情)<br/>
+  [N-Sing] you can describe an object as a particular kind of `affair` when you want to draw attention to a particular feature, or indicate that it is unusual. (不寻常的或具有某种特点的)东西<br/>
+  [N-Count] if two people who are not married to each other have an `affair`, they have a sexual relationship. 风流韵事;私通<br/>
+  [N-Plural] you can use `affairs` to refer to all the important facts or activities that are connected with a particular subject. (关于某个主题所有的)事务<br/>
+  [N-Plural] your `affairs` are all the matters connected with your life which you consider to be private and normally deal with yourself. 私事;个人事务<br/>
+  [N-Sing] if you say that a decision or situation is someone's `affair`, you mean that it is their responsibility, and other people should not interfere. (不容别人干涉的)事务
+- sticker: [N-Count] a `sticker` is a small piece of paper or plastic, with writing or a picture on one side, which you can stick onto a surface. (正面有字或画的)小贴纸,不粘胶贴纸
+- flashback: [N-Count] in a film, novel, or play, a `flashback` is a scene that returns to events in the past. (电影🎬、小说、戏剧中的)闪回,倒叙<br/>
+  [N-Count] if you have a `flashback` to a past experience, you have a sudden and very clear memory of it. (往事的)突然重现,闪回,再现<br/>
+- tin: [N-Uncounted] `tin` is a soft silvery-white metal. 锡<br/>
+  [N-Count] a `tin` is a metal container which is filled with food and sealed in order to preserve the food for long periods of time. 罐头🥫 [mainly British]<br/>
+  [N-Count] a `tin` is a metal container with a lid in which things such as biscuits, cakes, or tobacco can be kept. 金属罐;马口铁罐<br/>
+  [N-Count] a baking `tin` is a metal container used for baking things such as cakes and bread in an oven. (蛋糕🍰或面包🥖)烤模,烤盘 [British]<br/>
+  a `tin of` something is the amount contained in a tin. 一罐(或一听)的量<br/>
+  in AM, use `can`.<br/>
+  ![tin_79362451.jpg](/assets/tw/tin_79362451.jpg)
+- aerial: [Adj.] you talk about `aerial` attacks and `aerial` photographs to indicate that people or things on the ground are attacked or photographed by people in airplanes. 航空的;飞机的;由飞机进行的;空中的<br/>
+  [Adj.] you can use aerial to describe things that exist or happen above the ground or in the air. 空气中的;地表以上的<br/>
+  [N-Count] an `aerial` is a device or a piece of wire that receives television or radio signals and is usually attached to a radio, television, car, or building. 天线 [British]<br/>
+  in AM, use `antenna`.
+- disrupt: [Verb] if someone or something `disrupts` an event, system, or process, they cause difficulties that prevent it from continuing or operating in a normal way. 使中断;扰乱<br/>
+  disruption: [N-Var] when there is `disruption` of an event, system, or process, it is prevented from continuing or operating in a normal way. 中断;扰乱;混乱
+- trackside: [N] alongside the track. beside the track. 轨道旁,线路旁
+- suspend: [Verb] if you `suspend` something, you delay it or stop it from happening for a while or until a decision is made about it. 暂缓;推迟;暂停⏸️<br/>
+  [Verb] if someone `is suspended`, they are prevented from holding a particular job or position for a fixed length of time or until a decision is made about them. 使暂时停职<br/>
+  [Verb] if something `is suspended` from a high place, it is hanging from that place. 悬挂;吊 [usually passive]
+- frightful: [Adj-graded] `frightful` means very bad or unpleasant. 讨厌的;令人不快的;可怕的 [old-fashioned]<br/>
+  [Adj.] `frightful` is used to emphasize the extent or degree of something, usually something bad. 非常的;极度的 [informal, old-fashioned, emphasis]
 
 ### dedicate & delicate
 
