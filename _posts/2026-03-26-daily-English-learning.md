@@ -219,7 +219,8 @@ When I encounter similar words again, I get confused about their meanings. For e
   [Verb] if you `cruise` a sea, river, or canal, you travel around it or along it on a cruise. 乘船游览;航游<br/>
   [Verb] if a car, ship, or aircraft `cruises` somewhere, it moves there at a steady comfortable speed. (车🚗、船🚢或飞机✈️)以平稳且舒适的速度行驶,缓慢行进<br/>
   [Verb] if a team or sports player `cruises to` victory, they win easily. (球队或运动员)轻而易举赢得,轻取 [journalism]<br/>
-  [Verb] if a gay man is cruising, he is searching in public places for a sexual partner. (在公共场所,尤指男同性恋者)寻找性伙伴,猎艳
+  [Verb] if a gay man `is cruising`, he is searching in public places for a sexual partner. (在公共场所,尤指男同性恋者)寻找性伙伴,猎艳<br/>
+  (Cruise) 克鲁斯 (人名)
 
 ## terms
 
