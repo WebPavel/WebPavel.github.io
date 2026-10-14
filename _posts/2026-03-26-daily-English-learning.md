@@ -150,6 +150,13 @@ When I encounter similar words again, I get confused about their meanings. For e
   [Verb] if something `is suspended` from a high place, it is hanging from that place. 悬挂;吊 [usually passive]
 - frightful: [Adj-graded] `frightful` means very bad or unpleasant. 讨厌的;令人不快的;可怕的 [old-fashioned]<br/>
   [Adj.] `frightful` is used to emphasize the extent or degree of something, usually something bad. 非常的;极度的 [informal, old-fashioned, emphasis]
+- emit: [Verb] if something `emits` heat, light, gas, or a smell, it produces it and sends it out by means of a physical or chemical process. 发出,排放,散发(热、光、气或气味) [formal]<br/>
+  [Verb] to `emit` a sound or noise means to produce it. 发出(声音或噪音) [formal]
+- resort: [Verb] if you `resort to` a course of action that you do not really approve of, you adopt it because you cannot see any other way of achieving what you want. 诉诸;采取<br/>
+  [N-Uncounted] if you achieve something without `resort to` a particular course of action, you succeed without carrying out that action. to have `resort to` a particular course of action means to have to do that action in order to achieve something. 采取;凭借;诉诸;求助<br/>
+  [N-Count] a `resort` is a place where a lot of people spend their holidays. (度假⛱️)胜地<br/>
+  [Phrase] if you do something `as a last resort`, you do it because you can find no other way of getting out of a difficult situation or of solving a problem. 最后的办法;最终手段<br/>
+  [Phrase] you use `in the last resort` when stating the most basic or important fact that will still be true in a situation whatever else happens. 最终
 
 ### dedicate & delicate
 
