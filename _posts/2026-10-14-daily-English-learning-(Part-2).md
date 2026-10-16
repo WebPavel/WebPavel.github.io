@@ -17,7 +17,7 @@ When I encounter similar words again, I get confused about their meanings. For e
 
 ### morning news & weather
 
-learned from ChatGPT in Singapore.
+learned from [ChatGPT](https://chatgpt.com/) in Singapore.
 
 - haze: [N-Var] `haze` is light mist, caused by particles of water or dust in the air, which prevents you from seeing distant objects clearly. haze often forms in hot weather. (阴)霾;雾霭<br/>
   [N-Sing] if there is a `haze of` something such as smoke or steam, you cannot see clearly through it. 雾状物 [literary]<br/>
@@ -94,11 +94,45 @@ learned from ChatGPT in Singapore.
   [Phrase] if someone `sweeps` you `off` your `feet`, you fall in love with them very quickly because you find them very attractive or exciting. to `sweep the board` -> see: `board` 使一见倾心;把...一下子迷住🤩
 - columbarium: [N] a niche for a funeral urn containing the ashes of the cremated dead 骨灰安置所
 
-### Twitch
+### [Twitch](https://www.twitch.tv/)
 
 - stalker: [N-Count] a `stalker` is someone who keeps following or contacting someone else, especially a famous person or a person they used to have a relationship with, in an annoying and frightening way. 跟踪骚扰者(尤针对名人或分手恋人)
 - jackpot: [N-Count] a `jackpot` is the most valuable prize in a game or lottery, especially when the game involves increasing the value of the prize until someone wins it. (游戏或彩票的)头奖,最高奖;(尤指游戏中的)累积赌注金 [usually singular]<br/>
   [Phrase] if you `hit the jackpot`, you have a great success, for example by winning a lot of money or having a piece of good luck. 取得巨大成功;赢了一大笔钱;交好运 [informal]
+
+### [Inoreader](https://www.innoreader.com/)
+
+- retaliation: [N] action taken in return for an injury or offense. 报复;反击<br/>
+  retaliate: [Verb] if you `retaliate` when someone harms or annoys you, you do something which harms or annoys them in return. 报复;反击 [also + for]
+- widespread: [Adj-graded] something that is `widespread` exists or happens over a large area, or to a great extent. 普遍的;广泛的
+- outage: [N-Count] an `outage` is a period of time when the electricity supply to a building or area is interrupted, for example because of damage to the cables. 停电期 [US]<br/>
+  in BRIT, use `power cut`.
+- documentary: [N-Count] a `documentary` is a television or radio program, or a film, which shows real events or provides information about a particular subject. (电视、广播等)纪实节目;纪录片<br/>
+  [Adj.] `documentary` evidence consists of things that are written down. (证据)有文件记录的,来源于文件的,书面的
+- figure: [N-Count] a `figure` is a particular amount expressed as a number, especially a statistic. 数字; (尤指)统计数字<br/>
+  [N-Count] a figure is any of the ten written symbols from 0 to 9 that are used to represent a number. (0 到 9 的)数字符号,数目字<br/>
+  [N-Plural] an amount or number that is in single `figures` is between zero and nine. an amount or number that is in double `figures` is between ten and ninety-nine. you can also say, for example,
+  that an amount or number is in three `figures` when it is between one hundred and nine hundred and ninety-nine. 位数<br/>
+  [N-Count] you refer to someone that you can see as a `figure` when you cannot see them clearly or when you are describing them. 人影;身影<br/>
+  [N-Count] in art, a `figure` is a person in a drawing or a painting, or a statue of a person. (绘画作品中的)人物;雕像;塑像<br/>
+  [N-Count] your `figure` is the shape of your body. 体形;身材<br/>
+  [N-Count] someone who is referred to as a `figure` of a particular kind is a person who is well-known and important in some way. 知名人士;重要人物<br/>
+  [N-Count] if you say that someone is, for example, a mother `figure` or a hero `figure`, you mean that other people regard them as the type of person stated or suggested. (某种)人物,形象 [usually n Noun]<br/>
+  [N-Count] in books and magazines, the diagrams which help to show or explain information are referred to as `figures`. (书、杂志等中的)图,表<br/>
+  [N-Count] in geometry, a `figure` is a shape, especially a regular shape. (尤指规则的几何)图形 [technical]<br/>
+  [Verb] if you `figure` that something is the case, you think or guess that it is the case. 认为;猜想;估计 [informal]<br/>
+  [Verb] if you say '`That figures`' or '`It figures`', you mean that the fact referred to is not surprising. 不奇怪;很正常;合乎情理 [informal]<br/>
+  [Verb] if a person or thing `figures in` something, they appear in or are included in it. 出现,包括(在...中) [no passive, also V + as]<br/>
+  [Phrasal verb] if you `figure on` something, you plan that it will happen or assume that it will happen when making your plans. 预料;料想<br/>
+  [Phrasal verb] if you `figure out` a solution to a problem or the reason for something, you succeed in solving it or understanding it. 想出;理解;弄清<br/>
+  [Phrasal verb] if you `figure up` a cost or amount, you add numbers together to get the total. 算出...的总和
+- massive: [Adj-graded] something that is `massive` is very large (in size), quantity, or extent. 巨大的;庞大的;厚重的;强大的 [emphasis]<br/>
+ [Adj.] if you describe a medical condition as `massive`, you mean that it is extremely serious. (疾病)非常严重的,十分危急的
+- insanity: [N-Uncounted] `insanity` is the state of being insane. 精神错乱;精神失常;疯狂<br/>
+  [N-Uncounted] if you describe a decision or an action as `insanity`, you think it is very foolish. 极端的愚蠢(行为);荒唐(事) [disapproval]
+- comeback: [N-Count] if someone such as an entertainer or sports personality makes a `comeback`, they return to their profession or sport after a period away. (娱乐圈、体育明星等的)复出,东山再起<br/>
+  [N-Count] if something makes a `comeback`, it becomes fashionable again. 再度流行<br/>
+  [N-Uncounted] if you have no `comeback` when someone has done something wrong to you, there is nothing you can do to have them punished or held responsible. 因受到伤害而追究他人的责任
 
 > [!TIP]
 > __*__:
