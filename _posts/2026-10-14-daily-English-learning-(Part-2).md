@@ -99,6 +99,19 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
 - stalker: [N-Count] a `stalker` is someone who keeps following or contacting someone else, especially a famous person or a person they used to have a relationship with, in an annoying and frightening way. 跟踪骚扰者(尤针对名人或分手恋人)
 - jackpot: [N-Count] a `jackpot` is the most valuable prize in a game or lottery, especially when the game involves increasing the value of the prize until someone wins it. (游戏或彩票的)头奖,最高奖;(尤指游戏中的)累积赌注金 [usually singular]<br/>
   [Phrase] if you `hit the jackpot`, you have a great success, for example by winning a lot of money or having a piece of good luck. 取得巨大成功;赢了一大笔钱;交好运 [informal]
+- tingle: [Verb] when a part of your body `tingles`, you have a slight stinging feeling there. 感到刺痛<br/>
+  [Verb] if you `tingle with` a feeling such as excitement, you feel it very strongly. 强烈地感到;激动<br/>
+  (Tingle) 廷格尔 (人名)
+- bakery: [N-Count] a `bakery` is a building where bread, pastries, and cakes are baked, or the shop where they are sold. 面包🥖(或糕饼)烘房;面包🥖(或糕饼)店🏬<br/>
+  ![bakery_317785697.jpg](/assets/tw/bakery_317785697.jpg)
+- cozy: see `cosy`. [Adj-graded] a house or room that is `cozy` is comfortable and warm. 暖和舒适的<br/>
+  [Adj-graded] if you are `cozy`, you are comfortable and warm. 感到温暖舒适的<br/>
+  [Adj-graded] you use `cozy` to describe activities that are pleasant and friendly, and involve people who know each other well. 愉快的;友好的;亲切的<br/>
+  [N] a padded cloth covering to keep a teapot warm. (茶壶的)保温罩,茶壶套 (tea cozy)<br/>
+  `cozy up to`: 讨好,奉承,巴结
+- toasty: [Adj-graded] if something is `toasty`, it is comfortably warm. 暖烘烘的;温暖舒适的 [informal]<br/>
+  [Adj.] tasting or smelling like toast. 有烤面包味的<br/>
+  [N] a toasted sandwich. 烤三明治🥪 [informal]
 
 ### [Inoreader](https://www.innoreader.com/)
 
