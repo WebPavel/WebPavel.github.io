@@ -112,6 +112,8 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
 - toasty: [Adj-graded] if something is `toasty`, it is comfortably warm. 暖烘烘的;温暖舒适的 [informal]<br/>
   [Adj.] tasting or smelling like toast. 有烤面包味的<br/>
   [N] a toasted sandwich. 烤三明治🥪 [informal]
+- papaya: [N-Count] a `papaya` is a fruit with a green skin, sweet yellow flesh, and small black seeds. Papayas grow on trees in hot countries. 番木瓜;木瓜<br/>
+  ![papaya_250131595.jpg](/assets/tw/papaya_250131595.jpg)
 
 ### [Inoreader](https://www.innoreader.com/)
 
@@ -146,6 +148,27 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
 - comeback: [N-Count] if someone such as an entertainer or sports personality makes a `comeback`, they return to their profession or sport after a period away. (娱乐圈、体育明星等的)复出,东山再起<br/>
   [N-Count] if something makes a `comeback`, it becomes fashionable again. 再度流行<br/>
   [N-Uncounted] if you have no `comeback` when someone has done something wrong to you, there is nothing you can do to have them punished or held responsible. 因受到伤害而追究他人的责任
+
+### other
+
+- frame: [N-Count] the `frame` of a picture or mirror is the wood, metal, or plastic that is fitted around it, especially when it is displayed or hung on a wall. (尤指挂在墙上展示的)画框🖼️,镜框<br/>
+  [N-Count] the `frame` of an object such as a building, chair, or window is the arrangement of wooden, metal, or plastic bars between which other material is fitted, and which give the object its strength and shape. 框;架;骨架;框架<br/>
+  [N-Count] the `frames` of a pair of glasses are all the metal or plastic parts of it, but not the lenses. 眼镜框;眼镜架 [usually plural]<br/>
+  [N-Count] you can refer to someone's body as their `frame`, especially when you are describing the general shape of their body. (人体的)骨架🩻;(尤指)体形,体态 [oft poss Noun]<br/>
+  [N-Count] a `frame` of cinema film is one of the many separate photographs that it consists of. (电影🎬的)画面,镜头<br/>
+  [Adj.] a `frame` building is one in which pieces of wood form the most important part of the structure, rather than bricks or stone. (建筑)木制的,木结构的 [US]<br/>
+  [Verb] when a picture or photograph `is framed`, it is put in a frame. 给...加框 [usually passive]<br/>
+  [Verb] if an object `is framed` by a particular thing, it is surrounded by that thing in a way that makes the object more striking or attractive to look at. 给...镶边;给...做框 [usually passive]<br/>
+  [Verb] if someone `frames` something such as a set of rules, a plan, or a system, they create and develop it. 创设,拟定,制定(规则、计划或体系) [written]<br/>
+  [Verb] if someone `frames` something in a particular style or kind of language, they express it in that way. 表达;表示 [also Verb n preposition / adverb]<br/>
+  [Verb] if someone `frames` an innocent person, they make other people think that that person is guilty of a crime, by lying or inventing evidence. 作伪证;陷害;诬陷 [informal]<br/>
+  [Phrase] if someone is `in the frame for` something such as a job or position, they are being considered for it. 在...考虑范围内;有机会成为...
+- spotlight: [N-Count] a `spotlight` is a powerful light, for example in a theater, which can be directed so that it lights up a small area. 聚光灯<br/>
+  [Verb] if something `spotlights` a particular problem or situation, it makes people notice it and think about it. 使受关注;使突出醒目<br/>
+  [Phrase] someone or something that is `in the spotlight` is getting a great deal of public attention. 成为公众关注的焦点;受到瞩目<br/>
+  [Phrase] if someone or something comes `under the spotlight`, they are thoroughly examined, especially by journalists and the public. 备受(媒体和公众的)关注 [Phrase after verb]
+- debit: [Verb] when your bank `debits` your account, money is taken from it and paid to someone else. 记入(账户)的借方<br/>
+  [N-Count] a `debit` is a record of the money taken from your bank account, for example when you write a cheque. (银行账户的)借记,借入
 
 > [!TIP]
 > __*__:
