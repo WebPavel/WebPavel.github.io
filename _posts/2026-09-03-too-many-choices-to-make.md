@@ -77,12 +77,29 @@ Due to the policies of a particular country, some apps are not available in the 
 You need to change the country / region of your Apple account to download the apps you need.
 
 country / region change: (may continue)<br/>
-CHN ~> USA ~> HKG ~> USA ~> SGP ~> AUS ~> HKG
+CHN ~> USA ~> HKG ~> USA ~> SGP ~> AUS ~> HKG ~> SGP
 
+Due to the "**<font color='orange'>Fraudulent Website Warning</font>**" section mentioned in [Safari & Privacy](https://www.apple.com/legal/privacy/data/en/safari/), I'm confused again about the region selection.
+
+If you would like to view the Chinese version, please refer to [Safari & Privacy](https://www.apple.com.cn/legal/privacy/data/zh-cn/safari/).
+
+| Feature               | Hong Kong 🇭🇰                                              | Singapore 🇸🇬           | USA 🇺🇸          |
+|-----------------------|-----------------------------------------------------------|------------------------|-----------------|
+| Payment               | Easy                                                      | Difficult              | Hard            |
+| Time zone<sup>*</sup> | UTC+8, the same                                           | UTC+8, the same        | 12 hours behind |
+| Easy access           | Difficult                                                 | Easy                   | Very easy       |
+| App Store             | Limited                                                   | Sufficient<sup>*</sup> | Rich            |
+| Language              | British English & Cantonese (**not Traditional Chinese**) | British English        | English         |
+
+> [!TIP]
 > __*__:
 >
 > - gonna: is used in written English to present the words 'going to' when they are pronounced informally. 用于书面英语中表示 going to 的非正式发音形式
 > - Forrest Gump: Forrest Gump quoted his mother.
+> - time zone: [N-Count] a `time zone` is one of the areas into which the world is divided where the time is calculated as being a particular number of hours behind or ahead of GMT. 时区<br/>
+> also `time-zone`.
+> - sufficient: [Adj.] if something is `sufficient for` a particular purpose, there is enough of it for the purpose. 足够的;充足的 [also + for]<br/>
+>   [Adj.] if something is a `sufficient` cause or condition for something to happen, it can happen. (理由、条件)充足的,充分的 [formal]
 
 ## Reference
 
