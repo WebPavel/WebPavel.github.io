@@ -123,11 +123,11 @@ Nintendo Switch 2 is scheduled to begin shipping on September 1, 2026.
 
 To-do list written before departure:
 
-- [x] turn off LINE games and news after connecting to Hong Kong internet <br/> tried but failed
+- [x] Disable the games and news features within the LINE app after connecting to the internet in Hong Kong.<br/> tried but failed
 - [x] open mobile banking app to update personal contact address
-- [ ] HK$50 voucher (no minimum spend) at Sha Tin Plaza. (Alipay) <br/>due to my phone was almost out of battery, I canceled.
+- [ ] HK$50 voucher (no minimum spend) at Sha Tin Plaza. (Alipay) <br/>due to my phone was almost<sup>*</sup> out of battery, I canceled.
 - [x] buy a T-shirt at the Uniqlo store in the Joy City shopping mall in Huangpu District, Guangzhou.<br/>广州市黄埔区大悦汇优衣库
-- [x] inquire about Overcooked! game cartridge prices at the Nintendo Store (nsew) in Tai Wai, Sha Tin. <br/> keep the original price
+- [x] inquire about Overcooked! game cartridge<sup>*</sup> prices at the Nintendo Store (nsew) in Tai Wai, Sha Tin. <br/> keep the original price
 
 | a trip from Guangzhou to Shenzhen                       | fee       | payment method           | note                                                                                                                                                                                                            |
 |---------------------------------------------------------|-----------|--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -264,6 +264,7 @@ Hong Kong is administratively divided into three areas: Hong Kong Island, Kowloo
 | Kowloon East | 九龍東  | Wong Tai Sin / 黃大仙區  | Kwun Tong / 觀塘區      |                         |
 | Kowloon West | 九龍西  | Yau Tsim Mong / 油尖旺區 | Sham Shui Po / 深水埗區 | Kowloon City / 九龍城區 |
 
+> [!TIP]
 > __*__:
 >
 > - package: is a small parcel. 包裹 (A parcel is something wrapped in paper, usually so that it can be sent to someone by post. in AM, usually use package)
@@ -271,6 +272,9 @@ Hong Kong is administratively divided into three areas: Hong Kong Island, Kowloo
 >   However, in the afternoon, I had a package to receive from Hong Kong to Sha Tin District.
 > - estate: a large area of land in the country which is owned by a person, family, or organization. 庄园；地产；大片私有土地<br/>
 >   all the money and property that they leave behind them when someone die. 遗产
+> - almost: [ADV] you use `almost` to indicate that something is not completely the case but is nearly the case. 几乎;差不多 [Adverb before verb]
+> - cartridge: [N-Count] a `cartridge` is a metal or cardboard tube containing a bullet and an explosive substance. Cartridges are used in guns. 弹壳;弹药筒<br/>
+> [N-Count] a `cartridge` is part of a machine or device that can be easily removed and replaced when it is worn out or empty. (机器、设备等可更换使用的)盒,筒
 > - unisex: is used to describe things, usually clothes or places, which are designed for use by both men and women rather than by only one sex. 不分男女的；男女通用的
 > - sleeve: of a coat, shirt, or other item of clothing are the parts that cover your arms. 袖子
 > - CITIC: 中国国际信托投资公司, China international trust and investment corporation.
