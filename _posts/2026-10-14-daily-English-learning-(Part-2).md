@@ -139,6 +139,8 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
  [N-Count] `the grid` or `the starting grid` is the starting line on a car-racing track. 赛车起跑线
 - forecast: [N-Count] a `forecast` is a statement of what is expected to happen in the future, especially in relation to a particular event or situation. 预报;预测<br/>
  [Verb] if you `forecast` future events, you say what you think is going to happen in the future. 预测;预言
+- drumstick: [N-Count] a `drumstick` is the lower part of the leg of a bird such as a chicken which is cooked and eaten. 下段鸡腿肉,琵琶腿 [usually plural]<br/>
+ [N-Count] `drumsticks` are sticks used for beating a drum. 鼓槌
 
 ### [Inoreader](https://www.innoreader.com/)
 
