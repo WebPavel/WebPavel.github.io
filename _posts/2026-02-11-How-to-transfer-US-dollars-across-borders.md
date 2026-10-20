@@ -28,7 +28,7 @@ Prepared:
 
 I have just prepared the physical EEP card, and I applied for a new permit in person through the automatic endorsement machine located in EEA office in Guangzhou.
 
-When issuing the endorsement, there are two types of exit endorsements. You can choose from 1. 个人旅游 (G) and 2. 团队旅游 (L).
+When issuing the endorsement, there are two types of exit endorsements. You can choose from 1. Individual Visit 个人旅游 (G) and 2. Group Tour 团队旅游 (L).
 
 Address: Guangzhou Tianhe Government Affairs Center, self-service center
 

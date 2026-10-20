@@ -78,7 +78,7 @@ Nintendo Switch 2 is scheduled to begin shipping on September 1, 2026.
 | preparation        | valid physical EEP card                                                                                                                                                        |                                           |
 | endorsement method | automatic endorsement machine                                                                                                                                                  |                                           |
 | location           | self-service area, Tianhe smart government service hall, Guangzhou Tianhe district government service center, <br/> Tianhe district, Guangzhou city, Guangdong province, China |                                           |
-| type               | ✅ G: self-service travel <br/> ☑️ L: group travel                                                                                                                             |                                           |
+| type               | ✅ G: Individual Visit 个人旅游<br/> ☑️ L: Group Tour 团队旅游                                                                                                                 |                                           |
 | fee                | CNY 15.00 /per                                                                                                                                                                 | Bicycle rental fee: CNY 2.80 (28 minutes) |
 | date               | September 1, 2026                                                                                                                                                              | in the morning                            |
 
