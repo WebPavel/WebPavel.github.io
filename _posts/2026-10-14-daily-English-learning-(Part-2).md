@@ -73,7 +73,7 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
   [Adj.] in some languages such as French, a `grave` accent is a symbol that is placed over a vowel in a word to show how the vowel is pronounced. 重音符;抑音符;沉音符<br/>
   [Phrase] if you say that someone `is digging` their `own grave`, you are warning them that they are doing something foolish or dangerous that will cause their own failure. 自掘坟墓;自取灭亡<br/>
   [Phrase] if you say that someone who is dead would `turn in` their `grave at` something that is happening now, you mean that they would be very shocked or upset by it, if they were alive. 九泉之下不得安宁
-- sweep: [Verb] if you `sweep` an area of floor or ground, you push dirt or rubbish off it using a brush with a long handle. 扫;掸;打扫;清扫<br/>
+- sweep: [Verb] if you `sweep` an area of floor or ground, you push dirt or `rubbish` off it using a brush with a long handle. 扫;掸;打扫;清扫<br/>
   [Verb] if you `sweep` things off something, you push them off with a quick smooth movement of your arm. 拂去;掸去<br/>
   [Verb] if someone with long hair `sweeps` their hair into a particular style, they put it into that style. 梳,拢(头发)<br/>
   [V-T/V-I] if your arm or hand `sweeps` in a particular direction, or if you `sweep` it there, it moves quickly and smoothly in that direction. (使)(手臂)挥动<br/>
@@ -114,6 +114,31 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
   [N] a toasted sandwich. 烤三明治🥪 [informal]
 - papaya: [N-Count] a `papaya` is a fruit with a green skin, sweet yellow flesh, and small black seeds. Papayas grow on trees in hot countries. 番木瓜;木瓜<br/>
   ![papaya_250131595.jpg](/assets/tw/papaya_250131595.jpg)
+- helmet: [N-Count] a `helmet` is a hat made of a strong material which you wear to protect your head. 头盔;防护帽
+- mingle: [Verb] if things such as sounds, smells, or feelings `mingle`, they become mixed together but are usually still recognizable. (声音、气味等)混合,混杂;(感情)交织,交错<br/>
+ [Verb] at a party, if you `mingle with` the other people there, you move around and talk to them. 应酬;交际<br/>
+  (Mingle) 明格尔 (人名)
+- purse: [N-Count] a `purse` is a very small bag that people, especially women, keep their money in. (尤指女式🚺)钱包👛 [British]<br/>
+ [N-Count] a `purse` is a small bag that women carry. 女用小包;坤包 [US]<br/>
+ in BRIT, use `bag`, `handbag`.<br/>
+ [N-Sing] `purse` is used to refer to the total amount of money that a country, family, or group has. 资金;财力;财源<br/>
+ [Verb] if you `purse` your `lips`, you move them into a small, rounded shape, usually because you disapprove of something or when you are thinking. 缩拢,皱起,撅起(嘴唇👄)<br/>
+ ![purse_164673938.jpg](/assets/tw/purse_164673938.jpg)
+- widow: [N-Count] a `widow` is a woman whose husband has died and who has not married again. 寡妇;遗孀
+- curse: [Verb] if you `curse`, you use rude or offensive language, usually because you are angry about something. 诅咒;咒骂 [written]<br/>
+ [Verb] if you `curse` someone, you say insulting things to them because you are angry with them. 咒骂;诅咒;辱骂<br/>
+ [Verb] if you `curse` something, you complain angrily about it, especially using rude language. (尤指用粗话)抱怨,发牢骚;咒骂<br/>
+ [N-Count] if you say that there is a `curse on` someone, you mean that there seems to be a supernatural power causing unpleasant things to happen to them. 诅咒;咒语<br/>
+ [N-Count] you can refer to something that causes a great deal of trouble or harm as a `curse`. 祸根;祸端;祸水 [usually singular]
+- summon: [Verb] if you `summon` someone, you order them to come to you. 召唤;传唤;召见 [formal]<br/>
+ [Verb] if you `summon` a quality, you make a great effort to have it. for example, if you `summon` the courage or strength to do something, you make a great effort to be brave or strong, so that you will be able to do it. 鼓起(勇气);振作;使出(力气)<br/>
+ [Phrase] if something `summons up` a memory or thought, it causes it to come to your mind. 唤起;使想起 [literary]<br/>
+ summoner: [N-Count] 召唤者,传唤者;法院传票送达员;召唤师 (游戏职业名)
+- grid: [N-Count] a `grid` is something which is in a pattern of straight lines that cross over each other, forming squares. on maps the grid is used to help you find a particular thing or place. 网格; (地图上的)坐标方格<br/>
+ [N-Count] a `grid` is a network of wires and cables by which sources of power, such as electricity, are distributed throughout a country or area. (输送电力等的)系统网络<br/>
+ [N-Count] `the grid` or `the starting grid` is the starting line on a car-racing track. 赛车起跑线
+- forecast: [N-Count] a `forecast` is a statement of what is expected to happen in the future, especially in relation to a particular event or situation. 预报;预测<br/>
+ [Verb] if you `forecast` future events, you say what you think is going to happen in the future. 预测;预言
 
 ### [Inoreader](https://www.innoreader.com/)
 
