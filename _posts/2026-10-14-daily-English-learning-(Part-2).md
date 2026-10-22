@@ -141,6 +141,110 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
  [Verb] if you `forecast` future events, you say what you think is going to happen in the future. 预测;预言
 - drumstick: [N-Count] a `drumstick` is the lower part of the leg of a bird such as a chicken which is cooked and eaten. 下段鸡腿肉,琵琶腿 [usually plural]<br/>
  [N-Count] `drumsticks` are sticks used for beating a drum. 鼓槌
+- funnel: [N-Count] a `funnel` is an object with a wide, circular top and a narrow short tube at the bottom. funnels are used to pour liquids into containers which have a small opening, for example bottles. 漏斗<br/>
+ [N-Count] a `funnel` is a metal chimney on a ship or railway engine powered by steam. (蒸汽轮船或机车的)烟囱<br/>
+ [N-Count] you can describe as a `funnel` something that is narrow, or narrow at one end, through which a substance flows and is directed. 漏斗状物<br/>
+ [Verb] if something `funnels` somewhere or `is funneled` there, it is directed through a narrow space. (使)通过狭窄空间<br/>
+ [Verb] if you `funnel` money, goods, or information from one place or group to another, you cause it to be sent there as it becomes available. 输送,传送(金钱💰、货物📦或信息)
+- breast: [N-Count] a woman's `breasts` are the two soft, round parts on her chest that can produce milk to feed a baby. (妇女的)乳房 [oft poss Noun]<br/>
+ [N-Count] a person's `breast` is the upper part of his or her chest. 胸;胸部;胸膛 [literary]<br/>
+ [N-Count] the `breast` is often considered to be the part of your body where your emotions are. 胸怀;内心 [literary, usually with poss]<br/>
+ [N-Count] a bird's `breast` is the front part of its body. (鸟类的)胸脯<br/>
+ [N-Sing] the `breast` of a shirt, jacket, or coat is the part which covers the top part of the chest. (衬衫👕、夹克或外套的)胸部<br/>
+ [N-Var] you can refer to piece of meat that is cut from the front of a bird or lamb as `breast`. (禽鸟或羊的)胸脯肉<br/>
+ [Phrase] if you say that someone `beats` their `breast`, you are emphasizing that they are very angry or upset about something, or that they are pretending to be very angry or upset about it. 捶胸(表示气愤或悲伤) [Verb inflects, emphasis]<br/>
+ [Phrase] if you `make a clean breast of` something, you tell someone the truth about yourself or about something wrong that you have done. 坦白;如实承认 [Verb inflects]
+- cinnamon: [N-Uncounted] `cinnamon` is a sweet spice used for flavoring food. 桂皮;肉桂<br/>
+  (Cinnamon) 辛纳蒙 (人名)<br/>
+ ![cinnamon_139491509.jpg](/assets/tw/cinnamon_139491509.jpg)
+- bun: [N-Count] Buns are small bread rolls. they are sometimes sweet and may contain dried fruit or spices. 小圆面包<br/>
+ [N-Count] `buns` are small sweet cakes. they often have icing on the top. (表面覆有糖霜的)小蛋糕 [British]<br/>
+ [N-Count] if a woman has her hair in a `bun`, she has fastened it tightly on top of her head or at the back of her head in the shape of a ball. 圆发髻<br/>
+ [N-Count] your `buns` are your buttocks. 屁股 [mainly US, informal] (usually plural)<br/>
+ ![bun_72946267.jpg](/assets/tw/bun_72946267.jpg)
+- cucumber: [N-Var] a `cucumber` is a long thin vegetable with a hard green skin and wet transparent flesh. it is eaten raw in salads. 黄瓜🥒<br/>
+ [Phrase] if you say that someone is `as cool as a cucumber`, you are emphasizing that they are very calm and relaxed, especially when you would not expect them to be. (尤指意料之外地)非常冷静,泰然自若 [emphasis]<br/>
+ ![cucumber_126058049.jpg](/assets/tw/cucumber_126058049.jpg)
+- French fry: cook by immersing in fat. (法式)薯条🍟
+- dope: [N-Uncounted] `dope` is a drug, usually an illegal drug such as marijuana or cocaine. 麻醉剂;毒品(如大麻、可卡因) [informal]<br/>
+ [Verb] if someone `dopes` a person or animal or `dopes` their food, they put drugs into their food or force them to take drugs. 给...服麻醉剂(或毒品);在...中掺麻醉剂(或毒品) [also V n with n]<br/>
+ [N-Count] if someone calls a person a `dope`, they think that the person is stupid. 笨蛋;呆子;蠢货 [informal, disapproval]<br/>
+ [N-Uncounted] `dope` is information which you have been given illegally or secretly. 情报;密报 [informal]
+- Nobel: [N] Swedish chemist remembered for his invention of dynamite and for the bequest that created the Nobel Prizes (1833-1896) 诺贝尔 (瑞典🇸🇪化学家及发明家,发明炸药,并以遗产创设诺贝尔奖)
+- haram: [N] `Haram` is an Arabic term meaning "forbidden", often in reference to an act forbidden in Islam. anything that is forbidden by Islamic law. 伊斯兰法律所禁之事<br/>
+ [N] (伊斯兰教徒)女眷居住的内室,闺房;(伊斯兰教徒的)女眷,共配一雄的一群雌性动物
+- dude: [N-Count] a `dude` is a man. 男人 [US, informal]
+- durian: [N] a southeastern Asian bombacaceous tree, having very large oval fruits with a hard spiny rind containing seeds surrounded by edible evil-smelling. 榴莲;榴莲树 (=durian tree)<br/>
+ huge fruit native to southeastern Asia `smelling like Hell and tasting like Heaven`; seeds are roasted and eaten like nuts
+- garlicky: [Adj-graded] `something` that is `garlicky` tastes or smells of garlic. 有大蒜味的 [usually Adj. n]<br/>
+ [N-Uncounted] `garlic` is the small, white, round bulb of a plant that is related to the onion plant. garlic has a very strong smell and taste and is used in cooking. 蒜;大蒜🧄<br/>
+ ![garlic_106132991.jpg](/assets/tw/garlic_106132991.jpg)
+- literally: [Adverb] you can use `literally` to emphasize a statement. some careful speakers of English think that this use is incorrect. 简直(一些用词谨慎者认为此用法不正确🙅) [emphasis, Adverb before verb, Adverb adjective]<br/>
+ [Adverb] you use `literally` to emphasize that what you are saying is true, even though it seems exaggerated or surprising. 确实地;真正地;不加夸张地 [emphasis, Adverb before verb]<br/>
+ [Adverb] if a word or expression is translated `literally`, its most simple or basic meaning is translated. 照字面地;直(译)地 [Adverb with verb]<br/>
+ [Phrase] if you take something literally, you think that a word or expression is being used with its most simple or basic meaning. 照字面理解<br/>
+  literal: [Adjective] the `literal` sense of a word or phrase is its most basic sense. 字面上的;原义的<br/>
+  [Adjective] a `literal` translation is one in which you translate each word of the original work rather than giving the meaning of each expression or sentence using words that sound natural. 逐字的;直(译)的<br/>
+  [Adj-graded] you use `literal` to describe someone who uses or understands words in a plain and simple way. 言辞刻板的;听话不听音的<br/>
+  [Adjective] if you describe something as the `literal` truth or a `literal` fact, you are emphasizing that it is true. 确确实实的;完完全全的 [emphasis]
+- puke: [Verb] when someone `pukes`, they vomit. 呕;吐;呕吐🤮 [informal]<br/>
+ [N-Uncounted] `puke` is the same as `vomit`. 同vomit [informal]
+- fart: [Verb] if someone `farts`, air is forced out of their body through their anus. 放屁 [informal, rude]<br/>
+ [N-Count] if someone describes another person as an old `fart`, they are showing that they think the person is boring and that they do not respect the person. (老)东西;无聊的家伙 [informal, rude, disapproval] (usually adjective Noun)
+- beforehand: [Adverb] if you do something `beforehand`, you do it earlier than a particular event. 预先;事先;提前 [usually Adverb after verb]
+- legit: [Adj-graded] if you describe a person or thing as `legit`, you mean that they are in accordance with the law or with a particular set of rules and regulations. 奉公守法的;守规矩的;合法的 [informal] (usually verb-link Adjective)
+- pumpkin: [N-Var] a `pumpkin` is a large, round, orange vegetable with a thick skin. 南瓜🎃;倭瓜<br/>
+ ![pumpkin_113989717.jpg](/assets/tw/pumpkin_113989717.jpg)
+- Christmas: [N-Var] Christmas is a Christian festival when the birth of Jesus Christ is celebrated. Christmas is celebrated on the 25th of December. 圣诞节🎄(12月25日)<br/>
+ [N-Var] Christmas is the period of several days around and including Christmas Day. 圣诞节🎄期间
+- nipple: [N-Count] the `nipples` on someone's body are the two small pieces of slightly hard flesh on their chest. babies suck milk from their mothers' breasts through their mothers' nipples. 乳头<br/>
+  [N-Count] a `nipple` is a piece of rubber or plastic which is fitted to the top of a baby's bottle. (橡皮或塑料)奶嘴
+- boob: [N-Count] a woman's `boobs` are her breasts. (女性的)乳房,奶子 [informal, rude] (usually plural)<br/>
+  [Verb] if you `boob`, you make a mistake. 犯错误 [British, informal]
+- wheel: [N-Count] the `wheels` of a vehicle are the circular objects which are fixed underneath it and which enable it to move along the ground. 轮;轮子;车轮🛞<br/>
+ [N-Count] a `wheel` is a circular object which forms a part of a machine, usually a moving part. 机轮<br/>
+ [N-Count] `the wheel` of a car or other vehicle is the circular object that is used to steer it. `the wheel` is used in expressions to talk about who is driving a vehicle. for example, if someone is `at the wheel` of a car, they are driving it. 方向盘 [usually singular]<br/>
+ [N-Plural] people sometimes refer to a car as `wheels`. 汽车🚗 [informal]<br/>
+ [Verb] if you `wheel` an object that has wheels somewhere, you push it along. 推(带轮子的物体)<br/>
+ [Verb] if something such as a group of animals or birds `wheels`, it moves in a circle. (动物、鸟禽等)转圈,旋转,盘旋 [literary]<br/>
+ [Verb] if you `wheel` around, you turn around suddenly where you are standing, often because you are surprised, shocked, or angry. (因惊讶、震惊或生气😠)突然转身<br/>
+ [N-Sing] you use `wheel` in expressions such as `the wheel of fortune` to refer to the changes that take place in life, especially when you are referring to the fact that the same situations occur more than once. (尤指多次发生相同的情形)命运之轮 [the Noun of n]<br/>
+ [N-Plural] people talk about `the wheels of` an organization or system to mean the way in which it operates. to `oil the wheels` -> see: `oil` (组织或系统的)运作方式<br/>
+ [Phrase] if you say that there are `wheels within wheels`, you mean that there are a number of different influences, reasons, and actions which together make a situation complicated and difficult to understand. (各种影响、原因和行动交织在一起的)错综复杂的情况
+- spin: [Verb] if something `spins` or if you `spin` it, it turns quickly around a central point. (使)旋转<br/>
+ [Verb] when you `spin` washing, it is turned round and round quickly in a spin drier or a washing machine to get the water out. (用甩干机或洗衣机)甩干(衣服),给...脱水<br/>
+ [Verb] if your head `is spinning`, you feel unsteady or confused, for example because you are drunk, ill, or excited. (因醉酒、生病😷或兴奋🥰而)头晕😵‍💫<br/>
+ [N-Sing] if someone puts a certain `spin` on an event or situation, they interpret it and try to present it in a particular way. 带倾向性的解释(或说法) [informal]<br/>
+ [N-Uncounted] in politics, `spin` is the way in which political parties try to present everything they do in a positive way to the public and the media. (政治上的)倾向性报道<br/>
+ [N-Sing] if you go for `a spin` or take a car for `a spin`, you make a short journey in a car just to enjoy yourself. (乘车)兜风<br/>
+ [Verb] if someone `spins` a story, they give you an account of something that is untrue or only partly true. 杜撰;虚构;编造 [also Verb Noun n]<br/>
+ [Verb] when people `spin`, they make thread by twisting together pieces of a fiber such as wool or cotton using a device or machine. 纺纱;纺线 [also Verb]<br/>
+ [N-Sing] if a plane goes into `a spin`, it falls very rapidly towards the ground in a spiral movement. (飞机的)螺旋式急遽下坠,向下旋冲<br/>
+ [N-Uncounted] in a game such as tennis or cricket, if you put spin on a ball, you deliberately make it span rapidly when you hit it or throw it. (网球🎾或板球运动中球的)快速旋转,旋转运动<br/>
+ [Phrase] if you say that someone is `in a spin` or `in a flat spin`, you mean that they are confused and unable to act sensibly because of something that has happened. 感到惊慌失措😱 [British, informal]
+- claim: [Verb] if you say that someone `claims that` something is true, you mean they say that it is true, but you are not sure whether they are telling the truth. 声称;断言<br/>
+ [N-Count] a `claim` is something which someone says which they cannot prove and which may be false. 声称;断言 [oft Noun that]<br/>
+ [Verb] if you say that someone `claims` responsibility or credit for something, you mean they say that they are responsible for it, but you are not sure whether they are telling the truth. 声称(负有责任或享有功劳)<br/>
+ [Verb] if you `claim` something, you try to get it because you think you have a right to it. 索取,索要(有权拥有的东西)<br/>
+ [N-Count] a `claim` is a demand for something that you think you have a right to. 主张;要求<br/>
+ [Verb] if someone `claims` a record, title, or prize, they gain or win it. 取得,获得,赢得(纪录、冠军或奖励) [journalism]<br/>
+ [N-Count] if you have a `claim on` someone or their attention, you have the right to demand things from them or to demand their attention. 权利;要求权<br/>
+ [Verb] if something or someone `claims` your attention, they need you to spend your time and effort on them. 需要,要求(花时间或精力)<br/>
+ [Verb] if you `claim` money from the government, an insurance company, or another organization, you officially apply to them for it, because you think you are entitled to it according to their rules. 索要,索取,申领(钱)<br/>
+ [Verb] if you `claim` money or other benefits from your employers, you demand them because you think you deserve or need them. (向雇主)索要,索取,讨要(钱、福利)<br/>
+ [Verb] if you say that a war, disease, or accident `claims` someone's life, you mean that they are killed in it or by it. (战争、疾病、事故)夺去(生命),导致(死亡) [formal]<br/>
+ [Phrase] someone's `claim to fame` is something quite important or interesting that they have done or that is connected with them. 成名之举;成名之作<br/>
+ [Phrase] if you `lay claim to` something you do not have, you say that it belongs to you. 声称拥有 [formal]
+- debut: [N-Count] the `debut` of a performer or sports player is their first public performance, appearance, or recording. (表演者或运动员的)首次登台,初次露面;(歌手的)首次录音 [oft with poss]
+- proposal: [N-Count] a `proposal` is a plan or an idea, often a formal or written one, which is suggested for people to think about and decide upon. 提议;建议;提案 [Noun to-infinitive]<br/>
+ [N-Count] a `proposal` is the act of asking someone to marry you. 求婚
+- desire: [N-Count] a `desire` is a strong wish to do or have something. 渴望;热望;欲望 [oft Noun to-infinitive]<br/>
+ [Verb] if you `desire` something, you want it. 渴望;想望;想要 [formal] (no cont)<br/>
+ [N-Uncounted] `desire` for someone is a strong feeling of wanting to have sex with them. 情欲;肉欲;性欲<br/>
+ [Verb] if you `desire` someone, you want to have sex with them. 想与...发生性关系 [no cont]<br/>
+ [Phrase] `if desired` is used in instructions in written English to indicate that someone can choose to take the course of action mentioned. (用于说明性的书面语中)如果需要的话,如果愿意的话<br/>
+ [Phrase] if you say that someone or something is your `heart's desire`, you mean that you want that person or thing very much. 心里想望之人;心中渴望之物 [literary] (Ns inflect, usu poss PHR)<br/>
+ [Phrase] if you say that something `leaves` a lot `to be desired`, you mean that it is not as good as it should be. 尚有(许多)需要改进之处;有待(大幅)提高 [disapproval]
 
 ### [Inoreader](https://www.innoreader.com/)
 
