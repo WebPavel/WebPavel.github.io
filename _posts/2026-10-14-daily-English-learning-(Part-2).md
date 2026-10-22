@@ -245,6 +245,10 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
  [Phrase] `if desired` is used in instructions in written English to indicate that someone can choose to take the course of action mentioned. (用于说明性的书面语中)如果需要的话,如果愿意的话<br/>
  [Phrase] if you say that someone or something is your `heart's desire`, you mean that you want that person or thing very much. 心里想望之人;心中渴望之物 [literary] (Ns inflect, usu poss PHR)<br/>
  [Phrase] if you say that something `leaves` a lot `to be desired`, you mean that it is not as good as it should be. 尚有(许多)需要改进之处;有待(大幅)提高 [disapproval]
+- tattoo: [N-Count] a `tattoo` is a design that is drawn on someone's skin using needles to make little holes and filling them with colored dye. 文身;刺青<br/>
+ [Verb] if someone `tattoos` you, they give you a tattoo. 给...文身;在...身上刺花纹<br/>
+ [N-Count] a military `tattoo` is a public display of exercises and music given by members of the armed forces. (军队的)表演操 [British]<br/>
+ [N-Count] if you beat a `tattoo`, you hit something quickly and repeatedly. 快速的击打;不停的敲击 [usually singular]
 
 ### [Inoreader](https://www.innoreader.com/)
 
