@@ -93,6 +93,17 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
   [Phrase] if you `make a clean sweep of` something such as a series of games or tournaments, you win them all. 在(比赛中)大获全胜;横扫<br/>
   [Phrase] if someone `sweeps` you `off` your `feet`, you fall in love with them very quickly because you find them very attractive or exciting. to `sweep the board` -> see: `board` 使一见倾心;把...一下子迷住🤩
 - columbarium: [N] a niche for a funeral urn containing the ashes of the cremated dead 骨灰安置所
+- glow: [N-Count] a `glow` is a dull, steady light, for example the light produced by a fire when there are no flames. 微弱稳定的光;暗淡的光 [usually singular]<br/>
+ [N-Sing] a `glow` is a pink color on a person's face, usually because they are healthy or have been exercising. (脸上的)红光,红晕,红润<br/>
+ [N-Sing] if you feel a `glow of` satisfaction or achievement, you have a strong feeling of pleasure because of something that you have done or that has happened. 一股,满腔(满足感等)<br/>
+ [Verb] if something `glows`, it produces a dull, steady light. 发微弱而稳定的光;发暗淡的光<br/>
+ [Verb] if a place `glows with` a color or a quality, it is bright, attractive, and colorful. 色彩鲜艳;绚丽夺目;洋溢着(某种特征) [also Verb]<br/>
+ [Verb] if something `glows`, it looks bright because it is reflecting light. 发光;泛光<br/>
+ [Verb] if someone's skin `glows`, it looks pink because they are healthy or excited, or have been doing physical exercise. (皮肤由于健康、激动或运动)发红,泛红晕,容光焕发 [also Verb]<br/>
+ [Verb] if someone `glows with` an emotion such as pride or pleasure, the expression on their face shows how they feel. 洋溢着,散发出(某种情感) [also Verb]
+- moisture: [N-Uncounted] `moisture` is tiny drops of water in the air, on a surface, or in the ground. 潮气;湿气;水分
+- grocery: [N-Count] a `grocery` or a `grocery store` is a grocer's shop. 食品杂货店 [mainly US]<br/>
+ [N-Plural] `groceries` are foods you buy at a grocer's or at a supermarket such as flour, sugar, and tinned foods. 食品杂货
 
 ### [Twitch](https://www.twitch.tv/)
 
@@ -304,6 +315,9 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
   [Phrase] if someone or something comes `under the spotlight`, they are thoroughly examined, especially by journalists and the public. 备受(媒体和公众的)关注 [Phrase after verb]
 - debit: [Verb] when your bank `debits` your account, money is taken from it and paid to someone else. 记入(账户)的借方<br/>
   [N-Count] a `debit` is a record of the money taken from your bank account, for example when you write a cheque. (银行账户的)借记,借入
+- mung: [Verb] to process (computer data) [slang] 处理(计算机数据) [俚语]<br/>
+ [N] 绿豆; (Mung) 蒙 (人名)<br/>
+  mung bean: 绿豆; mung bean soup: 绿豆汤,绿豆稀饭; mung bean noodle: 粉丝,绿豆阔面; mung bean porridge: 绿豆粥
 
 > [!TIP]
 > __*__:
