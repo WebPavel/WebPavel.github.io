@@ -260,6 +260,11 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
  [Verb] if someone `tattoos` you, they give you a tattoo. 给...文身;在...身上刺花纹<br/>
  [N-Count] a military `tattoo` is a public display of exercises and music given by members of the armed forces. (军队的)表演操 [British]<br/>
  [N-Count] if you beat a `tattoo`, you hit something quickly and repeatedly. 快速的击打;不停的敲击 [usually singular]
+- peek: [Verb] if you `peek at` something or someone, you have a quick look at them, often secretly. 瞥;偷看;窥视👀<br/>
+ [N-Count] `peek` is a secret look. 一瞥<br/>
+ (Peek) 皮克 (人名)
+- squish: [Verb] to crush, especially to make a soft splashing noise. 挤压,压扁,把...挤扁;咯吱咯吱地压碎; (在泥泞中)咕唧咕唧地走<br/>
+ [N-Count] the noise of soft mud being walked on. 咯吱声,咕唧声
 
 ### [Inoreader](https://www.innoreader.com/)
 
