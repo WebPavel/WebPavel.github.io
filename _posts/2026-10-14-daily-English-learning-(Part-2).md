@@ -265,6 +265,14 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
  (Peek) 皮克 (人名)
 - squish: [Verb] to crush, especially to make a soft splashing noise. 挤压,压扁,把...挤扁;咯吱咯吱地压碎; (在泥泞中)咕唧咕唧地走<br/>
  [N-Count] the noise of soft mud being walked on. 咯吱声,咕唧声
+- appetizer: [N-Count] an `appetizer` is the first course of a meal. it consists of a small amount of food. (餐前的)开胃小吃<br/>
+ in BRIT, also use `appetiser`.
+- lush: [Adj-graded] `lush` fields or gardens have a lot of very healthy grass or plants. 葱郁的;葱茏的;草木茂盛的<br/>
+ [Adj-graded] if you describe a place or thing as `lush`, you mean that it is very luxurious. 豪华的;奢侈的<br/>
+ [N-Count] if you describe someone as a `lush`, you mean that they drink too much alcohol. 醉鬼;酒鬼 [informal]<br/>
+  (Lush) 勒什 (人名)
+- passion fruit: [N-Var] a passion fruit is a small, round, brown fruit that is produced by certain types of tropical flower. 西番莲果;鸡蛋果;百香果<br/>
+ ![passionfruit_181108751.jpg](/assets/tw/passionfruit_181108751.jpg)
 
 #### Tattoo & tobacco
 
