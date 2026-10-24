@@ -272,7 +272,7 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
  [Verb] if someone `tattoos` you, they give you a tattoo. 给...文身;在...身上刺花纹<br/>
  [N-Count] a military `tattoo` is a public display of exercises and music given by members of the armed forces. (军队的)表演操 [British]<br/>
  [N-Count] if you beat a `tattoo`, you hit something quickly and repeatedly. 快速的击打;不停的敲击 [usually singular]
-- tobacco: [N-Mass] `tobacco` is dried leaves which people smoke in pipes, cigars, and cigarettes. you can also refer to pipes, cigars, and cigarettes as a whole as tobacco. 烟叶;烟草(制品)
+- tobacco: [N-Mass] `tobacco` is dried leaves which people smoke in pipes, cigars, and cigarettes. you can also refer to pipes, cigars, and cigarettes as a whole as tobacco. 烟叶;烟草(制品)<br/>
  [N-Uncounted] `tobacco` is the plant from which tobacco is obtained. 烟草植株<br/>
  ![tobacco_83031454.jpg](/assets/tw/tobacco_83031454.jpg)
 
