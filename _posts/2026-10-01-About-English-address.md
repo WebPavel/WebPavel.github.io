@@ -61,6 +61,36 @@ Guangzhou, Guangdong, 510640
 China
 ```
 
+### US tax-free State
+
+[Oregon State University](https://oregonstate.edu/)
+
+```text
+957 SW Jefferson Avenue,
+Corvallis OR 97333
++1 541-737-4771
+```
+
+### Hong Kong
+
+[The Wai](https://www.thewaimall.com/)
+
+```text
+18 Che Kung Miu Road, Tai Wai 大圍車公廟路18號
+Hong Kong, HKG
++852 2567 9766
+```
+
+### Singapore
+
+[National University of Singapore](https://www.nus.edu.sg/)
+
+```text
+121 Clementi Road
+Singapore 129802
++65 6601 7878
+```
+
 > [!TIP]
 > __*__:
 >
