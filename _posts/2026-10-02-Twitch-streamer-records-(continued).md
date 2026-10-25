@@ -33,9 +33,10 @@ comments: true
 
 ### About hand-shaken drinks
 
-| brand        | Chinese | recommendation                                                                                 |
-|--------------|---------|------------------------------------------------------------------------------------------------|
-| Unique Green | UG      | UG奶茶-茶花紅烏龍·奶茶<br/>UG rich milk tea - Camellia<sup>*</sup> Red Oolong Tea / NT\$75 (L) |
+| brand                                                 | Chinese  | recommendation                                                                                 |
+|-------------------------------------------------------|----------|------------------------------------------------------------------------------------------------|
+| Unique Green                                          | UG       | UG奶茶-茶花紅烏龍·奶茶<br/>UG rich milk tea - Camellia<sup>*</sup> Red Oolong Tea / NT\$75 (L) |
+| [Ten Ren's Tea - CHAFFEE](https://www.tenren.com.tw/) | 天仁茗茶 | 四季烏龍 Four Seasons Oolong Tea / NT\$60 (L)<br/>晨露茉莉綠茶 Jasmine Green Tea / NT\$60 (L)  |
 
 ### About Taiwan Snacks
 
