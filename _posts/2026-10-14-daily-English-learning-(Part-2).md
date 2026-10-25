@@ -341,6 +341,21 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
 - mung: [Verb] to process (computer data) [slang] 处理(计算机数据) [俚语]<br/>
  [N] 绿豆; (Mung) 蒙 (人名)<br/>
   mung bean: 绿豆; mung bean soup: 绿豆汤,绿豆稀饭; mung bean noodle: 粉丝,绿豆阔面; mung bean porridge: 绿豆粥
+- settle: [Verb] if people `settle` an argument or problem, or if something `settles` it, they solve it, for example by making a decision about who is right or about what to do. 解决,结束(争端、纠纷)<br/>
+ [Verb] if people `settle` a legal dispute or if they `settle`, they agree to end the dispute without going to a court of law, for example by paying some money or by apologizing. 庭外和解<br/>
+ [Verb] if you `settle` a bill or debt, you pay the amount that you owe. 付清(欠款);结算(账单🧾);结(账)<br/>
+ [Verb] if something `is settled`, it has all been decided and arranged. 决定;确定;安排好 [usually passive]<br/>
+ [Verb] to `settle` money `on` someone means to formally give it to them, for example in a will. (以遗嘱等正式方式)赠予,授予 [formal]<br/>
+ [Verb] when people `settle` a place or in a place, or when a government `settles` them there, they start living there permanently. 在...定居;使定居;把...安置在<br/>
+ [Verb] if you `settle yourself` somewhere or `settle` somewhere, you sit down or make yourself comfortable. (使)坐下;(使)处于舒适的位置<br/>
+ [Verb] if something `settles` or if you `settle` it, it sinks slowly down and becomes still. (使)缓慢沉落;(使)逐渐下陷<br/>
+ [Verb] if your eyes `settle on` or `upon` something, you stop looking around and look at that thing for some time. (目光)落在...上,注视着<br/>
+ [Verb] when birds or insects `settle on` something, they land on it from above. (鸟、昆虫)降落,栖息<br/>
+ [N] a seat, for two or more people, usually made of wood with a high back and arms, and sometimes having a storage space in the boxlike seat. 高背长靠椅<br/>
+ (Settle) 塞特尔 (人名)
+- tremendous: [Adj-graded] you use `tremendous` to emphasize how strong a feeling or quality is, or how large an amount is. 巨大的;极大的;大量的 [informal, emphasis]<br/>
+ [Adj-graded] you can describe someone or something as `tremendous` when you think they are very good or very impressive. 精彩的;出色的;极好的 [informal]<br/>
+  tremendously: [Adverb] extremely. 非常地,极其,惊人地;可怕地
 
 > [!TIP]
 > __*__:
