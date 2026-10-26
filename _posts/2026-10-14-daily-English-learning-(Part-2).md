@@ -104,6 +104,15 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
 - moisture: [N-Uncounted] `moisture` is tiny drops of water in the air, on a surface, or in the ground. 潮气;湿气;水分
 - grocery: [N-Count] a `grocery` or a `grocery store` is a grocer's shop. 食品杂货店 [mainly US]<br/>
  [N-Plural] `groceries` are foods you buy at a grocer's or at a supermarket such as flour, sugar, and tinned foods. 食品杂货
+- comprise: [Verb] if you say that something `comprises` or `is comprised of` a number of things or people, you mean it has them as its parts or members. 包括;由...组成 [formal]<br/>
+ [Verb] the things or people that `comprise` something are the parts or members that form it. 构成;组成 [formal]<br/>
+  compose: 正式用词,多用被动态. 指将两个或两个以上的人或物放到一起形成一个整体.<br/>
+  comprise: 正式用词,指整体是由几个独立的部分所组成.<br/>
+  consist: 与of连用,指一个整体由几个部分组成,或由某些材料构成.<br/>
+  constitute: 正式用词,指由某些部分组成一个整体或构成某物的基本成分. 在句中,主语表事物的组成部分,宾语表示事物的整体.
+- precise: [Adj-graded] you use `precise` to emphasize that you are referring to an exact thing, rather than something vague. 明确的;确切的 [emphasis]<br/>
+ [Adj-graded] something that is precise is exact and accurate in all its details. 精确的;准确的<br/>
+ [Phrase] you say '`to be precise`' to indicate that you are giving more detailed or accurate information than you have just given. 确切地说;准确地说
 
 ### [Twitch](https://www.twitch.tv/)
 
