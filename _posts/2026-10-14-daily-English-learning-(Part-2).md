@@ -273,6 +273,21 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
   (Lush) 勒什 (人名)
 - passion fruit: [N-Var] a passion fruit is a small, round, brown fruit that is produced by certain types of tropical flower. 西番莲果;鸡蛋果;百香果<br/>
  ![passionfruit_181108751.jpg](/assets/tw/passionfruit_181108751.jpg)
+- curl: [N-Count] if you have `curls`, your hair is in the form of tight curves and spirals. 鬈发;卷发<br/>
+ [N-Uncounted] if your hair has `curl`, it is full of curls. 卷;弯曲<br/>
+ [Verb] if your hair `curls` or if you `curl` it, it is full of curls. 卷; (使)卷曲; (使)鬈曲<br/>
+ [N-Count] a `curl of` something is a piece or quantity of it that is curved or spiral in shape. 卷曲物;螺旋状物<br/>
+ [Verb] if your toes, fingers, or other parts of your body `curl`, or if you `curl` them, they form a curved or round shape. (使)(脚趾、手指等)蜷曲;(使)蜷缩<br/>
+ [Verb] if something `curls` somewhere, or if you `curl` it there, it moves there in a spiral or curve. (使)呈螺旋(或卷曲)状移动;(使)旋绕<br/>
+ [Verb] if a person or animal `curls into` a ball, they move into a position in which their body makes a rounded shape. 蜷缩<br/>
+ [Verb] when a leaf, a piece of paper, or another flat object `curls`, its edges bend towards the center. (叶子、纸等)卷边<br/>
+ [Verb] if you `curl` your lip, you raise your upper lip slightly at one side, as a way of showing anger or contempt. 撇(嘴)<br/>
+ (Curl) 柯尔 (人名)
+- blanket: [N-Count] a `blanket` is a large square or rectangular piece of thick cloth, especially one which you put on a bed to keep you warm. 毯子;毛毯<br/>
+ [N-Count] a `blanket of` something such as snow is a continuous layer of it which hides what is below or beyond it. 覆盖层 [usually singular]<br/>
+ [N-Sing] you can refer to something such as an unpleasant emotion or an undesirable quality that seems to affect every aspect of a particular situation as a `blanket of` that emotion or quality. (不好的情感、性质等的)弥漫,充斥 [literary] (Noun of n)<br/>
+ [Verb] if something such as snow blankets an area, it covers it. 覆盖;遮盖;盖住<br/>
+ [Adj-graded] you use `blanket` to describe something when you want to emphasize that it affects or refers to every person or thing in a group, without any exceptions. 通用的;全面的;无一例外的 [emphasis]
 
 #### Tattoo & tobacco
 
