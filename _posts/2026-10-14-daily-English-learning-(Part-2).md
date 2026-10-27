@@ -297,6 +297,55 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
  [N-Sing] you can refer to something such as an unpleasant emotion or an undesirable quality that seems to affect every aspect of a particular situation as a `blanket of` that emotion or quality. (不好的情感、性质等的)弥漫,充斥 [literary] (Noun of n)<br/>
  [Verb] if something such as snow blankets an area, it covers it. 覆盖;遮盖;盖住<br/>
  [Adj-graded] you use `blanket` to describe something when you want to emphasize that it affects or refers to every person or thing in a group, without any exceptions. 通用的;全面的;无一例外的 [emphasis]
+- massage: [N-Var] `massage` is the action of squeezing and rubbing someone's body, as a way of making them relax or reducing their pain. 按摩;推拿<br/>
+ [Verb] if you `massage` someone or a part of their body, you squeeze and rub their body, in order to make them relax or reduce their pain. 为...按摩;给...推拿<br/>
+ [Verb] if you say that someone `massages` statistics, figures, or evidence, you are criticizing them for changing or presenting the facts in a way that misleads people. 修改,改动,窜改(数据或证据以掩人耳目) [disapproval]
+- Bangkok: [N] the capital and largest city and chief port of Thailand; a leading city in southeastern Asia; noted for Buddhist architecture. 曼谷(泰国首都,泰国最大城市和主要港口)
+- mouse pad: [N-Count] a `mouse pad` is the same as a `mouse mat`. 同 mouse mat [mainly US]<br/>
+ [N-Count] a `mouse mat` is a flat piece of plastic or some other material that you rest the mouse on while using a computer. 鼠标垫 [British]
+- slurp: [Verb] if you `slurp` a liquid, you drink it noisily. 大声地啜;出声地喝<br/>
+ [N-Count] a `slurp` is a noise that you make with your mouth when you drink noisily, or a mouthful of liquid that you drink noisily. (喝东西时发出的)咕嘟声
+- bunny: [N-Count] a `bunny` or a `bunny rabbit` is a child's word for a rabbit. (儿语)兔子🐰 [informal]<br/>
+ (Bunny) 邦尼 (人名)
+- rub: [Verb] if you `rub` a part of your body, you move your hand or fingers backwards and forwards over it while pressing firmly. 揉;按摩;搓<br/>
+ [Verb] if you `rub against` a surface or `rub` a part of your body `against` a surface, you move it backwards and forwards while pressing it against the surface. 摩擦;蹭<br/>
+ [Verb] if you `rub` an object or a surface, you move a cloth backward and forward over it in order to clean or dry it. (用布)擦干,擦净,擦拭<br/>
+ [Verb] if you `rub` a substance `into` a surface or `rub` something such as dirt `from` a surface, you spread it over the surface or remove it from the surface using your hand or something such as a cloth. 涂抹;搽;擦去<br/>
+ [Verb] if you `rub` two things `together` or if they `rub together`, they move backwards and forwards, pressing against each other. 相互摩擦;揉搓<br/>
+ [Verb] if something you are wearing or holding `rubs`, it makes you sore because it keeps moving backwards and forwards against your skin. 擦伤;磨痛 [also Verb N]<br/>
+ [N-Sing] `rub` is used in expressions such as `there's the rub` and `the rub is` when you are mentioning a difficulty that makes something hard or impossible to achieve. 困难;难处;障碍 [formal]<br/>
+ [N-Count] a massage can be referred to as a `rub`. 按摩 [usually singular]<br/>
+ [N-Count] a `rub` is a substance that you massage into your skin. 按摩膏;面膜 [usually with supplement]<br/>
+ [Phrase] if you `rub shoulders with` famous people, you meet them and talk to them. you can also say that you `rub elbows with` someone, especially in American English. (尤用于美国英语)和(名人)接触,和(名人)交往<br/>
+ [Phrase] if you `rub` someone `up the wrong way` in British English, or `rub` someone `the wrong way` in American English, you offend or annoy them without intending to. 无意中冒犯;无意中惹恼 [informal]
+- tier: [N-Count] a `tier` is a row or layer of something that has other layers above or below it. 一排;一行;一列<br/>
+ [N-Count] a `tier` is a level in an organization or system. (组织或系统的)层,级<br/>
+ [Comb in Adjective] tier is also a combining form. (用于构成合成形容词) ...排的; ...层的<br/>
+ [Comb in Adjective] tier is also a combining form. (用于构成合成形容词) ...级的<br/>
+ [Verb] to be or arrange in tiers. 使层叠; 按层排列<br/>
+ (Tier) 蒂尔 (人名)
+- weary: [Adjective-Graded] if you are `weary`, you are very tired. 疲倦的;疲劳的<br/>
+ [Adjective-Graded] if you are `weary of` something, you have become tired of it and have lost your enthusiasm for it. 不再感兴趣的;感到厌烦的<br/>
+ [Verb] if you `weary` of something or it `wearies` you, you become tired of it and lose your enthusiasm for it. (使)厌倦; (使)失去热情 [formal]<br/>
+ world-weary: 厌世的;讨厌人世的
+- nail: [N-Count] a `nail` is a thin piece of metal with one pointed end and one flat end. you hit the flat end with a hammer in order to push the nail into something such as a wall. 钉子<br/>
+ [Verb] if you `nail` something somewhere, you fix it there using one or more nails. (用钉子)钉住,钉牢<br/>
+ [N-Count] your `nails` are the thin hard parts that grow at the ends of your fingers and toes. 指甲;趾甲<br/>
+ [Verb] to `nail` someone means to catch them and prove that they have been breaking the law. 抓住;逮住;证明...有罪 [informal]<br/>
+ [Phrase] if you say that someone is `as hard as nails`, you mean that they are extremely tough and aggressive, either physically or in their attitude towards other people or other situations. 冷酷无情的;铁石心肠的;强硬好斗的<br/>
+ [Phrase] if you say that someone `has hit the nail on the head`, you think they are exactly right about something. 正中要害;说得中肯<br/>
+ (Nail) 纳伊 (人名)
+- necklace: [N-Count] a `necklace` is a piece of jewelry such as a chain or a string of beads which someone, usually a woman, wears round their neck. 项圈;项链<br/>
+ [Verb] to `necklace` someone means to kill them by putting a tire soaked in petrol around their neck and then setting fire to it. (主要指南非)给...戴火项链(指将淋了汽油的轮胎套在某人脖子上并点燃的私刑) [also Verb N]
+- cow: [N-Count] a `cow` is a large female animal that is kept on farms for its milk. people sometimes refer to male and female animals of this species as `cows`. 母牛;奶牛🐄; (有时统称)牛🐮<br/>
+ [N-Count] some female animals, including elephants and whales, are called `cows`. 雌性动物(如雌象、雌鲸等)<br/>
+ [N-Count] if someone describes a woman as a `cow`, they dislike her and think that she is unpleasant or stupid. 婆娘;娘儿们 [informal, offensive, disapproval]<br/>
+ [Verb] if someone `is cowed`, they are made afraid, or made to behave in a particular way because they have been frightened or badly treated. 恐吓;威胁;把...吓住 [formal]<br/>
+ [Phrase] if you say that someone can do something `until the cows come home`, but it will have no effect, you are emphasizing that it will have no effect even if they do it for a very long time. 很长时间;长期 [informal, emphasis]<br/>
+ ![cow_55631443.jpg](/assets/tw/cow_55631443.jpg)
+- succubus: [N] a female demon believed to have sexual intercourse with sleeping men. 一种与睡梦中的男子性交的女妖 (also called succuba);魅魔
+- tire: [N-Count] a `tire` is a thick piece of rubber which is fitted onto the wheels of vehicles such as cars, buses, and bicycles. 轮胎;车胎🛞<br/>
+ in BRIT, use `tyre`.
 
 #### Tattoo & tobacco
 
@@ -380,6 +429,26 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
 - tremendous: [Adj-graded] you use `tremendous` to emphasize how strong a feeling or quality is, or how large an amount is. 巨大的;极大的;大量的 [informal, emphasis]<br/>
  [Adj-graded] you can describe someone or something as `tremendous` when you think they are very good or very impressive. 精彩的;出色的;极好的 [informal]<br/>
   tremendously: [Adverb] extremely. 非常地,极其,惊人地;可怕地
+- dash: [Verb] if you `dash` somewhere, you run or go there quickly and suddenly. 飞奔;猛冲<br/>
+ [Verb] if you say that you have to `dash`, you mean that you are in a hurry and have to leave immediately. 马上离开;赶紧走 [informal] (no cont)<br/>
+ [N-Count] a `dash of` something is a small quantity of it which you add when you are preparing food or mixing a drink. (往食物或饮料里添加的)少量,少许<br/>
+ [N-Count] a `dash of` a quality is a small amount of it that is found in something and often makes it more interesting or distinctive. (某种特质的)少量,些许<br/>
+ [Verb] if you `dash` something `against` a wall or other surface, you throw or push it violently, often so hard that it breaks. (朝墙上等)猛摔,猛掷,猛撞 [literary] (also Verb n preposition)<br/>
+ [Verb] if an event or person `dashes` someone's hopes or expectations, it destroys them by making it impossible that the thing that is hoped for or expected will ever happen. 使(希望或期望)破灭 [journalism, literary]<br/>
+ [N-Sing] if you do something in `a dash`, you do it very quickly, perhaps with very bad results. 急匆匆;仓促<br/>
+ [N-Count] a `dash` is a short fast race. 短跑(比赛) [US]<br/>
+ [N-Count] a `dash` is a straight, horizontal line used in writing, for example to separate two main clauses whose meanings are closely connected. 破折号<br/>
+ [Exclamation] you can say `dash` or `dash it` or `dash it all` when you are rather annoyed about something. 该死;可恶;讨厌 [British, informal, old-fashioned, feelings]<br/>
+ [N-Count] the `dash` of a car is its `dashboard`. (汽车的)仪表板<br/>
+ [N-Uncounted] `dash` is a mixture of stylishness, enthusiasm, and courage. 潇洒;闯劲;勇猛 [old-fashioned]<br/>
+ [Phrase] if you say that someone `cuts a dash`, you mean that they have an attractively stylish appearance or a rather bold manner. 风度翩翩;大胆出位 [old-fashioned] (Verb inflects)<br/>
+ [Phrase] if you `make a dash for` a place, you run there very quickly, for example to escape from someone or something. (为逃离等而)飞速奔向,猛冲向<br/>
+ [Phrasal Verb] if you `dash off to` a place, you go there very quickly. 迅速前往<br/>
+ [Phrasal Verb] if you `dash off` a piece of writing, you write or compose it very quickly, without thinking about it very much. 急速写好;匆匆写成<br/>
+ (Dash) 达什 (人名)
+- quickening: [N] the stage of pregnancy at which the mother first feels the movements of the fetus. 胎动(尤指孕妇初次感到的胎儿活动)<br/>
+ [V-T/V-I] if something `quickens` or if you `quicken` it, it becomes faster or moves at a greater speed. 加速,加快<br/>
+ [Adjective] the process of showing signs of life. 使复苏的
 
 > [!TIP]
 > __*__:
