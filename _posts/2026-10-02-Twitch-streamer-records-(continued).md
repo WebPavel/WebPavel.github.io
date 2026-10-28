@@ -25,18 +25,19 @@ comments: true
 
 ### Taiwan
 
-| place                                                         | Chinese | co-op      | date            | category<sup>*</sup> | rating | keywords                                                                                                                                                                                                      | situation                      |
-|---------------------------------------------------------------|---------|------------|-----------------|----------------------|--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|
-| Section 2, Nanjing East Road, Zhongshan district, Taipei city |         | @mmgeneral | October 2, 2026 | 1                    |        | @[Hutong Yakiniku 胡同燒肉](https://gyenhutong.com.tw/) @[誠品生活 eslite spectrum<sup>*</sup>](https://www.eslitespectrum.com/) @[Lady Kelly patisserie<sup>*</sup>](https://www.ladykelly.com.tw/) @lottery | @gathering @restaurant @dating |
+| place                                                         | Chinese | co-op      | date             | category<sup>*</sup> | rating | keywords                                                                                                                                                                                                                                                                                                                  | situation                      |
+|---------------------------------------------------------------|---------|------------|------------------|----------------------|--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|
+| Section 2, Nanjing East Road, Zhongshan district, Taipei city |         | @mmgeneral | October 2, 2026  | 1                    |        | @[Hutong Yakiniku 胡同燒肉](https://gyenhutong.com.tw/) @[誠品生活 eslite spectrum<sup>*</sup>](https://www.eslitespectrum.com/) @[Lady Kelly patisserie<sup>*</sup>](https://www.ladykelly.com.tw/) @lottery                                                                                                             | @gathering @restaurant @dating |
+| Minsheng East Road, Zhongshan District, Taipei City           |         | @mmgeneral | October 27, 2026 | 1                    | 6/10   | @客蒸湘 Ke Zheng Xiang @[eslite 誠品](https://www.eslitecorp.com/) @[新光三越 Shin Kong Mitsukoshi](https://www.skm.com.tw/) @[Yves Saint Laurent](https://www.ysl.com) @[hermes - Paris](https://www.hermes.com/) @[Tom Ford](https://www.tomford.com/) @[Coach](https://www.coach.com) @[SUQQU](https://www.suqqu.com/) | @restaurant @birthday present  |
 
 ## what I don't know about Taiwan
 
 ### About hand-shaken drinks
 
-| brand                                                 | Chinese  | recommendation                                                                                 |
-|-------------------------------------------------------|----------|------------------------------------------------------------------------------------------------|
-| Unique Green                                          | UG       | UG奶茶-茶花紅烏龍·奶茶<br/>UG rich milk tea - Camellia<sup>*</sup> Red Oolong Tea / NT\$75 (L) |
-| [Ten Ren's Tea - CHAFFEE](https://www.tenren.com.tw/) | 天仁茗茶 | 四季烏龍 Four Seasons Oolong Tea / NT\$60 (L)<br/>晨露茉莉綠茶 Jasmine Green Tea / NT\$60 (L)  |
+| brand                                                 | Chinese  | recommendation                                                                                                                                                                  |
+|-------------------------------------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Unique Green](https://www.uniquegreentea.com/)       | UG       | UG奶茶-茶花紅烏龍·奶茶<br/>UG rich milk tea - Camellia<sup>\*</sup> Red Oolong Tea / NT\$75 (L)<br/>金杯蜜香紅/UG奶茶 Golden Cup Honey Aroma<sup>*</sup> Black Tea / NT\$70 (L) |
+| [Ten Ren's Tea - CHAFFEE](https://www.tenren.com.tw/) | 天仁茗茶 | 四季烏龍 Four Seasons Oolong Tea / NT\$60 (L)<br/>晨露茉莉綠茶 Jasmine Green Tea / NT\$60 (L)                                                                                   |
 
 ### About Taiwan Snacks
 
@@ -103,6 +104,7 @@ comments: true
 > - con: [N] the written abbr. for `contra`, 相反(地);反对(地)
 > - camellia: [N-Count] a `camellia` is a large bush that has shiny leaves and large white, pink, or red flowers similar to a rose. 山茶(树)<br/>
 >   ![camellia_72242359.jpg](/assets/tw/camellia_72242359.jpg)
+> - aroma: [N-Count] an `aroma` is a strong, pleasant smell. (食物等的)香味,芳香
 > - spectrum: [N-Sing] `the spectrum` is the range of different colors which is produced when light passes through a glass prism or through a drop of water.
 >   a rainbow shows the colors in the spectrum. 光谱<br/>
 >   [N-Count] a `spectrum` is a range of a particular type of thing. [usually singular] 系列;范围<br/>
