@@ -113,6 +113,13 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
 - precise: [Adj-graded] you use `precise` to emphasize that you are referring to an exact thing, rather than something vague. 明确的;确切的 [emphasis]<br/>
  [Adj-graded] something that is precise is exact and accurate in all its details. 精确的;准确的<br/>
  [Phrase] you say '`to be precise`' to indicate that you are giving more detailed or accurate information than you have just given. 确切地说;准确地说
+- forfeit: [Verb] if you `forfeit` something, you lose it or are forced to give it up because you have broken a rule or done something wrong. (因违反规定等)被没收,丧失<br/>
+ [Verb] if you `forfeit` something, you give it up willingly, especially so that you can achieve something else. (尤指为获得他物)主动放弃<br/>
+ [N-Count] a `forfeit` is something that you have to give up because you have done something wrong. 罚金;没收物
+- accumulate: [V-T/V-I] when you `accumulate` things or when they `accumulate`, they collect or are gathered over a period of time. 堆积;积累;积聚
+- arena: [N-Count] an `arena` is a place where sports, entertainments, and other public events take place. it has seats around it where people sit and watch. 运动场;竞技场;体育场<br/>
+ [N-Count] you can refer to a field of activity, especially one where there is a lot of conflict or action, as an `arena` of a particular kind. 活动领域;舞台<br/>
+ (Arena) 阿里纳 (人名)
 
 ### [Twitch](https://www.twitch.tv/)
 
@@ -346,6 +353,77 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
 - succubus: [N] a female demon believed to have sexual intercourse with sleeping men. 一种与睡梦中的男子性交的女妖 (also called succuba);魅魔
 - tire: [N-Count] a `tire` is a thick piece of rubber which is fitted onto the wheels of vehicles such as cars, buses, and bicycles. 轮胎;车胎🛞<br/>
  in BRIT, use `tyre`.
+- sloppy: [Adjective-Graded] if you describe someone's work or activities as `sloppy`, you mean they have been done in a careless and lazy way. 马虎的;敷衍的;草率的 [disapproval]<br/>
+ [Adjective-Graded] if you describe someone or something as `sloppy`, you mean that they are sentimental and romantic. 伤感浪漫的;无病呻吟的
+- tide: [N-Count] `the tide` is the regular change in the level of the sea on the shore. 潮;潮水;潮汐🌊<br/>
+ [N-Count] a `tide` is a current in the sea that is caused by the regular and continuous movement of large areas of water towards and away from the shore. (不断冲刷海岸的)潮水,潮汐🌊<br/>
+ [N-Sing] the `tide of` opinion, for example, is what the majority of people think at a particular time. (观点等的)潮流,趋势<br/>
+ [N-Sing] people sometimes refer to events or forces that are difficult or impossible to control as `the tide of` history, for example. (无法抗拒的)潮流,浪潮<br/>
+ [N-Sing] you can talk about a `tide of` something, especially something which is unpleasant, when there is a large and increasing amount of it. (尤指不好的)浪潮,势头
+- slut: [N-Count] people sometimes refer to a woman as a `slut` when they consider her to be very immoral in her sexual behavior. 荡妇;娼妓;婊子;母狗 [offensive, disapproval]
+- erotic: [Adjective-Graded] if you describe something as `erotic`, you mean that it involves sexual feelings or arouses sexual desire. 性爱的; (引起)性欲的;撩人的<br/>
+ [Adjective] `erotic` art shows naked people or sexual acts, and is intended to produce feelings of sexual pleasure. (艺术)色情的,情爱的<br/>
+ [N] an erotic person. 好色之徒
+- blow: [Verb] when a wind or breeze `blows`, the air moves. (风)吹,刮<br/>
+ [Verb] if the wind `blows` something somewhere or if it `blows` there, the wind moves it there. (风)把...吹到;吹到,吹向 [also Verb N preposition]<br/>
+ [Verb] if you `blow`, you send out a stream of air from your mouth. 吹气;呼气<br/>
+ [Verb] if you `blow` something somewhere, you move it by sending out a stream of air from your mouth. (用嘴)吹,把...吹到 [also Verb N preposition]<br/>
+ [Verb] if you `blow` bubbles or smoke rings, you make them by blowing air out of your mouth through liquid or smoke. 吹,吐(泡泡🫧、烟圈等)<br/>
+ [V-T/V-I] when a whistle or horn `blows` or someone `blows` it, they make a sound by blowing into it. 吹奏;吹响;鸣响<br/>
+ [Verb] when you `blow` your nose, you force air out of it through your nostrils in order to clear it. 擤(鼻子)<br/>
+ [Verb] to `blow` something `out`, `off`, or `away` means to remove or destroy it violently with an explosion. 炸飞;炸毁<br/>
+ [Verb] if you say that something `blows` an event, situation, or argument into a particular extreme state, especially an uncertain or unpleasant state, you mean that it causes it to be in that state. 导致;致使<br/>
+ [Verb] if you `blow` a large amount of money, you spend it quickly on luxuries. 挥霍;乱花 [informal]<br/>
+ [Verb] if you `blow` a chance or attempt to do something, you make a mistake which wastes the chance or causes the attempt to fail. 失去,断送(机会);搞砸(努力) [informal]<br/>
+ [V-T/V-I] if a fuse `blows` or if something `blows` it, the fuse melts because too much electricity has been sent through it, and the electrical current is cut off. (保险丝)烧断;使(保险丝)熔断 [also Verb N]<br/>
+ [V-T/V-I] if you `blow` a tire or if it `blows`, a hole suddenly appears in it and all the air comes out of it. (轮胎)爆裂;使(轮胎)爆裂<br/>
+ [Phrase] if you `blow` your `own trumpet` or `blow` your `own horn`, you tell people that you are very clever or successful. 自我炫耀;自吹自擂 [Verb and Noun inflect]<br/>
+ [N-Count] if someone receives a `blow`, they are hit with a fist or weapon. 重击;猛击<br/>
+ [N-Count] if something that happens is a `blow to` someone or something, it is very upsetting, disappointing, or damaging to them. 打击;挫折<br/>
+ [Phrase] if two people or groups `come to blows`, they start fighting. 激烈争吵;动武;打架<br/>
+ [Phrase] something that `softens the blow` or `cushions the blow` makes an unpleasant change or piece of news easier to accept. 减轻,缓和,缓解(打击等) [Verb inflects]<br/>
+ [Phrase] if you `strike a blow for` a particular cause or principle, you do something that supports it or makes it more likely to succeed. 支持;拥护;为...而战 [Verb inflects, Phrase N]
+- quota: [N-Count] a `quota` is the limited number or quantity of something which is officially allowed. 定量;定额;配额<br/>
+ [N-Count] a `quota` is a fixed maximum or minimum proportion of people from a particular group who are allowed to do something, such as come and live in a country or work for the government. (给予某团体的)限额,配额 [also + of]<br/>
+ [N-Count] someone's `quota of` something is their expected or deserved share of it. 配额;份额;指标
+- brew: [Verb] if you `brew` tea or coffee, you make it by pouring hot water over tea leaves or ground coffee. 沏(茶🍵);冲(咖啡☕️)<br/>
+ [N-Count] a `brew` is a particular kind of tea or coffee. it can also be a particular pot of tea or coffee. (某种)茶,咖啡;一壶茶(或咖啡)<br/>
+ [Verb] if a person or company `brews` beer, they make it. 酿(啤酒)<br/>
+ [N-Count] a `brew` is a particular kind of beer or beer that is produced in a particular place at a particular time. (某种或某地某一时间生产的)啤酒🍺 [usually with supplement]<br/>
+ [Verb] if a storm `is brewing`, large clouds are beginning to form and the sky is becoming dark because there is going to be a storm. (风暴)酝酿 [usually cont]<br/>
+ [Verb] if an unpleasant or difficult situation `is brewing`, it is starting to develop. (困境或危机)酝酿,形成 [usually cont]<br/>
+ [N-Count] a `brew of` several things is a mixture of those things. 混合物 [usually singular]<br/>
+ (Brew) 布鲁 (人名)
+- newbie: [N-Count] a `newbie` is someone who is new to an activity, especially in computing or on the internet. (尤指使用电脑或网络的)新人,新手,菜鸟
+- popcorn: [N-Uncounted] `popcorn` is a snack which consists of grains of maize or corn that have been heated until they have burst and become large and light. it can be eaten with salt or sometimes sugar. 爆玉米花<br/>
+ popcorn chicken: 劲爆鸡米花;盐酥鸡<br/>
+ ![popcorn_195139490.jpg](/assets/tw/popcorn_195139490.jpg)
+- stare: [Verb] if you `stare at` someone or something, you look at them for a long time. 凝视;盯着看<br/>
+ [Phrase] if a situation or the answer to a problem `is staring` you `in the face`, it is very obvious, although you may not be immediately aware of it. (局势、解决办法等)非常明显的,明摆在眼前 [informal]
+- tequila: [N-Mass] `tequila` is a strong alcoholic drink made in Mexico from a type of cactus plant. 龙舌兰酒,特奎拉酒(一种墨西哥产的烈性酒)<br/>
+ ![tequila_54147589.jpg](/assets/tw/tequila_54147589.jpg)
+- wiggle: [V-T/V-I] if you `wiggle` something or if it `wiggles`, it moves up and down or from side to side in small quick movements. (使)扭动;(使)摆动<br/>
+ [N-Count] `wiggle` is also a noun. 摆动; 扭动
+- outfit: [N-Count] an `outfit` is a set of clothes. 全套服装<br/>
+ [N-Count] you can refer to an organization as an `outfit`. 机构;组织<br/>
+ [Verb] to `outfit` someone or something means to provide them with equipment for a particular purpose. 装备;配备;供给 [mainly US] (also Verb N + as)
+- outline: [Verb] if you `outline` an idea or a plan, you explain it in a general way. 概述;概括<br/>
+ [N-Count] an `outline` is a general explanation or description of something. 概要;梗概 [oft in Noun]<br/>
+ [V-Passive] you say that an object `is outlined` when you can see its general shape because there is light behind it. (因背后的光线)显示...的轮廓(或外形)<br/>
+ [N-Count] the `outline` of something is its general shape, especially when it cannot be clearly seen. (尤指模糊的)轮廓,外形
+- helmet: [N-Count] a `helmet` is a hat made of a strong material which you wear to protect your head. 头盔🪖;防护帽
+- squid: [N-Count] a `squid` is a sea creature with a long soft body and many soft arms called tentacles. 枪乌贼🦑;鱿鱼<br/>
+ ![squid_250547749.jpg](/assets/tw/squid_250547749.jpg)
+- witch: [N-Count] in fairy stories, a `witch` is a woman, usually an old woman, who has evil magic powers. witches often wear a pointed black hat, and have a pet black cat. (童话故事中的)女巫,巫婆<br/>
+ [N-Count] a `witch` is a man or woman who claims to have magic powers and to be able to use them for good or bad purposes. 巫师
+- ego: [N-Var] someone's `ego` is their sense of their own worth. for example, if someone has a large `ego`, they think they are very important and valuable. 自我;自我评价;自尊
+- enigmatic: [Adjective-Graded] someone or something that is `enigmatic` is mysterious and difficult to understand. 神秘的;谜一般的;费解的<br/>
+ enigmatic figure: 不可捉摸的人 enigmatic encounter: 谜一般的遭遇;神秘际遇
+- mafia: [N-Count-Coll] `the Mafia` is a criminal organization that makes money illegally, especially by threatening people and dealing in drugs. 黑手党<br/>
+ [N-Count] you can use `mafia` to refer to an organized group of people who you disapprove of because they use unfair or illegal means in order to get what they want. 黑帮;势力集团;秘密犯罪团伙<br/>
+ Mafia II: 黑手党2 Mafia III: 黑手党;四海兄弟 Mafia-style organizations: 黑社会;黑社会形态
+- slay: [Verb] if someone `slays` an animal, they kill it in a violent way. 残杀;屠杀;杀戮 [formal]<br/>
+ [V-Passive] if someone `has been slain`, they have been murdered. 谋杀 [mainly US]
 
 #### Tattoo & tobacco
 
@@ -449,6 +527,21 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
 - quickening: [N] the stage of pregnancy at which the mother first feels the movements of the fetus. 胎动(尤指孕妇初次感到的胎儿活动)<br/>
  [V-T/V-I] if something `quickens` or if you `quicken` it, it becomes faster or moves at a greater speed. 加速,加快<br/>
  [Adjective] the process of showing signs of life. 使复苏的
+- outlet: [N-Count] an `outlet` is a shop or organization which sells the goods made by a particular manufacturer. 经销店;专营店<br/>
+ [N-Count] an `outlet` or an `outlet store` is a place which sells slightly damaged or outdated goods from a particular manufacturer, or goods that it made in greater quantities than needed. 廉价商品经销店;折扣店<br/>
+ [N-Count] if someone has an `outlet for` their feelings or ideas, they have a means of expressing and releasing them. (情感的)发泄途径;(思想的)表达方式<br/>
+ [N-Count] an `outlet` is a hole or pipe through which liquid or air can flow away. 出口;排放管<br/>
+ [N-Count] an `outlet` is a place, usually in a wall, where you can connect electrical devices to the electricity supply. (通常指墙上的)电源插座 [mainly US]<br/>
+ in BRIT, usually use `socket`.
+- squash: [Verb] if someone or something `is squashed`, they are pressed or crushed with such force that they become injured or lose their shape. 压扁;压坏;压碎 [also Verb N]<br/>
+ [Adjective] if people or things are `squashed into` a place, they are put or pushed into a place where there is not enough room for them to be. 使...挤进;把...塞进 [v-link Adjective "into" N]<br/>
+ [N-Sing] if you say that getting a number of people into a small space is `a squash`, you mean that it is only just possible for them all to get into it. 拥挤 [informal]<br/>
+ [Verb] if you `squash` something that is causing you trouble, you put a stop to it, often by force. 镇压;压制;粉碎<br/>
+ [N-Uncounted] `squash` is a game in which two players hit a small rubber ball against the walls of a court using rackets. 壁球<br/>
+ [N-Mass] `squash` is a drink made from fruit juice, sugar, and water. squash is sold in bottles in a concentrated form to which you add water. 果汁饮料(通常为浓缩瓶装,饮时掺水) [British]<br/>
+ [N-Var] a `squash` is one of a family of vegetables that have thick skin and soft or firm flesh inside. 番瓜类蔬菜<br/>
+ ![squash_137847731.jpg](/assets/tw/squash_137847731.jpg)
+- dictator: [N-Count] a `dictator` is a ruler who has complete power in a country, especially power which was obtained by force and is used unfairly or cruelly. 独裁者;专政者
 
 > [!TIP]
 > __*__:
