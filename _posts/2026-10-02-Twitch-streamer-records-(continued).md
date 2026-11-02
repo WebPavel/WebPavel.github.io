@@ -29,6 +29,7 @@ comments: true
 |---------------------------------------------------------------|---------|------------|------------------|----------------------|--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|
 | Section 2, Nanjing East Road, Zhongshan district, Taipei city |         | @mmgeneral | October 2, 2026  | 1                    |        | @[Hutong Yakiniku 胡同燒肉](https://gyenhutong.com.tw/) @[誠品生活 eslite spectrum<sup>*</sup>](https://www.eslitespectrum.com/) @[Lady Kelly patisserie<sup>*</sup>](https://www.ladykelly.com.tw/) @lottery                                                                                                             | @gathering @restaurant @dating |
 | Minsheng East Road, Zhongshan District, Taipei City           |         | @mmgeneral | October 27, 2026 | 1                    | 6/10   | @客蒸湘 Ke Zheng Xiang @[eslite 誠品](https://www.eslitecorp.com/) @[新光三越 Shin Kong Mitsukoshi](https://www.skm.com.tw/) @[Yves Saint Laurent](https://www.ysl.com) @[hermes - Paris](https://www.hermes.com/) @[Tom Ford](https://www.tomford.com/) @[Coach](https://www.coach.com) @[SUQQU](https://www.suqqu.com/) | @restaurant @birthday present  |
+| Yuanshan                                                      |         | @mmgeneral | October 31, 2026 | 3                    |        | @Halloween🎃 @cosplay @Alien ghost hugging human                                                                                                                                                                                                                                                                          | @Halloween                     |
 
 ## what I don't know about Taiwan
 
@@ -38,6 +39,7 @@ comments: true
 |-------------------------------------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Unique Green](https://www.uniquegreentea.com/)       | UG       | UG奶茶-茶花紅烏龍·奶茶<br/>UG rich milk tea - Camellia<sup>\*</sup> Red Oolong Tea / NT\$75 (L)<br/>金杯蜜香紅/UG奶茶 Golden Cup Honey Aroma<sup>*</sup> Black Tea / NT\$70 (L) |
 | [Ten Ren's Tea - CHAFFEE](https://www.tenren.com.tw/) | 天仁茗茶 | 四季烏龍 Four Seasons Oolong Tea / NT\$60 (L)<br/>晨露茉莉綠茶 Jasmine Green Tea / NT\$60 (L)                                                                                   |
+| [ComeBuy](https://www.comebuy2002.com.tw/)            |          | 文山包種 Wenshan Pouchong Oolong Tea / NT\$50 (L)                                                                                                                               |
 
 ### About Taiwan Snacks
 
@@ -57,6 +59,12 @@ comments: true
 | facility | Chinese | feature                           | usage                         |
 |----------|---------|-----------------------------------|-------------------------------|
 | Watsons  | 屈臣氏  | personal care and beauty retailer | <https://www.watsons.com.hk/> |
+
+### brand in Taiwan
+
+| brand                             | Chinese     | category | sample/price                                                                                     |
+|-----------------------------------|-------------|----------|--------------------------------------------------------------------------------------------------|
+| [Duracell](https://duracell.com/) | 金頂/金霸王 | battery  | AA4 長效電力保證 3號/4粒裝/鹼性電池 / NT\$139<br/>AAA4 長效電力保證 4號/4粒裝/鹼性電池 / NT\$139 |
 
 ### About Taiwan payment
 
