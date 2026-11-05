@@ -424,6 +424,106 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
  Mafia II: 黑手党2 Mafia III: 黑手党;四海兄弟 Mafia-style organizations: 黑社会;黑社会形态
 - slay: [Verb] if someone `slays` an animal, they kill it in a violent way. 残杀;屠杀;杀戮 [formal]<br/>
  [V-Passive] if someone `has been slain`, they have been murdered. 谋杀 [mainly US]
+- streak: [N-Count] a `streak` is a long stripe or mark on a surface which contrasts with the surface because it is a different color. 条纹;条痕<br/>
+ [Verb] if something `streaks` a surface, it makes long stripes or marks on the surface. 在...上留下条纹(或条痕);使布满条纹(或条痕)<br/>
+ [N-Count] if someone has a `streak` of a particular type of behavior, they sometimes behave in that way. (尤指不好的)性格特征;特点 [usually singular]<br/>
+ [Verb] if something or someone `streaks` somewhere, they move there very quickly. 飞奔;疾驰<br/>
+ [Verb] to run naked through a crowd of people in a public place in order to shock or amuse them. 裸奔 [informal]<br/>
+ [N-Count] a winning `streak` or a lucky `streak` is a continuous series of successes, for example in gambling or sport. a losing `streak` or an unlucky `streak` is a series of failures or losses. (赌博或体育比赛等中的)运气,手气 [adjective Noun]<br/>
+ winning streak: 连胜场数;连胜 losing streak: 连败场数;连败;连败纪录 four-game losing streak: 四连败
+- badge: [N-Count] a `badge` is a piece of metal or cloth which you wear to show that you belong to an organization or support a cause. American English usually uses `button` to refer to a small round metal badge. 徽章,证章(美国英语通常用button指金属小圆徽章)<br/>
+ [N-Sing] any feature which is regarded as a sign of a particular quality can be referred to as a `badge`. 标志;标记;象征 [usually Noun of N]
+- leaderboard: [N-Sing] `the leaderboard` is a board that shows the names and positions of the leading competitors in a competition, especially a golf tournament. (尤指高尔夫锦标赛的)选手积分榜
+- tote: [N-Sing] `the Tote` is a system of betting money on horses in races. (赛马的)赌金计算系统 [British]<br/>
+ [Verb] to `tote` something, especially a gun, means to carry it with you in such a way that people can see it. (可见地)携带;(尤指)佩(枪) [journalism]<br/>
+ tote bag: 托特包;大型女用手提包👜;大手提袋
+- compose: [Verb] the things that something `is composed of` are its parts or members. the separate things that `compose` something are the parts or members that form it. 组成;构成<br/>
+ [Verb] when someone `composes` a piece of music, they write it. 谱写(乐曲);作(曲)<br/>
+ [Verb] if you `compose` something such as a letter, poem, or speech, you write it, often using a lot of concentration or skill. 创作,写(信、诗或演讲稿) [formal]<br/>
+ [Verb] if you `compose` a picture or image, you arrange it in an attractive and artistic way. 为(照片、图像)构图 [technical]<br/>
+ [Verb] if you `compose yourself` or if you `compose` your features, you succeed in becoming calm after you have been angry, excited, or upset. 使(自己)平静(或镇定);使(表情)镇静下来<br/>
+ compose mail: 撰写邮件 compose note: 撰写正文
+- gossip: [N-Uncounted] `gossip` is informal conversation, often about other people's private affairs. 流言蜚语;小道消息;闲话<br/>
+ [Verb] if you `gossip with` someone, you talk informally, especially about other people or local events. you can also say that two people gossip. 闲聊;说长道短;说三道四<br/>
+ [N-Count] if you describe someone as a `gossip`, you mean that they enjoy talking informally to people about the private affairs of others. 爱说长道短的人;爱说三道四的人 [disapproval]<br/>
+ gossip girl: 绯闻女孩;花边教主 gossip column: 闲话栏;漫谈随笔;闲话专栏;八卦专栏
+- drugstore: [N-Count] in the United States, a `drugstore` is a shop where drugs and medicines are sold or given out, and where you can buy cosmetics, some household goods, and also drinks and snacks. (美国🇺🇸兼售化妆品💄、家居用品🧹、饮料🥤、小吃等的)药店,药房
+- impersonate: [Verb] if someone `impersonates` a person, they pretend to be that person, either to deceive people or to make people laugh. 假冒(尤指为欺骗);模仿(尤指为逗乐或表演)
+- accuse: [Verb] if you `accuse` someone `of` doing something wrong or dishonest, you say or tell them that you believe that they did it. 指责;责难 [also Verb N]<br/>
+ [Verb] if you `are accused of` a crime, a witness or someone in authority states or claims that you did it, and you may be formally charged with it and put on trial. 指控;控告 [also Verb N]<br/>
+ [Phrase] if someone `stands accused of` something, they have been accused of it. 遭指责;受指控
+- defense: [N-Uncounted] `defense` is action that is taken to protect someone or something against attack. 防御;保卫;保护<br/>
+ [N-Uncounted] `defense` is the organization of a country's armies and weapons, and their use to protect the country or its interests. 国防;军事防御<br/>
+ [N-Plural] the `defenses` of a country or region are all its armed forces and weapons. (国家或地区的)防御力量<br/>
+ [N-Count] a `defense` is something that people or animals can use or do to protect themselves. 防御物;防卫手段<br/>
+ [N-Count] a `defense` is something that you say or write which supports ideas or actions that have been criticized or questioned. 辩护;辩解<br/>
+ [N-Count] in a court of law, an accused person's `defense` is the process of presenting evidence in their favor. (法庭上被告的)辩护,答辩<br/>
+ [N-Sing] `the defense` is the case that is presented by a lawyer in a trial for the person who has been accused of a crime. you can also refer to this person's lawyers as `the defense`. (被告律师的)辩护方法(或理由);辩护律师<br/>
+ [N-Sing-Coll] in games such as football or hockey, the `defense` is the group of players in a team who try to stop the opposing players scoring a goal or a point. (足球、曲棍球等运动中的)防守(队员)<br/>
+ [Phrase] if you come `to` someone's `defense`, you help them by doing or saying something to protect them. 替...辩护;为...辩解<br/>
+ tower defense: 塔防游戏 Japan self-defense forces: 自卫队;日本🇯🇵自卫队
+- hangover: [N-Count] if someone wakes up with a `hangover`, they feel sick and have a headache because they have drunk a lot of alcohol the night before. (醉酒后的)宿醉<br/>
+ [N-Count] something that is a `hangover from` the past is an idea or way of behaving which people used to have in the past but which people no longer generally have. 遗留观念(或习俗)<br/>
+ she is hangover: 她昨夜喝醉了
+- dupe: [Verb] if a person `dupes` you, they trick you into doing something or into believing something which is not true. 愚弄;欺骗;诈骗<br/>
+ [N-Count] a `dupe` is someone who is tricked by someone else. 受骗者;被愚弄者<br/>
+ dupe sb into doing sth: 欺骗;骗某人去做某事
+- dart: [Verb] if a person or animal `darts` somewhere, they move there suddenly and quickly. 飞奔;猛冲 [written]<br/>
+ [Verb] if you `dart` a look `at` someone or something, or if your eyes `dart to` them, you look at them very quickly. 瞥,急扫(一眼) [literary]<br/>
+ [N-Count] a `dart` is a small, narrow object with a sharp point which can be thrown or shot. 镖;飞镖🎯<br/>
+ [N-Uncounted] `darts` is a game in which you throw darts at a round board which has numbers on it. 掷镖游戏;飞镖游戏<br/>
+ (Dart) 达特 (人名)
+- quest: [N-Count] a `quest` is a long and difficult search for something. (长期艰难的)追求,探索,寻找 [literary]<br/>
+ if you go `in quest of` something, you try to find or obtain it. 寻找;寻求
+- boot: [N-Count] `boots` are shoes that cover your whole foot and the lower part of your leg. 靴子<br/>
+ [N-Count] `boots` are strong, heavy shoes which cover your ankle and which have thick soles. you wear them to protect your feet, for example when you are walking or taking part in sport. (步行、运动等时穿的)厚底短筒靴<br/>
+ [Verb] if you `boot` something such as a ball, you kick it hard. 猛踢(球等) [informal]<br/>
+ [N-Count] the `boot` of a car is a covered space at the back or front, in which you carry things such as luggage and shopping. (汽车的)行李箱,后备箱 [British]<br/>
+ in AM, use `trunk`.<br/>
+ [Verb] to `boot` a car means to fit a Denver boot to one of its wheels so that it cannot be driven away. (用丹佛锁扣)锁住(汽车🚗) [US] (also Verb N)<br/>
+ in BRIT, use `clamp`.<br/>
+ [Phrase] if you `get the boot` or `are given the boot`, you are told that you are not wanted any more, either in your job or by someone you are having a relationship with. 被解雇;被抛弃 [informal]<br/>
+ [Phrase] if someone `puts the boot in`, they attack another person by saying something cruel, often when the person is already feeling weak or upset. (在某人已感到虚弱或苦恼时)说刻薄伤人的话,落井下石 [British, informal]<br/>
+ [Phrase] you can say `to boot` to emphasize that you have added something else to something or to a list of things that you have just said. 而且;另外;加之 [formal, emphasis]<br/>
+ [V-T/V-I] if a computer `boots` or you `boot` it, it is made ready to use by putting in the instructions it needs in order to start working. 启动 [computing]<br/>
+ [Phrase Verb] `boot up` means the same as. 启动<br/>
+ (Boot) 布特 (人名)<br/>
+- mandatory: [Adjective] if an action or procedure is `mandatory`, people have to do it, because it is a rule or a law. 强制性的; 法定的; 义务的 [formal]<br/>
+ [Adjective] if a crime carries a `mandatory` punishment, that punishment is fixed by law for all cases, in contrast to crimes for which the judge or magistrate has to decide the punishment for each particular case. (惩罚)强制性的,法定的 [formal]<br/>
+ [N-Count] the recipient of a mandate. 受托人,代理人 (=mandatary)
+- jiggle: [Verb] if you `jiggle` something, you move it quickly up and down or from side to side. 使上下急动;使左右晃动;抖动;拨动 [informal]<br/>
+ [Verb] to `jiggle` around means to move quickly up and down or from side to side. 晃动;急颤;抖动 [informal]
+- vegan: [Adjective] someone who is `vegan` never eats meat or any animal products such as milk, butter, or cheese. 严格素食的;不吃肉的<br/>
+ [N-Count] a `vegan` is someone who is vegan. 严格的素食主义者
+- ransom: [N-Var] a `ransom` is the money that has to be paid to someone so that they will set free a person they have kidnapped. 赎价;赎金<br/>
+ [Verb] if you `ransom` someone who has been kidnapped, you pay the money to set them free. 赎回;赎出<br/>
+ [Phrase] if a kidnapper `is holding` someone `to ransom` or `holding` them `ransom` in British English, or `is holding` a person `for ransom` in American English, they keep that person prisoner until they are given what they want. 劫持(某人)勒索金钱;绑票;绑架<br/>
+ [Phrase] if you say that someone `is holding` you `to ransom` in British English, or `holding` you `for ransom` in American English, you mean that they are using their power to try to force you to do something which you do not want to do. 威胁;胁迫 [disapproval]<br/>
+ [Phrase] if you refer to a sum of money as `a king's ransom`, you are emphasizing that it is very large. 一大笔钱;巨款 [old-fashioned, emphasis]<br/>
+ (Ransom) 兰塞姆 (人名)
+- posture: [N-Var] your `posture` is the position in which you stand or sit. (坐、立的)姿势,姿态<br/>
+ [N-Count] a `posture` is an attitude that you have towards something. 态度;立场 [formal]<br/>
+ [Verb] you can say that someone `is posturing` when you disapprove of their behavior because you think they are trying to give a particular impression in order to deceive people. 故作姿态;装腔作势;装模作样 [formal, disapproval]
+- siren: [N-Count] a `siren` is a warning device which makes a long, loud noise. most fire engines, ambulances, and police cars have sirens. 汽笛; (救火车🚒、救护车🚑、警车🚓等上的)警报器🚨<br/>
+ [N-Count] some people refer to a woman as a `siren` when they think that she is attractive to men but dangerous in some way. 妖艳而危险的女人;妖妇 [literary]<br/>
+ [Phrase] a `siren call` or `siren song` is the appeal that something has although it is harmful or dangerous. 诱人的东西;诱惑<br/>
+ (Siren) 塞壬(古希腊神话中的海妖) air-raid siren: 空袭警报;防空警报 steam siren: 汽笛;蒸汽警笛
+- spire: [N-Count] the `spire` of a building such as a church is the tall-pointed structure on the top. (教堂等建筑物顶部的)尖塔,尖顶<br/>
+ [Verb] to assume the shape of a spire; point up. 猜想(塔尖的形状); 指向上<br/>
+ Spire of Dublin: 都柏林尖塔 Chicago Spire: 芝加哥螺旋塔;芝加哥尖顶;芝加哥尖塔
+- slasher: [N] a person or thing that slashes. 砍伐者; 砍伐物<br/>
+  slash: [Verb] if you `slash` something, you make a long, deep cut in it. 割破;在...上留下深长的切口<br/>
+  [Verb] if you `slash at` a person or thing, you quickly hit at them with something such as a knife. 挥砍;劈<br/>
+  [Verb] to `slash` something such as costs or jobs means to reduce them by a large amount. 大量削减 [journalism]<br/>
+  [N-Count] you say `slash` to refer to a sloping line that separates letters, words, or numbers. for example, if you are giving the number 340/2/K you say 'Three four zero, slash two, slash K'. 斜杠;斜线号
+- chest: [N-Count] your `chest` is the top part of the front of your body where your ribs, lungs, and heart are. 胸;胸部;胸口;胸膛<br/>
+ [N-Count] a `chest` is a large, heavy box used for storing things. 大箱子;大柜子<br/>
+ [Phrase] if you `get` something `off` your `chest`, you talk about something that has been worrying you. 倾诉胸中的不快;吐苦水<br/>
+ chest protector: 护胸 funnel chest: 漏斗胸;漏斗状胸 treasure chest: 财宝箱;宝库<br/>
+  chesty: [Adjective] if you have a `chesty` cough, you have a lot of mucus in your lungs. (咳嗽)痰多的,痰音重的 [British]<br/>
+  [Adjective] marked by a large or well-developed chest. 胸部丰满的,胸部大的 (big-chested)
+- embark: [Verb] if you `embark on` something new, difficult, or exciting, you start doing it. 着手;开始做<br/>
+ [Verb] when someone `embarks on` a ship, they go on board before the start of a journey. 登(船);上(船)
 
 #### Tattoo & tobacco
 
