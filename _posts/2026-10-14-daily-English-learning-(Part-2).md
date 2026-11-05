@@ -524,6 +524,52 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
   [Adjective] marked by a large or well-developed chest. 胸部丰满的,胸部大的 (big-chested)
 - embark: [Verb] if you `embark on` something new, difficult, or exciting, you start doing it. 着手;开始做<br/>
  [Verb] when someone `embarks on` a ship, they go on board before the start of a journey. 登(船);上(船)
+- slipper: [N-Count] slippers are loose, soft shoes that you wear at home. 拖鞋🩴<br/>
+ bath slipper: 洗澡用拖鞋;沐浴用拖鞋;洗浴用拖鞋 The Slipper and the Rose: 水晶鞋与玫瑰花🌹;水晶鞋和玫瑰花 slipper collector: 滑动集电器<br/>
+ ![slippers_370402073.jpg](/assets/tw/slippers_370402073.jpg)
+- treasure trove: [N-Count] if you describe something or someone as a `treasure trove of` a particular thing, you mean that they are a very good or rich source of that thing. (为某物提供丰富来源的)宝库 [usually singular]<br/>
+ [N-Count] you can refer to a collection of valuable objects as a `treasure trove`. (有价值物品的)宝藏 [usually singular]<br/>
+ Treasure Trove Unit: 英国宝藏部门 find a treasure trove: 找宝藏 unclaimed treasure trove: 无主财物 a treasure trove of information: 信息宝库
+- convention: [N-Var] a `convention` is a way of behaving that is considered to be correct or polite by most people in a society. 习俗;惯例;常规<br/>
+ [N-Count] in art, literature, or the theater, a `convention` is a traditional method or style. (艺术、文学、戏剧中的)传统做法,传统风格<br/>
+ [N-Count] a `convention` is an official agreement between countries or groups of people. (国家或组织间的)公约,协定,协约<br/>
+ [N-Count] a `convention` is a large meeting of an organization or political group. (组织、政治团体的)大会,大型会议<br/>
+ convention center: 会展中心;会议中心;国际会展中心 national convention: 国民公会;国民大会;全国党代表大会;全国大会 Hague Convention: 海牙公约 Universal Copyright Convention: 世界版权公约;国际版权公约;万国版权公约 Basel Convention: 巴塞尔公约
+- ingest: [Verb] when animals or plants `ingest` a substance, they take it into themselves, for example by eating or absorbing it. 摄取;吸收(食物、药物或信息、知识等) [technical]<br/>
+ ingest water: 吸水 Clip ingest: 素材摄取 to ingest food: 摄取食物
+- conquer: [Verb] if one country or group of people `conquers` another, they take complete control of their land. 占领;征服<br/>
+ [Verb] if you `conquer` something such as a problem, you succeed in ending it or dealing with it successfully. 克服;攻克<br/>
+ Command & Conquer: 命令与征服;号令与征服 Divide and conquer: 分治法;分而治之;分治 conquer the world: 打天下;征服世界 I conquer: 我过关斩将
+- irregular: [Adjective-Graded] if events or actions occur at `irregular` intervals, the periods of time between them are of different lengths. 不定时的;不定期的<br/>
+ [Adjective-Graded] something that is `irregular` is not smooth or straight, or does not form a regular pattern. 不规则的;不平整的;不直的<br/>
+ [Adjective-Graded] `irregular` behavior is dishonest or not in accordance with the normal rules. (行为)欺骗性的,不正当的,不合常规的<br/>
+ [Adjective] an `irregular` verb, noun, or adjective has different forms from most other verbs, nouns, or adjectives in the language. for example, 'break' is an irregular verb because its past form is 'broke', not 'break-ed'. (动词、名词或形容词)不规则的<br/>
+ [Adjective] `irregular` troops do not belong to an official national army. (部队)非正规的<br/>
+ irregularly shaped: 不规则形状的;形状不规则的 irregularly scheduled activities: 不定期举行的活动;不定期的活动
+- ditto: in informal English, you can use `ditto` to represent a word or phrase that you have just used in order to avoid repeating it. in written lists, `ditto` can be represented by ditto marks - the symbol " - underneath the word that you want to repeat. 同上 (可用同上符号(")表示)<br/>
+ ditto mark: 同上符号 do ditto: 同上 say ditto to: 同意;对...表示同意
+- thrilling: [Adjective-Graded] something that is `thrilling` is very exciting and enjoyable. 扣人心弦的;激动人心的;引人入胜的<br/>
+ a thrilling experience: 一种令人激动的经历;一种使人激动的阅历 thrilling eve: 夜幕惊魂 thrilling scene: 惊险场面 thrilling day: 震撼人心的一天
+- fierce: [Adjective] a `fierce` animal or person is very aggressive or angry. 凶猛的;狂怒的<br/>
+ [Adjective] `fierce` feelings or actions are very intense or enthusiastic, or involve great activity. (感情或行动)激烈的,狂热的<br/>
+ [Adjective] `fierce` conditions are very intense, great, or strong. 极度的;巨大的;强烈的<br/>
+ (Fierce) 菲尔斯 (人名)
+- intimidating: [Adjective] if you describe someone or something as `intimidating`, you mean that they are frightening and make people lose confidence. 令人惊恐的;骇人的;令人胆怯的 [usually Adjective Noun]<br/>
+ a bit intimidating: 让人有点惶恐 intimidating strike: 威吓攻击
+- amid: [Prep] if something happens `amid` noises or events of some kind, it happens while the other things are happening. 在...过程中;在...中<br/>
+ [Prep] if something is amid other things, it is surrounded by them. 在...中间;在...之中 [literary]<br/>
+ amid the falling snow: 飘雪之中 amid the ruins: 废墟之中;身处废墟 amid evil: 邪恶之中 relax amid bamboos: 竹林小憩 amid fire and thunder: 轰轰烈烈<br/>
+ (Amid) 阿米德 (人名)
+- surgeon: [N-Count] a `surgeon` is a doctor who is specially trained to perform surgery. 外科医生🧑‍⚕️,外科医师<br/>
+ plastic surgeon: 整形外科医生;美容整形师;整容医生<br/>
+ ![surgeon_214772131.jpg](/assets/tw/surgeon_214772131.jpg)
+- corruption: [N-Uncounted] `corruption` is dishonesty and illegal behavior by people in positions of authority or power. 腐败;贪污;受贿<br/>
+ [N-Count] in linguistics, a `corruption` is a word that is derived from an earlier word, but which has become changed in some way. (单词的)变体 [technical] (usually Noun of Noun)<br/>
+ On Generation and Corruption: 论产生和毁灭 corruption reporting center: 举报中心 Anti-Corruption: 反贪;廉政风暴 memory corruption: 内存破坏;内存损坏;内存崩溃;记忆体错误
+- dominate: [Verb] to `dominate` a situation means to be the most powerful or important person or thing in it. 在...中占首要地位,在...中最具影响力<br/>
+ [Verb] if one country or person `dominates` another, they have power over them. 控制;统治;支配<br/>
+ [Verb] if a building, mountain, or other object `dominates` an area, it is so large or impressive that you cannot avoid seeing it. 俯视;高耸于<br/>
+ let one color dominate: 让一种色彩占主导色调 dominate mind: 支配意识 dominate market: 占据市场主导地位;主宰市场 dominate the market: 欺行霸市
 
 #### Tattoo & tobacco
 
