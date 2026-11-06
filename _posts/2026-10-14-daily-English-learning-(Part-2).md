@@ -570,6 +570,14 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
  [Verb] if one country or person `dominates` another, they have power over them. 控制;统治;支配<br/>
  [Verb] if a building, mountain, or other object `dominates` an area, it is so large or impressive that you cannot avoid seeing it. 俯视;高耸于<br/>
  let one color dominate: 让一种色彩占主导色调 dominate mind: 支配意识 dominate market: 占据市场主导地位;主宰市场 dominate the market: 欺行霸市
+- sober: [Adjective] when you are `sober`, you are not drunk. 清醒的;没喝醉的 [usually verb-link Adjective]<br/>
+ [Adjective] a `sober` person is serious and thoughtful. 严肃的;审慎的;头脑清醒的<br/>
+ [Adjective] `sober` colors and clothes are plain and rather dull. (颜色、衣服)素淡的,素净的,古板的<br/>
+ drunk and sober: 醉汉与清醒者 more sober moments: 规矩的片刻 sober down: 清醒过来;清醒下来 sober up: 清醒点;醒酒;使清醒起来 sober-up tea: 醒酒茶<br/>
+ (Sober) 索伯 (人名)
+- back off: [Phrasal Verb] if you `back off`, you move away in order to avoid problems or a fight. (为避免问题或冲突而)后退,避让,退缩<br/>
+ [Phrasal Verb] if you `back off from` a claim, demand, or commitment that you made earlier, or if you back off it, you withdraw it. 放弃,收回(主张、要求、承诺等)<br/>
+ [Phrasal Verb] if you tell someone to `back off`, you are telling them to stop interfering. 别插手;别干涉 [informal]
 
 #### Tattoo & tobacco
 
