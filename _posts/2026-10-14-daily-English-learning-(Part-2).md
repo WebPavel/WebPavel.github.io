@@ -578,6 +578,38 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
 - back off: [Phrasal Verb] if you `back off`, you move away in order to avoid problems or a fight. (为避免问题或冲突而)后退,避让,退缩<br/>
  [Phrasal Verb] if you `back off from` a claim, demand, or commitment that you made earlier, or if you back off it, you withdraw it. 放弃,收回(主张、要求、承诺等)<br/>
  [Phrasal Verb] if you tell someone to `back off`, you are telling them to stop interfering. 别插手;别干涉 [informal]
+- cracker: [Noun-Count] a `cracker` is a thin, crisp biscuit which is often eaten with cheese. (常配干酪🧀一起吃的)薄脆饼干<br/>
+ [Noun-Count] if you say that someone or something is a `cracker`, you like and admire them very much. 有魅力的人;令人喜爱的事物 [British, informal]<br/>
+ [Noun-Count] a `cracker` is a hollow cardboard tube covered with colored paper. crackers make a loud noise when they are pulled apart and usually contain a small toy and a paper hat. in Britain, they are used mainly at Christmas. 彩色爆竹,彩色拉炮(在英国🇬🇧主要用于圣诞节🎄,通常装有小玩具和纸帽)<br/>
+ [Adjective] if you say that someone is `crackers`, you think they are crazy or are behaving as if they are crazy. 疯狂的;发狂的 [British, informal]<br/>
+ rice cracker: 米果;脆米饼;大米薄脆饼 soda cracker: 苏打饼干;苏打脆饼;梳打饼;纯碱饼干 software cracker: 软件骇客 cream cracker: 奶油薄脆饼干;奶油梳打饼干;奶油苏打饼干 nut cracker: 坚果破壳器,坚果脱壳机;胡桃钳
+- ricotta: [Noun-Uncounted] `ricotta` is a soft, white, unsalted cheese made from sheep's milk. 羊奶乳清干酪(意大利🇮🇹乳清干酪🧀)<br/>
+ ricotta cheese: 意大利乳清干酪;乳清干酪;乳清奶酪 cheese ricotta: 利可达芝士 Italian ricotta: 意大利乳清干酪
+- laksa: [Noun] in Malaysia, a dish of Chinese origin consisting of rice noodles served in curry or hot soup. 马来西亚叻沙;源于中国的一道菜,主料为米线,配以咖喱汤或热汤<br/>
+ curry laksa: 咖喱叻沙 laksa leaf: 叻沙叶
+- ottoman: [Noun-Count] an `ottoman` is a low, padded seat similar to a couch but without a back or arms. (无靠背、无扶手的)长软椅<br/>
+ [Noun-Count] an `ottoman` is a low, padded stool that you can rest your feet on when you are sitting in a chair. 软垫搁脚凳<br/>
+ [Adjective] of or relating to the Ottomans or the Ottoman Empire. 奥斯曼帝国的 [history]<br/>
+ Ottoman Dynasty: 奥斯曼王朝 the Ottoman Empire: 奥图门帝国;奥斯曼帝国;鄂图曼土耳其帝国
+- flounder: [Verb] if something `is floundering`, it has many problems and may soon fail completely. 深陷困境;困难重重<br/>
+ [Verb] if you say that someone `is floundering`, you are criticizing them for not making decisions or for not knowing what to say or do. 踌躇;不知所措 [disapproval]<br/>
+ [Verb] if you `flounder` in water or mud, you move in an uncontrolled way, trying not to sink. (在水中或泥里)挣扎 [also Verb]<br/>
+ [Noun-Var] a `flounder` is a flat fish that you can eat. 比目鱼<br/>
+ ![flounder_177527366.jpg](/assets/tw/flounder_177527366.jpg)
+- mussel: [Noun-Count] `mussels` are a kind of shellfish that you can eat from their shells. 贻贝;蚝🦪;淡菜;蚌<br/>
+ mussel pearl: 淡水珍珠 pearl mussel: 珍珠贻贝;珍珠蚌 blue mussel: 蓝青口;紫贻贝;蓝贻贝 fresh water mussel: 河蚌 common mussel: 紫贻贝<br/>
+ ![mussel_173575877.jpg](/assets/tw/mussel_173575877.jpg)
+- sanitize: [Verb] to `sanitize` an activity or a situation that is unpleasant or unacceptable means to describe it in a way that makes it seem more pleasant or more acceptable. 美化;净化<br/>
+ to sanitize: 净化 to sanitize waste: 如何清洁废物
+- appeal: [Verb] if you `appeal to` someone `to` do something, you make a serious and urgent request to them. 呼吁;恳请;恳求<br/>
+ [Noun-Count] an `appeal` is a serious and urgent request. 呼吁;恳请;恳求<br/>
+ [Noun-Count] an `appeal` is an attempt to raise money for a charity or for a good cause. (为慈善或正义事业的)募捐<br/>
+ [Verb] if you `appeal to` someone in authority against a decision, you formally ask them to change it. in British English, you `appeal against` something. in American English, you `appeal` something. 上诉;申诉<br/>
+ [Noun-Var] an `appeal` is a formal request for a decision to be changed. 上诉;申诉<br/>
+ [Verb] if something `appeals to` you, you find it attractive or interesting. 对...有吸引力;使感兴趣 [also Verb]<br/>
+ [Noun-Uncounted] the `appeal` of something is a quality that it has which people find attractive or interesting. 吸引力;感染力<br/>
+ appeal to: 呼吁;诉诸 court of appeal: 上诉法院;上诉庭 appeal play: 促请裁决;申述行动 appeal to emotion: 诉诸情感;诉诸情绪;煽情 appeal body: 上诉机构<br/>
+ sex appeal: 性感;吸引力 have appeal: 引人入胜,有吸引力,有魅力
 
 #### Tattoo & tobacco
 
