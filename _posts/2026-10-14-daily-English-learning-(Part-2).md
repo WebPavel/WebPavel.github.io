@@ -674,6 +674,14 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
  [Phrase] when you `take aim`, you point a weapon or object at someone or something, before firing or throwing it. 瞄准;对准<br/>
  [Phrase] if you `take aim at` someone or something, you criticize them strongly. 激烈地批评 [US]<br/>
  aim at: 瞄准;针对;目的在于;企图 aim of: 瞄准;旨在;致力于 aim to do: 指望做某事 take aim: 瞄准;设立目标;调整高低方位 aim high: 力争上游;胸怀大志;志向远大;少年使命 aim at doing sth: 下定目标做某事;旨在做某事;目的在于做某事;目的是做某事
+- hassle: [Noun-Var] a `hassle` is a situation that is difficult and involves problems, effort, or arguments with people. 麻烦;困难;争吵 [informal]<br/>
+ [Verb] if someone `hassles` you, they cause problems for you, often by repeatedly telling you or asking you to do something, in an annoying way. 烦扰;纠缠 [informal]<br/>
+ the homework hassle: 作业的烦恼 what a big hassle: 一个大麻烦;真是个麻烦事 daily hassle: 生活琐事 less hassle: 省了很多事 castle hassle: 射击类<br/>
+ (Hassle) 哈斯勒 (人名)
+- outlaw: [Verb] when something `is outlawed`, it is made illegal. 宣布...为非法;使成为非法<br/>
+ [Noun-Count] an `outlaw` is a criminal who is hiding from the authorities. 逃犯;亡命之徒 [old-fashioned]<br/>
+ the outlaw: 歹徒 outlaw man: 奥特洛人 outlaw country: 亡命之徒乡村音乐;法外乡村<br/>
+ (Outlaw) 奥特洛 (人名)
 
 #### Tattoo & tobacco
 
