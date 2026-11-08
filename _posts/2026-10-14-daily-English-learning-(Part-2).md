@@ -610,6 +610,14 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
  [Noun-Uncounted] the `appeal` of something is a quality that it has which people find attractive or interesting. 吸引力;感染力<br/>
  appeal to: 呼吁;诉诸 court of appeal: 上诉法院;上诉庭 appeal play: 促请裁决;申述行动 appeal to emotion: 诉诸情感;诉诸情绪;煽情 appeal body: 上诉机构<br/>
  sex appeal: 性感;吸引力 have appeal: 引人入胜,有吸引力,有魅力
+- wonderland: [Noun-Count] you can refer to a place as a `wonderland` when it is strange and very beautiful or exciting. 非常奇妙的地方;极美丽的地方 [usually singular, usually with supplement, oft Noun of N]<br/>
+ [Noun-Uncounted] `wonderland` is an imaginary world that exists in fairy stories. (童话中的)仙境,奇境<br/>
+ Alice in wonderland: 爱丽丝梦游仙境;爱丽丝梦游奇境 winter wonderland: 冬日仙境
+- aphrodisiac: [Noun-Count] an `aphrodisiac` is a food, drink, or drug which is said to make people want to have sex. 催情剂;春药;壮阳剂<br/>
+ also considered an aphrodisiac: 也作为春药
+- basement: [Noun-Count] the `basement` of a building is a floor built partly or completely below ground level. 地下室;地下层<br/>
+ basement parking: 地下停车场;地下车库;地下泊车场<br/>
+  bargain-basement: [Adjective] if you refer to something as a `bargain basement` thing, you mean that it is cheap and not very good quality. 廉价的;劣质的;拿不出手的 (廉价区,商店内的一个区域,特别是位于地下的区域)
 
 #### Tattoo & tobacco
 
