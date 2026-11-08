@@ -659,6 +659,21 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
 - perk: [Noun-Count] `perks` are special benefits that are given to people who have a particular job or belong to a particular group. 补贴;津贴;额外待遇 [usually plural]<br/>
  central perk: 中央公园咖啡馆;中央咖啡馆;中央公园咖啡厅 perk coffee: 迈咖啡 central perk cafe: 咖啡馆 perk trees: 技能树 perk up: 振作精神;活跃起来;重新振作起来 slow perk: 缓慢学习<br/>
  (Perk) 珀克 (人名)
+- clam: [Noun-Count] `clams` are a kind of shellfish which can be eaten. 蛤;蚌;蛤蜊<br/>
+ [Verb] to gather clams. 抓蛤蜊 [American English]<br/>
+ clam soup: 蛤蜊汤;蛤仔汤 clam up: 住口;拒不开口;守口如瓶;沉默不语
+ ![clam_383609269.jpg](/assets/tw/clam_383609269.jpg)
+- aim: [Verb] if you `aim for` something or `aim to` do something, you plan or hope to achieve it. 致力于;旨在;以...为目标🎯 [US, informal]<br/>
+ [Noun-Count] the `aim` of something that you do is the purpose for which you do it or the result that it is intended to achieve. 目的;目标<br/>
+ [Verb-Passive] if an action or plan `is aimed at` achieving something, it is intended or planned to achieve it. 旨在;目的是<br/>
+ [Verb] if you `aim to` do something, you decide or want to do it. 决定;想要 [US, informal]<br/>
+ [Verb] if your actions or remarks `are aimed at` a particular person or group, you intend that the person or group should notice them and be influenced by them. (行为、言论)针对,指向 [usually passive]<br/>
+ [Verb] if you `aim` a weapon or object `at` something or someone, you point it towards them before firing or throwing it. 瞄准;对准 [also Verb]<br/>
+ [N-Sing] your `aim` is your skill or action in pointing a weapon or other object at its target. 瞄准,对准(指技巧或动作)<br/>
+ [Verb] if you `aim` a kick or punch at someone, you try to kick or punch them. 踢向;挥(拳)向 [also Verb n]<br/>
+ [Phrase] when you `take aim`, you point a weapon or object at someone or something, before firing or throwing it. 瞄准;对准<br/>
+ [Phrase] if you `take aim at` someone or something, you criticize them strongly. 激烈地批评 [US]<br/>
+ aim at: 瞄准;针对;目的在于;企图 aim of: 瞄准;旨在;致力于 aim to do: 指望做某事 take aim: 瞄准;设立目标;调整高低方位 aim high: 力争上游;胸怀大志;志向远大;少年使命 aim at doing sth: 下定目标做某事;旨在做某事;目的在于做某事;目的是做某事
 
 #### Tattoo & tobacco
 
