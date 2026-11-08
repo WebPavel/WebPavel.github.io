@@ -618,6 +618,47 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
 - basement: [Noun-Count] the `basement` of a building is a floor built partly or completely below ground level. 地下室;地下层<br/>
  basement parking: 地下停车场;地下车库;地下泊车场<br/>
   bargain-basement: [Adjective] if you refer to something as a `bargain basement` thing, you mean that it is cheap and not very good quality. 廉价的;劣质的;拿不出手的 (廉价区,商店内的一个区域,特别是位于地下的区域)
+- trail: [Noun-Count] a `trail` is a rough path across open country or through forests. 乡间小路;林间小道<br/>
+ [Noun-Count] a `trail` is a route along a series of paths or roads, often one that has been planned and marked out for a particular purpose. (特定)路线,路径<br/>
+ [Noun-Count] a `trail` is a series of marks or other signs of movement or other activities left by someone or something. (一串)痕迹,足迹,踪迹 [usually singular]<br/>
+ [Verb] if you `trail` someone or something, you follow them secretly, often by finding the marks or signs that they have left. 跟踪;追踪;追猎<br/>
+ [Noun-Count] you can refer to all the places that a politician visits in the period before an election as their campaign `trail`. (竞选)巡游路线<br/>
+ [Verb] if you `trail` something or it `trails`, it hangs down loosely behind you as you move along. (使)拖在后面;(使)下垂;(使)曳地<br/>
+ [Verb] if someone `trails` somewhere, they move there slowly, without any energy or enthusiasm, often following someone else. (常指跟着别人)拖沓行走,没精打采地走<br/>
+ [Verb] if a person or team in a sports match or other contest `is trailing`, they have a lower score than their opponents. (比分)落后<br/>
+ [Phrase] if you are `on the trail of` a person or thing, you are trying hard to find them or find out about them. 追踪;寻找<br/>
+ freedom trail: 自由之路;自由步道;自由小径 MacLehose trail: 麦理浩径 audit trail: 审计追踪;审计跟踪;审计线索;审核线索 broken trail: 义薄情天;残破的痕迹 Lantau Trail: 凤凰径<br/>
+ (Trail) 特雷尔 (人名)
+- nook: [Noun-Count] a `nook` is a small and sheltered place. 小角落;隐蔽处;偏僻处<br/>
+ if you talk about every `nook and cranny` of a place or situation, you mean every part or every aspect of it. 每个角落;到处 [emphasis]<br/>
+ song of nook: 角落之歌 the book nook: 书店 nook cafe: 角落咖啡 breakfast nook: 早餐角;早餐桌<br/>
+  nooky: [Noun-Uncounted] you can refer to sexual intercourse as `nookie`. some people consider this word offensive. 性交(有些人认为此词具冒犯意味) [informal]<br/>
+  [Adjective] 多角隅的
+- intermediary: [Noun-Count] an `intermediary` is a person who passes messages or proposals between two people or groups. 调解人;中间人<br/>
+ financial intermediary: 金融中介机构;金融中介 intermediary bank: 中间行;中间银行;中转行 intermediary agent: 中介;中介机构;媒介 intermediary agency: 中介机构;中介代理
+- messy: [Adjective] a `messy` person or activity makes things dirty or untidy. 邋遢的;弄脏的<br/>
+ [Adjective] something that is `messy` is dirty or untidy. 混乱的;肮脏的;凌乱的<br/>
+ [Adjective] if you describe a situation as `messy`, you are emphasizing that it is confused or complicated, and therefore unsatisfactory. (局面)混乱而复杂的,棘手的,难以应付的<br/>
+ the messy room: 凌乱的房间;混乱的房间 messy hair: 头发凌乱 messy fun: 越闹越有趣 messy play: 凌乱自由玩儿
+- clarity: [Noun-Uncounted] the `clarity` of something such as a book or argument is its quality of being well explained and easy to understand. (书、论点等的)清楚,清晰易懂,明晰<br/>
+ [Noun-Uncounted] `clarity` is the ability to think clearly. 思路清晰;有条理<br/>
+ [Noun-Uncounted] `clarity` is the quality of being clear in outline or sound. (轮廓、声音的)清楚,清晰<br/>
+ [Noun-Uncounted] the `clarity` of a liquid, of glass, or of the air is the degree to which it is clear. (液体、玻璃或空气的)清澈度,透明度<br/>
+ sea of clarity: 清澈海洋 clarity and neatness: 明确和整洁<br/>
+ (Clarity) 克拉里蒂 (人名)
+- feedback: [Noun-Uncounted] if you get `feedback on` your work or progress, someone tells you how well or badly you are doing, and how you could improve. if you get good feedback you have worked or performed well. 反馈;反应<br/>
+ [Noun-Uncounted] `feedback` is the unpleasant high-pitched sound produced by a piece of electrical equipment when part of the signal that comes out goes back into it. (电器设备的)反馈噪音<br/>
+ positive feedback: 正反馈 feedback loop: 反馈回路;反馈环路 give feedback: 意见反馈;看法反馈;给予反馈
+- miniature: [Adjective] `miniature` is used to describe something which is very small, especially a smaller version of something which is normally much bigger. 微小的; (尤指)微型的,微缩版的<br/>
+ [Phrase] if you describe one thing as another thing `in miniature`, you mean that it is much smaller (in size) or scale than the other thing, but is otherwise exactly the same. 微型的;缩微的<br/>
+ [Noun-Count] a `miniature` is a very small detailed painting, often of a person. (常指人物的)微型画,袖珍画像<br/>
+ [Noun-Count] a `miniature` is a very small bottle of strong alcohol such as whisky or brandy, and usually contains enough for one or two drinks. 小瓶装烈酒<br/>
+ in miniature: 小型;小规模 miniature golf: 小型高尔夫游戏
+- lookalike: [Noun-Count] a `lookalike` is someone who has a very similar appearance to another person, especially a famous person. 酷似...的人(尤指貌似名人者)<br/>
+ lookalike audiences: 相似受众 lookalike targeting: 类似受众定向
+- perk: [Noun-Count] `perks` are special benefits that are given to people who have a particular job or belong to a particular group. 补贴;津贴;额外待遇 [usually plural]<br/>
+ central perk: 中央公园咖啡馆;中央咖啡馆;中央公园咖啡厅 perk coffee: 迈咖啡 central perk cafe: 咖啡馆 perk trees: 技能树 perk up: 振作精神;活跃起来;重新振作起来 slow perk: 缓慢学习<br/>
+ (Perk) 珀克 (人名)
 
 #### Tattoo & tobacco
 
