@@ -694,6 +694,13 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
  ![roulette_384474571.jpg](/assets/tw/roulette_384474571.jpg)
 - onigiri: rice ball, is a Japanese food made from white rice. 日式饭团🍙<br/>
  onigiri live wallpaper: 超可爱饭团动态壁纸 onigiri escape: 饭团大逃亡
+- cheer: [Verb] when people `cheer`, they shout loudly to show their approval or to encourage someone who is doing something such as taking part in a game. 喝彩;欢呼<br/>
+ [Verb] if you `are cheered by` something, it makes you happier or less worried. 鼓舞;使鼓起精神<br/>
+ [N-Uncounted] `cheer` is a feeling of cheerfulness. 欢快;愉快的情绪<br/>
+ [Convention] people sometimes say '`cheers`' to each other just before they drink an alcoholic drink. (祝酒语)干杯,干 [mainly British, formulae]<br/>
+ [Convention] some people say '`cheers`' as a way of saying 'thank you' or 'goodbye'. 谢谢;再见 [British, informal, formulae]<br/>
+ cheer up: 高兴起来;振作起来;使高兴 cheer team: 拉拉队 cheer on: 声援;激励,鼓励,为某人打气 cheer sound: 助威声 cheer you up: 让你振作起来,让你开心起来<br/>
+ (Cheer) 舍尔 (人名)
 
 #### Tattoo & tobacco
 
