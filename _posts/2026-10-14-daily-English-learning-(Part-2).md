@@ -689,6 +689,11 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
  controlling shareholder: 控股股东;持有控股权的股东 shareholder value: 股东价值;股东利益;股东增值 major shareholder: 大股东;主要股东 significant shareholder: 重要股东;持有大量股票的股东
 - yap: [Verb] if a small dog `yaps`, it makes short loud sounds in an excited way. (小狗)狂吠,汪汪乱叫<br/>
  [Verb] if you say that someone `yaps`, you mean that they talk continuously in an annoying way. 哇啦哇啦地说个不停;瞎扯 [informal]
+- roulette: [N-Uncounted] `roulette` is a gambling game in which a ball is dropped onto a wheel with numbered holes in it while the wheel is spinning round. the players bet on which hole the ball will be in when the wheel stops spinning. 轮盘赌<br/>
+ Russian roulette: 俄罗斯转盘 Vegas roulette: 拉斯维加斯轮盘 live roulette: 现场轮盘 roulette wheel: 轮盘;赌盘<br/>
+ ![roulette_384474571.jpg](/assets/tw/roulette_384474571.jpg)
+- onigiri: rice ball, is a Japanese food made from white rice. 日式饭团🍙<br/>
+ onigiri live wallpaper: 超可爱饭团动态壁纸 onigiri escape: 饭团大逃亡
 
 #### Tattoo & tobacco
 
