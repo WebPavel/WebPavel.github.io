@@ -682,6 +682,13 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
  [Noun-Count] an `outlaw` is a criminal who is hiding from the authorities. 逃犯;亡命之徒 [old-fashioned]<br/>
  the outlaw: 歹徒 outlaw man: 奥特洛人 outlaw country: 亡命之徒乡村音乐;法外乡村<br/>
  (Outlaw) 奥特洛 (人名)
+- cuddle: [Verb] if you `cuddle` someone, you put your arms round them and hold them close as a way of showing your affection. 拥抱;搂抱<br/>
+  cuddle up: [Phrasal Verb] if you `cuddle up to` someone, you sit or lie as near to them as possible. 紧靠...而坐(或躺下);依偎 [also Verb Preposition]<br/>
+  cuddle up under the bridge: 依偎桥下 cuddle up with a book: 曲着身体认真地阅读一本书 we cuddle up together: 我们拥抱在一起
+- shareholder: [Noun-Count] a `shareholder` is a person who owns shares in a company. 股票持有人;股东 [business]<br/>
+ controlling shareholder: 控股股东;持有控股权的股东 shareholder value: 股东价值;股东利益;股东增值 major shareholder: 大股东;主要股东 significant shareholder: 重要股东;持有大量股票的股东
+- yap: [Verb] if a small dog `yaps`, it makes short loud sounds in an excited way. (小狗)狂吠,汪汪乱叫<br/>
+ [Verb] if you say that someone `yaps`, you mean that they talk continuously in an annoying way. 哇啦哇啦地说个不停;瞎扯 [informal]
 
 #### Tattoo & tobacco
 
