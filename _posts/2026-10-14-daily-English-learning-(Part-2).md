@@ -701,6 +701,22 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
  [Convention] some people say '`cheers`' as a way of saying 'thank you' or 'goodbye'. 谢谢;再见 [British, informal, formulae]<br/>
  cheer up: 高兴起来;振作起来;使高兴 cheer team: 拉拉队 cheer on: 声援;激励,鼓励,为某人打气 cheer sound: 助威声 cheer you up: 让你振作起来,让你开心起来<br/>
  (Cheer) 舍尔 (人名)
+- court: [N-Count] a `court` is a place where legal matters are decided by a judge and jury or by a magistrate. 法院;法庭;审判庭<br/>
+ [N-Count] you can refer to the people in a court, especially the judge, jury, or magistrates, as a `court`. 全体出庭人员; (尤指)全体审判人员<br/>
+ [N-Count] a `court` is an area in which you play a game such as tennis, basketball, badminton, or squash. (网球🎾、篮球🏀、羽毛球🏸或壁球等的)球场<br/>
+ [N-Count] the `court` of a king or queen is the place where he or she lives and carries out ceremonial or administrative duties. 王宫;宫殿;宫廷<br/>
+ [N-in-Names] in Britain, `Court` is used in the names of large houses and blocks of flats. (用于大型宅第和公寓街区的名称中)宅第,宅邸,公寓大楼<br/>
+ [Phrase] if you `go to court` or `take` someone `to court`, you take legal action against them. (对...)提起诉讼<br/>
+ [V Phrase] your `day in court` is your chance to give your side of an argument or other matter. 发表意见的机会 [mainly US]<br/>
+ [Phrase] if someone `holds court` in a place, they are surrounded by a lot of people who are paying them a lot of attention because they are interesting or famous. (因为有趣或出名)引人注目,被人围观<br/>
+ [Phrase] if you `laugh` someone `out of court`, you say that their opinions or ideas are so ridiculous that they are not worth considering. (因观点或想法可笑而)对...一笑置之,对...不予考虑<br/>
+ [Phrase] if a legal matter is decided or settled `out of court`, it is decided without legal action being taken in a court of law. 庭外;不经法院<br/>
+ [Verb] to `court` a particular person, group, or country means to try to please them or improve your relations with them, often so that they will do something that you want them to do. (为使某人、团体或国家按自己的意愿做某事而)试图取悦,讨好 [journalism]<br/>
+ [Verb] if you `court` something such as publicity or popularity, you try to attract it. 试图获得,追求(关注或声望)<br/>
+ [Verb] if you `court` something unpleasant such as disaster or unpopularity, you act in a way that makes it likely to happen. 招致,酿成,导致(不愉快的事)<br/>
+ [Verb] if you `are courting` someone of the opposite sex, you spend a lot of time with them, because you are intending to get married. you can also say that a man and a woman `are courting`. 追求(异性);向...求爱;恋爱 [old-fashioned]<br/>
+ tennis court: 网球场;球场 high court: 高等法院;高级法院;高等法庭 grass court: 草地球场;草地场 district court: 地方法院;区域法院;地区法院;联邦地方法院 basketball court: 篮球场;篮球类场地 food court: 美食广场;美食街;美食中心;美食天地<br/>
+ (Court) 考特 (人名)
 
 #### Tattoo & tobacco
 
