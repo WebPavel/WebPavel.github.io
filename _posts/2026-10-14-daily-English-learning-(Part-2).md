@@ -717,6 +717,15 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
  [Verb] if you `are courting` someone of the opposite sex, you spend a lot of time with them, because you are intending to get married. you can also say that a man and a woman `are courting`. 追求(异性);向...求爱;恋爱 [old-fashioned]<br/>
  tennis court: 网球场;球场 high court: 高等法院;高级法院;高等法庭 grass court: 草地球场;草地场 district court: 地方法院;区域法院;地区法院;联邦地方法院 basketball court: 篮球场;篮球类场地 food court: 美食广场;美食街;美食中心;美食天地<br/>
  (Court) 考特 (人名)
+- launch: [Verb] to `launch` a rocket, missile, or satellite means to send it into the air or into space. 发射(火箭🚀、导弹或卫星🛰️)<br/>
+ [Verb] to `launch` a ship or a boat means to put it into water, often for the first time after it has been built. 使(船🚢)下水;使(新船)首次下水<br/>
+ [Verb] to `launch` a large and important activity, for example a military attack, means to start it. 开展(重大活动);发起,发动(军事袭击等)<br/>
+ [Verb] if a company `launches` a new product, it makes it available to the public. 推出,发布(新产品)<br/>
+ [N-Count] a `launch` is a large motorboat that is used for carrying people on rivers and lakes and in harbors. (在江河、湖泊和港口载人的)大型汽艇<br/>
+ launch out: 开始新的事情;下水;开到水深之处 rocket launch: 火箭发射 product launch: 产品发布 launch pad: 发射台 launch date: 下水日期;发行日期;上市日期 launch site: 发射场;发射区
+- veteran: [N-Count] a `veteran` is someone who has served in the armed forces of their country, especially during a war. 退伍军人;老兵;老战士<br/>
+ [N-Count] you use `veteran` to refer to someone who has been involved in a particular activity for a long time. 有经验的人;老手<br/>
+ like a veteran: 像个老手 veteran user: 永久会员 veteran worker: 老司机;老工人
 
 #### Tattoo & tobacco
 
