@@ -29,7 +29,8 @@ comments: true
 |---------------------------------------------------------------|---------|------------|------------------|----------------------|--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|
 | Section 2, Nanjing East Road, Zhongshan district, Taipei city |         | @mmgeneral | October 2, 2026  | 1                    |        | @[Hutong Yakiniku 胡同燒肉](https://gyenhutong.com.tw/) @[誠品生活 eslite spectrum<sup>*</sup>](https://www.eslitespectrum.com/) @[Lady Kelly patisserie<sup>*</sup>](https://www.ladykelly.com.tw/) @lottery                                                                                                             | @gathering @restaurant @dating |
 | Minsheng East Road, Zhongshan District, Taipei City           |         | @mmgeneral | October 27, 2026 | 1                    | 6/10   | @客蒸湘 Ke Zheng Xiang @[eslite 誠品](https://www.eslitecorp.com/) @[新光三越 Shin Kong Mitsukoshi](https://www.skm.com.tw/) @[Yves Saint Laurent](https://www.ysl.com) @[hermes - Paris](https://www.hermes.com/) @[Tom Ford](https://www.tomford.com/) @[Coach](https://www.coach.com) @[SUQQU](https://www.suqqu.com/) | @restaurant @birthday present  |
-| Yuanshan                                                      |         | @mmgeneral | October 31, 2026 | 3                    |        | @Halloween🎃 @cosplay @Alien ghost hugging human                                                                                                                                                                                                                                                                          | @Halloween                     |
+| Yuanshan, Datong District, Taipei City                        |         | @mmgeneral | October 31, 2026 | 3                    |        | @Halloween🎃 @cosplay @Alien ghost hugging human                                                                                                                                                                                                                                                                          | @Halloween                     |
+| Elephant Mountain, Xinyi District, Taipei City                |         | @mmgeneral | November 8, 2026 | 9                    |        | @四獸山 (🐘elephant -> 🦁Lion -> 🐆leopard<sup>\*</sup> -> 🐯tiger) elephant mountain hiking trail @towel<sup>\*</sup> @popsicle<sup>\*</sup> @sunscreen @firefly paradise<sup>\*</sup> @sunset @(大直美堤)火舞 Fire performance at Meiti Riverside Park @[黑毛屋 Kurogeya](https://www.daily.kurogeya.com.tw/)           | @fitness @tour                 |
 
 ## what I don't know about Taiwan
 
@@ -40,6 +41,7 @@ comments: true
 | [Unique Green](https://www.uniquegreentea.com/)       | UG       | UG奶茶-茶花紅烏龍·奶茶<br/>UG rich milk tea - Camellia<sup>\*</sup> Red Oolong Tea / NT\$75 (L)<br/>金杯蜜香紅/UG奶茶 Golden Cup Honey Aroma<sup>*</sup> Black Tea / NT\$70 (L) |
 | [Ten Ren's Tea - CHAFFEE](https://www.tenren.com.tw/) | 天仁茗茶 | 四季烏龍 Four Seasons Oolong Tea / NT\$60 (L)<br/>晨露茉莉綠茶 Jasmine Green Tea / NT\$60 (L)                                                                                   |
 | [ComeBuy](https://www.comebuy2002.com.tw/)            |          | 文山包種 Wenshan Pouchong Oolong Tea / NT\$50 (L)                                                                                                                               |
+| [Hanlin tea room](https://www.hanlin-tea.com.tw/)     | 翰林茶館 | 國宴珍奶 State Banquet<sup>*</sup> Class Bubble Milk Tea / NT\$143 (L)<br/>翰林奶茶 Black Milk Tea / NT\$80 (M)                                                                 |
 
 ### About Taiwan Snacks
 
@@ -56,15 +58,17 @@ comments: true
 
 ### convenient life
 
-| facility | Chinese | feature                           | usage                         |
-|----------|---------|-----------------------------------|-------------------------------|
-| Watsons  | 屈臣氏  | personal care and beauty retailer | <https://www.watsons.com.hk/> |
+| facility                                          | Chinese    | feature                           | usage                                                                    |
+|---------------------------------------------------|------------|-----------------------------------|--------------------------------------------------------------------------|
+| Watsons                                           | 屈臣氏     | personal care and beauty retailer | <https://www.watsons.com.hk/>                                            |
+| [Miramar Cinemas](https://www.miramarcinemas.tw/) | 美麗華影城 | Dolby Cinema / IMAX theater       | online ticket booking supported, classification for different age groups |
 
 ### brand in Taiwan
 
-| brand                             | Chinese     | category | sample/price                                                                                     |
-|-----------------------------------|-------------|----------|--------------------------------------------------------------------------------------------------|
-| [Duracell](https://duracell.com/) | 金頂/金霸王 | battery  | AA4 長效電力保證 3號/4粒裝/鹼性電池 / NT\$139<br/>AAA4 長效電力保證 4號/4粒裝/鹼性電池 / NT\$139 |
+| brand                             | Chinese     | category      | sample/price                                                                                                                                                                                              |
+|-----------------------------------|-------------|---------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Duracell](https://duracell.com/) | 金頂/金霸王 | battery       | AA4 長效電力保證 3號/4粒裝/鹼性電池 / NT\$139<br/>AAA4 長效電力保證 4號/4粒裝/鹼性電池 / NT\$139                                                                                                          |
+| [Hoka](https://www.hoka.com)      |             | running shoes | [Women's Bondi 9 / \$175](https://www.hoka.com/en/us/womens-everyday-running-shoes/bondi-9/1162012.html)<br/>[Men's Bondi 7 / \$165](https://www.hoka.com/en/us/all-gender-footwear/bondi-7/1110518.html) |
 
 ### About Taiwan payment
 
@@ -105,7 +109,7 @@ comments: true
 > __*__:
 >
 > - venue: [N-Count] the `venue` for an event or activity is the place where it will happen. （事件或活动的）发生地，举办地点;场地
-> - category: 1=restaurant, 2=exhibition, 3=show, 4=handmade, 5=gathering, 6=tour, 7=anniversary, 8=birthday (the anniversary of the date on which you were born)
+> - category: 1=restaurant, 2=exhibition, 3=show, 4=handmade, 5=gathering, 6=tour, 7=anniversary, 8=birthday (the anniversary of the date on which you were born) 9=hike
 > - pun: a `pun` is a clever and amusing use of a word or phrase with two meanings, or of words with the same sound but different meanings. 双关诙谐语；双关语<br/>
 >   if you `pun`, you try to amuse people by making a pun. 谐用双关语
 > - yolk: [N-Var] the `yolk` of an egg is the yellow part in the middle. 蛋黄
@@ -120,6 +124,27 @@ comments: true
 > - Pâtisserie: [N-Count] a `patisserie` is a shop where cakes and pastries are sold. 糕点店<br/>
 >   [N-Uncounted] `patisserie` is cakes and pastries. 糕点<br/>
 >   ![patisserie_191870003.jpg](/assets/tw/patisserie_191870003.jpg)
+> - leopard: [N-Count] a `leopard` is a type of large, wild cat. leopards have yellow fur and black spots, and live in Africa and Asia. 豹🐆<br/>
+>  [Phrase] if you say that `a leopard cannot change its spots`, you mean that people or things are not able to change their basic characteristics, especially when you are critical of those characteristics. 本性难移;陋习难改<br/>
+>  snow leopard: 雪豹 leopard cat: 豹猫;山猫;狸猫<br/>
+>  ![leopard_37496626.jpg](/assets/tw/leopard_37496626.jpg)
+> - towel: [N-Count] a `towel` is a piece of thick soft cloth that you use to dry yourself. 毛巾<br/>
+>  [Verb] if you `towel` something or `towel` it dry, you dry it with a towel. 用毛巾擦(干)<br/>
+>  [Phrase] if you `throw in the towel`, you stop trying to do something because you realize that you cannot succeed. 承认失败;认输 [informal]<br/>
+>  bath towel: 浴巾 paper towel: 纸巾;厨用纸巾 hand towel: 毛巾;手巾;方巾;擦手巾 beach towel: 沙滩毛巾;大浴巾 kitchen towel: 厨房用纸;洗碗布<br/>
+>   tea towel: [N-Count] a `tea towel` is a cloth used to dry dishes after they have been washed. (擦干碗碟的)抹布,拭布,茶巾 [British]<br/>
+>   in AM, use `dish towel`.
+> - Popsicle: [N-Count] a `Popsicle` is a piece of flavored ice or ice cream on a stick. 冰棍;棒冰;雪糕 [US, trademark]<br/>
+>  Popsicle Sundays: 冰棒星期天 Popsicle sticks: 冰棒棍
+> - paradise: [N] according to some religions, `paradise` is a wonderful place where people go after they die, if they have led good lives. 天堂;天国<br/>
+>  [N-Var] you can refer to a place or situation that seems beautiful or perfect as `paradise` or `a paradise`. 乐园;福地;极美的地方<br/>
+>  [N-Count] you can use `paradise` to say that a place is very attractive to a particular kind of person and has everything they need for a particular activity. (特定人群的)天堂,胜地<br/>
+>  paradise lost: 失乐园 a paradise on earth: 人间天堂 earthly paradise: 地上乐园,人间天堂
+> - pomelo: [N] a tropical rutaceous tree, grown widely in oriental regions for its large yellow fruit. 柚子<br/>
+>  ![pomelo.jpg](/assets/tw/pomelo.jpg)
+> - banquet: [N-Count] a `banquet` is a grand formal dinner. 宴会;盛宴<br/>
+>  the wedding banquet: 喜宴 banquet hall: 宴会厅;宴会大厅 return banquet: 答谢宴会 state banquet: 国宴<br/>
+>  ![banquet_126067487.jpg](/assets/tw/banquet_126067487.jpg)
 
 ## Reference
 
