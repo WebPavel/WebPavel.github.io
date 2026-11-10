@@ -761,6 +761,10 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
 - comeback: [N-Count] if someone such as an entertainer or sports personality makes a `comeback`, they return to their profession or sport after a period away. (娱乐圈、体育明星等的)复出,东山再起<br/>
   [N-Count] if something makes a `comeback`, it becomes fashionable again. 再度流行<br/>
   [N-Uncounted] if you have no `comeback` when someone has done something wrong to you, there is nothing you can do to have them punished or held responsible. 因受到伤害而追究他人的责任
+- scallop: [N-Count] `scallops` are large shellfish with two flat fan-shaped shells. scallops can be eaten. 扇贝(可食用的贝类动物) [usually plural]<br/>
+ [N-Count] scallops are a series of small curves that form an ornamental border on things such as clothes, tablecloths, or handkerchiefs. (衣服、桌布或手帕等的)扇形饰边,荷叶边<br/>
+ scallop soup: 干贝汤 dried scallop: 干贝;瑶柱 fried scallop with egg white: 炒芙蓉干贝<br/>
+ ![scallop_355993550.jpg](/assets/tw/scallop_355993550.jpg)
 
 ### other
 
