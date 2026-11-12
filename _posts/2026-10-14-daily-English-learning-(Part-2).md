@@ -735,14 +735,14 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
 - backpack: [N-Count] a `backpack` is a bag with straps that go over your shoulders, so that you can carry things on your back when you are walking or climbing. 背包;背囊🎒<br/>
  computer backpack: 电脑背包;计算机背包 in the backpack: 在背包里;在双肩包里 backpack journalist: 背包记者<br/>
  ![backpack_72541093.jpg](/assets/tw/backpack_72541093.jpg)
-- wanderlust: [N-Uncounted] someone who has wanderlust has a strong desire to travel. 漫游癖;旅行癖<br/>
+- wanderlust: [N-Uncounted] someone who has `wanderlust` has a strong desire to travel. 漫游癖;旅行癖<br/>
  wanderlust hotel Singapore: 新加坡旅行者酒店 wanderlust in Europe: 欧洲的旅行
 - extramarital: [Adjective] an `extra-marital` affair is a sexual relationship between a married person and another person who is not their husband or wife. 婚外的
 - firm: [N-Count] a `firm` is an organization which sells or produces something or which provides a service which people pay for. 商号;商行;公司<br/>
  [Adjective] if something is `firm`, it does not change much in shape when it is pressed but is not completely hard. 坚固的;坚硬的;结实的<br/>
  [Adjective] if something is `firm`, it does not shake or move when you put weight or pressure on it, because it is strongly made or securely fastened. 稳固的;牢固的<br/>
  [Adjective] if someone's grip is `firm` or if they perform a physical action in a `firm` way, they do it with quite a lot of force or pressure but also in a controlled way. (抓握或动作)强有力的,使上劲的<br/>
- [Adjective] if you describe someone as firm, you mean they behave in a way that shows that they are not going to change their mind, or that they are the person who is in control. (人)坚定的,坚决的,强势的<br/>
+ [Adjective] if you describe someone as `firm`, you mean they behave in a way that shows that they are not going to change their mind, or that they are the person who is in control. (人)坚定的,坚决的,强势的<br/>
  [Adjective] a `firm` decision or opinion is definite and unlikely to change. (决定或意见)确定的,不会更改的<br/>
  [Adjective] `firm` evidence or information is based on facts and so is likely to be true. (证据或信息)确切的,确实的,确凿的<br/>
  [Adjective] you use `firm` to describe control or a basis or position when it is strong and unlikely to be ended or removed. (控制、基础、位置等)坚实的,不可动摇的<br/>
@@ -754,6 +754,23 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
  [Phrasal Verb] if you `firm` something `up` or if it `firms up`, it becomes clearer, stronger, or more definite. (使)更明确;(使)更强化;(使)确切<br/>
  [Phrasal Verb] if a financial institution `firms up` the price or value of something, they take action to protect and maintain its price or value. 使(价格、价值等)保持坚挺(或稳定)<br/>
  law firm: 律师事务所;法律事务所 firm offer: 实盘;肯定报价;报实盘 accounting firm: 会计事务所 bid firm: 递实盘 family firm: 家族企业 consulting firm: 咨询公司 firm foundation: 坚实的基础
+- turbo: [N-Count] a `turbo` is a fan in the engine of a car or plane that improves its performance by using exhaust gases to blow fuel vapor into the engine. 涡轮增压器<br/>
+ turbo charger: 涡轮增压;增压器;涡轮增压器;涡轮增压机 turbo boost: 涡轮加速;睿频加速
+- exploit: [Verb] if you say that someone `is exploiting` you, you think that they are treating you unfairly by using your work or ideas and giving you very little in return. 压榨;剥削;占...的便宜<br/>
+ [Verb] if you say that someone `is exploiting` a situation, you disapprove of them because they are using it to gain an advantage for themselves, rather than trying to help other people or do what is right. 利用;乘(机) [disapproval]<br/>
+ [Verb] if you `exploit` something, you use it well, and achieve something or gain an advantage from it. 充分运用;发挥<br/>
+ [Verb] to `exploit` resources or raw materials means to develop them and use them for industry or commercial activities. 开采;开发;利用<br/>
+ [N-Count] if you refer to someone's `exploits`, you mean the brave, interesting, or amusing things that they have done. 英勇行为;功绩;有趣的行为 [usually plural, with poss]<br/>
+ exploit markets: 开拓市场;开辟市场 military exploit: 军事上的功绩;军功;战斗中建立的功绩 exploit any tiny opening: 见缝插针 exploit an advantage: 钻空子 exploit released: 漏洞发布 zero-day exploit: 零日漏洞 exploit code: 漏洞检测代码;漏洞利用代码;漏洞入侵代码 exploit a victory: 乘胜
+- launder: [Verb] when you `launder` clothes, sheets, and towels, you wash and iron them. 洗熨(衣物) [old-fashioned]<br/>
+ [Verb] to `launder` money that has been obtained illegally means to process it through a legitimate business or to send it abroad to a foreign bank, so that when it comes back nobody knows that it was illegally obtained. 洗(钱)<br/>
+ home launder: 可用家庭式洗涤 overflow launder: 溢流槽 hand-launder: 用手搓洗 discharge launder: 排泄槽;卸料槽 feed launder: 加料槽
+- lend: [Verb] when people or organizations such as banks `lend` you money, they give it to you, and you agree to pay it back at a future date, often with an extra amount as interest. 借(钱)(给...);(银行)贷(款)<br/>
+ [Verb] if you `lend` something that you own, you allow someone to have it or use it for a period of time. 借出;把...借给<br/>
+ [Verb] if you `lend` your support `to` someone or something, you help them with what they are doing or with a problem that they have. 提供,给予(支持)<br/>
+ [Verb] if something `lends itself to` a particular activity or result, it is easy for it to be used for that activity or to achieve that result. 使适合;使有帮助;使易遭受<br/>
+ [Verb] if something `lends` a particular quality `to` something else, it adds that quality to it. 平添;增添;赋予<br/>
+ lend itself to: 适合于 lend a hand: 给别人帮助;帮助他人 lend money at interest: 有息贷款 lend an ear: 倾听
 
 #### Tattoo & tobacco
 
