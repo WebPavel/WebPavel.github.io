@@ -43,7 +43,7 @@ comments: true
 | [Ten Ren's Tea - CHAFFEE](https://www.tenren.com.tw/) | 天仁茗茶 | 四季烏龍 Four Seasons Oolong Tea / NT\$60 (L)<br/>晨露茉莉綠茶 Jasmine Green Tea / NT\$60 (L)                                                                                   |
 | [ComeBuy](https://www.comebuy2002.com.tw/)            |          | 文山包種 Wenshan Pouchong Oolong Tea / NT\$50 (L)                                                                                                                               |
 | [Hanlin tea room](https://www.hanlin-tea.com.tw/)     | 翰林茶館 | 國宴珍奶 State Banquet<sup>*</sup> Class Bubble Milk Tea / NT\$143 (L)<br/>翰林奶茶 Black Milk Tea / NT\$80 (M)                                                                 |
-| [Peak Tea](https://peak-tea.com/)                     | 青山     | 冬青 Winter Tea / NT\$60 (L)                                                                                                                                                    |
+| [Peak Tea](https://peak-tea.com/)                     | 青山     | 冬青 Winter Tea / NT\$65 (L)                                                                                                                                                    |
 
 ### About Taiwan Snacks
 
