@@ -726,6 +726,34 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
 - veteran: [N-Count] a `veteran` is someone who has served in the armed forces of their country, especially during a war. 退伍军人;老兵;老战士<br/>
  [N-Count] you use `veteran` to refer to someone who has been involved in a particular activity for a long time. 有经验的人;老手<br/>
  like a veteran: 像个老手 veteran user: 永久会员 veteran worker: 老司机;老工人
+- blueprint: [N-Count] a `blueprint for` something is a plan or set of proposals that shows how it is expected to work. 蓝图;计划;设想;构想<br/>
+ [N-Count] a `blueprint` of an architect's building plans or a designer's pattern is a photographic print consisting of white lines on a blue background. blueprints contain all of the information that is needed to build or make something. (建筑、设计的)蓝图<br/>
+ [N-Count] a genetic `blueprint` is a pattern which is contained within all living cells. this pattern decides how the organism develops and what it looks like. (基因)模型,图谱<br/>
+ blueprint for disaster: 灾难鉴识 service blueprint: 服务蓝图 blueprint cloth: 蓝图布 business blueprint: 业务蓝图 to work out the blueprint: 勾勒蓝图 networking blueprint: 联网方案;联网计划
+- oust: [Verb] if someone `is ousted` from a position of power, job, or place, they are forced to leave it. 罢黜;把...撤职;驱逐 [journalism]<br/>
+ to oust: 撵走 oust from a leading position: 撵下台
+- backpack: [N-Count] a `backpack` is a bag with straps that go over your shoulders, so that you can carry things on your back when you are walking or climbing. 背包;背囊🎒<br/>
+ computer backpack: 电脑背包;计算机背包 in the backpack: 在背包里;在双肩包里 backpack journalist: 背包记者<br/>
+ ![backpack_72541093.jpg](/assets/tw/backpack_72541093.jpg)
+- wanderlust: [N-Uncounted] someone who has wanderlust has a strong desire to travel. 漫游癖;旅行癖<br/>
+ wanderlust hotel Singapore: 新加坡旅行者酒店 wanderlust in Europe: 欧洲的旅行
+- extramarital: [Adjective] an `extra-marital` affair is a sexual relationship between a married person and another person who is not their husband or wife. 婚外的
+- firm: [N-Count] a `firm` is an organization which sells or produces something or which provides a service which people pay for. 商号;商行;公司<br/>
+ [Adjective] if something is `firm`, it does not change much in shape when it is pressed but is not completely hard. 坚固的;坚硬的;结实的<br/>
+ [Adjective] if something is `firm`, it does not shake or move when you put weight or pressure on it, because it is strongly made or securely fastened. 稳固的;牢固的<br/>
+ [Adjective] if someone's grip is `firm` or if they perform a physical action in a `firm` way, they do it with quite a lot of force or pressure but also in a controlled way. (抓握或动作)强有力的,使上劲的<br/>
+ [Adjective] if you describe someone as firm, you mean they behave in a way that shows that they are not going to change their mind, or that they are the person who is in control. (人)坚定的,坚决的,强势的<br/>
+ [Adjective] a `firm` decision or opinion is definite and unlikely to change. (决定或意见)确定的,不会更改的<br/>
+ [Adjective] `firm` evidence or information is based on facts and so is likely to be true. (证据或信息)确切的,确实的,确凿的<br/>
+ [Adjective] you use `firm` to describe control or a basis or position when it is strong and unlikely to be ended or removed. (控制、基础、位置等)坚实的,不可动摇的<br/>
+ [Adjective] if people are `firm` friends, they have been close friends for a long time and their friendship is likely to continue. 忠实的;忠贞的;牢靠的<br/>
+ [Adjective] if a price, value, or currency is `firm`, it is not decreasing in value or amount. (价格、价值、货币等)坚挺的,稳定的,居高不下的<br/>
+ [Verb] if you `firm` soil around a plant, you press it so that it is fairly solid rather than loose. (在植物周围)压,培(土)<br/>
+ [Phrase] if someone `stands firm`, they refuse to change their mind about something. 坚定不移;坚持己见;拒不让步<br/>
+ [Phrasal Verb] if you `firm up` something or if it `firms up`, it becomes firmer and more solid. (使)更坚固;(使)更坚硬;(使)更结实<br/>
+ [Phrasal Verb] if you `firm` something `up` or if it `firms up`, it becomes clearer, stronger, or more definite. (使)更明确;(使)更强化;(使)确切<br/>
+ [Phrasal Verb] if a financial institution `firms up` the price or value of something, they take action to protect and maintain its price or value. 使(价格、价值等)保持坚挺(或稳定)<br/>
+ law firm: 律师事务所;法律事务所 firm offer: 实盘;肯定报价;报实盘 accounting firm: 会计事务所 bid firm: 递实盘 family firm: 家族企业 consulting firm: 咨询公司 firm foundation: 坚实的基础
 
 #### Tattoo & tobacco
 
