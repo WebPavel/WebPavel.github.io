@@ -108,6 +108,15 @@ comments: true
 | birthday in September or October                                                 | -                                                   | after the start of the new school year, not familiar enough with your new classmates. | no one celebrates your birthday in the first year. | next year |
 | Is it appropriate to use money to attract a girl before starting a relationship? | you have a chance when your only advantage is money | only attract a gold digger (拜金主义者)                                               |                                                    |           |
 
+## Profile
+
+| character          | value                                                                                                     | note       |
+|--------------------|-----------------------------------------------------------------------------------------------------------|------------|
+| real-name          | @[eat1025](https://www.twitch.tv/eat1025)                                                                 | Miss Zhong |
+| nearby street/road | Siyuan Road, Xinzhuang District, New Taipei City 新北市新莊區思源路                                       |            |
+| nearby MRT Station | [Circular<sup>*</sup> Line](https://www.ntmetro.com.tw/basic/?node=10069) Xingfu Station 幸福捷運站       |            |
+| nearby bus stop    | [652](https://ebus.gov.taipei/MapOverview?nid=0100065200) Touqian Junior<sup>*</sup> High School 頭前國中 |            |
+
 > [!TIP]
 > __*__:
 >
@@ -168,6 +177,17 @@ comments: true
 >  ![banquet_126067487.jpg](/assets/tw/banquet_126067487.jpg)
 > - hooter: [N-Count] a `hooter` is a device such as a horn that makes a hooting noise. 喇叭;汽笛 [British, old-fashioned]<br/>
 >  alarm hooter: 报警笛 electric hooter: 电笛 horn hooter: 喇叭 a hooter: 喇叭 hooter noise: 喇叭噪声
+> - circular: [Adjective] something that is `circular` is shaped like a circle. 圆的;圆形的<br/>
+>  [Adjective] a `circular` journey or route is one in which you go to a place and return by a different route. (旅程或路线)环形的,巡回的<br/>
+>  [Adjective] a `circular` argument or theory is not valid because it uses a statement to prove something which is then used to prove the statement. (论证或理论)循环论证的<br/>
+>  [N-Count] a `circular` is an official letter or advertisement that is sent to a large number of people at the same time. (同时发送给很多人的)广告印刷品,通告<br/>
+>  circular motion: 圆周运动 circular reference: 循环引用;循环依赖 circular hole: 圆孔
+> - junior: [Adjective] a `junior` official or employee holds a low-ranking position in an organization or profession. 职位(或地位)较低的;年资较浅的<br/>
+>  [N-Sing] if you are someone's `junior`, you are younger than they are. 较年幼者;年少者<br/>
+>  [N-in-Names] `Junior` is sometimes used after the name of the younger of two men in a family who have the same name, sometimes in order to prevent confusion. the abbreviation `Jr` is also used. 小(用于男子名后以区别于家族中同名的长辈,缩略形式为Jr) [US]<br/>
+>  [N-Count] in the United States, a student in the third year of a high school or university course is called a `junior`. (美国高中或大学的)三年级学生<br/>
+>  junior accountant: 初级会计;初级会计员 junior high school: 初中;国民中学 junior middle school: 初中 junior suite: 简单套房;普通套房;小套房 formula junior: 初级方程式<br/>
+>  (Junior) 尤尼奥尔 (人名)
 
 ## Reference
 
