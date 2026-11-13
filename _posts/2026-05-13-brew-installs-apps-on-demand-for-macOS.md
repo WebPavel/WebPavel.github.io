@@ -43,7 +43,7 @@ do
 done
 
 app_list=(dbeaver-community docker-desktop eudic firefox@esr font-jetbrains-mono-nerd-font font-meslo-lg-nerd-font free-download-manager git-credential-manager google-chrome jordanbaird-ice iina intellij-idea keka kitty lulu raycast shottr spotify stats v2rayu visual-studio-code vivaldi windows-app xnviewmp)
-app_list_ms=(microsoft-office windows-app)
+app_list_ms=(microsoft-office)
 app_list_cn=(wechat tencent-meeting awesun)
 app_list=("${app_list[@]}" "${app_list_ms[@]}" "${app_list_cn[@]}")
 for app in "${app_list[@]}"
@@ -90,13 +90,13 @@ export JAVA_HOME="/Library/Java/JavaVirtualMachines/jdk-1.8.jdk/Contents/Home"
 export PATH="$JAVA_HOME/bin:$PATH"
 
 function proxy {
-  export http_proxy="http://127.0.0.1:10808"
+  export http_proxy="http://127.0.0.1:1087"
   export https_proxy="$http_proxy"
-  export all_proxy="socks5://127.0.0.1:10808"
+  export all_proxy="socks5://127.0.0.1:1087"
   export no_proxy="localhost,127.0.0.1,::1"
 }
 
-function unproxy {
+function unset_proxy {
   unset http_proxy
   unset https_proxy
   unset all_proxy
