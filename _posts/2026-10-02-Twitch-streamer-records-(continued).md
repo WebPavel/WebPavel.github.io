@@ -110,12 +110,12 @@ comments: true
 
 ## Profile
 
-| character          | value                                                                                                     | note       |
-|--------------------|-----------------------------------------------------------------------------------------------------------|------------|
-| real-name          | @[eat1025](https://www.twitch.tv/eat1025)                                                                 | Miss Zhong |
-| nearby street/road | Siyuan Road, Xinzhuang District, New Taipei City 新北市新莊區思源路                                       |            |
-| nearby MRT Station | [Circular<sup>*</sup> Line](https://www.ntmetro.com.tw/basic/?node=10069) Xingfu Station 幸福捷運站       |            |
-| nearby bus stop    | [652](https://ebus.gov.taipei/MapOverview?nid=0100065200) Touqian Junior<sup>*</sup> High School 頭前國中 |            |
+| character          | value                                                                                                     | note              |
+|--------------------|-----------------------------------------------------------------------------------------------------------|-------------------|
+| real-name          | @[eat1025](https://www.twitch.tv/eat1025)                                                                 | Miss Zhong 鍾欣語 |
+| nearby street/road | Siyuan Road, Xinzhuang District, New Taipei City 新北市新莊區思源路                                       |                   |
+| nearby MRT Station | [Circular<sup>*</sup> Line](https://www.ntmetro.com.tw/basic/?node=10069) Xingfu Station 幸福捷運站       |                   |
+| nearby bus stop    | [652](https://ebus.gov.taipei/MapOverview?nid=0100065200) Touqian Junior<sup>*</sup> High School 頭前國中 |                   |
 
 > [!TIP]
 > __*__:
