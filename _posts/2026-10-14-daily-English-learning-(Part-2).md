@@ -771,6 +771,101 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
  [Verb] if something `lends itself to` a particular activity or result, it is easy for it to be used for that activity or to achieve that result. 使适合;使有帮助;使易遭受<br/>
  [Verb] if something `lends` a particular quality `to` something else, it adds that quality to it. 平添;增添;赋予<br/>
  lend itself to: 适合于 lend a hand: 给别人帮助;帮助他人 lend money at interest: 有息贷款 lend an ear: 倾听
+- paw: [N-Count] the `paws` of an animal such as a cat, dog, or bear are its feet, which have claws for gripping things and soft pads for walking on. (猫、狗、熊等的)爪子,脚掌<br/>
+ [N-Count] you can describe someone's hand as their `paw`, especially if it is very large or if they are very clumsy. 爪子(指手,尤用于形容手非常大或非常笨拙) [mainly humorous, informal]<br/>
+ [Verb] if an animal `paws` something, it draws its foot over it or down it. 用爪子抓 (或扒)<br/>
+ [Verb] if one person `paws` another, they touch or stroke them in a way that the other person finds offensive. (冒犯地)摸弄,动手动脚 [disapproval]<br/>
+ cat's paw: 傀儡;被人利用的人;爪牙 paw patrol: 汪汪队立大功;狗狗巡逻队
+- obedient: [Adjective] a person or animal who is `obedient` does what they are told to do. 服从的;顺从的;温驯的<br/>
+ be obedient to: 服从于;顺从;顺服 obedient type: 顺从型 obedient children: 听话的孩子 loyal and obedient: 忠顺
+- swallow: [Verb] if you `swallow` something, you cause it to go from your mouth down into your stomach. 吞下;咽下<br/>
+ [Verb] if you `swallow`, you make a movement in your throat as if you are swallowing something, often because you are nervous or frightened. (常因为紧张或恐惧而)做吞咽动作,咽口水<br/>
+ [Verb] if someone `swallows` a story or a statement, they believe it completely. 完全相信;信以为真<br/>
+ [Verb] if you `swallow` your feelings, you do not express them, although you want to very much. 掩饰,抑制(感情)<br/>
+ [N-Count] a `swallow` is a kind of small bird with pointed wings and a forked tail. 燕子<br/>
+ swallow up: 并吞;吞下去;兼并;淹没 swallow the sun: 吞噬太阳;吞没太阳<br/>
+ (Swallow) 斯沃洛 (人名)<br/>
+ ![swallow_145474612.jpg](/assets/tw/swallow_145474612.jpg)
+- nibble: [Verb] if you `nibble` food, you eat it by biting very small pieces of it, for example because you are not very hungry. 啃;一点一点地咬(或吃)<br/>
+ [Verb] if you `nibble` something, you bite it very gently. 轻咬;啃<br/>
+ [Verb] when an animal `nibbles` something, it takes small bites of it quickly and repeatedly. (动物)小口地啃,蚕食<br/>
+ [Verb] if one thing nibbles at another, it gradually affects, harms ,or destroys it. 蚕食;逐渐影响;逐渐损坏<br/>
+ [N-Count] `nibbles` are small snacks such as biscuits, crisps, and nuts that are often offered to you at parties. (常为聚会上提供的)点心,小吃 [mainly British] (usually plural)<br/>
+ user nibble: 用户节目内容分类 nibble input: 半字节输入 to nibble at the food: 一点一点地吃 page-nibble mode: 页分段模式 nibble at: 一点一点地咬;吹毛求疵;啃
+- findom: 一个网络术语,金融奴役(financial domination),指通过控制和支配他人的金融资源和财产来获得某种满足感或权力感
+- pasta: [N-Mass] `pasta` is a type of food made from a mixture of flour, eggs, and water that is formed into different shapes and then boiled. spaghetti, macaroni, and noodles are types of pasta. 面食(如意大利面条、通心粉等)<br/>
+ pasta salad: 夏季凉拌意面沙拉;面沙拉;通心粉沙拉 pasta sauce: 意大利面酱;意面酱 pasta pot: 意粉锅;意大利面锅 pasta machine: 面条机;压面机<br/>
+ (Pasta) 帕斯塔 (人名)
+- cutlet: [N-Count] a `cutlet` is a small piece of meat which is usually fried or grilled. (通常用来炸或烤的)肉片,肉排<br/>
+ fried fish cutlet: 炸鱼肉饼 fried chicken cutlet: 炸鸡排 meat cutlet with onion: 洋葱头肉饼
+- spaghetti: [N-Uncounted] `spaghetti` is a type of pasta. it looks like long pieces of string and is usually served with a sauce. 意大利式细面条<br/>
+ chicken legs with spaghetti: 细面条白汁鸡腿 the spaghetti house: 意粉屋<br/>
+ ![spaghetti_175767539.jpg](/assets/tw/spaghetti_175767539.jpg)
+- grill: [N-Count] a `grill` is a part of a stove which produces strong heat to cook food that has been placed underneath it. (烤炉内的)烤架 [British]<br/>
+ [N-Count] a `grill` is a flat frame of metal bars on which food can be cooked over a fire. (置于火上的)烤架<br/>
+ [Verb] when you `grill` food, or when it `grills`, you cook it using very strong heat directly above or below it. 烧烤;烤炙<br/>
+ [Verb] if you `grill` someone `about` something, you ask them a lot of questions for a long period of time. 追问;盘问;审问 [informal]<br/>
+ [N-Count] a `grill` is a restaurant that serves grilled food. 烤肉餐馆;烤肉店<br/>
+  grille: [N-Count] a `grille` is a framework of metal bars or wire which is placed in front of a window or a piece of machinery, in order to protect it or to protect people. (窗户等前的)铁栅,护栅,金属网罩 (also `grill`)<br/>
+ air grill: 通气格栅 mixed grill: 什锦烤肉;什锦铁扒;烤杂排 grill room: 小餐厅;牛排馆;烧烤房 double grill: 双层烤架 BBQ Grill: 烧烤炉;烤肉架;烧烤架;美式的烤肉炉<br/>
+ ![grill_361219208.jpg](/assets/tw/grill_361219208.jpg)
+- bake: [Verb] if you `bake`, you spend some time preparing and mixing together ingredients to make bread, cakes, pies, or other food which is cooked in the oven. 烤,烘(面包、蛋糕饼干等) [no passive]<br/>
+ [Verb] when a cake or bread `bakes` or when you `bake` it, it cooks in the oven without any extra liquid or fat. 烤;烘;焙<br/>
+ [Verb] if places or people become extremely hot because the sun is shining very strongly, you can say that they `bake`. 受晒;受炙烤<br/>
+ [N-Count] a vegetable or fish `bake` is a dish that is made by chopping up and mixing together a number of ingredients and cooking them in the oven so that they form a fairly dry solid mass. (蔬菜或鱼与其他配料切碎拌和后经烘烤的)烤菜 [British]<br/>
+ bake cookies: 烤饼干 post bake: 后烘烤;后烘 bake oven: 烘箱;焙炉;烤炉 bake a cake: 烘蛋糕;烤蛋糕;做蛋糕 bake bread: 烤面包<br/>
+ ![bake_82369255.jpg](/assets/tw/bake_82369255.jpg)
+- collar: [N-Count] the `collar` of a shirt or coat is the part which fits round the neck and is usually folded over. 衣领;领子<br/>
+ [N-Count] a `collar` is a band of leather or plastic which is put round the neck of a dog or cat. (狗或猫的)颈圈,项圈<br/>
+ [Verb] if you `collar` someone who has done something wrong or who is running away, you catch them and hold them so that they cannot escape. 抓住;逮住;揪住 [informal]<br/>
+ [Verb] if you `collar` someone, you stop them and make them listen to you. 拦住(某人)与其谈话 [informal]<br/>
+ [Phrase] if someone `gets hot under the collar about` something, they get very annoyed, angry, or excited about it. 生气;愤怒;激动 [informal]<br/>
+ top collar: 翻领 collar point: 领尖;领角 white collar: 猫鼠游戏;不是冤家不聚头;白领阶层 blue collar: 蓝领 white-collar worker: 白领;白领职工;脑力劳动者 white-collar crime: 白领犯罪;白领犯法 in the collar: 行动不自由;受到约束 dog collar: 狗脖套<br/>
+ (Collar) 科勒 (人名)
+- goofy: [Adjective] if you describe someone or something as `goofy`, you think they are rather silly or ridiculous. 愚蠢的;可笑的(不含恶意) [informal]<br/>
+ Goofy sport: 高飞狗运动记 Goofy: 高飞狗(迪士尼动画角色)<br/>
+ ![goofy.jpg](/assets/tw/goofy.jpg)
+- puppy: [N-Count] a `puppy` is a young dog. 小狗;幼犬 (=pup)<br/>
+ puppy love: 早恋;初恋;少男少女间短暂的爱情;稚爱 puppy dog: 小公狗,幼年狗<br/>
+ ![puppy_176109785.jpg](/assets/tw/puppy_176109785.jpg)
+- thigh: [N-Count] your `thighs` are the top parts of your legs, between your knees and your hips. 大腿;股<br/>
+ thigh boot: 筒高至大腿的靴子;长靴👢 thigh line: 横裆线 chicken thigh: 鸡腿肉;鸡大腿;鸡腿🍗 thigh bone: 股骨
+- lewd: [Adjective] if you describe someone's behavior as `lewd`, you are critical of it because it is sexual in a rude and unpleasant way. 淫秽的;猥亵的;下流的 [disapproval]<br/>
+ lewd conduct: 猥亵行为 lewd speech: 卑猥不洁的话
+- fizz: [Verb] if a drink `fizzes`, it produces lots of little bubbles of gas and makes a sound like a long 's'. 嘶嘶地冒泡;发出嘶嘶声<br/>
+ [Verb] if something such as an engine `fizzes`, it makes a sound like a long 's'. (引擎等)发出长长的嘶声,嘶嘶地响<br/>
+ [N-Uncounted] if you say that someone puts `fizz` into something, you mean that they make it more interesting or exciting. 趣味;激情;活力<br/>
+ [N-Uncounted] champagne or sparkling wine is sometimes called `fizz`. 香槟;起泡沫的葡萄酒 [informal]<br/>
+ golden fizz: 金色饮料;金黄起泡酒 Brandy fizz: 白兰地费兹;白兰地菲士
+- garlic: [N-Uncounted] `garlic` is the small, white, round bulb of a plant that is related to the onion plant. garlic has a very strong smell and taste and is used in cooking. 蒜;大蒜🧄<br/>
+ garlic oil: 大蒜油 garlic garlic powder: 大蒜粉 garlic bread: 蒜蓉面包;香蒜面包 green garlic: 青蒜 garlic press: 压蒜器;挤蒜器;蒜蓉挤压器 sweet garlic: 糖蒜 garlic style lobster: 蒜蓉蒸龙虾<br/>
+ ![garlic_106132991.jpg](/assets/tw/garlic_106132991.jpg)
+- infuse: [Verb] to `infuse` a quality `into` someone or something, or to `infuse` them `with` a quality, means to fill them with it. 把...注入;灌输 [formal]<br/>
+ [Verb] if a quality `infuses` something, every part of that thing has that quality. 使充满 [literary]<br/>
+ [Verb] if you `infuse` things such as tea leaves or herbs, or allow them to `infuse`, you put them in hot water for some time so that the water absorbs their flavor. you can also infuse things in other liquids. 浸渍;泡(茶);泡制(草药)<br/>
+ infuse condition: 病症移转 infuse hope: 注入希望 infuse new blood into: 给增加新的成员 infuse new life into: 给予生气;给予活力 infuse tea: 沏茶
+- pesto: [N-Uncounted] `pesto` is an Italian sauce made from basil, garlic, pine nuts, cheese, and olive oil. (由罗勒、大蒜、松仁、干酪和橄榄油调制而成的)意大利青酱<br/>
+ basil pesto: 罗勒松仁酱;罗勒酱 pesto pasta: 青酱意大利面;香蒜意大利面;意式香蒜酱面 basil pesto sauce: 罗勒青蒜酱 pesto sauce: 香蒜酱;青酱;柏斯图汁 pesto spaghetti: 罗勒青酱意大利面<br/>
+ ![pesto_142889689.jpg](/assets/tw/pesto_142889689.jpg)
+- molten: [Adjective] `molten` rock, metal, or glass has been heated to a very high temperature and has become a hot thick liquid. 熔化的;熔融的<br/>
+ molten steel: 钢水;钢液 molten iron: 铁水;熔铁
+- scramble: [Verb] if you `scramble` over rocks or up a hill, you move quickly over them or up it using your hands to help you. (迅速地)爬,攀登<br/>
+ [Verb] if you scramble to a different place or position, you move there in a hurried, awkward way. 仓促行动;慌忙前往<br/>
+ [Verb] if a number of people `scramble for` something, they compete energetically with each other for it. 争夺;抢夺<br/>
+ [Verb] if you `scramble` eggs, you break them, mix them together and then heat and stir the mixture in a pan. 炒(蛋)<br/>
+ [Verb] if a device `scrambles` a radio or telephone message, it interferes with the sound so that the message can only be understood by someone with special equipment. 倒换(无线电或电话信号)的频率(使只有持特殊仪器的人才能接收)<br/>
+ scramble eggs: 炒蛋 content scramble system: 内容扰乱系统;内容加密系统 subway scramble: 混乱地铁;杂乱地铁 scramble for: 竞争拼抢;争相抢占;争夺 human scramble: 人间交叉点
+- wrap: [Verb] when you `wrap` something, you fold paper or cloth tightly round it to cover it completely, for example in order to protect it or so that you can give it to someone as a present. (用纸、布等)包,裹 [also Verb noun preposition]<br/>
+ [N-Uncounted] `wrap` is the material that something is wrapped in. 包装材料;包裹物<br/>
+ [Verb] when you `wrap` something such as a piece of paper or cloth round another thing, you put it around it. 用...包;用...裹<br/>
+ [Verb] if someone `wraps` their arms, fingers, or legs around something, they put them firmly around it. 用(手臂、指头或腿)围紧;用...绕住<br/>
+ [N-Count] a `wrap` is a piece of clothing which women wear round their shoulders, either to keep them warm when wearing an evening dress, or for decoration over a coat. 披肩;围巾<br/>
+ [Phrase] if you keep something `under wraps`, you keep it secret, often until you are ready to announce it at some time in the future. 保密,秘而不宣(常指待日后宣布)<br/>
+ plastic wrap: 保鲜纸;塑料包装;保鲜膜 word wrap: 自动换行;词语换行 wrap up: 包起来;包好;裹紧 gift-wrap: 礼品包装;包装纸 wrap dress: 裹身裙;包裹裙;绑带洋装 under wraps: 不公开的;秘密的
+- vanilla: [N-Uncounted] `vanilla` is a flavoring used in ice cream and other sweet food. 香草精;香子兰精<br/>
+ [Adjective] if you describe a person or thing as `vanilla`, you mean that they are ordinary, with no special or extra features. 寻常的;无特色的<br/>
+ vanilla sky: 香草天空 creamy vanilla: 奶油香草 vanilla powder: 香草粉;香子兰粉 vanilla ice cream: 香草冰淇淋;香草雪糕 vanilla cappuccino: 香草卡布奇诺 French vanilla coffee: 法国香草咖啡;法式香草咖啡 plain vanilla: 单纯功能<br/>
+ ![vanilla_74013043.jpg](/assets/tw/vanilla_74013043.jpg)
 
 #### Tattoo & tobacco
 
