@@ -988,6 +988,20 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
  [N-Var] a `squash` is one of a family of vegetables that have thick skin and soft or firm flesh inside. 番瓜类蔬菜<br/>
  ![squash_137847731.jpg](/assets/tw/squash_137847731.jpg)
 - dictator: [N-Count] a `dictator` is a ruler who has complete power in a country, especially power which was obtained by force and is used unfairly or cruelly. 独裁者;专政者
+- bouquet: [N-Count] a `bouquet` is a bunch of flowers which is attractively arranged. 花束💐<br/>
+ [N-Var] the `bouquet` of something, especially wine, is the pleasant smell that it has. (尤指葡萄酒散发的)香味,芬芳<br/>
+ bouquet stage: 花束期 bouquet of flowers: 一束花 bouquet final: 压轴好戏<br/>
+ (Bouquet) 布凯 (人名)<br/>
+ ![bouquet_313032455.jpg](/assets/tw/bouquet_313032455.jpg)
+- cityscape: [N-Uncounted] an urban landscape; view of a city. 城市风光<br/>
+ cityscape hotel: 城市景观酒店;市景酒店 Shanghai landmarks and cityscape: 上海标志性建筑与景观
+- selfie: [N-Count] a `selfie` is a type of self-portrait photograph, typically taken with a hand-held digital camera or camera phone. 自拍照<br/>
+ selfie stick: 自拍杆;自拍棒;自拍器 selfie expert: 自拍专家 selfie alarm: 自拍提示
+- tarot: [N-Uncounted] `the Tarot` is a pack of cards with pictures on them that is used to predict what will happen to people in the future. `Tarot` is also used to refer to the system of predicting people's futures using these cards. 塔罗牌(共 78 张牌,其中大阿尔克纳牌 22 张,小阿尔克纳牌 56 张);塔罗牌占卜
+- curio: [N-Count] a `curio` is an object such as a small ornament which is unusual and fairly rare. 小件稀有物;珍品
+- vibrant: [Adjective] someone or something that is `vibrant` is full of life, energy, and enthusiasm. 充满生气的;精力充沛的;活跃的<br/>
+ [Adjective] `vibrant` colors are very bright and clear. (色彩)明亮的,鲜亮的<br/>
+ vibrant health: 充满活力的 vibrant market: 生机勃勃的市场 vibrant collective: 充满活力的集体 vibrant analysis: 振动分析
 
 > [!TIP]
 > __*__:
