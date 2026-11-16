@@ -1008,7 +1008,7 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
  interim housing: 中转房屋 interim audit: 中期审计;期中审计;期中审核 interim measure: 暂行办法;临时措施 interim agreement: 临时协定;临时协议 interim government: 临时政府;过渡政府
 - idiocy: [N-Var] if you refer to something as `idiocy`, you mean that you think it is very stupid. 愚蠢行为;蠢事<br/>
  one hundred years of idiocy: 百年愚行 curse of idiocy: 痴呆诅咒
-- heist: [N-Count] a heist is a robbery, especially one in which money, jewelry, or art is stolen. 抢劫; (尤指对金钱、珠宝或艺术品的)盗窃 [journalism]<br/>
+- heist: [N-Count] a `heist` is a robbery, especially one in which money, jewelry, or art is stolen. 抢劫; (尤指对金钱、珠宝或艺术品的)盗窃 [journalism]<br/>
  tower heist: 高楼大劫案;大厦抢劫案 the London heist: 伦敦劫案;伦敦抢劫<br/>
  (Heist) 海斯特 (人名)
 - vital: [Adjective] if you say that something is `vital`, you mean that it is necessary or very important. 必要的;至关重要的;必不可少的<br/>
