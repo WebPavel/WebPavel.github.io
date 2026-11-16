@@ -866,6 +866,7 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
  [Adjective] if you describe a person or thing as `vanilla`, you mean that they are ordinary, with no special or extra features. 寻常的;无特色的<br/>
  vanilla sky: 香草天空 creamy vanilla: 奶油香草 vanilla powder: 香草粉;香子兰粉 vanilla ice cream: 香草冰淇淋;香草雪糕 vanilla cappuccino: 香草卡布奇诺 French vanilla coffee: 法国香草咖啡;法式香草咖啡 plain vanilla: 单纯功能<br/>
  ![vanilla_74013043.jpg](/assets/tw/vanilla_74013043.jpg)
+- stinky
 
 #### Tattoo & tobacco
 
@@ -1002,6 +1003,63 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
 - vibrant: [Adjective] someone or something that is `vibrant` is full of life, energy, and enthusiasm. 充满生气的;精力充沛的;活跃的<br/>
  [Adjective] `vibrant` colors are very bright and clear. (色彩)明亮的,鲜亮的<br/>
  vibrant health: 充满活力的 vibrant market: 生机勃勃的市场 vibrant collective: 充满活力的集体 vibrant analysis: 振动分析
+- interim: [Adjective] `interim` is used to describe something that is intended to be used until something permanent is done or established. 暂时的;临时的;过渡期间的<br/>
+ [Phrase] `in the interim` means until a particular thing happens or until a particular thing happened. 在过渡期间;在间歇期 [formal]<br/>
+ interim housing: 中转房屋 interim audit: 中期审计;期中审计;期中审核 interim measure: 暂行办法;临时措施 interim agreement: 临时协定;临时协议 interim government: 临时政府;过渡政府
+- idiocy: [N-Var] if you refer to something as `idiocy`, you mean that you think it is very stupid. 愚蠢行为;蠢事<br/>
+ one hundred years of idiocy: 百年愚行 curse of idiocy: 痴呆诅咒
+- heist: [N-Count] a heist is a robbery, especially one in which money, jewelry, or art is stolen. 抢劫; (尤指对金钱、珠宝或艺术品的)盗窃 [journalism]<br/>
+ tower heist: 高楼大劫案;大厦抢劫案 the London heist: 伦敦劫案;伦敦抢劫<br/>
+ (Heist) 海斯特 (人名)
+- vital: [Adjective] if you say that something is `vital`, you mean that it is necessary or very important. 必要的;至关重要的;必不可少的<br/>
+ [Adjective] if you describe someone or something as `vital`, you mean that they are very energetic and full of life. 充满活力的;生气勃勃的<br/>
+ vital signs: 生命体征;生命迹象 vital capacity: 肺活量 vital index: 出生死亡比例;生命指数;活力指数 vital interests: 切身利益;生死攸关的利益 vital force: 生命力;活力;生机 vital part: 要害部位 vital point: 要点 vitals: 身体的重要内脏,维持生命的重要器官 hit somebody in his vitals: 击中某人要害
+- extraordinary: [Adjective] if you describe something or someone as `extraordinary`, you mean that they have some extremely good or special quality. 非凡的;优秀的;出色的 [approval]<br/>
+ [Adjective] if you describe something as `extraordinary`, you mean that it is very unusual or surprising. 非常奇特的;令人惊奇的 [emphasis]<br/>
+ [Adjective] an `extraordinary` meeting is arranged specially to deal with a particular situation or problem, rather than happening regularly. (会议)特别的 [formal]<br/>
+ extraordinary general meeting: 特别会员大会;非常股东大会 extraordinary gain or loss: 非常损益 extraordinary measures: 良医妙药;特别措施
+- grievous: [Adjective] if you describe something such as a loss as `grievous`, you mean that it is extremely serious or worrying in its effects. 极其严重的;令人担忧的<br/>
+ [Adjective] a `grievous` injury to your body is one that causes you great pain and suffering. 剧烈的;极痛苦的;疼痛难耐的<br/>
+ grievous injury: 严重伤害 grievous bite: 严重的咬伤 grievous wind: 使人倍觉凄凉的风声
+- resilient: [Adjective] something that is `resilient` is strong and not easily damaged by being hit, stretched, or squeezed. 坚韧的;有弹性的;有韧性的;有回弹力的<br/>
+ [Adjective] people and things that are `resilient` are able to recover easily and quickly from unpleasant or damaging events. 能复原的;恢复快的;适应力强的<br/>
+ high resilience: 富有弹性;高回弹 error resilience: 差错复原;差错恢复;容错性
+- visionary: [N-Count] if you refer to someone as a `visionary`, you mean that they have strong, original ideas about how things might be different in the future, especially about how things might be improved. 有远见的人;愿景家<br/>
+ [Adjective] you use `visionary` to describe the strong, original ideas of a visionary. 有远见的;愿景的<br/>
+ visionary leadership: 愿景式领导;前瞻性的领导 visionary award: 远见奖
+- petition: [N-Count] a `petition` is a document signed by a lot of people which asks a government or other official group to do a particular thing. 请愿书<br/>
+ [N-Count] a `petition` is a formal request made to a court of law for some legal action to be taken. 上诉; (对法庭的)请求 [law]<br/>
+ [Verb] if you `petition` someone in authority, you make a formal request to them. 祈求;请求;请愿 [formal, law]<br/>
+ election petition: 选举呈请;选举起诉书 petition for appeal: 上诉状;起诉状;诉讼书 file a petition: 呈交诉状;提出请愿;提出请求 right of petition: 申诉权;请愿权;诉愿权
+- resign: [Verb] if you `resign` from a job or position, you formally announce that you are leaving it. 辞职;辞去;放弃<br/>
+ [Verb] if you `resign yourself to` an unpleasant situation or fact, you accept it because you realize that you cannot change it. 屈从;顺从;安于;勉强接受<br/>
+ resign to fate: 认命 resign from: 辞去 resign one's post: 辞职 resign office: 辞职 decide to resign: 决定辞职;打算辞职 letter of resign: 辞职信 resign oneself to extinction: 束手待毙
+- downfall: [N-Count] the `downfall` of a successful or powerful person or institution is their loss of success or power. 衰落;衰败;垮台<br/>
+ [N-Count] the thing that was a person's `downfall` caused them to fail or lose power. 失败(或垮台)的原因(常用于 be someone's downfall)<br/>
+ operation downfall: 没落行动 the downfall of Pompeii: 庞贝城的陨落
+- headquarters: [N-Sing-Coll] the `headquarters` of an organization are its main offices. 总部;总公司<br/>
+ Bank of Shanghai Headquarters: 上海银行大厦;上海银行总部 company headquarters: 公司总部 headquarters economy: 总部经济 air force headquarters: 空军司令部;空军总部 police headquarters: 警察总局;警察总部;警察局总部 construction headquarters: 工程指挥部 general headquarters: 陆军总司令部
+- flair: [N-Sing] if you have `a flair for` a particular thing, you have a natural ability to do it well. 天资;天赋;天分<br/>
+ [N-Uncounted] if you have `flair`, you do things in an original, interesting, and stylish way. 才华;资质;创意(常与 for 连用) [approval]
+- reinstate: [Verb] if you `reinstate` someone, you give them back a job or position which had been taken away from them. 使复职;使复位<br/>
+ [Verb] to `reinstate` a law, facility, or practice means to start having it again. 恢复(法律、做法等);修复(设施等)<br/>
+ reinstate and make good: 修葺使之恢复原状 reinstate a member: 恢复会员资格 reinstate the production: 恢复生产
+- circulate: [Verb] if a piece of writing `circulates` or `is circulated`, copies of it are passed round among a group of people. (文章等)传递,传阅,散发<br/>
+ [Verb] if something such as a rumor `circulates` or `is circulated`, the people in a place tell it to each other. (谣言等)流传;散布<br/>
+ [Verb] when something `circulates`, it moves easily and freely within a closed place or system. (在密闭场所或系统内)循环,流转,传播<br/>
+ [Verb] if you `circulate` at a party, you move among the guests and talk to different people. (在聚会上)周旋,往来应酬<br/>
+ circulate a notice: 传递;通报 circulate for one hour: 循环一个小时 circulate regularly: 定期传阅 circulate his knowledge: 传播知识
+- grief: [N-Var] `grief` is a feeling of extreme sadness. 悲伤;悲痛<br/>
+ [Phrase] if something `comes to grief`, it fails. if someone `comes to grief`, they fail in something they are doing, and may be hurt. (事情)失败;(人)受挫,遭到不幸<br/>
+ [Exclamation] some people say '`good grief`' when they are surprised or shocked. (表示惊奇或震惊)哎呀,天哪 [feelings]<br/>
+ grief-stricken: 极度忧伤的;极度悲伤的;充满悲伤的 sorrow and grief: 酸楚 come to grief: 触霉头;遭难,失败
+- gauge: [Verb] if you `gauge` the speed or strength of something, or if you gauge an amount, you measure or calculate it, often by using a device of some kind. (常指用某种仪器)测量,测定,算出<br/>
+ [N-Count] a `gauge` is a device that measures the amount or quantity of something and shows the amount measured. 测量仪器;计量仪<br/>
+ [Verb] if you `gauge` people's actions, feelings, or intentions in a particular situation, you carefully consider and judge them. 判断,判定(人的行动、情感或意图)<br/>
+ [N-Sing] a `gauge of` someone's feelings or a situation is a fact or event that can be used to judge them. (评价或判断的)事实,依据,标准<br/>
+ [N-Count] a `gauge` is the distance between the two rails on a railway line. (铁道的)轨距<br/>
+ [N-Count] a `gauge` is the thickness of something, especially metal or wire. (金属等的)厚度;(金属丝等的)直径<br/>
+ track gauge: 轨距 rain gauge: 雨量计 feeler gauge: 厚薄规;厚度规 pressure gauge: 压力表;压力计;轮胎压力计;压力测量装置 level gauge: 水准仪;液面水位计 thickness gauge: 测厚仪
 
 > [!TIP]
 > __*__:
