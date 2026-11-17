@@ -866,7 +866,34 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
  [Adjective] if you describe a person or thing as `vanilla`, you mean that they are ordinary, with no special or extra features. 寻常的;无特色的<br/>
  vanilla sky: 香草天空 creamy vanilla: 奶油香草 vanilla powder: 香草粉;香子兰粉 vanilla ice cream: 香草冰淇淋;香草雪糕 vanilla cappuccino: 香草卡布奇诺 French vanilla coffee: 法国香草咖啡;法式香草咖啡 plain vanilla: 单纯功能<br/>
  ![vanilla_74013043.jpg](/assets/tw/vanilla_74013043.jpg)
-- stinky
+- stinky: [Adjective] if something is `stinky`, it smells extremely unpleasant. 有臭味的;味道极其难闻的<br/>
+ stinky feet: 臭脚 stinky tofu pork soup: 臭豆腐肥肠煲
+- gear up: [Phrasal Verb] if someone `is gearing up for` a particular activity, they are preparing to do it. if they `are geared up to` do a particular activity, they are prepared to do it. 准备好,为(某个活动或任务)做好准备 [usually passive]<br/>
+ gear-up aircraft: 起落架收上的飞机 gear-up landing: 收起落架着陆;未放起落架着陆
+- disclose: [Verb] if you `disclose` new or secret information, you tell people about it. 揭露;泄露;使公开<br/>
+ disclose any illegal activities: 举报非法行动 disclose the secret: 泄露天机 disclose the ins and outs: 泄漏底细;泄露事情的内容 disclose an interest: 公开利益关系
+- honeypot: [N-Count] if you describe something as a `honeypot`, you mean that it is very desirable or very popular. 极具吸引力的事物;极受欢迎的事物<br/>
+ [Phrase] if something attracts people `like bees to a honeypot` or `like bees round a honeypot`, it attracts people in large numbers. 蜂拥而至地;成群地;众多地<br/>
+ honeypot technology: 蜜罐技术;蜜罐🍯 network honeypot: 网络蜜罐
+- shot: [N-Count] a `shot` is an act of firing a gun. 开枪;射击<br/>
+ [N-Count] someone who is a good `shot` can shoot well. someone who is a bad `shot` cannot shoot well. 射手;枪手<br/>
+ [N-Count] in sports such as football, golf, or tennis, a `shot` is an act of kicking, hitting, or throwing the ball, especially in an attempt to score a point. 射门;击球;投篮<br/>
+ [N-Count] a `shot` is a photograph or a particular sequence of pictures in a film. 一张照片; (电影的)一组镜头<br/>
+ [N-Count] if you have a `shot at` something, you attempt to do it. 尝试;努力 [informal] (usually singular)<br/>
+ [N-Count] a `shot of` a drug is an injection of it. (药品等的)注射<br/>
+ [N-Count] a `shot of` a strong alcoholic drink is a small glass of it. 一口,一小杯(烈性酒) [US]<br/>
+ [Phrase] if you `give` something your `best shot`, you do it as well as you possibly can. 尽最大努力 [informal]<br/>
+ [Phrase] if you describe someone's actions as `a shot across the bows` of another person, you mean that it is a warning to that person to stop or change what they are doing. 对...的警告<br/>
+ [Phrase] the person who `calls the shots` is in a position to tell others what to do. 操纵;发号施令;作决定<br/>
+ [Phrase] if you do something `like a shot`, you do it without any delay or hesitation. 立刻;飞快地;毫不迟疑地 [informal]<br/>
+ [Phrase] if you describe something as `a long shot`, you mean that it is unlikely to succeed, but is worth trying. 没把握的尝试;不大可能成功的尝试<br/>
+ [Phrase] people sometimes use the expression `by a long shot` to emphasize the opinion they are giving. (表示强调)根本,远远 [emphasis]<br/>
+ [Phrase] if something `is shot through with` an element or feature, it contains a lot of that element or feature. 布满,充满,富有(某种因素或特征)<br/>
+ shot down: 击落,打垮 bank shot: 擦板球;打板投篮;擦篮板 one shot: 单次对焦;一次使用 like a shot: 立刻;飞快地 big shot: 大亨,权贵之人;大人物
+- sip: [Verb] if you `sip` a drink or `sip at` it, you drink by taking just a small amount at a time. 小口地喝;抿<br/>
+ [N-Count] a `sip` is a small amount of drink that you take into your mouth. (饮料)一小口;一啜的量<br/>
+ take a sip: 抿一小口;小啜;喝一小口 take a sip of sth: 喝一点 sip tea: 啜茶品茗<br/>
+ (Sip) 西普 (人名)
 
 #### Tattoo & tobacco
 
