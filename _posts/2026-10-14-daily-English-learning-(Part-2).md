@@ -905,6 +905,23 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
 - errand: [N-Count] an `errand` is a short trip that you make in order to do a job for someone, for example when you go to a shop to buy something for them. (短程的)差事;跑腿<br/>
  [Phrase] if you `run an errand for` someone, you do or get something for them, usually by making a short trip somewhere. 为...跑腿;为...办事<br/>
  errand boy: 跟班小弟 a fool's errand: 徒劳的奔波;徒劳无功的工作 run an errand: 跑腿 go on errands: 出差 on errand: 干差使
+- shelf: [N-Count] a `shelf` is a flat piece of wood, metal, or glass which is attached to a wall or to the sides of a cupboard. shelves are used for keeping things on. (固定在墙上或橱柜上的)架子,搁板<br/>
+ [N-Count] a `shelf` is a section of rock on a cliff or mountain or underwater that sticks out like a shelf. 搁板状岩石;突出的岩石; (水下的)暗礁,陆架<br/>
+ [Phrase] if you buy something `off the shelf`, you buy something that is not specially made for you. 现成的;不用定制的 [British]<br/>
+ [Phrase] if you say that someone or something is `on the shelf`, you mean that no one wants them. 搁置的;闲置的;没人要的 [informal]<br/>
+ shelf life: 保质期;贮藏寿命;保存期限;贮存期 goods shelf: 货架;物品架 on the shelf: 在书架上;束之高阁;被搁置的;闲置的 book shelf: 书架
+- tackle: [Verb] if you `tackle` a difficult problem or task, you deal with it in a very determined or efficient way. (果断或高效地)应对,处理,解决(难题或任务)<br/>
+ [Verb] if you `tackle` someone in a game such as hockey or football, you try to take the ball away from them. if you tackle someone in rugby or American football, you knock them to the ground. (曲棍球、足球等比赛中)抢断,阻截,铲断;(英式、美式橄榄球比赛中)擒抱摔倒<br/>
+ [Verb] if you `tackle` someone about a particular matter, you speak to them honestly about it, usually in order to get it changed or done. (坦率地)与...交谈,与...交涉<br/>
+ [Verb] if you `tackle` someone, you attack them and fight them. 攻击;与...打架<br/>
+ [N-Uncounted] `tackle` is the equipment that you need for a sport or activity, especially fishing. (体育等活动的)器具,器材;(尤指)渔具<br/>
+ [N-Uncounted] `tackle` is the equipment, usually consisting of ropes and pulleys, needed for lifting or pulling something. (吊拉物体用的)索具,滑轮组<br/>
+ lifting tackle: 滑轮起吊设备 block and tackle: 滑轮组 fishing tackle: 渔具;钓鱼用具 sliding tackle: 铲球;滑铲 tackle box: 工具盒;钓具盒 ground tackle: 锚具;锚泊装置;锚设备;锚泊索具
+- theft: [N-Var] `theft` is the crime of stealing. 偷窃;盗窃(罪) [also + of]<br/>
+ identity theft: 身份盗窃,身份盗用 auto theft: 汽车偷窃 grand theft: 重偷窃罪 guard against theft: 防盗 grand theft auto: 侠盗猎车手;侠盗猎车;侠盗飞车
+- voyage: [N-Count] a `voyage` is a long journey on a ship or in a spacecraft. see usage note at: journey 旅行;航行;航海;航天<br/>
+ [Verb] to `voyage` to a place means to travel there, especially by sea. 旅行; (尤指)航海旅行 [formal]<br/>
+ bon voyage: 一路顺风;旅途愉快;一路平安 the long voyage home: 风雨归舟;天涯路;归途迢迢;归途路迢迢 voyage policy: 航程保单;航程保险单 sea voyage: 远航;航海 Voyager program: 旅行者计划 voyager golden record: 旅行者金唱片 voyager estate: 航海家庄园;航海家酒庄 project voyager: 旅行者计划
 
 #### Tattoo & tobacco
 
