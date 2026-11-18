@@ -900,6 +900,11 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
  [N-Count] a `sip` is a small amount of drink that you take into your mouth. (饮料)一小口;一啜的量<br/>
  take a sip: 抿一小口;小啜;喝一小口 take a sip of sth: 喝一点 sip tea: 啜茶品茗<br/>
  (Sip) 西普 (人名)
+- outlast: [Verb] if one thing `outlasts` another thing, the first thing lives or exists longer than the second. 比...活得长;比...持久 [no passive]<br/>
+ it will outlast everything: 它会比你认为的任何东西都耐久 outlast T technology: 调温技术
+- errand: [N-Count] an `errand` is a short trip that you make in order to do a job for someone, for example when you go to a shop to buy something for them. (短程的)差事;跑腿<br/>
+ [Phrase] if you `run an errand for` someone, you do or get something for them, usually by making a short trip somewhere. 为...跑腿;为...办事<br/>
+ errand boy: 跟班小弟 a fool's errand: 徒劳的奔波;徒劳无功的工作 run an errand: 跑腿 go on errands: 出差 on errand: 干差使
 
 #### Tattoo & tobacco
 
