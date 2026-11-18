@@ -40,6 +40,12 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
 - exclamation: [N-Count] an `exclamation` is a sound, word, or sentence that is spoken suddenly, loudly, or emphatically and that expresses excitement, admiration, shock, or anger. 惊叫;感叹;感叹词;感叹句
 - monetary: [Adj.] `monetary` means relating to money, especially the total amount of money in a country. (尤指一国)货币的,金融的,财政的 [business]
 - inflation: [N-Uncounted] `inflation` is a general increase in the prices of goods and services in a country. 通货膨胀 [business]
+- cuddly: [Adjective] a `cuddly` person or animal makes you want to cuddle them. (人或动物)令人想拥抱的,惹人怜爱的 [approval]<br/>
+ [Adjective] `cuddly` toys are soft toys that look like animals. (动物玩具)柔软的,适合搂抱的<br/>
+ cute and cuddly: 非常可爱的 cuddly toy: 公仔;毛绒玩具
+- plush: [Adjective] if you describe something as `plush`, you mean that it is very smart, comfortable, or expensive. 豪华的;奢华的;舒适的<br/>
+ [N-Uncounted] `plush` is a thick soft material like velvet, used especially for carpets and to cover furniture. (尤用于地毯和给家具覆面的)长毛绒<br/>
+ plush toys: 毛绒玩具;长毛绒玩具 double plush: 双面长毛绒
 
 #### pollutant & pollution
 
