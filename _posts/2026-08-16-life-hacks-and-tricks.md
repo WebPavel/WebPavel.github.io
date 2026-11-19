@@ -88,6 +88,7 @@ comments: true
 - [ ] 安全｜旅遊保險與緊急聯絡 Safety \| Travel insurance<sup>\*</sup> and emergency<sup>*</sup> contact
 - [ ] 出門前｜關閉瓦斯及不必要電源 Before leaving \| Turn off gas and unnecessary electrical appliances<sup>*</sup>, even the power source
 - [ ] 出門前｜行李重量與違禁品檢查 Before leaving \| Baggage<sup>*</sup> weight and prohibited items check
+- [ ] 通訊數據｜開啟數據漫遊,或購買當地電信商SIM卡,滿速無限流量 Communication & Data \| turn on data roaming function in your device for data service or purchase travel SIM Card from local telecom provider for full-speed unlimited data. Avoid high charges<sup>\*</sup> for outgoing<sup>*</sup> voice calls and SMS.
 
 > [!TIP]
 > __*__:
@@ -148,6 +149,26 @@ comments: true
 >   [N-Uncounted] you can use `baggage` to refer to someone's emotional problems, fixed ideas, or prejudices. (思想)包袱;成见;偏见<br/>
 >   baggage: 不可数名词,在英国英语中指大而重的行李,在美国泛指一切行李.<br/>
 >   luggage: 多用于英国英语,指旅行者的行李.
+> - outgoing: [Adjective] you use `outgoing` to describe a person in charge of something who is soon going to leave that position. 即将离职的;快要卸任的<br/>
+>  [Adjective] `outgoing` things such as planes, mail, and passengers are leaving or being sent somewhere. 离去的;往外去的<br/>
+>  [Adjective] someone who is `outgoing` is very friendly and likes meeting and talking to people. 外向的;友好的;喜欢交际的<br/>
+>  outgoing calls: 呼出通话;去电;往外打的电话 outgoing partner: 退出的合伙人 outgoing line: 出线;呼出线路 outgoing mail: 外埠邮件;发文,外发函件
+> - charge: [Verb] if you `charge` someone an amount of money, you ask them to pay that amount for something that you have sold to them or done for them. 向...收费;索要(钱);要价 [Verb noun + for]<br/>
+>  [Verb] to `charge` something `to` a person or organization means to tell the people providing it to send the bill to that person or organization. to `charge` something `to` someone's account means to add it to their account so they can pay for it later. 将...的账单寄给...;把...记在...的账上<br/>
+>  [N-Count] a `charge` is an amount of money that you have to pay for a service. (提供服务的)要价,收费 [+ of]<br/>
+>  [N-Count] a `charge` is a formal accusation that someone has committed a crime. 指控;控告 [+ of]<br/>
+>  [Verb] when the police `charge` someone, they formally accuse them of having done something illegal. (警方)指控,起诉 [Verb noun + with]<br/>
+>  [Verb] if you `charge` someone `with` doing something wrong or unpleasant, you publicly say that they have done it. (公开)指责,谴责 [written]<br/>
+>  [N-Uncounted] if you take `charge of` someone or something, you make yourself responsible for them and take control over them. if someone or something is `in` your `charge`, you are responsible for them. 负责;管理<br/>
+>  [Phrase] if you are `in charge` in a particular situation, you are the most senior person and have control over something or someone. 主管;全面负责;统领 [+ of]<br/>
+>  [N-Count] if you describe someone as your `charge`, they have been given to you to be looked after and you are responsible for them. 被照管的人;所负责的人 [usually plural]<br/>
+>  [Verb] if you `charge` towards someone or something, you move quickly and aggressively towards them. 猛冲;猛攻<br/>
+>  [Verb] to `charge` a battery means to pass an electrical current through it in order to make it more powerful or to make it last longer. 给(电池)充电 [also Verb n Preposition]<br/>
+>  [N-Count] an electrical `charge` is an amount of electricity that is held in or carried by something. (带电物质的)电荷,充电量 [technical] (usually singular)<br/>
+>  [N-Count] the `charge` in a cartridge or shell is the explosive inside it. you can also refer to the cartridge or shell itself as a charge. (子弹、炮弹所装填的)火药,炸药;子弹;炮弹<br/>
+>  [Phrase] if something is `free of charge`, it does not cost anything. 免费的<br/>
+>  in charge: 负责,主管;在...看管下 in charge of: 负责;掌管;主管 take charge of: 掌管 charge card: 签账卡;赊账卡;付款卡 service charge: 服务费;服务收费 no charge: 免费;不需付钱 extra charge: 附加费;附加负载 charge for trouble: 手续费 person in charge: 负责人<br/>
+>  (Charge) 查奇 (人名)
 
 ## Reference
 
