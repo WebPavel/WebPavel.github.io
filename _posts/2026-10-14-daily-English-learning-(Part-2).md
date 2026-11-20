@@ -922,6 +922,79 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
 - voyage: [N-Count] a `voyage` is a long journey on a ship or in a spacecraft. see usage note at: journey 旅行;航行;航海;航天<br/>
  [Verb] to `voyage` to a place means to travel there, especially by sea. 旅行; (尤指)航海旅行 [formal]<br/>
  bon voyage: 一路顺风;旅途愉快;一路平安 the long voyage home: 风雨归舟;天涯路;归途迢迢;归途路迢迢 voyage policy: 航程保单;航程保险单 sea voyage: 远航;航海 Voyager program: 旅行者计划 voyager golden record: 旅行者金唱片 voyager estate: 航海家庄园;航海家酒庄 project voyager: 旅行者计划
+- stick: [N-Count] a `stick` is a thin branch which has fallen off a tree. 枯枝;柴枝<br/>
+ [N-Count] a `stick` is a long thin piece of wood which is used for supporting someone's weight or for hitting people or animals. 杖;棍;棒<br/>
+ [N-Count] a `stick` is a long thin piece of wood which is used for a particular purpose. (用于某一特定用途的)木条,木棍<br/>
+ [N-Count] some long thin objects that are used in sports are called `sticks`. (体育运动中使用的)杖,棍,棒<br/>
+ [N-Count] a `stick of` something is a long thin piece of it. 条状物;棒状物;棍状物<br/>
+ [N-Uncounted] if you give someone some `stick`, you criticize them or tease them roughly. 严厉的批评;大肆的取笑 [British, informal]<br/>
+ [N-Plural] if you say that someone lives in `the sticks`, you mean that they live a long way from any large cities. 偏远乡村;边远地区 [informal, disapproval]<br/>
+ [Phrase] if you say that something is `a stick to beat` someone `with`, you mean that it is used, or could be used, as a basis for criticism. 批评别人的依据 [journalism]<br/>
+ [Phrase] if someone `gets the wrong end of the stick` or `gets hold of the wrong end of the stick`, they do not understand something correctly and get the wrong idea about it. (完全)误解;错误地理解 [informal]<br/>
+ [Phrase] if you say that there are `more` things `than you could` or `can shake a stick at`, you are emphasizing in a humorous way that there are a lot of them. 很多 [informal, emphasis]<br/>
+ [Verb] if you `stick` something somewhere, you put it there in a rather casual way. (随便地)放,搁,塞 [informal]<br/>
+ [Verb] if you `stick` a pointed object `in` something, or if it `sticks in` something, it goes into it or through it by making a cut or hole. 刺;扎;戳<br/>
+ [Verb] if something `is sticking out` from a surface or object, it extends up or away from it. if something `is sticking into` a surface or object, it is partly in it. 突出;扎进<br/>
+ [Verb] if you `stick` one thing to another, you attach it using glue, sticky tape, or another sticky substance. (用胶水、胶带等)粘,粘贴<br/>
+ [Verb] if one thing `sticks to` another, it becomes attached to it and is difficult to remove. 黏附;附着在<br/>
+ [Verb] if something `sticks in` your mind, you remember it for a long time. 铭记在心;经久不忘<br/>
+ [Verb] if you give someone or something a name and the name `sticks`, it becomes the name which most people use to refer to that person or thing. (名字)流传开去,被众人采用<br/>
+ [Verb] if someone manages to make a charge or accusation `stick`, they show that the person accused is guilty of the crime or action they are accused of. (证明...)属实,成立<br/>
+ [Verb] if something which can usually be moved `sticks`, it becomes fixed in one position. 固定不动<br/>
+ [Verb] if you are in an unpleasant or difficult situation, and you say that you cannot `stick` it, you mean that you cannot bear to remain there long. 忍受;容忍 [British, informal]<br/>
+ [Phrase] if you say that someone `can stick` something, especially a job, or if you tell them where `to stick` it, you are rudely refusing it or emphasizing that you do not want it or like it. 去他的(工作);杵一边去 [informal, rude, feelings]<br/>
+ stick out: 坚持到底;伸出;突出;显眼 stick it out: 坚持到底 pointing stick: 指点杆;触控点 fried bread stick: 油条 glue stick: 口红胶;胶棒;固体胶;固体胶棒 carrot and stick: 胡萝卜加大棒;软硬兼施;威逼利诱 stick in: 在家 stick together: 在一起;团结一致;互相支持 stick in the mud: 陷入泥坑
+- strap: [N-Count] a `strap` is a narrow piece of leather, cloth, or other material. straps are used to carry things, fasten things together, or to hold a piece of clothing in place. 带子;皮带;布带 [+ of]<br/>
+ [Verb] if you `strap` something somewhere, you fasten it there with a strap. 用带子系(或绑、捆、扎)<br/>
+  strapless: [Adjective] a `strapless` dress or bra does not have the usual narrow bands of material over the shoulders. (连衣裙或胸罩)无肩带的,无吊带的<br/>
+ watch strap: 表带 nylon strap: 尼龙带子 shoulder strap: 肩带 wrist strap: 腕带
+- sour: [Adjective] something that is `sour` has a sharp, unpleasant taste like the taste of a lemon. 酸的;酸味的<br/>
+ [Adjective] `sour` milk is milk that has an unpleasant taste because it is no longer fresh. (牛奶)变质的,馊的<br/>
+ [Adjective] someone who is `sour` is bad-tempered and unfriendly. (人)乖戾的,尖酸刻薄的,不友好的<br/>
+ [Adjective] if a situation or relationship `turns sour` or `goes sour`, it stops being enjoyable or satisfactory. (状况、关系等)变坏,变糟,不再令人满意<br/>
+ [Verb] if a friendship, situation, or attitude `sours` or if something `sours` it, it becomes less friendly, enjoyable, or hopeful. (使)(友谊、局势、态度等)变坏;(使)恶化<br/>
+ [Phrase] if you refer to someone's attitude as `sour grapes`, you mean that they say that something is worthless or undesirable because they want it themselves but cannot have it. 酸葡萄(喻指由于得不到而加以贬低的东西)<br/>
+ sour cream: 酸奶油;酸忌廉;酸乳酪 hot and sour soup: 酸辣汤 sweet and sour pork: 咕噜肉;糖醋排骨;糖醋里脊 sweet & sour chicken: 甜酸鸡;咕噜鸡;咕哝鸡 sweet & sour fish: 酸甜咕噜鱼;糖醋鱼 sweet and sour: 酸甜;糖醋调味的
+- puzzle: [Verb] if something `puzzles` you, you do not understand it and feel confused. 使迷惑;使困惑<br/>
+ [Verb] if you `puzzle over` something, you try hard to think of the answer to it or the explanation for it. 对...苦苦思索;因...大伤脑筋<br/>
+ [N-Count] a `puzzle` is a question, game, or toy which you have to think about carefully in order to answer it correctly or put it together properly. 难题;智力问题(或游戏、玩具);谜<br/>
+ [N-Sing] you can describe a person or thing that is hard to understand as `a puzzle`. 令人费解的人;令人困惑的事物<br/>
+ puzzle quest: 益智之谜;字谜探险 situation puzzle: 情境谜题 crossword puzzle: 纵横字谜游戏 puzzle out: 苦苦思索而弄清楚 Chinese puzzle: 中国智力玩具(如七巧板、九连环等);复杂难懂的事物
+- urge: [Verb] if you `urge` someone `to` do something, you try hard to persuade them to do it. 敦促;力劝<br/>
+ [Verb] if you `urge` someone somewhere, you make them go there by touching them or talking to them. 推;拉;催促<br/>
+ [Verb] if you `urge` a course of action, you strongly advise that it should be taken. 竭力主张;强烈要求 [Verb noun + on]<br/>
+ [N-Count] if you have an `urge to` do or have something, you have a strong wish to do or have it. 强烈的欲望;冲动;迫切的要求<br/>
+ expressing urge: 表达催促;表达敦促 urge an end: 敦促停止 urge the fire: 把火吹旺 soul urge: 灵魂的驱策力;灵魂伴侣
+- dramatic: [Adjective] a `dramatic` change or event happens suddenly and is very noticeable and surprising. 突如其来的;急剧的;引人注目的<br/>
+ [Adjective] a `dramatic` action, event, or situation is exciting and impressive. 激动人心的;引人注目的;令人印象深刻的;扣人心弦的<br/>
+ [Adjective] you use `dramatic` to describe things connected with or relating to the theater, drama, or plays. 戏剧的;有关戏剧的;戏剧学的<br/>
+ dramatic arts: 戏剧学 dramatic writing: 编剧;戏剧写作 dramatic rights: 改编权 dramatic text: 戏剧本文;剧本 dramatic selling: 表演式销售 dramatic movement: 戏剧动作;戏剧举措
+- shake: [Verb] if you `shake` something, you hold it and move it quickly backwards and forwards or up and down. you can also `shake` a person, for example, because you are angry with them or because you want them to wake up. 摇动;抖动;摇晃<br/>
+ [Verb] if you `shake` your `head`, you turn it from side to side in order to say 'no' or to show disbelief or sadness. 摇头(表示拒绝、怀疑或难过)<br/>
+ [Verb] if you `are shaking`, or a part of your body `is shaking`, you are making quick, small movements that you cannot control, for example because you are cold or afraid. (因为寒冷或害怕而)发抖,颤抖,战栗,哆嗦 [Verb + with]<br/>
+ [N-Plural] if you have `the shakes`, your body is shaking a lot because you are afraid or ill, or because you have drunk too much alcohol. (因害怕、生病或喝醉酒而产生的)颤抖,战栗,哆嗦 [informal]<br/>
+ [Verb] if you `shake` your fist or an object such as a stick `at` someone, you wave it in the air in front of them because you are angry with them. (因愤怒而)挥动,舞动(拳头、棍子等)<br/>
+ [Verb] if a force `shakes` something, or if something `shakes`, it moves from side to side or up and down with quick, small, but sometimes violent movements. (使)震颤;(使)震动;(使)摇动<br/>
+ [Verb] to `shake` something into a certain place or state means to bring it into that place or state by moving it quickly up and down or from side to side. 摇(出);抖(落)<br/>
+ [Verb] if your voice `is shaking`, you cannot control it properly and it sounds very unsteady, for example because you are nervous or angry. (声音因紧张、生气等)颤抖 [Verb + with]<br/>
+ [Verb] if an event or a piece of news `shakes` you, or `shakes` your confidence, it makes you feel upset and unable to think calmly. 使震惊;使激动;使烦乱<br/>
+ [Verb] if an event `shakes` a group of people or their beliefs, it causes great uncertainty and makes them question their beliefs. 动摇(某人或其信念)<br/>
+ [Verb] if you `shake` someone `out of` an attitude or belief that you disapprove of, you cause them to change their attitude or belief to one that is more responsible or sensible. 使摒弃,使改变(态度、信念)<br/>
+ [N-Count] a `shake` is the same as a milkshake. 同 milkshake<br/>
+ [Phrase] if you do not get `a fair shake`, you are not given a reasonable opportunity to succeed or to achieve something. 公平的机会 [mainly US, informal]<br/>
+ [Phrase] if you say that someone or something is `no great shakes`, you mean that they are not very skilful or effective. 技术不高的;不出色的;无效的 [informal]<br/>
+ [Phrase] if you `shake` someone's `hand` or `shake` someone `by the hand`, you shake hands with them. 与...握手<br/>
+ [Phrase] if you `shake hands with` someone, you take their right hand in your own for a few moments, often moving it up and down slightly, when you are saying hello or goodbye to them, congratulating them, or agreeing on something. you can also say that two people `shake hands`. (打招呼、道别、道贺或表示赞同时)与...握手<br/>
+ milk shake: 奶昔(牛奶和冰淇淋等的混合饮料) shake it up: 舞动青春;舞动芝加哥 shake a leg: 赶紧 shake off: 摆脱;抖落 shake up: 摇匀;重组;震动 camera shake rule: 相机抖动法则;相机抖动规律
+- distill: [Verb] if a liquid such as whisky or water `is distilled`, it is heated until it changes into steam or vapor and then cooled until it becomes liquid again. this is usually done in order to make it pure. 蒸馏;用蒸馏法提取<br/>
+ [Verb] if an oil or liquid `is distilled from` a plant, it is produced by a process which extracts the most essential part of the plant. to `distil` a plant means to produce an oil or liquid from it by this process. 提取(植物的)精华;提炼 [also Verb n from n]<br/>
+ [Verb] if a thought or idea `is distilled from` previous thoughts, ideas, or experiences, it comes from them. if it `is distilled into` something, it becomes part of that thing. 精炼,浓缩(想法等);吸收...为一部分<br/>
+ rice wine distill: 酒的蒸馏 distill house: 蒸馏室 distill liquids: 用蒸馏法提取液体 early function distill: 初始功能提取
+- Anubis: [N] a deity, a son of Osiris, who conducted the dead to judgment. he is represented as having a jackal's head and was identified by the Greeks with Hermes. 阿努比斯;豺头人身神,司阴府之神的儿子,管理死刑的判决 [Egyptian myth]<br/>
+ Temple of Anubis: 阿努比斯神庙 protect Anubis: 保护阿努比斯 Anubis zone of the Enders: 终极地带;终极地带阿努比斯火星
+- deity: [N-Count] a deity is a god or goddess. 神;女神 [formal]<br/>
+ the Deity: 上帝 solar deity: 太阳神 lunar deity: 月神 the will of deity: 神的意志 mountain deity: 山神
+- Seth: [N] Adam's third son, given by god in place of the murdered Abel. 塞思;亚当的第三个儿子,神为了代替Abel而给的另一个儿子
 
 #### Tattoo & tobacco
 
