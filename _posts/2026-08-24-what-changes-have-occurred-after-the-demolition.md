@@ -39,6 +39,7 @@ The network outage records are as follows:
 | 2        | September 16, 2026 | in the evening, <font color='green'>Power</font>, <font color='gray'>PON</font>, <font color='red'>LOS</font>, <font color='green'>LAN</font>   |
 | 3        | September 18, 2026 | in the evening, <font color='green'>Power</font>, <font color='green'>PON</font>, <font color='gray'>LOS</font>, <font color='green'>LAN</font> |
 | 4        | November 20, 2026  | at midnight, <font color='green'>Power</font>, <font color='gray'>PON</font>, <font color='red'>LOS</font>, <font color='green'>LAN</font>      |
+| 5        | November 21, 2026  | in the evening, <font color='green'>Power</font>, <font color='green'>PON</font>, <font color='gray'>LOS</font>, <font color='green'>LAN</font> |
 
 ### Locksmith
 
