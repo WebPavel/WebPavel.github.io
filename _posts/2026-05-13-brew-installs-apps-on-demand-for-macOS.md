@@ -42,7 +42,7 @@ do
   brew install --adopt --formula $app
 done
 
-app_list=(dbeaver-community docker-desktop eudic firefox@esr font-jetbrains-mono-nerd-font font-meslo-lg-nerd-font free-download-manager git-credential-manager google-chrome jordanbaird-ice iina intellij-idea keka kitty lulu raycast shottr spotify stats v2rayu visual-studio-code vivaldi windows-app xnviewmp)
+app_list=(calibre dbeaver-community docker-desktop eudic firefox@esr font-jetbrains-mono-nerd-font font-meslo-lg-nerd-font free-download-manager git-credential-manager google-chrome jordanbaird-ice iina intellij-idea keka kitty lulu raycast shottr spotify stats v2rayu visual-studio-code vivaldi windows-app xnviewmp)
 app_list_ms=(microsoft-office)
 app_list_cn=(wechat tencent-meeting awesun)
 app_list=("${app_list[@]}" "${app_list_ms[@]}" "${app_list_cn[@]}")
