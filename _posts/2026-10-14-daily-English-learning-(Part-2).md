@@ -995,6 +995,88 @@ learned from [ChatGPT](https://chatgpt.com/) in Singapore.
 - deity: [N-Count] a deity is a god or goddess. 神;女神 [formal]<br/>
  the Deity: 上帝 solar deity: 太阳神 lunar deity: 月神 the will of deity: 神的意志 mountain deity: 山神
 - Seth: [N] Adam's third son, given by god in place of the murdered Abel. 塞思;亚当的第三个儿子,神为了代替Abel而给的另一个儿子
+- inventory: [N-Count] an `inventory` is a written list of all the objects in a particular place. 详细目录;清单 [+ of]<br/>
+ [N-Var] an `inventory` is a supply or stock of something. 储备;存货 [US] (+ of)<br/>
+ inventory management: 库存管理;存货管理;仓储管理 territory inventory: 地区存货 management inventory: 管理人才储备 take inventory: 实地清点盘存;编制...清单
+- estimate: [Verb] if you `estimate` a quantity or value, you make an approximate judgment or calculation of it. 估算;估价 [V n at amount]<br/>
+ [N-Count] an `estimate` is an approximate calculation of a quantity or value. 估算;估价 [+ of/for]<br/>
+ [N-Count] an `estimate` is a judgment about a person or situation which you make based on the available evidence. 评价;评估;判断 [+ of]<br/>
+ [N-Count] an `estimate` from someone who you employ to do a job for you, such as a builder or a plumber, is a written statement of how much the job is likely to cost. 估算单;预算书<br/>
+ cost estimate: 成本估算,成本估计 rough estimate: 粗略的估计,粗算 best estimate: 最佳估计 estimate for: 对...估价、估计 estimate value: 估计值;估值;预计值;估计的价值 standard error of estimate: 标准估计误差;估计量的标准误差;估计标准误差 initial estimate: 初始估算;初步核算;初始预计值 error estimate: 误差估计值;偏差预计
+- nightmare: [N-Count] a `nightmare` is a very frightening dream. 噩梦;梦魇<br/>
+ [N-Count] if you refer to a situation as a `nightmare`, you mean that it is very frightening and unpleasant. 令人恐怖的处境;可怕的情景<br/>
+ [N-Count] if you refer to a situation as a `nightmare`, you are saying in a very emphatic way that it is irritating because it causes you a lot of trouble. 恼人的情景;惹人烦的局面 [emphasis]<br/>
+ the nightmare before Christmas: 圣诞夜惊魂;圣诞惊魂夜 nightmare in the dark: 午夜噩梦;黑夜中的噩梦
+- throwback: [N-Count] if you say that something is a `throwback` to a former time, you mean that it is like something that existed a long time ago. 复古;回归 [usually singular] (+ to)<br/>
+  throw back: [Phrasal Verb] if you `throw` something `back at` a person, you remind them of something bad they did in the past, in order to upset them. 翻旧账;揭疮疤 [also V n P + at]<br/>
+  [Phrasal Verb] if someone `is thrown back on` their own powers or resources, they have to use them, because there is nothing else they can use. 不得不动用,只好依靠(自己的能力或资源)<br/>
+ the throwback: 反抱摔;复古再现
+- muff: [Verb] if you `muff` something, you do it badly or you make a mistake while you are doing it, so that it is not successful. 把...弄糟;做...时出差错 [informal]<br/>
+ [N-Count] a `muff` is a piece of fur or thick cloth shaped like a short hollow cylinder. you wear a muff on your hands to keep them warm in cold weather. (防寒用的)毛皮短筒,手笼<br/>
+ [N-Plural] `muffs` are the same as `earmuffs`. `muffs` 同 `earmuffs`, consist of two thick soft pieces of cloth joined by a band, which you wear over your ears to protect them from the cold or from loud noise. (御寒或隔音用的)耳罩,耳套<br/>
+ muff joint: 套管接头;套筒接合;套筒连接 muff heater: 保温加热器 cable muff: 电缆端套<br/>
+ (Muff) 穆夫 (人名)
+- ambulance: [N-Count] an `ambulance` is a vehicle for taking people to and from hospital. 救护车🚑<br/>
+ field ambulance: 战地救护车;野外救护车 ambulance aircraft: 救护飞机;救护机 emergency ambulance: 急救车
+- palace: [N-Count] a `palace` is a very large impressive house, especially one which is the official home of a king, queen, or president. 宫殿;王宫;皇宫<br/>
+ [N-Sing] when the members of a royal palace make an announcement through an official spokesperson, they can be referred to as `the Palace`. 王室<br/>
+ [N-Count] you can refer to any large splendid house or other building as a `palace`. 豪宅;宫殿般的建筑<br/>
+ summer palace: 颐和园;夏宫 Buckingham palace: 白金汉宫(英国皇宫) crystal palace: 水晶宫;水晶宫殿 the palace museum: 故宫;故宫博物馆 winter palace: 冬宫;俄罗斯圣彼得堡冬宫 royal palace: 皇家宫殿<br/>
+ ![palace_312864032.jpg](/assets/tw/palace_312864032.jpg)
+- maiden: [N-Count] a `maiden` is a young girl or woman. 少女;姑娘 [literary]<br/>
+ [Adjective] the `maiden` voyage or flight of a ship or aircraft is the first official journey that it makes. (航行、飞行等)初次的,首次的<br/>
+ Iron Maiden: 铁娘子乐团;铁娘子乐队 Rozen maiden: 蔷薇少女;玫瑰少女 maiden voyage: 首航;初次航行 death and the maiden: 死神与少女;死亡与少女 maiden pink: 少女石竹;小石竹 maiden name: (女子的)婚前姓;娘家姓<br/>
+ (Maiden) 每田 (人名)
+- shuttle: [N-Count] a `shuttle` is the same as a `space shuttle`. 同space shuttle, <br/>
+ [N-Count] a `shuttle` is a plane, bus, or train which makes frequent journeys between two places. 往来于两地之间的航班(或班车、火车🚄)<br/>
+ [Verb] if someone or something `shuttles` or `is shuttled` from one place to another place, they frequently go from one place to the other. (使)频繁往来于(两地之间)<br/>
+ [N-Count] a `shuttle` is a piece of equipment used in weaving. it takes a thread backwards and forwards over the other threads in order to make a piece of cloth. (织布用的)梭<br/>
+ shuttle bus: 班车(在较短距离之间往返的交通车);机场内来往班车;专线车;穿梭巴士 space shuttle: 航天飞机(往返于地球和太空站之间运载人和物资的);太空梭;太空穿梭机 shuttle service: 短程运输;往返大巴服务 shuttle train: 穿梭列车;短程火车;短程列车
+- shrine: [N-Count] a `shrine` is a place of worship which is associated with a particular holy person or object. 圣地;圣祠;神庙;神龛 [+ of]<br/>
+ [N-Count] a `shrine` is a place that people visit and treat with respect because it is connected with a dead person or with dead people that they want to remember. (缅怀逝者的)纪念之地,圣地 [+ to]<br/>
+ Meiji shrine: 明治神宫
+- loot: [Verb] if people `loot` shops or houses, they steal things from them, for example during a war or riot. (战争、暴乱等时)洗劫,劫掠(商店或民宅)<br/>
+ [Verb] if someone `loots` things, they steal them, for example during a war or riot. (战争、暴乱等时)掠夺,抢劫(财物)<br/>
+ [N-Uncounted] `loot` is stolen money or goods. (盗抢而来的)贼赃,赃物 [informal]<br/>
+ heroes of loot: 乱世之王;侠盗英雄 quick loot: 快速拾取;快速捡取 deep loot: 深海寻宝;深海掠夺 loot a burning house: 趁火打劫;三十六计第五计-趁火打劫计
+- miracle: [N-Count] if you say that a good event is a `miracle`, you mean that it is very surprising and unexpected. 奇迹;出人意料的事<br/>
+ [Adjective] a `miracle` drug or product does something that was thought almost impossible. (药物或产品)神奇的,不可思议的 [journalism]<br/>
+ [N-Count] a `miracle` is a wonderful and surprising event that is believed to be caused by God. (上帝创造的)神迹,圣迹<br/>
+ the miracle worker: 奇迹缔造者 life is a miracle: 生命是一个奇迹 the miracle fighters: 奇门遁甲 economic miracle: 经济奇迹 by a miracle: 奇迹般地;依靠奇迹 miracle drug: 特效药<br/>
+ (Miracle) 米勒克尔 (人名)
+- evict: [Verb] if someone `is evicted from` the place where they are living, they are forced to leave it, usually because they have broken a law or contract. (通常因为违法或毁约而)驱逐,赶出 [also V n + from]<br/>
+ evict policy: 缓存淘汰策略 evict the tenant: 进行驱赶房客 evict him from his apartment: 把他从他的公寓赶出来
+- jelly: [N-Mass] `jelly` is a transparent, usually colored food that is eaten as a dessert. it is made from gelatin, fruit juice, and sugar. 果冻 [British]<br/>
+ [N-Mass] `jelly` is a type of thick sweet food that is made by cooking fruit with a large amount of sugar, and that is usually spread on bread. (通常涂在面包上浓稠的)果酱 [US]<br/>
+ in Brit, use `jam`.<br/>
+ [N-Mass] `jelly` is a thin clear sweet food that is made by cooking fruit with a large amount of sugar. (稀薄而透明的)果酱<br/>
+ [N-Var] a `jelly` is a transparent substance that is not completely solid. 胶状物;胶凝物<br/>
+ royal jelly: 蜂王浆;蜂皇浆 grass jelly: 烧仙草 almond jelly: 杏仁豆腐;杏仁冻<br/>
+ (Jelly) 杰利 (人名)<br/>
+  jellyfish: [N-Count] a `jellyfish` is a sea creature that has a clear soft body and can sting you. 水母;海蜇🪼<br/>
+  box jellyfish: 箱形水母 mixed jellyfish salad: 拌海蜇皮 jellyfish in vinegar: 米醋海蜇;白醋海蜇<br/>
+  ![jellyfish_388896304.jpg](/assets/tw/jellyfish_388896304.jpg)
+- incense: [N-Uncounted] `incense` is a substance that is burned for its sweet smell, often as part of a religious ceremony. (常用于宗教仪式的)香<br/>
+ [Verb] if you say that something `incenses` you, you mean that it makes you extremely angry. 使愤怒;激怒<br/>
+ incense burner: 香炉;卧香炉;招财进宝炉 burn incense: 焚香;拈香 incense paper: 香纸 incense wood: 香木 to burn incense: 烧香;燃香
+- savage: [Adjective] someone or something that is `savage` is extremely cruel, violent, and uncontrolled. 凶恶的;残暴的;凶猛的;野的;未驯服的<br/>
+ [N-Count] if you refer to people as `savages`, you dislike them because you think that they do not have an advanced society and are violent. 野蛮人;未开化的人 [disapproval] (usually plural)<br/>
+ [Verb] if someone `is savaged` by a dog or other animal, the animal attacks them violently. (狗等)凶猛地攻击,撕咬 [usually passive]<br/>
+ [Verb] if someone or something that they have done `is savaged` by another person, that person criticizes them severely. 激烈批评;猛烈抨击<br/>
+ savage age: 野蛮时代 savage customs: 野蛮习俗 a savage lion: 凶猛的狮子 a savage jungle: 莽丛 savage criterion: 萨维奇准则<br/>
+ (Savage) 萨维奇 (人名)
+
+#### pill & pillow
+
+- pill: [N-Count] `pills` are small solid round masses of medicine or vitamins that you swallow without chewing. 药丸;丸剂<br/>
+ [N-Sing] if a woman is `on the pill`, she takes a special pill that prevents her from becoming pregnant. (女用)口服避孕药<br/>
+ [Phrase] if a person or group has to accept a failure or an unpleasant piece of news, you can say that it was `a bitter pill` or `a bitter pill to swallow`. 不得不承受的苦事;不得不接受的现实<br/>
+ [Phrase] if someone does something to `sweeten the pill` or `sugar the pill`, they do it to make some unpleasant news or an unpleasant measure more acceptable. 把苦药包上糖衣;使不愉快的事变得较易接受<br/>
+ poison pill: 毒药丸(比喻公司为避免被对方兼并而向对方索取极高代价的阻挠措施);反兼并手段 sleeping pill: 安眠药 anti-pill fibre: 抗起球纤维 pill box: 机枪碉堡;药丸盒 just like a pill: 爱情特效药 bitter pill: 困恼;苦涩的药丸 blue pill: 汞丸;蓝色丸<br/>
+ (Pill) 皮尔 (人名)
+- pillow: [N-Count] a `pillow` is a rectangular cushion which you rest your head on when you are in bed. 枕头<br/>
+ the pillow book: 枕边书 pillow case: 枕套;枕头套 pillow talk: 枕边细语;枕边悄悄话;枕边话 pillow towel: 枕巾 pillow fight: 枕头大战;(小孩在临睡前在卧室内用枕头)打闹;小争吵<br/>
+ (Pillow) 皮洛 (人名)
 
 #### Tattoo & tobacco
 
